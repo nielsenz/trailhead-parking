@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+
+{% block title %}{{ item.meta_title | default(item.name ~ ' (' ~ current_year ~ ')', true) }}{% endblock %}
+{% block description %}{{ item.meta_description | default(item.card_summary, true) }}{% endblock %}
+
+{% block extra_head %}
+{% if item.coordinates %}{{ m.leaflet_head() }}{% endif %}
+{% endblock %}
+
+{% block content %}
+{% if section %}
+<p class="breadcrumb"><a href="/{{ section }}/">← All {{ cfg.nav_label | lower }}</a></p>
+{% elif item.parent %}
+<p class="breadcrumb"><a href="{{ item.parent.href }}">← {{ item.parent.label }}</a></p>
+{% endif %}
+
+<article class="detail">
+    <header class="page-hero">
+        <h1>{{ item.name }}</h1>
+        {% if item.badges %}
+        <div class="badge-row">
+            {% for b in item.badges %}{{ m.badge(b) }}{% endfor %}
+        </div>
+        {% endif %}
+    </header>
+
+    {% if item.quick_answer %}
+    <div class="quick-answer">
+        <p>{{ item.quick_answer | safe }}</p>
+    </div>
+    {% endif %}
+
+    <div class="detail-grid">
+        {% if facts %}
+        <section class="facts-card">
+            <h2>The facts</h2>
+            <dl>
+                {% for f in facts %}
+                <div class="fact-row">
+                    <dt>{{ f.label }}</dt>
+                    <dd>{{ f.value }}</dd>
+                </div>
+                {% endfor %}
+            </dl>
+        </section>
+        {% endif %}
+
+        {% if item.address or item.phone or item.coordinates or item.official_url %}
+        <section class="facts-card">
+            <h2>Getting there</h2>
+            {% if item.address %}<p>{{ item.address }}</p>{% endif %}
+            {% if item.phone %}<p><strong>Phone:</strong> {{ item.phone }}</p>{% endif %}
+            {% if item.official_url %}
+            <p><a href="{{ item.official_url }}" rel="noopener">Official site ↗</a></p>
+            {% endif %}
+            {% if item.address %}
+            <a class="btn" href="https://www.google.com/maps/search/?api=1&query={{ item.address | urlencode }}" rel="noopener">Get directions →</a>
+            {% elif item.coordinates %}
+            <a class="btn" href="https://www.google.com/maps/search/?api=1&query={{ item.coordinates[1] }},{{ item.coordinates[0] }}" rel="noopener">Get directions →</a>
+            {% endif %}
+        </section>
+        {% endif %}
+    </div>
+
+    {% if item.coordinates %}
+    {{ m.map_single(item, cfg.marker_emoji) }}
+    {% endif %}
+
+    {% for s in item.sections %}
+    <section class="prose">
+        <h2>{{ s.heading }}</h2>
+        {% for p in s.body | paragraphs %}
+        <p>{{ p | safe }}</p>
+        {% endfor %}
+    </section>
+    {% endfor %}
+
+    {{ m.faq_block(item) }}
+
+    {% if item.related %}
+    <section class="related">
+        <h2>Related</h2>
+        <ul>
+            {% for r in item.related %}
+            <li><a href="{{ r.href }}">{{ r.label }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if item.verified %}
+    <p class="verified">Facts on this page last verified {{ item.verified }}. Fees, hours, and access rules change seasonally — confirm with the official source before a long drive.</p>
+    {% endif %}
+</article>
+{% endblock %}
+
+{% block extra_js %}
+{{ m.jsonld(jsonld) }}
+{% endblock %}

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+
+{% block title %}Trailhead Parking in the San Bernardino Mountains ({{ current_year }}) — {{ site_name }}{% endblock %}
+{% block description %}The lot is the crux: how many cars each San Bernardino Mountains trailhead actually fits, when it fills, what pass you need, and the realistic plan B when you arrive to a full lot.{% endblock %}
+
+{% block content %}
+<section class="home-hero">
+    <h1>The lot is the crux</h1>
+    <p class="tagline">Trailhead parking for the San Bernardino Mountains — real lot sizes, honest fill times, pass rules, and what to do when it's full.</p>
+</section>
+
+<a class="home-banner" href="/adventure-pass/">
+    <strong>Do I need an Adventure Pass?</strong>
+    <span>Most Forest Service trailheads up here, yes — $5/day or $30/year, and rangers do ticket. The two-minute version. →</span>
+</a>
+
+<div class="intent-grid">
+    <a class="intent-card" href="/trailheads/heart-rock/">
+        <span class="intent-emoji">🪨</span>
+        <h2>Heart Rock</h2>
+        <p>~10 spaces for the most Instagrammed trail in the range. Full by 9am on spring weekends — read this before you drive.</p>
+    </a>
+    <a class="intent-card" href="/trailheads/deep-creek-hot-springs/">
+        <span class="intent-emoji">♨️</span>
+        <h2>Deep Creek Hot Springs</h2>
+        <p>Two ways in: Bowen Ranch ($10/person, rough road) or the free Bradford Ridge roadside. The parking decides your day.</p>
+    </a>
+    <a class="intent-card" href="/trailheads/">
+        <span class="intent-emoji">🅿️</span>
+        <h2>All trailheads</h2>
+        <p>Every covered lot on one map — sizes, fill times, passes, and overflow options, compared.</p>
+    </a>
+    <a class="intent-card" href="/adventure-pass/">
+        <span class="intent-emoji">🎫</span>
+        <h2>Adventure Pass</h2>
+        <p>What it is, where it's required, what it costs, and which other passes cover you.</p>
+    </a>
+</div>
+
+<section class="prose">
+    <h2>Why a whole site about parking?</h2>
+    <p>Because in Southern California's mountains, the trailhead lot — not the trail — is what ruins plans. Lots built for a quieter era meet Instagram-era demand, shoulders get patrolled, and "just park anywhere" turns into a citation or a tow. Each guide here covers one trailhead with the numbers that matter: how many cars fit, when it fills on a weekend, what pass goes on the dash, and the realistic plan B.</p>
+    <p>Coverage starts with the Lake Arrowhead–Crestline–Running Springs area, with every fact checked against official sources — Forest Service pages, county sites, operators. More of the range is coming. For everything beyond parking, see our sister guides <a href="https://lakearrowheadmap.com" rel="noopener">LakeArrowheadMap.com</a> and <a href="https://bigbearmap.com" rel="noopener">BigBearMap.com</a>.</p>
+</section>
+{% endblock %}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ site_name }} — Trailhead Parking, Honestly{% endblock %}</title>
+    <meta name="description" content="{% block description %}Trailhead parking intel for the San Bernardino Mountains: lot sizes, fill times, passes, and what to do when the lot is full.{% endblock %}">
+
+    <link rel="canonical" href="{{ canonical_url }}">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🅿️</text></svg>">
+
+    <meta property="og:title" content="{% block og_title %}{{ self.title() }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ self.description() }}{% endblock %}">
+    <meta property="og:url" content="{{ canonical_url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ site_name }}">
+    <meta property="og:locale" content="en_US">
+    <meta name="twitter:card" content="summary">
+
+    <link rel="stylesheet" href="/static/style.css">
+    {% block extra_head %}{% endblock %}
+
+    <!-- Analytics: Tinylytics -->
+    <script src="https://tinylytics.app/embed/rsFxh2KmQXtfLWcG2ThL.js" defer></script>
+</head>
+<body>
+    <header class="site-header">
+        <nav class="site-nav">
+            <a class="brand" href="/">🅿️ <span>TrailheadParking<em>.com</em></span></a>
+            <ul>
+                {% for href, label in nav %}
+                <li><a href="{{ href }}"{% if path.startswith(href) %} class="active"{% endif %}>{{ label }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; {{ current_year }} {{ site_name }} — trailhead parking for the San Bernardino Mountains · <a href="/about/">About this site</a></p>
+        <p class="footer-note">Sister guides: <a href="https://lakearrowheadmap.com" rel="noopener">LakeArrowheadMap.com</a> · <a href="https://bigbearmap.com" rel="noopener">BigBearMap.com</a>. Lot rules and fees change seasonally — we date-stamp every page, but confirm with the official source before a long drive.</p>
+    </footer>
+
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

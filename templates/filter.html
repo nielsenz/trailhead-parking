@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+
+{% block title %}{{ filter.title }}{% endblock %}
+{% block description %}{{ filter.meta_description }}{% endblock %}
+
+{% block content %}
+<p class="breadcrumb"><a href="/{{ section }}/">← All {{ cfg.nav_label | lower }}</a></p>
+
+<header class="page-hero">
+    <h1>{{ filter.title }}</h1>
+</header>
+
+<div class="hub-intro prose">
+    <p>{{ filter.intro | safe }}</p>
+</div>
+
+<div class="card-grid">
+    {% for item in items %}
+    {{ m.card(section, item) }}
+    {% endfor %}
+</div>
+{% endblock %}

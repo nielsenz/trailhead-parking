@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Adventure Pass, Explained",
+        "slug": "adventure-pass",
+        "path": "/adventure-pass/",
+        "schema_type": "WebPage",
+        "marker_emoji": "🎫",
+        "meta_title": "Adventure Pass: What It Is, What It Costs & Where You Need It (2026)",
+        "meta_description": "The Southern California Adventure Pass in two minutes: $5/day or $30/year, required to park at most developed Forest Service trailheads in the San Bernardino Mountains, covered by America the Beautiful passes, and yes — rangers ticket.",
+        "card_summary": "$5/day or $30/year to park at most developed Forest Service trailheads. The two-minute version.",
+        "quick_answer": "<strong>If you're parking at a developed Forest Service trailhead in these mountains, assume yes.</strong> The Adventure Pass costs <strong>$5 per day or $30 per year</strong> and hangs from your mirror or sits on the dash. An <strong>America the Beautiful interagency pass covers it</strong>. There's usually no booth — it's honor-system signage, and <strong>rangers do write tickets</strong>.",
+        "badges": [
+          { "label": "$5/day · $30/year", "tone": "info" },
+          { "label": "Interagency pass counts", "tone": "good" },
+          { "label": "Rangers do ticket", "tone": "warn" }
+        ],
+        "fact_rows": [
+          { "key": "price", "label": "Price" },
+          { "key": "covers", "label": "Also covered by" },
+          { "key": "where_needed", "label": "Where you need it" },
+          { "key": "where_not", "label": "Where you don't" },
+          { "key": "enforcement", "label": "Enforcement" }
+        ],
+        "price": "$5/day, $30/year",
+        "covers": "America the Beautiful (Interagency) annual pass",
+        "where_needed": "Developed fee sites in SoCal national forests — most maintained trailhead lots here",
+        "where_not": "Private land (e.g. Bowen Ranch's $10/person is separate); non-fee roadside areas",
+        "enforcement": "Honor-system signage; rangers ticket at popular lots",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/passes-permits/recreation",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The two-minute version",
+            "body": "The Adventure Pass is the parking fee system for Southern California's national forests, including the San Bernardino. Where it applies — developed fee sites, which in practice means most maintained trailhead lots in this range — you display a pass in your parked car: <strong>$5 for a day pass, $30 for the annual</strong>, sold at ranger stations and local vendors (many mountain gas stations and general stores carry them).\n\nIf you already have an <strong>America the Beautiful interagency pass</strong> (the $80 national parks annual), you're covered — hang it and go. That's usually the better buy for anyone who visits both parks and forests."
+          },
+          {
+            "heading": "Where people get burned",
+            "body": "Three recurring mistakes. First, assuming no booth means no fee — Adventure Pass sites are honor-system signage with real ranger enforcement, and the popular lots (<a href=\"/trailheads/heart-rock/\">Heart Rock</a>, <a href=\"/trailheads/heaps-peak-arboretum/\">Heaps Peak</a>) get checked. Second, assuming the pass covers everything — <strong>private land is separate</strong>: Bowen Ranch's $10/person fee at <a href=\"/trailheads/deep-creek-hot-springs/\">Deep Creek</a> has nothing to do with the Forest Service. Third, buying a day pass at the trailhead — most fee lots have no on-site sales, so buy before you drive up.\n\nEach trailhead guide on this site says whether the pass applies, so you don't have to guess."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How much is an Adventure Pass?",
+            "a": "$5 for a day pass, $30 for an annual. An America the Beautiful interagency pass ($80/year) also covers Adventure Pass sites."
+          },
+          {
+            "q": "Where do I buy an Adventure Pass?",
+            "a": "Ranger stations and local vendors — many mountain-town gas stations and general stores sell them. Most trailhead lots have no on-site sales, so buy one before driving to the trailhead."
+          },
+          {
+            "q": "Do rangers actually check for the pass?",
+            "a": "Yes, especially at popular lots like Heart Rock and Heaps Peak. The sites are honor-system signage backed by ranger citations."
+          },
+          {
+            "q": "Does the Adventure Pass cover Deep Creek Hot Springs?",
+            "a": "Not on the Bowen Ranch side — that's private property with its own $10/person cash fee. The free Bradford Ridge roadside off Hwy 173 isn't a designated fee site either."
+          }
+        ],
+        "related": [
+          { "label": "All trailhead parking guides", "href": "/trailheads/" },
+          { "label": "Official pass info (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/passes-permits/recreation" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "About TrailheadParking.com",
+        "slug": "about",
+        "path": "/about/",
+        "schema_type": "WebPage",
+        "marker_emoji": "ℹ️",
+        "meta_title": "About TrailheadParking.com: Who We Are & How Facts Get Verified",
+        "meta_description": "TrailheadParking.com covers the parking situation at San Bernardino Mountains trailheads — lot sizes, fill times, passes — with every fact checked against official sources and date-stamped. From the makers of BigBearMap.com and LakeArrowheadMap.com.",
+        "card_summary": "Who runs this site, how facts get verified, and the sister guides it grew out of.",
+        "sections": [
+          {
+            "heading": "What this site is",
+            "body": "TrailheadParking.com does one thing: it tells you what parking is actually like at mountain trailheads — how many cars fit, when the lot fills, what pass you need, what enforcement looks like, and what the realistic plan B is. It grew out of a pattern we kept seeing while building our area guides: the number-one thing that ruins a mountain day isn't the trail, it's arriving at 10am to a full lot with no plan.\n\nCoverage starts with the Lake Arrowhead–Crestline–Running Springs area of the San Bernardino Mountains. More of the range is planned."
+          },
+          {
+            "heading": "How facts get verified",
+            "body": "Every fee, lot description, and access rule is checked against the official source — the Forest Service, the county, the operator — at the time the page is written, and every page carries a <strong>facts last verified</strong> date at the bottom. Mountain rules change seasonally, so perishable facts get re-checked on a recurring pass. When we get something wrong, we fix the page rather than defend it.\n\nNo business pays to appear here and no placement is sponsored. Where something is genuinely uncertain — like the informal pullouts at the <a href=\"/trailheads/arrowhead-pinnacles/\">Arrowhead Pinnacles</a> — the page says so plainly instead of faking precision."
+          },
+          {
+            "heading": "The family of sites",
+            "body": "This site comes from the same maker as <a href=\"https://bigbearmap.com\" rel=\"noopener\">BigBearMap.com</a> and <a href=\"https://lakearrowheadmap.com\" rel=\"noopener\">LakeArrowheadMap.com</a> — practical, verification-first guides to the San Bernardino mountain communities. The trailhead pages here link to those guides for the trails themselves; this site stays focused on the lot."
+          }
+        ],
+        "related": [
+          { "label": "All trailhead parking guides", "href": "/trailheads/" },
+          { "label": "LakeArrowheadMap.com", "href": "https://lakearrowheadmap.com" },
+          { "label": "BigBearMap.com", "href": "https://bigbearmap.com" }
+        ]
+      }
+    }
+  ]
+}

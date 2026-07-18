@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.3060, 34.2570] },
+      "properties": {
+        "name": "Heart Rock Trailhead",
+        "slug": "heart-rock",
+        "meta_title": "Heart Rock Trailhead Parking (Crestline): ~10 Spaces, Pass Required (2026)",
+        "meta_description": "Heart Rock's trailhead lot off Hwy 138 fits about 8–10 cars, requires an Adventure Pass, and fills by 9am on spring weekends. No sanctioned overflow — Camp Seeley's road is private and Hwy 138 shoulders are patrolled. The full picture and plan B.",
+        "card_summary": "~8–10 spaces for the most Instagrammed trail in the range. Full by 9am on spring weekends; no sanctioned overflow.",
+        "quick_answer": "<strong>The lot is the crux of this hike.</strong> A small dirt pull-in off Highway 138 just south of Camp Seeley in Crestline — roughly <strong>8–10 cars</strong> — with an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> required on the dash. On weekends from March through June it's full by <strong>9am</strong>. Camp Seeley's road is private, and Highway 138's shoulders are narrow and patrolled.",
+        "badges": [
+          { "label": "~10 spaces only", "tone": "bad" },
+          { "label": "Full by 9am spring weekends", "tone": "warn" },
+          { "label": "Adventure Pass required", "tone": "info" }
+        ],
+        "trail_served": "Heart Rock / Seeley Creek Trail 4W07 (1.5–2 mi RT, easy–moderate)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass",
+        "lot_size": "~8–10 cars, dirt",
+        "fill_time": "Spring/early-summer weekends: by 9am",
+        "overflow": "None sanctioned — weekdays are the real answer",
+        "tow_risk": "Citations on Hwy 138 shoulders; Camp Seeley road is private",
+        "restrooms": false,
+        "road_access": "Paved Hwy 138; short dirt pull-in",
+        "best_season": "March–June (waterfall season) is the crush",
+        "address": "Seeley Creek Trail 4W07, Hwy 138, Crestline, CA 92325",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/trails/heart-rock-seeley-creek-trail-4w07",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The situation",
+            "body": "Heart Rock's Instagram fame collides with a trailhead built for a quieter era: a small dirt parking area off Highway 138 near the Camp Seeley entrance, room for about 8–10 cars, <a href=\"/adventure-pass/\">Adventure Pass</a> required. When the waterfall is flowing — March through June — weekend demand outstrips those spaces by an order of magnitude.\n\nWhat doesn't work: the paved road into Camp Seeley is private camp property (they will ask you to leave), and Highway 138's shoulders near the trailhead are narrow, signed, and patrolled — citations are routine on busy weekends."
+          },
+          {
+            "heading": "Plan B",
+            "body": "Honestly: <strong>go on a weekday or before 9am</strong>. That's the whole strategy. If you arrive to a full lot on a weekend, the best move is to flip the day's order — Lake Gregory is 10 minutes away with big paid lots, Crestline has breakfast — then check the trailhead again after 3pm when the morning wave clears.\n\nFor the trail itself — distance, the falls, the sketchy final scramble — see the full <a href=\"https://lakearrowheadmap.com/trails/heart-rock-trail/\" rel=\"noopener\">Heart Rock trail guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for Heart Rock Trail?",
+            "a": "In the small dirt lot off Highway 138 just south of the Camp Seeley entrance in Crestline, with an Adventure Pass displayed. It holds roughly 8–10 cars."
+          },
+          {
+            "q": "What if the Heart Rock lot is full?",
+            "a": "There is no sanctioned overflow. Camp Seeley's road is private and Highway 138 shoulders are enforced. Come back on a weekday, arrive before 9am, or return after 3pm when the morning crowd leaves."
+          },
+          {
+            "q": "Do you really need an Adventure Pass at Heart Rock?",
+            "a": "Yes — it's a fee site, and rangers do ticket. $5/day at local vendors and ranger stations, $30 for the annual; an America the Beautiful pass also covers it."
+          }
+        ],
+        "related": [
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "Heart Rock Trail guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/heart-rock-trail/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Deep Creek Hot Springs Trailheads",
+        "slug": "deep-creek-hot-springs",
+        "meta_title": "Deep Creek Hot Springs Parking: Bowen Ranch vs Bradford Ridge (2026)",
+        "meta_description": "Parking for Deep Creek Hot Springs: the Bowen Ranch dirt lot ($10/person cash, rough road from Apple Valley) versus free but limited roadside parking at the Bradford Ridge Path off Hwy 173. Which to pick and what each costs.",
+        "card_summary": "Two ways in: Bowen Ranch's dirt lot ($10/person cash, rough road) or free, limited roadside at Bradford Ridge off Hwy 173.",
+        "quick_answer": "<strong>Your parking choice picks your route.</strong> <strong>Bowen Ranch</strong> (from Apple Valley): dirt lot on private ranch land, <strong>$10 per person, cash at the gate</strong>, rough dirt-road drive in, shortest hike down. <strong>Bradford Ridge Path</strong> (from Hwy 173 north of Lake Arrowhead): <strong>free</strong>, but roadside parking is limited and unsigned. Neither trailhead has water, facilities, or shade worth mentioning.",
+        "badges": [
+          { "label": "Bowen Ranch: $10/person cash", "tone": "info" },
+          { "label": "Bradford Ridge: free, limited roadside", "tone": "info" },
+          { "label": "No facilities either side", "tone": "warn" }
+        ],
+        "trail_served": "Deep Creek Hot Springs (~5 mi RT either route, hard climb out)",
+        "fee": "Bowen Ranch: $10/person cash. Bradford Ridge: free (forest land)",
+        "lot_size": "Bowen Ranch: dirt ranch lot. Bradford Ridge: a handful of roadside spots",
+        "fill_time": "Weekend middays are busiest at both; weekdays easy",
+        "overflow": "None at either — this is remote country, not a lot system",
+        "tow_risk": "Keep clear of travel lanes on Hwy 173; ranch parking is at the ranch's rules",
+        "restrooms": false,
+        "road_access": "Bowen Ranch: miles of washboard dirt from Apple Valley. Bradford Ridge: paved Hwy 173",
+        "best_season": "October–May; summer heat here is genuinely dangerous",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/deep-creek-hot-springs",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "Bowen Ranch side (Apple Valley)",
+            "body": "The most popular access crosses private Bowen Ranch: drive washboard dirt roads out of Apple Valley, pay <strong>$10 per person, cash</strong>, at the gate, park in the ranch's dirt lot, then hike ~2.5 miles down to the creek. The fee surprises people every weekend — it's private property, not a Forest Service site, so no pass covers it. Low-clearance cars survive the road but hate it.\n\nThe ranch also allows paid camping if you're making a night of it."
+          },
+          {
+            "heading": "Bradford Ridge side (Hwy 173)",
+            "body": "From the mountain side, the <strong>Bradford Ridge Path</strong> starts off Highway 173 north of Lake Arrowhead and drops ~2.6 miles to the creek. Parking is <strong>free</strong> — it's national forest — but it's informal roadside space for a handful of cars, unsigned and easy to miss. Park fully clear of the travel lanes.\n\nWhichever side you park on, read the safety notes — no shade, 100°F+ summer afternoons, and a keep-your-head-above-water rule at the springs — in the full <a href=\"https://lakearrowheadmap.com/trails/deep-creek-hot-springs/\" rel=\"noopener\">Deep Creek guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How much is parking for Deep Creek Hot Springs?",
+            "a": "Via Bowen Ranch: $10 per person (not per car), cash only, paid at the ranch gate. Via the Bradford Ridge Path off Highway 173: free. The springs themselves are national forest with no fee."
+          },
+          {
+            "q": "Which Deep Creek trailhead has better parking?",
+            "a": "Bowen Ranch has an actual lot but a rough dirt-road drive and the $10/person fee. Bradford Ridge is free with a paved-highway approach, but only a few informal roadside spots. On a busy weekend, Bowen Ranch absorbs more cars."
+          },
+          {
+            "q": "Do I need an Adventure Pass for Deep Creek?",
+            "a": "No — Bowen Ranch is private property (the $10 is their fee), and the Bradford Ridge roadside isn't a designated fee site. Neither route uses an Adventure Pass lot."
+          }
+        ],
+        "related": [
+          { "label": "Deep Creek Hot Springs: full route & safety guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/deep-creek-hot-springs/" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.0867, 34.2024] },
+      "properties": {
+        "name": "Exploration Trail (Keller Peak) Trailhead",
+        "slug": "exploration-trail",
+        "meta_title": "Exploration Trail Trailhead Parking (Keller Peak Rd): Small Lot, Check Closures (2026)",
+        "meta_description": "The Exploration Trail's small primitive lot sits on Keller Peak Rd just off Hwy 18 near the Deer Lick Fire Station. Adventure Pass required, no water or restrooms — and check San Bernardino NF fire-closure alerts before driving out.",
+        "card_summary": "Small primitive lot on Keller Peak Rd off Hwy 18. Adventure Pass required — and check fire-closure status first.",
+        "quick_answer": "<strong>Check closure status before you drive.</strong> The trailhead lot is <strong>small and primitive</strong>, on Keller Peak Road just off Highway 18 near the Deer Lick Fire Station (Running Springs side). <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> on the dash, no water, no restrooms. <strong>Fire-related closures affected this area in 2026</strong> — confirm on the <a href=\"https://www.fs.usda.gov/r05/sanbernardino/alerts\" rel=\"noopener\">forest alerts page</a> first.",
+        "badges": [
+          { "label": "Check closure status", "tone": "bad" },
+          { "label": "Small primitive lot", "tone": "warn" },
+          { "label": "Adventure Pass required", "tone": "info" }
+        ],
+        "trail_served": "Exploration Trail 2W09X toward Keller Peak (~9–12 mi RT)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass",
+        "lot_size": "Small primitive lot — go early in summer",
+        "fill_time": "Rarely the problem here; closures are",
+        "overflow": "Keller Peak Rd is paved — but confirm current rules before roadside parking",
+        "tow_risk": "Low at the lot; don't block the fire station area or gates",
+        "restrooms": false,
+        "road_access": "Paved: Hwy 18 to Keller Peak Rd, lot shortly after the turn",
+        "best_season": "Late spring–fall (when open)",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/trails/exploration-trail-2w09x",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "Finding the lot",
+            "body": "Turn off Highway 18 onto Keller Peak Road immediately after the Deer Lick Fire Station (between Skyforest and Running Springs); the small trailhead lot is a short way down the road. USFS lists the trail as <strong>2W09X</strong>. It's primitive — no water, no restrooms, room for a handful of cars — but unlike the famous trailheads in the range, space is rarely the limiting factor.\n\nWhat is: <strong>closures</strong>. The Keller Peak area has had fire-related closures in 2026. Check the <a href=\"https://www.fs.usda.gov/r05/sanbernardino/alerts\" rel=\"noopener\">San Bernardino NF alerts page</a> or call the Mountaintop Ranger District before committing to the drive."
+          },
+          {
+            "heading": "The shortcut nobody mentions",
+            "body": "If you want the Keller Peak fire-lookout view without the ~12-mile round-trip hike, Keller Peak Road is paved all the way to the lookout and open seasonally — you can simply drive up. Trail details and the full hike description are in the <a href=\"https://lakearrowheadmap.com/trails/exploration-trail/\" rel=\"noopener\">Exploration Trail guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where is the Exploration Trail trailhead?",
+            "a": "On Keller Peak Road just off Highway 18, immediately past the Deer Lick Fire Station between Skyforest and Running Springs. Small primitive lot; Adventure Pass required."
+          },
+          {
+            "q": "Is the Exploration Trail open?",
+            "a": "It has been affected by fire-related closures in 2026. Check the San Bernardino National Forest alerts page or call the Mountaintop Ranger District before going."
+          }
+        ],
+        "related": [
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "Exploration Trail hike guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/exploration-trail/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.1607, 34.2337] },
+      "properties": {
+        "name": "Heaps Peak Arboretum Lot",
+        "slug": "heaps-peak-arboretum",
+        "meta_title": "Heaps Peak Arboretum Parking: The Easy One (2026)",
+        "meta_description": "Heaps Peak Arboretum's paved lot sits right off Hwy 18 between Lake Arrowhead and Running Springs and rarely fills. Adventure Pass required, vault restrooms on site, open dawn to dusk. The rare stress-free trailhead.",
+        "card_summary": "The rare easy one: paved lot right off Hwy 18, rarely fills, vault restrooms. Adventure Pass still required.",
+        "quick_answer": "<strong>The easiest trailhead parking in the range.</strong> A <strong>paved Forest Service lot directly off Highway 18</strong> in Skyforest that rarely fills, serving the ~1-mile Sequoia Trail loop. You still need an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> ($5/day) on the dash — it's honor-system signage with ranger enforcement. Vault restrooms on site; open dawn to dusk.",
+        "badges": [
+          { "label": "Rarely fills", "tone": "good" },
+          { "label": "Paved lot + restrooms", "tone": "good" },
+          { "label": "Adventure Pass required", "tone": "info" }
+        ],
+        "trail_served": "Sequoia Trail loop (~1 mi, easy) through the arboretum",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass; trail itself free",
+        "lot_size": "Paved FS lot; rarely full",
+        "fill_time": "Rarely — a genuine anomaly up here",
+        "overflow": "Almost never needed",
+        "tow_risk": "Low; it's a proper lot",
+        "restrooms": true,
+        "road_access": "Directly off paved Hwy 18 at 29358 Rim of the World Hwy",
+        "best_season": "Year-round; dawn to dusk",
+        "address": "29358 Rim of the World Hwy (Hwy 18), Skyforest, CA 92385",
+        "official_url": "https://hparboretum.com/",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "Why this one's easy",
+            "body": "Heaps Peak Arboretum sits on the Highway 18 corridor halfway between Lake Arrowhead and Running Springs, and its paved lot is sized for the attraction — an easy ~1-mile interpretive loop through the largest giant sequoia grove in the San Bernardinos. Even on summer weekends it usually has space, which makes it the reliable backup plan when Heart Rock's lot has already burned you.\n\nThe one rule people miss: walking the trail is free, but <strong>parking in the Forest Service lot requires an <a href=\"/adventure-pass/\">Adventure Pass</a></strong> (or America the Beautiful pass) on the dash. There's no booth — just signage and rangers who do write tickets."
+          },
+          {
+            "heading": "Worth knowing",
+            "body": "Vault restrooms at the lot, dawn-to-dusk access every day, and a volunteer information booth on weekends 11am–3pm. The trail is stroller-tolerant and grandparent-approved — full walk details in the <a href=\"https://lakearrowheadmap.com/trails/heaps-peak-arboretum/\" rel=\"noopener\">Heaps Peak guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Does Heaps Peak Arboretum parking cost anything?",
+            "a": "The trail is free, but the lot is a Forest Service fee site: Adventure Pass ($5/day, $30/year) or an interagency pass on the dash. No booth — honor system with ranger enforcement."
+          },
+          {
+            "q": "Does the Heaps Peak lot fill up?",
+            "a": "Rarely — it's the most reliable trailhead parking on the Hwy 18 corridor. Even summer weekends usually have space."
+          }
+        ],
+        "related": [
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "Heaps Peak Arboretum walk guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/heaps-peak-arboretum/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.2019, 34.2975] },
+      "properties": {
+        "name": "Arrowhead Pinnacles Parking",
+        "slug": "arrowhead-pinnacles",
+        "meta_title": "Arrowhead Pinnacles Parking: Informal Pullouts off Hwy 173 (2026)",
+        "meta_description": "There's no real lot for the Arrowhead Pinnacles — parking is informal dirt pullouts off Hwy 173 north of Lake Arrowhead near the OHV staging area, with no facilities and no signage. What to know before you go.",
+        "card_summary": "No real lot: informal dirt pullouts off Hwy 173 near the OHV staging area. No facilities, no signage — download maps first.",
+        "quick_answer": "<strong>There is no real trailhead here.</strong> Parking for the Pinnacles is <strong>informal dirt pullouts off Highway 173</strong> north of the lake, in the vicinity of the Forest Service OHV staging area. No facilities, no signage, no water — and the approach path is faint enough that you should <strong>download offline maps before leaving pavement</strong>. <a href=\"/adventure-pass/\">Adventure Pass</a> applies in forest parking areas.",
+        "badges": [
+          { "label": "No developed lot", "tone": "warn" },
+          { "label": "No facilities or signage", "tone": "warn" },
+          { "label": "Download offline maps", "tone": "info" }
+        ],
+        "trail_served": "Arrowhead Pinnacles scramble (3.5 mi RT, hard) + ~500-route climbing area",
+        "fee": "Adventure Pass for forest parking areas",
+        "lot_size": "Informal pullouts; OHV staging area nearby",
+        "fill_time": "Light hiker traffic; climbers on good-weather weekends",
+        "overflow": "Whatever pullout is next — clear of travel lanes",
+        "tow_risk": "Stay fully off Hwy 173's travel lanes; no posted parking structure",
+        "restrooms": false,
+        "road_access": "Paved Hwy 173; dirt pullouts",
+        "best_season": "Fall–spring; brutal in summer heat",
+        "official_url": "https://www.mountainproject.com/area/106152801/lake-arrowhead-pinnacles",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "Parking reality",
+            "body": "The Pinnacles — the granite towers northwest of Lake Arrowhead with roughly 500 bolted climbing routes — never got a developed trailhead. Hikers and climbers park in informal dirt pullouts off Highway 173 north of the lake; the mapped Forest Service <strong>OHV staging area</strong> in the same area is the closest thing to an actual lot. There's no signage for the Pinnacles at any of it.\n\nThat's why the standard advice here is digital, not vehicular: have the approach route downloaded offline (AllTrails, Gaia) before you leave pavement, because finding where to park is the first route-finding problem of the day."
+          },
+          {
+            "heading": "One honest caveat",
+            "body": "Because nothing here is signed or developed, \"the right pullout\" varies by source and season. Our pin marks the staging-area vicinity — treat it as a starting point, cross-check your climbing or hiking beta, and if you find better intel, the <a href=\"https://www.mountainproject.com/area/106152801/lake-arrowhead-pinnacles\" rel=\"noopener\">Mountain Project page</a> is where locals keep it current. Full scramble details in the <a href=\"https://lakearrowheadmap.com/trails/arrowhead-pinnacles/\" rel=\"noopener\">Pinnacles guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for the Arrowhead Pinnacles?",
+            "a": "Informal dirt pullouts off Highway 173 north of Lake Arrowhead, near the Forest Service OHV staging area. There's no developed lot, no signage, and no facilities — download your approach route before you go."
+          },
+          {
+            "q": "Do I need a pass at the Pinnacles?",
+            "a": "An Adventure Pass covers Forest Service parking areas like the staging area. Wherever you stop, park fully clear of Highway 173's travel lanes."
+          }
+        ],
+        "related": [
+          { "label": "Arrowhead Pinnacles scramble guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/arrowhead-pinnacles/" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.1680, 34.2667] },
+      "properties": {
+        "name": "North Shore Trailhead (Hospital Rd)",
+        "slug": "north-shore-trailhead",
+        "meta_title": "North Shore Trailhead Parking (Lake Arrowhead): Two Trails, One Easy Lot (2026)",
+        "meta_description": "The trailhead area by North Shore Campground on Hospital Rd serves both the North Shore Recreation Trail and Little Bear Creek Trail. Adventure Pass required, limited but rarely full, campground restrooms in season.",
+        "card_summary": "One trailhead, two trails: North Shore Rec Trail and Little Bear Creek both start by the campground on Hospital Rd. Rarely full.",
+        "quick_answer": "<strong>Two trails, one relaxed trailhead.</strong> Park near the <strong>North Shore Campground entrance on Hospital Road</strong> (off Hwy 173, by Mountains Community Hospital) with an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> displayed. Space is limited but <strong>rarely full</strong> — this serves both the <strong>North Shore Recreation Trail</strong> (4 mi RT, moderate) and the <strong>Little Bear Creek Trail</strong> (~3.7 mi, easy, very dog-friendly).",
+        "badges": [
+          { "label": "Rarely full", "tone": "good" },
+          { "label": "Serves two trails", "tone": "good" },
+          { "label": "Adventure Pass required", "tone": "info" }
+        ],
+        "trail_served": "North Shore Recreation Trail (4 mi RT) + Little Bear Creek Trail (~3.7 mi)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass",
+        "lot_size": "Small trailhead area by the campground entrance",
+        "fill_time": "Rarely — one of the area's low-stress trailheads",
+        "overflow": "Rarely needed",
+        "tow_risk": "Low; respect campground and hospital areas",
+        "restrooms": "In the campground (seasonal)",
+        "road_access": "Paved: Hwy 173 to Hospital Rd",
+        "best_season": "Spring–fall",
+        "address": "North Shore Campground, Hospital Rd off Hwy 173, Lake Arrowhead, CA 92352",
+        "official_url": "https://www.recreation.gov/camping/campgrounds/232296",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The easy double",
+            "body": "This is the trailhead where parking is not the story: a small area near the North Shore Campground entrance on Hospital Road that has space on all but the busiest days. Display an <a href=\"/adventure-pass/\">Adventure Pass</a> and pick your trail — the <strong>North Shore Recreation Trail</strong> descends into shady forest for a moderate 4-mile round trip, while <strong>Little Bear Creek Trail</strong> is the area's default bring-the-dog, bring-the-kids walk. Campground restrooms operate in season.\n\nFull trail write-ups live on our sister site: <a href=\"https://lakearrowheadmap.com/trails/north-shore-recreation-trail/\" rel=\"noopener\">North Shore Recreation Trail</a> and <a href=\"https://lakearrowheadmap.com/trails/little-bear-creek-trail/\" rel=\"noopener\">Little Bear Creek Trail</a>."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where is the North Shore trailhead?",
+            "a": "By the North Shore Campground entrance on Hospital Road, off Highway 173 near Mountains Community Hospital in Lake Arrowhead. Both the North Shore Recreation Trail and Little Bear Creek Trail start here."
+          },
+          {
+            "q": "Does the North Shore trailhead fill up?",
+            "a": "Rarely — it's one of the few Arrowhead-area trailheads where parking is not the hard part. An Adventure Pass is still required."
+          }
+        ],
+        "related": [
+          { "label": "North Shore Recreation Trail guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/north-shore-recreation-trail/" },
+          { "label": "Little Bear Creek Trail guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/little-bear-creek-trail/" }
+        ]
+      }
+    }
+  ]
+}

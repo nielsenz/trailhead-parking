@@ -1,0 +1,82 @@
+{# Shared macros: cards, badges, maps, FAQ, JSON-LD #}
+
+{% macro badge(b) %}
+<span class="badge badge-{{ b.tone | default('info') }}">{{ b.label }}</span>
+{% endmacro %}
+
+{% macro card(section, item) %}
+<a class="card-link" href="/{{ section }}/{{ item.slug }}/">
+    <article class="card">
+        <h3>{{ item.name }}</h3>
+        {% if item.badges %}
+        <div class="badge-row">
+            {% for b in item.badges %}{{ badge(b) }}{% endfor %}
+        </div>
+        {% endif %}
+        {% if item.card_summary %}
+        <p>{{ item.card_summary }}</p>
+        {% endif %}
+        <span class="card-cta">Details, fees &amp; parking →</span>
+    </article>
+</a>
+{% endmacro %}
+
+{% macro leaflet_head() %}
+<link rel="preconnect" href="https://unpkg.com">
+<link rel="preconnect" href="https://tile.openstreetmap.org">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+{% endmacro %}
+
+{% macro map_multi(items, section, emoji, center, zoom=11) %}
+<div id="map" class="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    const map = L.map('map').setView([{{ center[0] }}, {{ center[1] }}], {{ zoom }});
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors', maxZoom: 18
+    }).addTo(map);
+    const icon = L.divIcon({ html: '{{ emoji }}', className: 'emoji-marker', iconSize: [36, 36] });
+    {% for item in items %}
+    {% if item.coordinates %}
+    L.marker([{{ item.coordinates[1] }}, {{ item.coordinates[0] }}], { icon })
+        .bindPopup('<strong><a href="/{{ section }}/{{ item.slug }}/">{{ item.name | e }}</a></strong>')
+        .addTo(map);
+    {% endif %}
+    {% endfor %}
+</script>
+{% endmacro %}
+
+{% macro map_single(item, emoji, zoom=15) %}
+<div id="map" class="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    const map = L.map('map', { scrollWheelZoom: false })
+        .setView([{{ item.coordinates[1] }}, {{ item.coordinates[0] }}], {{ zoom }});
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors', maxZoom: 18
+    }).addTo(map);
+    const icon = L.divIcon({ html: '{{ emoji }}', className: 'emoji-marker', iconSize: [36, 36] });
+    L.marker([{{ item.coordinates[1] }}, {{ item.coordinates[0] }}], { icon })
+        .bindPopup('<strong>{{ item.name | e }}</strong>').addTo(map);
+</script>
+{% endmacro %}
+
+{% macro faq_block(item) %}
+{% if item.faq %}
+<section class="faq">
+    <h2>Frequently asked questions</h2>
+    {% for f in item.faq %}
+    <details{% if loop.first %} open{% endif %}>
+        <summary>{{ f.q }}</summary>
+        <p>{{ f.a | safe }}</p>
+    </details>
+    {% endfor %}
+</section>
+{% endif %}
+{% endmacro %}
+
+{% macro jsonld(blocks) %}
+{% for block in blocks %}
+<script type="application/ld+json">{{ block | tojson }}</script>
+{% endfor %}
+{% endmacro %}

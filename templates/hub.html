@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+
+{% block title %}{{ cfg.meta_title }}{% endblock %}
+{% block description %}{{ cfg.meta_description }}{% endblock %}
+
+{% block extra_head %}
+{% if cfg.show_map | default(true) %}{{ m.leaflet_head() }}{% endif %}
+{% endblock %}
+
+{% block content %}
+<header class="page-hero">
+    <h1>{{ cfg.hub_title }}</h1>
+</header>
+
+<div class="hub-intro prose">
+    <p>{{ cfg.hub_intro | safe }}</p>
+</div>
+
+{% if cfg.show_map | default(true) %}
+{{ m.map_multi(items, section, cfg.marker_emoji, area_center) }}
+{% endif %}
+
+<div class="card-grid">
+    {% for item in items %}
+    {{ m.card(section, item) }}
+    {% endfor %}
+</div>
+
+{% if section == 'trails' %}
+<div class="filter-links">
+    <a class="btn btn-outline" href="/trails/easy/">Just the easy trails →</a>
+</div>
+{% endif %}
+
+{% for s in cfg.hub_sections | default([]) %}
+<section class="prose">
+    <h2>{{ s.heading }}</h2>
+    {% for p in s.body | paragraphs %}
+    <p>{{ p | safe }}</p>
+    {% endfor %}
+</section>
+{% endfor %}
+{% endblock %}
