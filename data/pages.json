@@ -31,7 +31,7 @@
         "where_needed": "Developed fee sites in SoCal national forests — most maintained trailhead lots here",
         "where_not": "Private land (e.g. Bowen Ranch's $10/person is separate); non-fee roadside areas",
         "enforcement": "Honor-system signage; rangers ticket at popular lots",
-        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/passes-permits/recreation",
+        "official_url": "https://www.fs.usda.gov/r05/passes/adventure-pass",
         "verified": "July 18, 2026",
         "sections": [
           {
@@ -63,7 +63,7 @@
         ],
         "related": [
           { "label": "All trailhead parking guides", "href": "/trailheads/" },
-          { "label": "Official pass info (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/passes-permits/recreation" }
+          { "label": "Official pass info (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/passes/adventure-pass" }
         ]
       }
     },
