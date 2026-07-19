@@ -319,6 +319,354 @@
           { "label": "Little Bear Creek Trail guide (LakeArrowheadMap.com)", "href": "https://lakearrowheadmap.com/trails/little-bear-creek-trail/" }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9614, 34.2377] },
+      "properties": {
+        "name": "Castle Rock Trailhead (Big Bear)",
+        "slug": "castle-rock",
+        "meta_title": "Castle Rock Trailhead Parking (Big Bear): The New 38-Space Free Lot (2026)",
+        "meta_description": "Castle Rock finally has a real lot: 38 paved free spaces at Big Bear Blvd and Talbot Dr, open 7am–7pm, no Adventure Pass needed. It still fills by 9am on summer weekends — and roadside parking is now banned. The full picture.",
+        "card_summary": "Big Bear's most popular trail got a real lot in 2025: 38 free paved spaces, 7am–7pm. Still full by 9am on summer weekends.",
+        "quick_answer": "<strong>Castle Rock finally has a real lot — and only the lot.</strong> A paved <strong>38-space</strong> facility (2 ADA) at Big Bear Boulevard and Talbot Drive, <strong>free, no <a href=\"/adventure-pass/\">Adventure Pass</a> needed</strong>, open <strong>7am–7pm</strong> with hours enforced. Since July 2025, <strong>roadside parking near the trailhead is prohibited</strong> — the lot is the only legal option, and it fills by <strong>9am</strong> on summer and fall weekends.",
+        "badges": [
+          { "label": "Free — no pass needed", "tone": "good" },
+          { "label": "Full by 9am summer weekends", "tone": "warn" },
+          { "label": "Roadside parking banned", "tone": "bad" }
+        ],
+        "trail_served": "Castle Rock Trail — Big Bear's most popular short hike",
+        "fee": "Free — no Adventure Pass required",
+        "lot_size": "38 paved spaces, incl. 2 ADA",
+        "fill_time": "Summer/fall weekends: by 9am",
+        "overflow": "None — roadside is banned; arrive before 8:30am or after mid-afternoon",
+        "tow_risk": "Roadside parking near the trailhead prohibited since July 2025 — $100 fine, strictly enforced; posted hours 7am–7pm",
+        "restrooms": true,
+        "road_access": "Paved lot directly on Big Bear Blvd (Hwy 18) at Talbot Dr",
+        "best_season": "Spring–fall; expect ice and snow-play crowds in winter",
+        "address": "38501 Big Bear Boulevard (at Talbot Drive), Big Bear Lake, CA 92315",
+        "official_url": "https://bigbearlake.gov/index.php/en/castle-rock-trail-parking-lot-project",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The new lot fixed the chaos (mostly)",
+            "body": "For years, Castle Rock parking meant cars jammed along a blind curve of Big Bear Boulevard. That ended in July 2025: the City of Big Bear Lake opened a purpose-built lot at Talbot Drive with <strong>38 paved spaces</strong> (2 ADA), a restroom building, trash service, and a bike rack — and with it came the other half of the fix: since July 23, 2025, <strong>parking along Big Bear Boulevard near the trailhead is prohibited and strictly enforced, with a $100 fine</strong>. Park in the lot or don't park.\n\nThe lot is free with no <a href=\"/adventure-pass/\">Adventure Pass</a> required — a genuine rarity in this range — with posted hours of <strong>7am–7pm</strong>."
+          },
+          {
+            "heading": "It still fills",
+            "body": "Thirty-eight spaces meet Big Bear's most popular trail: on summer and fall weekends the lot is typically full by <strong>9am</strong>. With roadside banned, there's no shrug-and-improvise option — the play is to <strong>arrive before 8:30am</strong>, come on a weekday, or swing back after mid-afternoon when the morning wave clears.\n\nFor the trail itself — the scramble, the lake views, why everyone's here — see the full <a href=\"https://bigbearmap.com/trails/castle-rock-trail\" rel=\"noopener\">Castle Rock Trail guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for Castle Rock Trail in Big Bear?",
+            "a": "In the dedicated lot at 38501 Big Bear Boulevard at Talbot Drive — 38 paved spaces, free, open 7am–7pm. Since July 2025, parking along the road near the trailhead is prohibited."
+          },
+          {
+            "q": "Do you need an Adventure Pass at Castle Rock?",
+            "a": "No — the Castle Rock lot is free with no pass required, unlike most developed trailheads in the San Bernardinos."
+          },
+          {
+            "q": "What if the Castle Rock lot is full?",
+            "a": "There's no legal overflow — roadside parking near the trailhead carries a $100 fine. Arrive before 8:30am on weekends, hike on a weekday, or return after mid-afternoon."
+          }
+        ],
+        "related": [
+          { "label": "Castle Rock Trail guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/castle-rock-trail" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9111, 34.2638] },
+      "properties": {
+        "name": "Cougar Crest Trailhead (Big Bear)",
+        "slug": "cougar-crest",
+        "meta_title": "Cougar Crest Trailhead Parking (Big Bear): ~15 Spaces & the Free Plan B (2026)",
+        "meta_description": "Cougar Crest's lot fits only 10–15 cars, requires an Adventure Pass, and fills by 8:30am on summer weekends. The better move: park free at the Big Bear Discovery Center 0.6 miles east and walk the paved Alpine Pedal Path to the trailhead.",
+        "card_summary": "10–15 spaces for a PCT gateway trail, full by 8:30am — but there's a free 50-space plan B a 0.6-mile flat walk away.",
+        "quick_answer": "<strong>Skip the tiny lot entirely.</strong> The Cougar Crest trailhead lot on North Shore Drive fits <strong>10–15 cars</strong>, requires an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a>, and fills by <strong>8:30am</strong> on summer and fall weekends. The better move: park <strong>free</strong> at the <a href=\"/trailheads/big-bear-discovery-center/\"><strong>Big Bear Discovery Center</strong></a> 0.6 miles east and walk the paved Alpine Pedal Path (tunnel under Hwy 38) to the trailhead.",
+        "badges": [
+          { "label": "10–15 spaces only", "tone": "bad" },
+          { "label": "Full by 8:30am weekends", "tone": "warn" },
+          { "label": "Free plan B 0.6 mi away", "tone": "good" }
+        ],
+        "trail_served": "Cougar Crest Trail (4.8 mi RT) → Bertha Peak (7.2 mi RT) & Delamar Mtn (12.2 mi RT) via the PCT",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass — or park free at the Discovery Center",
+        "lot_size": "10–15 cars",
+        "fill_time": "Summer/fall weekends: by 8:30am",
+        "overflow": "Big Bear Discovery Center — free, 50+ spaces, 0.6 mi paved walk",
+        "tow_risk": "Don't improvise on North Shore Drive (Hwy 38) shoulders; use the Discovery Center instead",
+        "restrooms": "Pit toilet at the trailhead",
+        "road_access": "Paved: North Shore Drive (Hwy 38), 0.6 mi west of the Discovery Center",
+        "best_season": "Spring–fall; the north-shore snow lingers into spring",
+        "address": "40650 North Shore Drive (Highway 38), Fawnskin, CA 92333",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/trails/cougar-crest-trail-1e22",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The mismatch",
+            "body": "Cougar Crest is Big Bear's gateway to the Pacific Crest Trail — one trailhead serving the Cougar Crest Trail, Bertha Peak, and Delamar Mountain — parked by a lot that fits <strong>10 to 15 cars</strong>. It needs an <a href=\"/adventure-pass/\">Adventure Pass</a> on the dash (a pit toilet is the only facility), and on summer and fall weekends it's full by <strong>8:30am</strong>. The demand-to-spaces ratio here is among the worst in the range."
+          },
+          {
+            "heading": "The plan B that's actually plan A",
+            "body": "Six-tenths of a mile east on Highway 38 sits the <a href=\"/trailheads/big-bear-discovery-center/\">Big Bear Discovery Center</a>: <strong>free parking, 50+ spaces, real restrooms</strong>, and staff who sell Adventure Passes if you need one for another day. From its lot, the paved <strong>Alpine Pedal Path</strong> runs through a tunnel under the highway straight to the Cougar Crest trailhead — a flat 10–12 minute walk that saves $5 and the 8am scramble.\n\nOne catch: <strong>the Center is closed Tuesdays and Wednesdays</strong>, and its lot serves center visitors during open hours (roughly 9am–4pm) — so for closed days or a dawn start, it's the trailhead lot, early. Every other day, start at the Center. Trail details for all three summits are in the <a href=\"https://bigbearmap.com/trails/cougar-crest-trail\" rel=\"noopener\">Cougar Crest guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for the Cougar Crest Trail?",
+            "a": "The trailhead lot on North Shore Drive holds only 10–15 cars and requires an Adventure Pass. On days the Big Bear Discovery Center is open (closed Tue–Wed), most people are better off parking free there, 0.6 miles east, and walking the paved Alpine Pedal Path to the trailhead."
+          },
+          {
+            "q": "When does the Cougar Crest lot fill up?",
+            "a": "By about 8:30am on summer and fall weekends. The Discovery Center's larger free lot is the reliable alternative."
+          },
+          {
+            "q": "Do you need an Adventure Pass for Cougar Crest?",
+            "a": "At the trailhead lot itself, yes. Parking at the Big Bear Discovery Center instead is free — and the Center sells Adventure Passes if you need one."
+          }
+        ],
+        "related": [
+          { "label": "Big Bear Discovery Center — the free plan B", "href": "/trailheads/big-bear-discovery-center/" },
+          { "label": "Cougar Crest Trail guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/cougar-crest-trail" },
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9046, 34.2632] },
+      "properties": {
+        "name": "Big Bear Discovery Center Lot",
+        "slug": "big-bear-discovery-center",
+        "meta_title": "Big Bear Discovery Center Parking: The Free Lot That Fixes Cougar Crest (2026)",
+        "meta_description": "The Big Bear Discovery Center's free 50+ space lot on North Shore Drive is the smart base for the north shore: walk the paved Alpine Pedal Path to the Cougar Crest trailhead, use real restrooms, and buy an Adventure Pass inside.",
+        "card_summary": "Free 50+ space lot, real restrooms, sells Adventure Passes — and a paved path to the Cougar Crest trailhead. The north shore's easy button.",
+        "quick_answer": "<strong>The easiest parking on Big Bear's north shore — on the right day.</strong> The Discovery Center's lot is <strong>free</strong>, holds <strong>50+ cars</strong>, and has restrooms inside during center hours: <strong>Mon/Thu/Fri 9am–4pm, Sat–Sun 8:30am–4:30pm, closed Tuesday & Wednesday</strong> — call (909) 382-2790 to confirm. From here the paved <strong>Alpine Pedal Path</strong> reaches the <a href=\"/trailheads/cougar-crest/\">Cougar Crest trailhead</a> in a flat 0.6-mile walk, and the Center sells <a href=\"/adventure-pass/\">Adventure Passes</a>, maps, and advice.",
+        "badges": [
+          { "label": "Free, 50+ spaces", "tone": "good" },
+          { "label": "Restrooms + passes inside", "tone": "good" },
+          { "label": "Center hours only", "tone": "info" }
+        ],
+        "trail_served": "Alpine Pedal Path, Cougar Crest via Pedal Path (0.6 mi), Woodland Interpretive Trail (0.25 mi west)",
+        "fee": "Free",
+        "lot_size": "50+ spaces, paved",
+        "fill_time": "Rarely a problem",
+        "overflow": "Rarely needed",
+        "tow_risk": "Low — proper lot; respect center hours",
+        "restrooms": "Inside the center during open hours",
+        "road_access": "Paved lot off North Shore Drive (Hwy 38) in Fawnskin",
+        "best_season": "Year-round on open days — Mon/Thu/Fri/Sat/Sun; closed Tue & Wed",
+        "address": "40971 North Shore Drive (Highway 38), Fawnskin, CA 92333",
+        "official_url": "https://www.fs.usda.gov/wildflowers/regions/Pacific_Southwest/BigBearDiscoveryCenter/index.shtml",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "Why start here",
+            "body": "The Discovery Center is the San Bernardino National Forest's visitor hub on Big Bear's north shore, and its <strong>free 50+ space lot</strong> quietly solves the area's worst parking problem: instead of fighting for one of <a href=\"/trailheads/cougar-crest/\">Cougar Crest's 10–15 spaces</a> with an Adventure Pass on the dash, park here free and walk the paved <strong>Alpine Pedal Path</strong> through the tunnel under Highway 38 — about 0.6 flat miles to the trailhead.\n\nInside (during open hours): restrooms, free trail maps, Adventure Pass sales, and staff who know current trail conditions. The catch is the schedule: <strong>the Center is closed Tuesdays and Wednesdays</strong> (open Mon/Thu/Fri 9am–4pm, weekends 8:30am–4:30pm — confirm at (909) 382-2790). On closed days, or for an alpine start, don't build your plan around this lot — use the trailhead lot early instead."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is parking free at the Big Bear Discovery Center?",
+            "a": "Yes — 50+ paved spaces, no Adventure Pass required. It's one of the best free parking options in Big Bear."
+          },
+          {
+            "q": "How far is the walk from the Discovery Center to the Cougar Crest trailhead?",
+            "a": "About 0.6 miles on the paved Alpine Pedal Path, which passes through a tunnel under Highway 38 — a flat 10–12 minute walk."
+          }
+        ],
+        "related": [
+          { "label": "Cougar Crest Trailhead — the lot this one fixes", "href": "/trailheads/cougar-crest/" },
+          { "label": "Alpine Pedal Path guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/alpine-pedal-path" },
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9277, 34.2356] },
+      "properties": {
+        "name": "Pine Knot Trailhead (Aspen Glen)",
+        "slug": "pine-knot",
+        "meta_title": "Pine Knot Trailhead Parking (Aspen Glen Picnic Area): The Relaxed One (2026)",
+        "meta_description": "Pine Knot Trail parking at the Aspen Glen Picnic Area on Mill Creek Rd: 20–30 spaces, Adventure Pass required, vault toilet and picnic tables, and it rarely fills before 9am — one of Big Bear's lower-stress trailheads.",
+        "card_summary": "20–30 spaces at a proper picnic area, rarely full before 9am. Adventure Pass on the dash and you're hiking to Grand View Point.",
+        "quick_answer": "<strong>One of Big Bear's lower-stress trailheads.</strong> Pine Knot Trail starts from the <strong>Aspen Glen Picnic Area</strong> on Mill Creek Road: <strong>20–30 spaces</strong>, <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> required, vault toilet, picnic tables and BBQ grills on site. Unlike Castle Rock or Cougar Crest, this lot <strong>rarely fills before 9am</strong> — arrive at a civilized hour and you're fine most days.",
+        "badges": [
+          { "label": "Rarely full before 9am", "tone": "good" },
+          { "label": "Restrooms + picnic area", "tone": "good" },
+          { "label": "Adventure Pass required", "tone": "info" }
+        ],
+        "trail_served": "Pine Knot Trail to Grand View Point (7.1 mi RT)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass",
+        "lot_size": "20–30 spaces",
+        "fill_time": "Rarely before 9am; busiest midday summer weekends",
+        "overflow": "Usually unnecessary; picnic-area spaces turn over",
+        "tow_risk": "Low — it's a proper day-use lot; display the pass",
+        "restrooms": true,
+        "road_access": "Paved: Mill Creek Rd ~2.5 mi south of Hwy 18, at ~7,000 ft",
+        "best_season": "Late spring–fall; snow lingers on the upper trail",
+        "address": "40105 Mill Creek Road, Big Bear Lake, CA 92315",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/aspen-glen-picnic-area",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The civilized trailhead",
+            "body": "Pine Knot's trailhead doubles as the Aspen Glen Picnic Area, and it shows: a real day-use lot with <strong>20–30 spaces</strong>, vault toilet, picnic tables, BBQ grills, and a community fire ring under the Jeffrey pines at about 7,000 feet. An <a href=\"/adventure-pass/\">Adventure Pass</a> goes on the dash — this one is a proper fee site.\n\nThe good news is the demand curve: this lot <strong>rarely fills before 9am</strong>, even on summer weekends, making it the reliable choice when Castle Rock's lot has already burned you. The payoff at the top — Grand View Point's panorama of the San Bernardino high country — is in the full <a href=\"https://bigbearmap.com/trails/pine-knot-trail\" rel=\"noopener\">Pine Knot Trail guide</a> on our sister site."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for the Pine Knot Trail?",
+            "a": "At the Aspen Glen Picnic Area, 40105 Mill Creek Road, about 2.5 miles south of Highway 18. It has 20–30 spaces and requires an Adventure Pass."
+          },
+          {
+            "q": "Does the Pine Knot lot fill up?",
+            "a": "Rarely before 9am, even on summer weekends — it's one of Big Bear's more forgiving trailheads. Midday summer weekends are the busiest window."
+          }
+        ],
+        "related": [
+          { "label": "Pine Knot Trail guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/pine-knot-trail" },
+          { "label": "Castle Rock Trailhead — the one that does fill", "href": "/trailheads/castle-rock/" },
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.6861, 33.7653] },
+      "properties": {
+        "name": "Humber Park / Devil's Slide (Idyllwild)",
+        "slug": "humber-park",
+        "meta_title": "Humber Park Parking (Idyllwild): Adventure Pass, the 30-Permit Quota & Tow Reality (2026)",
+        "meta_description": "Parking for Devil's Slide and Tahquitz Peak at Humber Park in Idyllwild: Adventure Pass required, a separate free wilderness permit with a 30-per-day summer weekend quota, and Fern Valley Road towing that runs $400+. The full stack, explained.",
+        "card_summary": "The most rule-stacked trailhead we cover: Adventure Pass to park, a free wilderness permit to hike, a 30/day summer weekend quota — and real towing on Fern Valley Rd.",
+        "quick_answer": "<strong>Two different pieces of paper, and the permit is the harder one.</strong> Parking at Humber Park (end of Fern Valley Rd, ~6,400 ft) needs an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> — but hiking <strong>Devil's Slide</strong> also needs a separate <strong>free San Jacinto Wilderness day-use permit</strong>, capped at <strong>30 per day on summer weekend days</strong> (Sat–Sun, Memorial Day–Labor Day). Roadside on Fern Valley Rd is signed no-stopping and <strong>tows are real</strong>. The permit-free fallback from the same lot: the <strong>Ernie Maxwell Scenic Trail</strong>.",
+        "badges": [
+          { "label": "Pass + permit required", "tone": "bad" },
+          { "label": "30 permits/day summer weekends", "tone": "warn" },
+          { "label": "Permit-free plan B from same lot", "tone": "good" }
+        ],
+        "trail_served": "Devil's Slide 3E05 → Saddle Junction, Tahquitz Peak, San Jacinto high country; Ernie Maxwell Scenic Trail (no permit)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass to park; Devil's Slide wilderness permit is free but required",
+        "lot_size": "Two paved sections (lower + upper); no official space count published",
+        "fill_time": "Summer weekends: hikers report arriving at sunrise; the 30-permit quota usually binds before the lot does",
+        "overflow": "None sanctioned — Fern Valley Rd is signed no-stopping; downtown Idyllwild is ~2 mi away",
+        "tow_risk": "High — documented tows off Fern Valley Rd/lower Humber Park (~$440 to Idyllwild Garage); citations ~$114",
+        "restrooms": true,
+        "road_access": "Paved Fern Valley Rd from downtown Idyllwild (~5 min); Hwy 243 approach has construction flag delays into winter 2026",
+        "best_season": "May–October; quota applies Memorial Day–Labor Day weekends",
+        "address": "24559 Fern Valley Rd, Idyllwild, CA 92549",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/humber-park-trailhead-parking",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "The paperwork stack",
+            "body": "Humber Park is the most rule-stacked trailhead we cover, and people get burned by treating it as one requirement instead of two. <strong>To park</strong>: an <a href=\"/adventure-pass/\">Adventure Pass</a> (or Interagency pass) on the dash — buy it in town, not at the lot. <strong>To hike Devil's Slide</strong>: a separate, free <strong>San Jacinto Wilderness day-use permit</strong> from the ranger station at 54270 Pine Crest Ave in Idyllwild — a self-issue kiosk outside the office covers non-quota days 24/7.\n\nThe crunch is summer weekends: <strong>Saturdays and Sundays from Memorial Day through Labor Day, Devil's Slide is capped at 30 day-use permits per day</strong>. Reserve up to 90 days ahead by phone — (909) 382-2921 — or take your chances same-day. Rangers check at the trailhead on quota weekends. On those days the permit, not the parking, is usually what ends people's plans."
+          },
+          {
+            "heading": "Parking reality and the tow trucks",
+            "body": "The lot itself is paved, in two sections (lower by the Ernie Maxwell trailhead, upper by the restrooms and Devil's Slide), at about 6,400 ft at the end of Fern Valley Road. No official space count is published, so we won't invent one — hiker consensus is simply that summer weekend mornings demand a sunrise arrival.\n\nDo not improvise on Fern Valley Road: it's signed <strong>no-stopping</strong> near the park entrance with seasonal no-parking below, and climbers' forums document tows off the road and even the lower lot — roughly <strong>$440</strong> to retrieve your car from town, with citations around $114. There is no sanctioned overflow; downtown Idyllwild is about two miles back down the road."
+          },
+          {
+            "heading": "The permit-free plan B",
+            "body": "If the quota's gone or the day got away from you, the <strong>Ernie Maxwell Scenic Trail</strong> leaves from the same lot's lower section: ~2.6 miles one-way of shaded forest toward town, <strong>no wilderness permit required</strong> per the Forest Service's San Jacinto district trail brochure (one USFS webpage says otherwise — the brochure and every practical source disagree; call (909) 382-2921 if you want it from the horse's mouth). The Adventure Pass still applies to the lot either way.\n\nOne more 2026 note: Highway 243 into Idyllwild has an active Caltrans paving project with 15–20 minute flag delays into winter — budget for it."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need a permit for the Devil's Slide Trail?",
+            "a": "Yes — a free San Jacinto Wilderness day-use permit from the Idyllwild ranger station (self-issue kiosk on non-quota days). On summer weekend days (Sat–Sun, Memorial Day–Labor Day) it's capped at 30 permits per day; reserve up to 90 days ahead at (909) 382-2921."
+          },
+          {
+            "q": "Where do you park for Tahquitz Peak?",
+            "a": "Humber Park at the end of Fern Valley Road in Idyllwild — Tahquitz Peak is reached via Devil's Slide to Saddle Junction, so the same Adventure Pass and wilderness-permit rules apply."
+          },
+          {
+            "q": "Do you need an Adventure Pass at Humber Park even without entering the wilderness?",
+            "a": "Yes. The Adventure Pass covers the parking itself and applies whichever trail you hike. It's separate from the wilderness permit and isn't sold at the lot — buy it in town first."
+          },
+          {
+            "q": "What happens if you park on Fern Valley Road?",
+            "a": "The stretch near Humber Park is signed no-stopping with seasonal no-parking below, and enforcement is real — documented tows run about $440 plus a citation. If the lot is full, there is no sanctioned overflow."
+          }
+        ],
+        "related": [
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "Official Humber Park page (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/recreation/humber-park-trailhead-parking" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.8911, 34.0814] },
+      "properties": {
+        "name": "Vivian Creek / Falls Picnic Area (Forest Falls)",
+        "slug": "vivian-creek",
+        "meta_title": "Vivian Creek Trailhead Parking (Forest Falls): Pass, Online-Only Permit & the Free Overflow (2026)",
+        "meta_description": "Parking for Vivian Creek and San Gorgonio at the Falls Picnic Area: Adventure Pass required, a free online-only wilderness permit (release 90 days out), a lot shared with Big Falls waterfall tourists — and an official overflow at Momyer that needs no pass at all.",
+        "card_summary": "San Gorgonio's front door: Adventure Pass + an online-only wilderness permit, a lot shared with waterfall tourists — and a free official overflow at Momyer.",
+        "quick_answer": "<strong>Three things to know before the drive.</strong> Parking at the <strong>Falls Picnic Area</strong> on Valley of the Falls Drive needs an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a>; hiking Vivian Creek into the San Gorgonio Wilderness needs a separate <strong>free permit — online only at permits.sgwa.org</strong> (released 90 days out, no in-person issuance); and on busy summer weekends the lot <strong>closes when full</strong>, with the official overflow at <strong>Momyer Trailhead</strong> — which, unlike this lot, is <strong>free to park</strong>.",
+        "badges": [
+          { "label": "Pass + online-only permit", "tone": "bad" },
+          { "label": "Lot closes when full — no roadside", "tone": "warn" },
+          { "label": "Free official overflow at Momyer", "tone": "good" }
+        ],
+        "trail_served": "Vivian Creek Trail 1E08 → San Gorgonio Peak; Big Falls Trail 1E13 (0.3 mi waterfall walk) from the same lot",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass — not sold on site; SGWA wilderness permit free but required",
+        "lot_size": "Trailhead lot + additional picnic-area spaces; no official space count published",
+        "fill_time": "Summer weekend mornings: hikers report dawn arrivals finding few spots; weekdays far easier",
+        "overflow": "Official: Momyer Trailhead (free, no pass), ~3 mi up Valley of the Falls Dr from Hwy 38, then an uphill road walk — no roadside parking anywhere on the drive",
+        "tow_risk": "USFS is explicit: NO parking along Valley of the Falls Drive or the picnic-area entrance; Forest Falls is residential — don't test it",
+        "restrooms": true,
+        "road_access": "Paved: Hwy 38 to Valley of the Falls Drive; day use sunup–sundown at the picnic area (6,080 ft)",
+        "best_season": "May–October for San Gorgonio; waterfall crowds peak spring–early summer",
+        "address": "Falls Picnic Area, Valley of the Falls Drive, Forest Falls, CA 92339",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino/recreation/falls-picnic-area",
+        "verified": "July 18, 2026",
+        "sections": [
+          {
+            "heading": "Two documents, one dashboard, one phone",
+            "body": "The Falls Picnic Area lot is San Gorgonio's front door: Vivian Creek — the shortest route up the tallest peak in Southern California — starts here, and so does the 0.3-mile <strong>Big Falls</strong> waterfall walk, which means peak-bagger dawn patrol and waterfall tourists compete for the same spaces. An <a href=\"/adventure-pass/\">Adventure Pass</a> (or Interagency pass) is required and <strong>not sold on site</strong> — buy before you drive up.\n\nThe wilderness permit is the part that surprises people: <strong>every</strong> hike into the San Gorgonio Wilderness, day hikes included, needs a free permit, and it's issued <strong>online only</strong> at <a href=\"https://permits.sgwa.org/\" rel=\"noopener\">permits.sgwa.org</a> — the ranger station does not hand them out in person. Quota permits release <strong>90 days ahead</strong>, popular summer weekends genuinely sell out, and rangers check PDFs on the trail. (At least one popular hiking blog claims day hikers don't need one — the Forest Service and SGWA are unambiguous that they do.)"
+          },
+          {
+            "heading": "When the lot fills — the official plan B",
+            "body": "The Forest Service's own page says it plainly: on busy summer weekends the site <strong>closes when parking hits capacity</strong>, and there is <strong>no parking along Valley of the Falls Drive</strong> or at the picnic-area entrance — this is a residential canyon, not an overflow zone. Hiker reports from summer weekends describe dawn arrivals finding only a few spots, so a San Gorgonio summit day means an early start on parking grounds alone.\n\nThe sanctioned fallback is <strong>Momyer Creek Trailhead</strong>, a large lot about three miles up the drive from the Highway 38 turnoff — and here's the quirk worth knowing: <strong>Momyer has no parking fee at all</strong>, no Adventure Pass needed. The trade is an uphill road walk back to the picnic area (use extreme caution on the road, per the Forest Service) — or start your wilderness trip from Momyer's own trail instead, permit still required."
+          },
+          {
+            "heading": "Conditions caveat",
+            "body": "This canyon has a history: a September 2025 debris-flow event closed Highway 38 and blocked Valley of the Falls Drive for a time (fully reopened — Caltrans shows no restrictions as of July 2026), and an annually-renewed closure has applied to the area above the Big Falls viewing platform in recent years. Check the <a href=\"https://www.fs.usda.gov/r05/sanbernardino/alerts\" rel=\"noopener\">San Bernardino NF alerts page</a> and <a href=\"https://roads.dot.ca.gov/roadscell.php?roadnumber=38\" rel=\"noopener\">Caltrans SR-38 conditions</a> before a storm-season trip."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need a permit to day-hike Vivian Creek or San Gorgonio?",
+            "a": "Yes — a free San Gorgonio Wilderness permit is required for all day hikes and overnights, issued online only at permits.sgwa.org (released 90 days ahead). There is no in-person issuance, and rangers check on the trail."
+          },
+          {
+            "q": "Where do you park for Big Falls waterfall?",
+            "a": "The same Falls Picnic Area lot on Valley of the Falls Drive that Vivian Creek hikers use, with the same Adventure Pass requirement. The Big Falls Trail itself is a short 0.3-mile walk from the lot."
+          },
+          {
+            "q": "What if the Vivian Creek lot is full?",
+            "a": "The site closes when full, and roadside parking on Valley of the Falls Drive is prohibited. The official overflow is Momyer Trailhead, about 3 miles back down the drive — free to park, no Adventure Pass required — followed by an uphill road walk to the picnic area."
+          },
+          {
+            "q": "Do you need an Adventure Pass at Momyer Trailhead?",
+            "a": "No — Momyer has no parking fee, unlike the Falls Picnic Area. You still need the free SGWA wilderness permit to hike into the San Gorgonio Wilderness from there."
+          }
+        ],
+        "related": [
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "SGWA permit portal (permits.sgwa.org)", "href": "https://permits.sgwa.org/" },
+          { "label": "Official Falls Picnic Area page (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/recreation/falls-picnic-area" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
     }
   ]
 }
