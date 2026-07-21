@@ -96,10 +96,8 @@ pass system, sources, and phone calls:
 
 1. ~~**Batch 1 — rest of SBNF:**~~ ✅ Built 2026-07-18 — Humber Park/Devil's
    Slide (Idyllwild) and Vivian Creek/Falls Picnic Area (Forest Falls), both
-   deep-researched against live USFS/SGWA sources. Open items: no official
-   space counts exist for either lot (pages deliberately don't state one);
-   Ernie Maxwell permit status has one contradictory USFS webpage (brochure
-   says no permit — confirm at (909) 382-2921 if challenged).
+   deep-researched against live USFS/SGWA sources. No official space counts
+   exist for either lot, so the pages deliberately don't state one.
 2. ~~**Batch 2 — Angeles NF / San Gabriels:**~~ ✅ Built 2026-07-20 — East
    Fork, Chantry Flat, Switzer Falls, Icehouse Canyon.
 3. ~~**Batch 3 — San Diego:**~~ ✅ Built 2026-07-20 — Cedar Creek Falls, Three
@@ -109,43 +107,19 @@ pass system, sources, and phone calls:
    **Santa Monicas / Malibu** (Sandstone Peak, Escondido Falls — county and
    state lots, a different fee world again).
 
-### Open items from batches 2 & 3 — re-check before trusting
+**Hold on national expansion** — the big national parking-pain spots (Zion,
+Maroon Bells, Haena) already have official reservation/shuttle systems;
+regional depth beats national thin coverage.
 
-These were flagged during research and are deliberately hedged in the copy
-rather than stated flatly. Fix the page when one resolves.
+### Open items
 
-- **Cedar Creek Falls is closed.** Forest Order #02-26-14 (San Diego River
-  Gorge / Cedar Creek Falls), effective July 14 2026, still posted with **no
-  end date** as of the July 20 check — verified directly against the Cleveland
-  NF alerts page. The page leads with the closure. **Re-check first**; this is
-  the most perishable fact on the site.
-- **Chantry Flat road status is volatile** — open as of July 2026 (verified
-  against the USFS page), but the road is managed by three entities and USFS
-  says it "may be closed to vehicles for safety reasons at any time." The page
-  tells readers to call (818) 899-1900 the morning of.
-- **East Fork wilderness permit contradiction** — the USFS trail page says
-  required, the USFS parking page says "encouraged but strictly voluntary."
-  Both live. Page presents both and says self-register anyway. Settle at
-  (626) 335-1251.
-- **Cucamonga Wilderness permit routing** — SBNF page routes via SGWA online,
-  secondary sources say Lytle Creek Ranger Station. Page presents both.
-- **Switzer gate hours conflict** — USFS says day use 6am–10pm, tchester.org
-  says the lower spur gate closes 6pm. Page notes both.
-- **Three Sisters' 80-vehicle capacity** comes from the National Forest
-  Foundation project description (design capacity), not a post-build USFS
-  count — attributed inline. Its coordinates predate the trailhead rebuild and
-  could be off slightly; worth a satellite check.
-- **Torrey Pines South Beach fee** — two official CA State Parks pages
-  disagree ($12–$20 vs. $12–$25). Page covers both with "up to $25 at peak."
-- **No official capacity exists for any of the four San Gabriel lots**, so
-  none of those pages states a number.
-- **Watch list:** Eaton Canyon and Echo Mountain — closed through Dec 31, 2027
-  (Eaton Fire Area Closure 05-01-26-04, which also covers Mt. Wilson Toll
-  Road, Idlehour, Castle Canyon, Sam Merrill and Mt. Lowe). Build pages when
-  reopening is announced, ahead of the demand spike.
-- **Hold on national expansion** — the big national parking-pain spots (Zion,
-  Maroon Bells, Haena) already have official reservation/shuttle systems;
-  regional depth beats national thin coverage.
+Unresolved facts, contradictions between official sources, and perishable
+claims are tracked in **[docs/todos.md](docs/todos.md)**, dated as logged.
+Check that file before trusting a page's more specific claims — especially
+**Cedar Creek Falls**, which is closed under an open-ended heat order, and
+**Chantry Flat**, whose road can shut on any given day.
+
+Batch 1's carried-over item (Ernie Maxwell permit status) lives there too.
 
 ## Analytics
 
