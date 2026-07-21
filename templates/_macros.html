@@ -28,22 +28,29 @@
 {% endmacro %}
 
 {% macro map_multi(items, section, emoji, center, zoom=11) %}
-{# zoom is passed by the hub (area_zoom); the default suits a single range. #}
+{# Coverage spans several states, so the map fits its own markers rather than
+   using a fixed centre. center/zoom remain the fallback for an empty set. #}
 <div id="map" class="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-    const map = L.map('map').setView([{{ center[0] }}, {{ center[1] }}], {{ zoom }});
+    const map = L.map('map');
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors', maxZoom: 18
     }).addTo(map);
     const icon = L.divIcon({ html: '{{ emoji }}', className: 'emoji-marker', iconSize: [36, 36] });
+    const markers = [];
     {% for item in items %}
     {% if item.coordinates %}
-    L.marker([{{ item.coordinates[1] }}, {{ item.coordinates[0] }}], { icon })
+    markers.push(L.marker([{{ item.coordinates[1] }}, {{ item.coordinates[0] }}], { icon })
         .bindPopup('<strong><a href="/{{ section }}/{{ item.slug }}/">{{ item.name | e }}</a></strong>')
-        .addTo(map);
+        .addTo(map));
     {% endif %}
     {% endfor %}
+    if (markers.length) {
+        map.fitBounds(L.featureGroup(markers).getBounds(), { padding: [40, 40], maxZoom: 12 });
+    } else {
+        map.setView([{{ center[0] }}, {{ center[1] }}], {{ zoom }});
+    }
 </script>
 {% endmacro %}
 

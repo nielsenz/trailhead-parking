@@ -26,9 +26,9 @@ BASE_URL = "https://trailheadparking.com"
 SITE_NAME = "TrailheadParking.com"
 CURRENT_YEAR = date.today().year
 
-# Map center for hub maps. Coverage now spans Southern California, so the hub
-# map sits between the San Gabriels and San Diego rather than on the SBNF front
-# range; detail-page maps are per-item and unaffected.
+# Fallback centre for hub maps only — the hub map fits its own markers, so this
+# is used only if a section has no coordinates at all. Detail-page maps are
+# per-item and unaffected.
 AREA_CENTER = [33.85, -117.20]
 AREA_ZOOM = 8
 
@@ -40,6 +40,7 @@ REGION_ORDER = [
     "San Gabriel Mountains",
     "San Jacinto Mountains",
     "San Diego County",
+    "Zion National Park",
 ]
 
 # --- Section configuration ---------------------------------------------------
@@ -50,16 +51,17 @@ REGION_ORDER = [
 SECTIONS = {
     "trailheads": {
         "nav_label": "Trailheads",
-        "hub_title": f"Southern California Trailhead Parking: Every Lot, Honestly ({CURRENT_YEAR})",
-        "meta_title": f"Southern California Trailhead Parking: Lot Sizes, Fill Times & Passes ({CURRENT_YEAR})",
-        "meta_description": "Trailhead parking across Southern California — the San Bernardinos, San Gabriels, San Jacintos and San Diego County. How many cars each lot fits, when it fills, what pass you need, and what to do when it's full.",
+        "hub_title": f"Trailhead Parking, Honestly: Every Lot We Cover ({CURRENT_YEAR})",
+        "meta_title": f"Trailhead Parking Guides: Lot Sizes, Fill Times & Passes ({CURRENT_YEAR})",
+        "meta_description": "Trailhead parking across Southern California and Zion National Park. How many cars each lot fits, when it fills, what pass or permit you need, and what to do when it's full.",
         "hub_intro": (
-            "The hike is rarely the hard part out here — the lot is. Each guide below covers one "
+            "The hike is rarely the hard part — the lot is. Each guide below covers one "
             "trailhead: how many cars actually fit, when it fills on a weekend, what goes on the "
             "dash, the tow/citation risk of getting creative, and the realistic plan B. Pass rules "
-            "vary by range — the <a href=\"/adventure-pass/\">Adventure Pass</a> covers most "
-            "national-forest trailheads in the San Bernardinos and San Gabriels, but not the "
-            "state, county and city lots in San Diego."
+            "change completely between regions — the <a href=\"/adventure-pass/\">Adventure Pass</a> "
+            "covers most national-forest trailheads in the San Bernardinos and San Gabriels, but "
+            "buys nothing at San Diego's state, county and city lots, and nothing at Zion, where "
+            "the shuttle decides where you park at all."
         ),
         "marker_emoji": "🅿️",
         "fact_rows": [

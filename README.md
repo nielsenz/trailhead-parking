@@ -7,8 +7,7 @@ rules, enforcement reality, and the realistic plan B. Sister site to
 **horizontal** play: organized around the question ("where do I park?"), not a
 destination, so it can grow across ranges.
 
-**Coverage (July 2026):** four Southern California regions, 20 trailheads,
-24 pages.
+**Coverage (July 2026):** five regions, 25 trailheads, 29 pages.
 
 - **San Bernardino Mountains (11)** — Lake Arrowhead/Crestline/Running Springs
   (6), Big Bear (Castle Rock, Cougar Crest, Discovery Center, Pine Knot),
@@ -18,6 +17,9 @@ destination, so it can grow across ranges.
 - **San Jacinto Mountains (1)** — Humber Park/Devil's Slide.
 - **San Diego County (4)** — Cedar Creek Falls, Three Sisters Falls, Potato
   Chip Rock/Mt. Woodson, Torrey Pines.
+- **Zion National Park, Utah (5)** — Zion Visitor Center (the master parking
+  page), Angels Landing, Temple of Sinawava/The Narrows, Canyon Overlook,
+  Kolob Canyons.
 
 Plus the Adventure Pass explainer and About.
 
@@ -83,11 +85,13 @@ anything with an unknown or missing region falls into a trailing "Elsewhere"
 group so the mistake is visible on the page rather than silent. Adding a region
 = add the string to the features and to `REGION_ORDER`.
 
-Because coverage is no longer one forest, pass rules can't be assumed: the
-Adventure Pass covers the Angeles, Cleveland, Los Padres and San Bernardino
-national forests, and nothing else. San Diego's lots are state (Torrey Pines)
-and city (Lake Poway) — the /adventure-pass/ page now says so explicitly, and
-so does each affected trailhead page.
+Because coverage is no longer one forest — or one state — pass rules can't be
+assumed: the Adventure Pass covers the Angeles, Cleveland, Los Padres and San
+Bernardino national forests, and nothing else. San Diego's lots are state
+(Torrey Pines) and city (Lake Poway); Zion is NPS, with a $35 vehicle entrance
+fee. The /adventure-pass/ page says so explicitly, and so does each affected
+trailhead page — our readers arrive from the forest pages and will assume the
+pass travels with them.
 
 ## Roadmap (researched July 2026)
 
@@ -102,14 +106,33 @@ pass system, sources, and phone calls:
    Fork, Chantry Flat, Switzer Falls, Icehouse Canyon.
 3. ~~**Batch 3 — San Diego:**~~ ✅ Built 2026-07-20 — Cedar Creek Falls, Three
    Sisters Falls, Potato Chip Rock, Torrey Pines.
-4. **Next — Eastern San Gabriels / Angeles Crest depth** (Mt. Baldy Village,
-   Sturtevant, Mt. Wilson via Sierra Madre once the upper trail reopens), then
-   **Santa Monicas / Malibu** (Sandstone Peak, Escondido Falls — county and
-   state lots, a different fee world again).
+4. ~~**Batch 4 — Zion National Park:**~~ ✅ Built 2026-07-21 — Visitor Center,
+   Angels Landing, Temple of Sinawava, Canyon Overlook, Kolob Canyons. First
+   non-California region, and the first batch where the agency published
+   enough to state hard numbers on every page.
+5. **Next — the rest of the NPS shuttle/permit belt**, on the same logic:
+   Bryce, Arches (timed entry), Rocky Mountain NP (timed entry), Haena/Kalalau.
+   All publish their rules in detail. Then **Eastern San Gabriels / Angeles
+   Crest depth** (Mt. Baldy Village, Sturtevant, Mt. Wilson via Sierra Madre
+   once the upper trail reopens) and **Santa Monicas / Malibu** (Sandstone
+   Peak, Escondido Falls).
 
-**Hold on national expansion** — the big national parking-pain spots (Zion,
-Maroon Bells, Haena) already have official reservation/shuttle systems;
-regional depth beats national thin coverage.
+**Reversed 2026-07-21: national parks are in scope where the data is.** The
+earlier call was to hold, on the reasoning that the big parking-pain spots
+(Zion, Maroon Bells, Haena) "already have official reservation/shuttle
+systems." That reasoning was backwards. A shuttle system doesn't answer the
+parking question, it *is* the parking question — "where do I park for Angels
+Landing?" has a genuinely non-obvious answer, and it's the same permit-is-not-
+a-parking-pass pattern that Cedar Creek Falls already handles well.
+
+The practical argument is stronger still: batches 2 and 3 kept running into
+sources that publish nothing. Seven of those eight pages couldn't state a lot
+capacity because no official count exists. NPS publishes capacities, shuttle
+schedules, permit mechanics and seasonal driving rules — the Zion batch landed
+concrete, sourced numbers on every page. **Prefer regions by whether the agency
+publishes real data, not by distance from the San Bernardinos.**
+
+Still holding on: thin coverage of anywhere we can't source properly.
 
 ### Open items
 

@@ -1479,6 +1479,486 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.987,
+          37.2003
+        ]
+      },
+      "properties": {
+        "name": "Zion Canyon Visitor Center",
+        "slug": "zion-visitor-center",
+        "region": "Zion National Park",
+        "meta_title": "Zion National Park Parking: The 350-Space Lot, Springdale & the Shuttle (2026)",
+        "meta_description": "Where to actually park at Zion. The Visitor Center lot has 350+ free spaces and fills by early morning February–November. Springdale's paid zones run $15–$25/day with a free town shuttle. Adventure Pass is not valid here.",
+        "card_summary": "350+ free spaces at the South Entrance — full by early-to-mid morning most of the year. Springdale's paid lots ($15–$25) plus a free town shuttle are the real plan B.",
+        "quick_answer": "<strong>The Visitor Center lot is the only large free parking in the park, and it fills early.</strong> NPS publishes <strong>over 350 spaces</strong> (a dozen-plus accessible) at the South Entrance, and says plainly that from <strong>February through November parking often fills by early or mid-morning</strong>. Entrance is <strong>$35 per vehicle for 7 days</strong>; America the Beautiful covers it.\n\nWhen it's full, the answer is <strong>Springdale</strong>: metered on-street zones at <strong>$25 (Zone A) / $20 (Zone B) / $15 (Zone C) per day</strong>, plus a <strong>free town shuttle</strong> to the park's pedestrian entrance. Note for SoCal hikers: an <a href=\"/adventure-pass/\"><strong>Adventure Pass is not valid at Zion</strong></a> — it's a national-forest pass, and this is a national park.",
+        "badges": [
+          {
+            "label": "350+ free spaces",
+            "tone": "good"
+          },
+          {
+            "label": "Fills by early–mid morning Feb–Nov",
+            "tone": "warn"
+          },
+          {
+            "label": "Adventure Pass NOT valid",
+            "tone": "bad"
+          }
+        ],
+        "trail_served": "Shuttle hub for all of Zion Canyon — Angels Landing (via The Grotto), The Narrows (via Temple of Sinawava), Emerald Pools, Watchman Trail from the lot itself",
+        "fee": "Parking free; park entrance $35/vehicle (7 days), $30 motorcycle, $20/person. America the Beautiful ($80) accepted. Zion annual $70. Non-US residents 16+ pay a $100 surcharge unless holding an annual or America the Beautiful pass",
+        "lot_size": "Over 350 spaces, more than a dozen accessible (NPS figure). Human History Museum adds 51; Nature Center is down to 16 during construction",
+        "fill_time": "NPS: \"parking often fills by early or mid-morning\" February–November. Visitor reports put the free lots gone between 7 and 9am on busy days",
+        "overflow": "Springdale paid parking ($15–$25/day by zone) + free Springdale town shuttle to the pedestrian entrance; SunTran bus from St. George/Hurricane",
+        "tow_risk": "NPS states illegally parked vehicles are subject to citation and/or towing. Do not park on vegetation, roadsides, or wait idling for a space",
+        "restrooms": true,
+        "road_access": "Paved — SR-9 through Springdale to the South Entrance",
+        "best_season": "Shuttle season March 7 – Nov 28, 2026. Private vehicles get the Scenic Drive back Nov 29 – Dec 25 and after Jan 2",
+        "address": "Zion Canyon Visitor Center, 1 Zion Park Blvd, Springdale, UT 84767",
+        "official_url": "https://www.nps.gov/zion/planyourvisit/traffic.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The one thing to understand about Zion",
+            "body": "<strong>You cannot drive the Zion Canyon Scenic Drive during shuttle season.</strong> That's the whole system. From <strong>March 7 through November 28, 2026</strong>, the road to The Grotto, Zion Lodge, and Temple of Sinawava is closed to private vehicles — you park once, at the Visitor Center or in Springdale, and ride the free shuttle from there.\n\nSo \"parking at Zion\" really means parking at the South Entrance. NPS lists <strong>over 350 spaces</strong> at the Zion Canyon Visitor Center, 51 more at the Human History Museum, and 16 at the Nature Center during construction. That's it for free parking inside the park, and NPS is blunt about the math: February through November, it <strong>fills by early or mid-morning</strong>. In December, January, and February the park sometimes closes the Scenic Drive outright once no legal parking remains."
+          },
+          {
+            "heading": "Plan B: Springdale",
+            "body": "Springdale is engineered for exactly this. Paid on-street parking runs <strong>6am–5pm daily</strong> in three zones — <strong>Zone A $25/day</strong> (closest to the entrance, through town shuttle stop 4), <strong>Zone B $20</strong> (Sundance Rd to Anasazi Way), <strong>Zone C $15</strong> (Lion Blvd) — with half-day rates after 1pm and meters that accept up to three consecutive days. The Bit and Spur off-street lot at 1212 Zion Park Blvd is $20 all day, 6am–4pm. Oversized vehicles are Zone C only, $30. After 5pm on-street parking is free.\n\nThe <strong>Springdale town shuttle is free</strong>, runs nine stops along Zion Park Boulevard every 10–15 minutes, and drops you at the park's pedestrian entrance where you walk in and catch the canyon shuttle. A round trip on the town line is 20–30 minutes. Private hotel and business lots in town also sell day parking, typically in the same $20–$30 range.\n\nHonest version: if you're not in the Visitor Center lot by about 8am in season, budget $20 and skip the circling."
+          },
+          {
+            "heading": "The pass question (read this if you came from a SoCal forest page)",
+            "body": "Zion charges a <strong>national park entrance fee</strong>: $35 per private vehicle good for 7 days, $30 motorcycle, $20 per person on foot or bike. An <strong>America the Beautiful</strong> interagency pass ($80) covers it, as do the Senior, Access, Military, and 4th Grade interagency passes. A Zion-only annual pass is $70.\n\nWhat does <strong>not</strong> work: the <a href=\"/adventure-pass/\">Adventure Pass</a>. It's a Southern California <em>national forest</em> day-use pass and has no standing at a National Park Service entrance station. If you've been hiking on an Adventure Pass all spring and are driving to Zion, you're paying at the gate or upgrading to America the Beautiful. There is currently <strong>no timed-entry or reservation system</strong> to enter Zion — the only reservation in the park is the <a href=\"/trailheads/angels-landing/\">Angels Landing permit</a>."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park at Zion National Park?",
+            "a": "At the Zion Canyon Visitor Center just inside the South Entrance — over 350 free spaces — and then ride the free shuttle into the canyon. If it's full, park in Springdale ($15–$25/day depending on zone) and take the free town shuttle to the pedestrian entrance."
+          },
+          {
+            "q": "What time does Zion's parking lot fill up?",
+            "a": "NPS says parking often fills by early or mid-morning from February through November. Visitor reports on busy summer and fall days put the free lots gone somewhere between 7 and 9am. Arrive at opening or plan on Springdale."
+          },
+          {
+            "q": "Can you drive your own car in Zion Canyon?",
+            "a": "Not during shuttle season. In 2026 the shuttle runs March 7 through November 28, and the Zion Canyon Scenic Drive is closed to private vehicles that whole time. Private vehicles are allowed on the Scenic Drive from November 29 to December 25 and after January 2, until the shuttle restarts in spring."
+          },
+          {
+            "q": "How much does it cost to enter Zion National Park?",
+            "a": "$35 per private vehicle for 7 days, $30 for a motorcycle, or $20 per person on foot or bicycle. An America the Beautiful pass ($80) covers entry. Non-US residents aged 16 and older pay an additional $100 surcharge unless they hold an annual or America the Beautiful pass."
+          },
+          {
+            "q": "Is an Adventure Pass valid at Zion?",
+            "a": "No. The Adventure Pass is a Southern California national-forest parking pass and is not accepted at any national park entrance, including Zion. You need the $35 vehicle entrance fee or an America the Beautiful interagency pass."
+          }
+        ],
+        "related": [
+          {
+            "label": "Angels Landing — permit vs. parking",
+            "href": "/trailheads/angels-landing/"
+          },
+          {
+            "label": "Temple of Sinawava — The Narrows access",
+            "href": "/trailheads/temple-of-sinawava/"
+          },
+          {
+            "label": "Canyon Overlook — the drivable one",
+            "href": "/trailheads/canyon-overlook/"
+          },
+          {
+            "label": "Kolob Canyons — the uncrowded entrance",
+            "href": "/trailheads/kolob-canyons/"
+          },
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9513,
+          37.2591
+        ]
+      },
+      "properties": {
+        "name": "Angels Landing / The Grotto (Shuttle Stop 6)",
+        "slug": "angels-landing",
+        "region": "Zion National Park",
+        "meta_title": "Angels Landing Parking & Permits: You Can't Drive There (2026)",
+        "meta_description": "There is no Angels Landing parking lot. The Grotto trailhead is shuttle-only March 7–Nov 28, 2026. The permit lottery costs $6 to apply plus $3 per person — and it does nothing for your parking. How both systems actually work.",
+        "card_summary": "No lot, no drive-up. Shuttle-only to The Grotto in season, and a $6 + $3/person permit lottery that buys you exactly zero parking privileges.",
+        "quick_answer": "<strong>There is no Angels Landing parking lot, and your permit doesn't get you one.</strong> The trail starts at <strong>The Grotto, shuttle stop 6</strong>, on a road closed to private vehicles from <strong>March 7 to November 28, 2026</strong>. You park at the <a href=\"/trailheads/zion-visitor-center/\">Visitor Center</a> or in Springdale like everyone else, then ride in.\n\nThe <strong>permit is separate from everything</strong>: <strong>$6 to apply</strong> (covers up to 6 people) plus <strong>$3 per person</strong> if you win. It is not a parking pass, not an entrance fee, and not a shuttle ticket. Rangers check it at The Grotto, at Scout Lookout, and on the chains.",
+        "badges": [
+          {
+            "label": "Shuttle-only Mar 7–Nov 28",
+            "tone": "bad"
+          },
+          {
+            "label": "Permit lottery required",
+            "tone": "warn"
+          },
+          {
+            "label": "$6 apply + $3/person",
+            "tone": "info"
+          }
+        ],
+        "trail_served": "Angels Landing via West Rim Trail (5.4 mi RT, chains section permit-required); Scout Lookout and the West Rim Trail are permit-free from the same stop",
+        "fee": "Park entrance $35/vehicle. Permit: $6 non-refundable application (up to 6 people) + $3 per person if awarded. Shuttle is free",
+        "lot_size": "None — The Grotto has no public parking during shuttle season. It's a shuttle stop with a picnic area and restrooms",
+        "fill_time": "N/A for parking. The binding constraint is the permit lottery, then the morning shuttle queue at the Visitor Center — expect a line before 8am in summer",
+        "overflow": "Park at the Visitor Center (350+ spaces) or Springdale ($15–$25/day) — see the Zion parking master page",
+        "tow_risk": "You physically cannot drive the Scenic Drive in season; in winter, park only in the marked Grotto pullout spaces",
+        "restrooms": true,
+        "road_access": "Zion Canyon Scenic Drive — shuttle only Mar 7–Nov 28, 2026; drivable Nov 29–Dec 25 and after Jan 2",
+        "best_season": "Spring and fall. Winter is the only time you can drive to the trailhead, but ice on the chains is a real hazard",
+        "official_url": "https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The permit is not a parking pass",
+            "body": "People conflate three separate transactions at Zion, and Angels Landing is where it hurts. <strong>Entrance fee</strong> ($35/vehicle, or America the Beautiful) gets your car through the gate. <strong>Parking</strong> is first-come at the Visitor Center or paid in Springdale. <strong>The Angels Landing permit</strong> is a lottery-issued authorization to walk the chains section past Scout Lookout — and it grants you nothing else. Winning it does not reserve a space, does not skip the shuttle line, and does not cover entry.\n\nRangers may check the permit <em>anywhere</em> — NPS specifically names The Grotto, Scout Lookout, and the trail itself. Carry it. Without it, they may turn you around."
+          },
+          {
+            "heading": "How the lottery actually works in 2026",
+            "body": "Two lotteries, both on Recreation.gov.\n\n<strong>Seasonal lottery</strong> — apply months ahead, rank up to seven date/time options. 2026 windows: Feb 13–25 for March–May hikes; Apr 1–20 for June–August; <strong>Jul 1–20 for September 1–November 30</strong> (permits issued July 25); <strong>Oct 1–20 for December 1, 2026 – February 28, 2027</strong>. <strong>$6</strong> to apply, covering up to six people, non-refundable. If you win, <strong>$3 per person</strong> — refundable if you cancel at least two days out.\n\n<strong>Day-before lottery</strong> — opens <strong>12:01am and closes 3pm Mountain Time</strong>, results at 4pm the same day, for the following day's hike. Same <strong>$6</strong> application fee, and here everything is non-refundable with no cancellation. This is the real option for anyone already in town, and it's how a lot of people get on the rock."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Scout Lookout is free and permit-free.</strong> The West Rim Trail up to Scout Lookout — Walter's Wiggles, the switchbacks, the view down the canyon — requires no permit at all. It's the same trailhead, the same shuttle, and about 4 miles round trip. Only the final half-mile of chains is gated by the lottery. If your application loses, you have not lost your day.\n\nThe other honest Plan B is timing: in <strong>winter</strong> (Nov 29–Dec 25 and after Jan 2 in the 2026–27 season) the Scenic Drive reopens to private vehicles and you can simply drive to The Grotto and park in the small pullout. Permits are still required year-round, and the December–February lottery window opens October 1. The catch is ice — the chains section in winter is a genuinely different hike, and the reason the drive-up is available is the same reason most people shouldn't take it."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for Angels Landing?",
+            "a": "You don't park at the trailhead. From March 7 to November 28, 2026, the Zion Canyon Scenic Drive is closed to private vehicles, so you park at the Zion Canyon Visitor Center (350+ free spaces) or in paid Springdale parking ($15–$25/day) and ride the free shuttle to The Grotto, stop 6."
+          },
+          {
+            "q": "Does an Angels Landing permit include parking or park entry?",
+            "a": "No. The permit only authorizes the chains section past Scout Lookout. You still pay the $35 vehicle entrance fee (or use an America the Beautiful pass) and still find parking on your own. The permit gives you no priority in the lot or the shuttle line."
+          },
+          {
+            "q": "How much does the Angels Landing permit cost?",
+            "a": "$6 to apply to either lottery, covering an application for up to six people, non-refundable. If you're awarded a permit, it's an additional $3 per person. The seasonal lottery's per-person fee is refundable if you cancel at least two days before your hike; the day-before lottery's fees are not refundable at all."
+          },
+          {
+            "q": "Can you hike to Scout Lookout without a permit?",
+            "a": "Yes. Only the chains section beyond Scout Lookout requires a permit. The West Rim Trail up to Scout Lookout — roughly 4 miles round trip from The Grotto, including Walter's Wiggles — is open to anyone, no lottery needed."
+          },
+          {
+            "q": "When is the day-before Angels Landing lottery?",
+            "a": "It opens at 12:01am and closes at 3pm Mountain Time each day, with results issued at 4pm the same day for the next day's hike. It costs $6 to apply and covers up to six people."
+          }
+        ],
+        "related": [
+          {
+            "label": "Zion National Park parking — where to leave the car",
+            "href": "/trailheads/zion-visitor-center/"
+          },
+          {
+            "label": "Temple of Sinawava — the other shuttle-only trailhead",
+            "href": "/trailheads/temple-of-sinawava/"
+          },
+          {
+            "label": "Angels Landing permits (NPS)",
+            "href": "https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9478,
+          37.2853
+        ]
+      },
+      "properties": {
+        "name": "Temple of Sinawava (Shuttle Stop 9)",
+        "slug": "temple-of-sinawava",
+        "region": "Zion National Park",
+        "meta_title": "The Narrows Parking: Temple of Sinawava Is Shuttle-Only (2026)",
+        "meta_description": "There's no parking at Temple of Sinawava during shuttle season — it's stop 9 on a road closed to cars March 7–Nov 28, 2026. Where to actually leave the car, plus the 150 CFS closure rule and Zion's active cyanobacteria advisory.",
+        "card_summary": "The Narrows trailhead has no lot in season — it's shuttle stop 9, a 45-minute ride from the Visitor Center. Closes above 150 CFS, and a cyanobacteria advisory is active park-wide.",
+        "quick_answer": "<strong>Cyanobacteria advisory is active park-wide:</strong> NPS says do not submerge your head in or drink water from any river in Zion. The Narrows also <strong>closes entirely when the Virgin River exceeds 150 CFS</strong> or under a flash flood warning — check the <a href=\"https://waterdata.usgs.gov/monitoring-location/09405500/\" rel=\"noopener\">USGS gauge</a> the morning you go.\n\n<strong>On parking: there isn't any here.</strong> Temple of Sinawava is <strong>shuttle stop 9</strong>, the last one, on a road closed to private vehicles <strong>March 7 – November 28, 2026</strong>. You park at the <a href=\"/trailheads/zion-visitor-center/\">Visitor Center</a> or Springdale and ride ~45 minutes each way.",
+        "badges": [
+          {
+            "label": "Shuttle-only Mar 7–Nov 28",
+            "tone": "bad"
+          },
+          {
+            "label": "Closes above 150 CFS",
+            "tone": "warn"
+          },
+          {
+            "label": "Cyanobacteria advisory active",
+            "tone": "warn"
+          }
+        ],
+        "trail_served": "Riverside Walk (1 mi paved, mostly accessible) and The Narrows bottom-up from the Temple of Sinawava",
+        "fee": "Park entrance $35/vehicle (America the Beautiful accepted). Shuttle free. No permit for bottom-up Narrows day hiking",
+        "lot_size": "No public parking in shuttle season — it's a bus stop with restrooms. In winter, a modest paved turnaround lot that fills fast",
+        "fill_time": "N/A in season. The real clock is the shuttle: the last-stop ride is ~45 minutes each way, and morning queues at the Visitor Center start before 8am in summer",
+        "overflow": "Visitor Center lot (350+ spaces) or Springdale paid zones ($15–$25/day) — this is the parking decision, made 8 miles earlier",
+        "tow_risk": "Not applicable in season — the road is closed to you. In winter, use marked spaces only; NPS cites and tows illegally parked vehicles",
+        "restrooms": true,
+        "road_access": "End of Zion Canyon Scenic Drive; shuttle only Mar 7–Nov 28, 2026, drivable Nov 29–Dec 25 and after Jan 2",
+        "best_season": "Late spring through early fall for wading. Spring runoff regularly pushes flows past the 150 CFS closure line",
+        "official_url": "https://www.nps.gov/zion/planyourvisit/thenarrows.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The parking question has already been answered",
+            "body": "Temple of Sinawava is stop 9 — the end of the line — on the Zion Canyon Scenic Drive, and during shuttle season that road belongs to the buses. From <strong>March 7 through November 28, 2026</strong> there is no version of this where you drive up and park at the Riverside Walk trailhead.\n\nSo the decision that matters happens at the South Entrance: <a href=\"/trailheads/zion-visitor-center/\">Visitor Center lot</a> (350+ free spaces, gone by early-to-mid morning per NPS) or Springdale's paid zones at $15–$25/day with a free town shuttle in. From the Visitor Center, the shuttle takes about <strong>45 minutes</strong> to reach Temple of Sinawava, with buses every 5–10 minutes. Build 90 minutes of round-trip bus time into your day and don't be the person sprinting for the last departure — in the peak schedule the final bus leaves the Temple at 8:15pm."
+          },
+          {
+            "heading": "The two things that close The Narrows",
+            "body": "<strong>Flow.</strong> NPS closes The Narrows to all travel when the Virgin River runs over <strong>150 cubic feet per second</strong>, and during flash flood warnings. Below 70 CFS is the comfortable range with knee-deep crossings; above 70 it's mid-thigh and genuinely hard work. The <a href=\"https://waterdata.usgs.gov/monitoring-location/09405500/\" rel=\"noopener\">USGS gauge at Virgin River near Springdale</a> updates continuously — check it the morning of, not the week before. Spring runoff blows past 150 routinely.\n\n<strong>Cyanobacteria.</strong> Park biologists have found toxic cyanobacteria in the Virgin River, and the advisory is current: don't drink the water, don't filter it and drink it, and don't submerge your head. This does not close the hike — people wade The Narrows daily under it — but it does mean packing every drop of drinking water you'll need, which is heavier than most first-timers plan for."
+          },
+          {
+            "heading": "Plan B",
+            "body": "If the river's too high or the day's too short, the <strong>Riverside Walk</strong> is the answer that's already at the same stop: a paved, mostly accessible one-mile path along the Virgin River to where The Narrows begins. It's the best scenery-per-effort in Zion and it stays open when the canyon itself doesn't.\n\nIf you want to actually drive to this trailhead, that window is <strong>November 29 – December 25 and after January 2</strong>, when the Scenic Drive reopens to private vehicles. The parking at the Temple is a modest turnaround lot that fills quickly, and winter Narrows hiking requires a drysuit rental from Springdale — but you will have the place to yourself. And when the shuttle isn't running and the canyon has no legal parking left, NPS has been known to close the Scenic Drive entirely, so start early even in December."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for The Narrows in Zion?",
+            "a": "During shuttle season (March 7–November 28, 2026) you can't park at the trailhead. Park at the Zion Canyon Visitor Center or in Springdale and ride the free shuttle to Temple of Sinawava, stop 9 — about a 45-minute ride from the Visitor Center."
+          },
+          {
+            "q": "When does The Narrows close?",
+            "a": "NPS closes The Narrows to all travel when the Virgin River flow exceeds 150 cubic feet per second, and during flash flood warnings. Check the USGS gauge for the Virgin River near Springdale the morning you plan to hike."
+          },
+          {
+            "q": "Is there a cyanobacteria warning at Zion right now?",
+            "a": "Yes. NPS advises visitors not to drink water from or submerge their heads in any river in Zion because of toxic cyanobacteria. The advisory does not close The Narrows, but you must carry all your drinking water — filtering river water is not safe against these toxins."
+          },
+          {
+            "q": "Do you need a permit for The Narrows?",
+            "a": "Not for the bottom-up day hike from Temple of Sinawava, which is what most visitors do. The top-down through-hike from Chamberlain's Ranch is a separate wilderness permit."
+          },
+          {
+            "q": "How long does the shuttle take to Temple of Sinawava?",
+            "a": "About 45 minutes each way from the Zion Canyon Visitor Center, making a round trip roughly an hour and a half of bus time before you hike anything. Shuttles run every 5–10 minutes in the canyon."
+          }
+        ],
+        "related": [
+          {
+            "label": "Zion National Park parking — where to leave the car",
+            "href": "/trailheads/zion-visitor-center/"
+          },
+          {
+            "label": "Angels Landing — permit vs. parking",
+            "href": "/trailheads/angels-landing/"
+          },
+          {
+            "label": "The Narrows (NPS)",
+            "href": "https://www.nps.gov/zion/planyourvisit/thenarrows.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9407,
+          37.2134
+        ]
+      },
+      "properties": {
+        "name": "Canyon Overlook Trailhead",
+        "slug": "canyon-overlook",
+        "region": "Zion National Park",
+        "meta_title": "Canyon Overlook Trail Parking: Tiny Lot Just East of the Tunnel (2026)",
+        "meta_description": "Canyon Overlook is the Zion trailhead you can actually drive to — but the lot east of the Zion–Mt Carmel Tunnel is tiny and gridlocks by mid-morning. Plus the June 2026 rule that bans large vehicles from the highway entirely.",
+        "card_summary": "The one big Zion hike you drive to — into a lot NPS itself warns you may have to circle for. And as of NPS's June 2026 rules, big rigs can't reach it at all.",
+        "quick_answer": "<strong>The only marquee Zion hike you can still drive to — into a genuinely tiny lot.</strong> It sits on Highway 9 immediately east of the Zion–Mt Carmel Tunnel, open <strong>year-round with no shuttle</strong>. NPS doesn't publish a space count; it just warns you should expect several passes before finding a spot. Pit toilets on site.\n\n<strong>New for 2026:</strong> vehicles over <strong>35'9\" long, 7'10\" wide, 11'4\" tall or 50,000 lbs are banned outright</strong> from the highway between Canyon Junction and the East Entrance — NPS's large-vehicle page, updated <strong>June 2026</strong>, says they \"will not be permitted.\" It no longer offers the old $15 tunnel escort as a way through.",
+        "badges": [
+          {
+            "label": "Drivable — no shuttle",
+            "tone": "good"
+          },
+          {
+            "label": "Very small lot, fills fast",
+            "tone": "warn"
+          },
+          {
+            "label": "Large vehicles banned (2026 rule)",
+            "tone": "bad"
+          }
+        ],
+        "trail_served": "Canyon Overlook Trail — 1 mile round trip, 154 ft gain, moderate; sandstone steps up to 18\", tread as narrow as 12\", overhead clearance as low as 4 ft. No pets",
+        "fee": "Park entrance $35/vehicle (America the Beautiful accepted). No separate parking fee, no permit",
+        "lot_size": "Small paved lot on the south side of Hwy 9 — NPS publishes no space count and tells visitors to expect multiple attempts. Visitor reports describe roughly 8–12 spaces",
+        "fill_time": "Fills quickly through the busy summer months; earlier than you'd like on any pleasant morning. Early morning or late afternoon are the reliable windows",
+        "overflow": "Several small pullouts further east on Hwy 9 — legal, but you walk back along a road with no shoulder and steady tunnel traffic",
+        "tow_risk": "Park fully in designated spaces or established pullouts; NPS cites and tows vehicles parked on roadsides and vegetation",
+        "restrooms": true,
+        "road_access": "Paved Hwy 9 (Zion–Mt Carmel Highway), immediately east of the tunnel's east portal. Open year-round; watch for ice on the ledges in winter",
+        "best_season": "Year-round. Sunset is the classic time and also the second crush of the day",
+        "official_url": "https://www.nps.gov/thingstodo/hike-canyon-overlook.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "A real trailhead lot, and it's the whole problem",
+            "body": "Canyon Overlook is the exception in Zion: it's on the Zion–Mt Carmel Highway, not the Scenic Drive, so <strong>no shuttle serves it and none is needed</strong>. You drive up, park, and walk half a mile to a railed sandstone ledge looking straight down the switchbacks into Zion Canyon. One mile round trip, 154 feet of gain, and one of the best payoff-to-effort ratios in the park — which is exactly why the parking is what it is.\n\nThe lot is a small paved strip on the south side of Highway 9 right where the tunnel spits you out eastbound. <strong>NPS does not publish a capacity figure</strong>, and we won't invent one — what the agency does say is that visitors should anticipate multiple attempts before securing a spot. Hiker accounts consistently describe something in the neighborhood of a dozen spaces. Pit toilets are at the lot. The trailhead itself is across the road from the parking, so watch for traffic exiting the tunnel."
+          },
+          {
+            "heading": "The June 2026 rule that changed the drive",
+            "body": "This matters if you're in anything larger than a car. <strong>As of NPS's June 2026 update</strong>, vehicles exceeding <strong>35 feet 9 inches in length, 7 feet 10 inches in width, 11 feet 4 inches in height, or 50,000 pounds</strong> are no longer permitted on the Zion–Mt Carmel Highway between Canyon Junction and the East Entrance. Combined vehicles are capped at 50 feet overall with a 26-foot trailer. Measurements include mirrors, tires, and attachments.\n\nThis appears to <strong>replace the tunnel escort system</strong>. NPS no longer lists the escort service, or the $15 tunnel permit that used to hold traffic and walk oversize rigs through one at a time; the current page simply says over-limit vehicles will not be permitted, and offers no exception or workaround. NPS doesn't spell out the permit's retirement in so many words, so if your trip depends on it, confirm at <strong>(435) 772-3256</strong>. NPS cited a 2016 study finding the escort system left an average of only 19 minutes of free-flowing traffic per hour at the tunnel, and 8 minutes on the worst day measured. If your rig is over the limit, you cannot reach Canyon Overlook from the west, and you cannot use SR-9 as a through route; the detours are Highway 20 to Bryce (~150 miles) or Highway 59 toward the North Rim (~128 miles)."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Go east.</strong> If the lot is full, continue on Highway 9 — there are several small established pullouts further east, and people park there and walk back. Be honest about that walk: Highway 9 here is narrow, shoulderless, and full of drivers who just came out of a dark tunnel. It's fine at 7am and unpleasant at 2pm.\n\n<strong>Or go later.</strong> The two clean windows are early morning and the hour or so before the sunset crowd arrives. Mid-morning through mid-afternoon is when the tunnel backs up and the lot gridlocks.\n\n<strong>Or go elsewhere on the east side.</strong> The Zion–Mt Carmel Highway east of the tunnel is full of slickrock pullouts with no crowds at all, and the entrance fee you already paid covers all of it. If you're set on Canyon Overlook and it's noon in July, the realistic move is to come back at 6am tomorrow."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where do you park for the Canyon Overlook Trail?",
+            "a": "In the small lot on the south side of Highway 9 immediately east of the Zion–Mt Carmel Tunnel. The trailhead is across the road from the lot. Pit toilets are available in the parking area."
+          },
+          {
+            "q": "How many parking spaces are at Canyon Overlook?",
+            "a": "NPS does not publish a number — it simply warns visitors to expect several attempts before finding a spot. Visitor reports describe roughly a dozen spaces. It is one of the smallest developed trailhead lots in the park."
+          },
+          {
+            "q": "Do you need the shuttle for Canyon Overlook?",
+            "a": "No. Canyon Overlook is on the Zion–Mt Carmel Highway, not the Zion Canyon Scenic Drive, so it's drivable year-round and no shuttle serves it. This makes it the go-to hike when Zion Canyon's shuttle logistics don't fit your day."
+          },
+          {
+            "q": "Can you drive an RV to Canyon Overlook in 2026?",
+            "a": "Only if it's under the limits. Per NPS's June 2026 large-vehicle page, vehicles longer than 35 feet 9 inches, wider than 7 feet 10 inches, taller than 11 feet 4 inches, or over 50,000 pounds are banned from the Zion–Mt Carmel Highway between Canyon Junction and the East Entrance. NPS no longer offers the $15 tunnel escort permit as a way through; confirm at (435) 772-3256 if your rig is near the limits."
+          },
+          {
+            "q": "What if the Canyon Overlook lot is full?",
+            "a": "Continue east on Highway 9 to one of several small pullouts and walk back — but the road has essentially no shoulder and heavy tunnel traffic, so it's only reasonable early or late. Otherwise, come back at dawn."
+          }
+        ],
+        "related": [
+          {
+            "label": "Zion National Park parking — the master page",
+            "href": "/trailheads/zion-visitor-center/"
+          },
+          {
+            "label": "Kolob Canyons — the other drive-yourself entrance",
+            "href": "/trailheads/kolob-canyons/"
+          },
+          {
+            "label": "Large vehicle rules on the Zion–Mt Carmel Highway (NPS)",
+            "href": "https://www.nps.gov/zion/planyourvisit/large-vehicles.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.193,
+          37.4527
+        ]
+      },
+      "properties": {
+        "name": "Kolob Canyons Visitor Center",
+        "slug": "kolob-canyons",
+        "region": "Zion National Park",
+        "meta_title": "Kolob Canyons Parking (Zion): Drive Yourself, No Shuttle, No Crowd (2026)",
+        "meta_description": "Kolob Canyons is Zion's separate entrance at I-15 Exit 40 — own visitor center, own lot, no shuttle, drive the whole 5-mile scenic road yourself. Same $35 entrance fee, a fraction of the people.",
+        "card_summary": "Zion without the shuttle: separate entrance at I-15 Exit 40, park at trailheads directly, drive the 5-mile scenic road. Road reopened in 2023 after a collapse and has been open since.",
+        "quick_answer": "<strong>The Zion where you still just park at the trailhead.</strong> Kolob Canyons has its own entrance at <strong>I-15 Exit 40</strong> — 40 miles north of Zion Canyon, 17 south of Cedar City — its own visitor center and lot, and <strong>no shuttle system at all</strong>. You drive the <strong>five-mile scenic road</strong> and park at viewpoints and trailheads directly.\n\nSame <strong>$35 vehicle entrance fee</strong> (America the Beautiful accepted), collected at the Kolob Canyons Visitor Center — everyone must stop. Visitor center hours are <strong>8am–12pm and 1pm–5pm</strong>, closed over the lunch hour. The road closed for a collapse in 2023 and <strong>reopened November 29, 2023</strong>; it's been open since, but still shuts for winter snow and ice.",
+        "badges": [
+          {
+            "label": "No shuttle — drive yourself",
+            "tone": "good"
+          },
+          {
+            "label": "Far fewer people",
+            "tone": "good"
+          },
+          {
+            "label": "Winter snow closures",
+            "tone": "info"
+          }
+        ],
+        "trail_served": "Over 20 miles of trails — Taylor Creek Middle Fork, Timber Creek Overlook, Lee Pass to Kolob Arch. Groups over 12 are restricted to Timber Creek Overlook",
+        "fee": "Park entrance $35/vehicle for 7 days (America the Beautiful accepted). All visitors must stop at the Kolob Canyons Visitor Center to pay or show a pass",
+        "lot_size": "Visitor center lot plus individual trailhead and viewpoint lots along the 5-mile road. No published space counts — but demand here is a fraction of Zion Canyon's",
+        "fill_time": "Rarely the story. Trailhead lots at Taylor Creek and Lee Pass can fill on peak spring weekends; Zion Canyon this is not",
+        "overflow": "Generally unnecessary. If a trailhead lot is full, the next viewpoint down the road usually isn't",
+        "tow_risk": "Low — use designated spaces; standard NPS citation/tow policy applies",
+        "restrooms": true,
+        "road_access": "Paved Kolob Canyons Road, 5 miles from I-15 Exit 40. Reopened Nov 29, 2023 after rehabilitation; may close in winter for snow or ice",
+        "best_season": "Spring for Taylor Creek's wildflowers and flowing water, fall for color. Check road status before winter trips",
+        "address": "Kolob Canyons Visitor Center, 3752 E Kolob Canyon Rd, New Harmony, UT 84757 (I-15 Exit 40)",
+        "official_url": "https://www.nps.gov/zion/planyourvisit/kolob-canyons.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "A different park, on the same ticket",
+            "body": "Kolob Canyons is administratively Zion and functionally somewhere else. It has a <strong>separate entrance off I-15 at Exit 40</strong>, no connection by road to Zion Canyon (it's about a 40-mile drive between them), its own visitor center, and — the point — <strong>no shuttle</strong>. The whole apparatus that governs a Zion Canyon day, the 350-space lot, the bus queue, the 8am scramble, simply doesn't exist here. You drive the five-mile Kolob Canyons Road yourself and park where you're hiking.\n\nEvery visitor must stop at the <strong>Kolob Canyons Visitor Center</strong> to pay the entrance fee or display an interagency pass. It's open <strong>8am–12pm and 1pm–5pm</strong> — note the lunch closure, which catches people. One limitation worth knowing: <strong>wilderness permits are only issued at the Zion Canyon Visitor Center</strong>, 40 miles away, so if your plan needs one, sort it out first."
+          },
+          {
+            "heading": "Road status, honestly",
+            "body": "Kolob Canyons Road has a recent history worth knowing about. In March 2023 rangers spotted a depression in the pavement and closed the road as a precaution; it then began to collapse. NPS and Federal Highway Administration engineers rebuilt it — excavating and reinforcing the base eight feet deep with geo-grid and compacted soil, repaving over 6,000 square feet, and rebuilding drainage — and the road <strong>reopened November 29, 2023</strong> with full access past South Fork Picnic Area to the Lee Pass Trailhead, Kolob Canyons Picnic Area, and Kolob Viewpoint.\n\nIt has been open since. The remaining caveat is seasonal: NPS says the road <strong>may close during winter months due to snow or ice</strong>, and that pedestrians can't walk it during plowing. Check the park's conditions page before a December-to-March trip. (Different road, common confusion: <strong>Kolob Terrace Road</strong> — the one to Lava Point and the Subway — typically closes fall through spring at Maloney Hill.)"
+          },
+          {
+            "heading": "Plan B — this is the Plan B",
+            "body": "Kolob Canyons is what you do when Zion Canyon has already beaten you. If you rolled up to the South Entrance at 10am in October and the Visitor Center lot was full, Springdale wanted $25, and the shuttle line was 200 people deep, Kolob is 40 miles north on the same 7-day entrance receipt and you will park at the trailhead.\n\nWhat's there: over 20 miles of trail, the Timber Creek Overlook (a flat mile round trip from the road's end), Taylor Creek Middle Fork to the Double Arch Alcove, and the long haul from Lee Pass toward Kolob Arch. The Finger Canyons in late-day light are the reason photographers make the drive on purpose rather than as a fallback. If you're arriving from I-15 anyway — coming down from Salt Lake or up from Vegas — it's not a consolation prize, it's a better first day."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need a shuttle for Kolob Canyons?",
+            "a": "No. Kolob Canyons has no shuttle system. You drive the entire five-mile Kolob Canyons Road yourself and park at the viewpoints and trailheads, year-round when the road is open."
+          },
+          {
+            "q": "Is Kolob Canyons Road open?",
+            "a": "Yes — it reopened November 29, 2023 after a rehabilitation project that followed a 2023 road collapse, and has been open since. NPS notes it may still close during winter months due to snow or ice, so check current conditions before a cold-season trip."
+          },
+          {
+            "q": "Does your Zion entrance fee cover Kolob Canyons?",
+            "a": "Yes. It's the same park. The $35 per-vehicle fee is valid for 7 days at all Zion entrances, and America the Beautiful passes are accepted. You must stop at the Kolob Canyons Visitor Center to pay or show your pass."
+          },
+          {
+            "q": "How far is Kolob Canyons from Zion Canyon?",
+            "a": "About 40 miles by road — Kolob Canyons is at Interstate 15 Exit 40, roughly 17 miles south of Cedar City. There is no road connection through the park between the two areas."
+          },
+          {
+            "q": "Can you get wilderness permits at Kolob Canyons?",
+            "a": "No. Wilderness permits are issued only at the Zion Canyon Visitor Center near the South Entrance, so arrange any permit you need before driving to Kolob."
+          }
+        ],
+        "related": [
+          {
+            "label": "Zion National Park parking — the master page",
+            "href": "/trailheads/zion-visitor-center/"
+          },
+          {
+            "label": "Canyon Overlook — the other drivable trailhead",
+            "href": "/trailheads/canyon-overlook/"
+          },
+          {
+            "label": "Kolob Canyons (NPS)",
+            "href": "https://www.nps.gov/zion/planyourvisit/kolob-canyons.htm"
+          }
+        ]
+      }
     }
   ]
 }

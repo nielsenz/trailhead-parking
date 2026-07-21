@@ -50,6 +50,57 @@ section is still closed.
 
 ---
 
+## Zion (batch 4, logged 2026-07-21)
+
+Seasonal by nature — most of this batch is time-bound and dated in-text so
+staleness is visible rather than silent.
+
+### [ ] All 2026 shuttle dates roll over annually
+**Logged 2026-07-21.** Verified against the NPS 2026 schedule release: shuttle
+season **March 7 – November 28, 2026**; private vehicles get Zion Canyon Scenic
+Drive **Nov 29 – Dec 25** and **after Jan 2**; holiday service Dec 26 – Jan 2.
+Five pages depend on these dates. NPS publishes next year's in early February —
+**re-check then and update all five at once.**
+
+### [ ] Angels Landing lottery windows are already rolling
+**Logged 2026-07-21.** The Jul 1–20 seasonal window (for Sep 1–Nov 30) closed
+before this page shipped; **Oct 1–20** (for Dec 1 – Feb 28, 2027) is next.
+$6 application + $3/person. Page is dated in-text; refresh each window.
+
+### [ ] Tunnel escort abolition is an inference, not an NPS sentence
+**Logged 2026-07-21.** NPS's large-vehicle page (updated June 2026) states the
+size/weight ban and says over-limit vehicles "will not be permitted," but
+**never explicitly says the $15 tunnel escort permit was discontinued.** The
+page was rewritten to claim only what NPS actually states and to point readers
+at **(435) 772-3256**. An earlier draft asserted a "June 7, 2026" effective
+date that no NPS source publishes — don't reintroduce it without a citation.
+
+### [ ] Canyon Overlook has no published space count
+**Logged 2026-07-21.** No official figure exists. The page uses NPS's own
+warning to expect several passes, and attributes "roughly a dozen" to visitor
+reports only.
+
+### [ ] `/zion/planyourvisit/parking.htm` is a 404
+**Logged 2026-07-21.** The master page uses `traffic.htm` as `official_url`
+instead. Fine, but check whether NPS later publishes a real parking URL.
+
+### [ ] $100 non-US-resident surcharge has no stated effective date
+**Logged 2026-07-21.** On the NPS fees page now (ages 16+, waived with an
+annual/AtB pass), but new enough to be volatile.
+
+### [ ] Live conditions cited on Zion pages
+**Logged 2026-07-21.** The **cyanobacteria advisory** (active, NPS conditions
+page updated June 9 2026) and **Narrows 150 CFS closure rule** are current
+status, not standing facts. Kolob Canyons Road may close for winter snow/ice.
+Re-check before each season.
+
+### [ ] Hidden Canyon and Observation Point (East Rim) remain long-term closed
+**Logged 2026-07-21.** Not surfaced on any of the five pages since none serves
+those trails. If they reopen, they're strong candidates — Observation Point
+especially, given the East Mesa drive-yourself alternative.
+
+---
+
 ## Contradictions between official sources
 
 Each of these has two live, official, mutually inconsistent pages. The site
