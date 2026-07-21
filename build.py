@@ -41,6 +41,8 @@ REGION_ORDER = [
     "San Jacinto Mountains",
     "San Diego County",
     "Zion National Park",
+    "Bryce Canyon National Park",
+    "Arches National Park",
 ]
 
 # --- Section configuration ---------------------------------------------------
@@ -53,15 +55,16 @@ SECTIONS = {
         "nav_label": "Trailheads",
         "hub_title": f"Trailhead Parking, Honestly: Every Lot We Cover ({CURRENT_YEAR})",
         "meta_title": f"Trailhead Parking Guides: Lot Sizes, Fill Times & Passes ({CURRENT_YEAR})",
-        "meta_description": "Trailhead parking across Southern California and Zion National Park. How many cars each lot fits, when it fills, what pass or permit you need, and what to do when it's full.",
+        "meta_description": "Trailhead parking across Southern California, Zion, Bryce Canyon and Arches. How many cars each lot fits, when it fills, what pass or permit you need, and what to do when it's full.",
         "hub_intro": (
             "The hike is rarely the hard part — the lot is. Each guide below covers one "
             "trailhead: how many cars actually fit, when it fills on a weekend, what goes on the "
             "dash, the tow/citation risk of getting creative, and the realistic plan B. Pass rules "
             "change completely between regions — the <a href=\"/adventure-pass/\">Adventure Pass</a> "
             "covers most national-forest trailheads in the San Bernardinos and San Gabriels, but "
-            "buys nothing at San Diego's state, county and city lots, and nothing at Zion, where "
-            "the shuttle decides where you park at all."
+            "buys nothing at San Diego's state, county and city lots, and nothing in the Utah "
+            "national parks, where a shuttle, a permit lottery or a 1-hour posted limit decides "
+            "where you park at all."
         ),
         "marker_emoji": "🅿️",
         "fact_rows": [

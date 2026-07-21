@@ -1959,6 +1959,1016 @@
           }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1695,
+          37.6404
+        ]
+      },
+      "properties": {
+        "name": "Bryce Canyon Visitor Center",
+        "slug": "bryce-canyon-visitor-center",
+        "region": "Bryce Canyon National Park",
+        "meta_title": "Bryce Canyon Parking (2026): The Shuttle Is Free AND Optional — You Can Drive",
+        "meta_description": "Where to park at Bryce Canyon. Unlike Zion, the shuttle is optional and every viewpoint stays open to private cars. $35/vehicle for 7 days, no timed entry, no reservations. But the Visitor Center lot is 1-hour parking only.",
+        "card_summary": "The anti-Zion. Free shuttle you never have to ride, no reservation system, and you can drive to all four amphitheater viewpoints — but the Visitor Center lot is a 1-hour lot, not a hiker lot.",
+        "quick_answer": "<strong>If you came here from our Zion pages, unlearn the shuttle.</strong> At Bryce Canyon the shuttle is <strong>free and completely optional</strong> — NPS states flatly that \"in no area of the park is riding the shuttle mandatory\" and that no reservations are required for it. Bryce Point, Inspiration Point, Sunset Point, and Sunrise Point all stay <strong>open to private vehicles year-round</strong>. There is no road closed to your car the way Zion Canyon Scenic Drive is.\n\n<strong>There is also no timed entry.</strong> NPS: \"There are no advanced reservations required to enter Bryce Canyon National Park.\" Pay <strong>$35 per vehicle, good 7 days</strong>, and drive in. The one trap is the lot you're aiming at: <strong>Visitor Center parking is 1-hour only</strong>. Hikers are supposed to use the Additional Parking Lot across the road, or the free all-day lot at the Shuttle Station in Bryce Canyon City. And note for SoCal drivers — an <a href=\"/adventure-pass/\"><strong>Adventure Pass is not valid here</strong></a>; it's a national-<em>forest</em> pass.",
+        "badges": [
+          {
+            "label": "Shuttle free AND optional",
+            "tone": "good"
+          },
+          {
+            "label": "No timed entry, no reservations",
+            "tone": "good"
+          },
+          {
+            "label": "Visitor Center lot is 1-hour only",
+            "tone": "warn"
+          }
+        ],
+        "trail_served": "Hub for the whole Bryce Amphitheater — Navajo Loop and Queen's/Navajo Combination from Sunset Point, Queen's Garden from Sunrise Point, Peekaboo Loop and Hat Shop from Bryce Point, Fairyland Loop from Fairyland Point, plus the 5.5-mile Rim Trail",
+        "fee": "Parking free everywhere in the park. Entrance $35/vehicle (7 days), $30 motorcycle, $20 per person 16+ (under 16 free). Bryce Canyon annual $70. America the Beautiful ($80) accepted, as are Senior, Access, Military and 4th Grade passes. Non-US residents 16+ pay an additional $100 per person unless holding an Annual or America the Beautiful pass. The park does not accept cash — card only, or buy a digital pass on Recreation.gov",
+        "lot_size": "NPS publishes exact counts for the viewpoint lots (Sunset 115, Sunrise 113, Bryce Point 49, Inspiration 36, Paria View 21, Fairyland 20, Mossy Cave 15) but does not publish a space count for the Visitor Center lot, the Additional Parking Lot across the road, or the Shuttle Station lot. Visitor Center parking is posted 1-hour",
+        "fill_time": "NPS does not publish a fill time. What it does publish: the amphitheater is \"the most congested area of the park,\" spaces \"can be sparse during our peak seasons,\" and lots that reach capacity \"may be temporarily closed until parking becomes available.\" Peak months are May through September; visitor reports put the squeeze from mid-morning to mid-afternoon",
+        "overflow": "Free all-day parking at the Shuttle Station in Bryce Canyon City (shuttle Stop 1), and the Additional Parking Lot across from the Visitor Center. Both connect to the free shuttle",
+        "tow_risk": "Not a towing hotspot — the park's enforcement lever is the 1-hour limit at the Visitor Center and closing full lots at the entrance. Park in marked spaces only; NPS routes oversize vehicles out of the amphitheater lots rather than ticketing them in",
+        "restrooms": true,
+        "road_access": "Paved. Highway 63 south from Highway 12; the Visitor Center sits adjacent to the entrance fee booths at the north end of the park",
+        "best_season": "Open 24 hours a day, year-round. Shuttle runs April 3 – October 18, 2026. Visitor Center 8am–8pm summer, 8am–6pm spring and fall, 8am–4:30pm winter",
+        "address": "Bryce Canyon Visitor Center, Highway 63, Bryce Canyon City, UT 84764",
+        "official_url": "https://www.nps.gov/brca/planyourvisit/parking-information.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "Bryce is not Zion — read this before you plan the day",
+            "body": "Half the people who drive from Zion to Bryce arrive braced for the same system, and it isn't the same system.\n\nAt Zion, the Scenic Drive is <strong>closed to private vehicles</strong> for most of the year and the shuttle is the only way in. At Bryce, NPS answers its own FAQ this way: <em>\"In no area of the park is riding the shuttle mandatory.\"</em> The parking page says the same thing from the other direction — <em>\"Shuttles are offered as a convenience but are not mandatory; no reservations required.\"</em> Every viewpoint has a lot open to private cars.\n\nSo the three things Bryce does <strong>not</strong> have: no mandatory shuttle, no timed-entry reservation (that's Arches you're thinking of), and no shuttle ticket — the bus is included with your entrance fee, and Interagency Annual, Access, and Lifetime pass holders just show the pass to the driver.\n\nWhat Bryce has instead is a straightforward capacity problem in a three-mile stretch of road. The Bryce Amphitheater — Bryce, Inspiration, Sunset, and Sunrise Points — holds a combined <strong>313 parking spaces</strong> across its four main lots, and takes the overwhelming share of a park that draws over two million visitors a year. NPS names the cause without hedging: <em>\"The number one cause of parking lot congestion is hikers whose cars sit in popular overlook parking lots for multiple hours while they hike. When these parking lots reach capacity, they may be temporarily closed until parking becomes available.\"</em> That last clause is the one to plan around. A full lot at Bryce doesn't mean circling — it can mean a ranger waving you past the turn."
+          },
+          {
+            "heading": "Where to actually leave the car",
+            "body": "<strong>Not at the Visitor Center, if you're hiking.</strong> NPS is explicit on the shuttle page: <em>\"If you're boarding here, be sure to park your car across the street in the Additional Parking Lot. Visitor Center parking is 1 hour.\"</em> The Visitor Center lot is for people watching the 24-minute film and asking a ranger about trail conditions, not for people spending four hours on the Fairyland Loop.\n\nThe two long-stay options NPS actually recommends:\n\n<strong>Shuttle Station, Bryce Canyon City (Stop 1)</strong> — free all-day parking, outside the park entirely. You buy your pass and board there with a shorter line. This is the recommended play in July and August.\n\n<strong>Additional Parking Lot, across from the Visitor Center</strong> — inside the fee gate, all-day, and the designated place for oversize rigs.\n\nOn oversize: vehicles <strong>23 feet (7 m) or longer</strong> are barred during shuttle hours from the Visitor Center 1-hour lot, Sunrise Point, Bryce Lodge, Sunset Point, Inspiration Point, and Bryce Point. Paria View bans them at all hours because the lot is too small to turn around in. If you're in a Class C or towing anything, your parking decision is made for you: Shuttle Station, Additional Parking Lot, or your own campsite/hotel. The southern Scenic Drive past Mile 3 has no such restriction — NPS says all vehicles including oversize \"are permitted to drive this road and park at all viewpoints.\""
+          },
+          {
+            "heading": "The fee, the passes, and the pass that doesn't work",
+            "body": "<strong>$35 per private vehicle, valid 7 days.</strong> $30 for a motorcycle, $20 per person on foot or bike (under 16 free). A Bryce Canyon annual pass is $70; <strong>America the Beautiful</strong> at $80 covers it and every other federal site. Non-US residents aged 16 and over pay an <strong>additional $100 per person</strong> unless they hold an Annual or America the Beautiful pass — same surcharge structure now in force at Zion.\n\nTwo practical notes people get caught by. First, <strong>the park does not accept cash.</strong> Card at the booth, or buy a digital pass on Recreation.gov ahead of time and have the PDF on your phone. Second, if you're boarding the shuttle outside the park at Bryce Canyon City, you need proof of admission to show the driver — the pass is what gets you on the bus.\n\nWhat doesn't work here: the <a href=\"/adventure-pass/\">Adventure Pass</a>. It's a Southern California national-forest day-use pass and has no standing at a National Park Service entrance station. If you've been hiking Icehouse Canyon and Chantry Flats on one all spring, it buys you nothing at Bryce. Same answer as at the <a href=\"/trailheads/zion-visitor-center/\">Zion entrance</a> — and if you're doing both parks in one trip, the $80 America the Beautiful pays for itself on the second gate."
+          },
+          {
+            "heading": "Plan B",
+            "body": "Bryce's Plan B is unusually good, which is the compensation for the small lots.\n\n<strong>Ride the bus you didn't have to ride.</strong> The 2026 shuttle runs <strong>April 3 – October 18</strong>: 8am–6pm April 3–May 8, <strong>8am–8pm May 9–September 20</strong>, 8am–6pm September 21–October 18. Buses come about every 15 minutes, the full 15-stop loop takes roughly 50 minutes, and there's a live shuttle tracker. Park free at the Shuttle Station, ride in, and the parking problem stops being yours. Pets aren't allowed on board — that's the one real disqualifier.\n\n<strong>Go south instead.</strong> The Scenic Drive from Mile 3 to Rainbow Point has no shuttle and much less pressure: Rainbow Point has 56 spaces, Natural Bridge 30, Swamp Canyon 11, Agua Canyon 7. Oversize vehicles are welcome at all of them.\n\n<strong>Go north to Mossy Cave.</strong> Fifteen spaces on Highway 12, a short trail, and no entrance booth to queue at — see the <a href=\"/trailheads/mossy-cave/\">Mossy Cave page</a>.\n\n<strong>Or just come at the right hour.</strong> The park is open 24 hours. The amphitheater lots are a mid-day problem; at dawn the constraint is the sunrise crowd at Bryce Point and Sunset Point, and by late afternoon in shoulder season it clears out. Honest version: if you arrive at 11am on a July Saturday and drive straight for Sunset Point, you are going to have a bad twenty minutes."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is the Bryce Canyon shuttle mandatory like Zion's?",
+            "a": "No. NPS states that in no area of Bryce Canyon is riding the shuttle mandatory, and no reservations are required for it. Every viewpoint — Bryce, Inspiration, Sunset, and Sunrise Points — has a parking lot open to private vehicles year-round. The shuttle is free with park admission and purely a convenience. This is the opposite of Zion, where the Zion Canyon Scenic Drive is closed to private cars during shuttle season."
+          },
+          {
+            "q": "Does Bryce Canyon require a timed entry or reservation?",
+            "a": "No. NPS says plainly: \"There are no advanced reservations required to enter Bryce Canyon National Park.\" You present a pass or pay the entrance fee at the booth and drive in. People often confuse Bryce with Arches, which does run a timed-entry system in peak months. Bryce does not, and never has."
+          },
+          {
+            "q": "How much does it cost to enter Bryce Canyon in 2026?",
+            "a": "$35 per private vehicle for 7 days, $30 for a motorcycle, or $20 per person on foot or bicycle (children under 16 free). A Bryce Canyon annual pass is $70 and an America the Beautiful interagency pass ($80) covers entry. Non-US residents aged 16 and older pay an additional $100 per person unless they hold an Annual or America the Beautiful pass. The park does not accept cash — bring a card or buy a digital pass on Recreation.gov."
+          },
+          {
+            "q": "Where should I park at Bryce Canyon if I'm going hiking?",
+            "a": "Not at the Visitor Center — that lot is posted 1-hour parking. NPS directs all-day parkers to the Additional Parking Lot across the road from the Visitor Center, or to the free all-day lot at the Shuttle Station in Bryce Canyon City. Both are shuttle stops. Viewpoint lots are open to cars, but they are small and NPS may close them temporarily once they reach capacity."
+          },
+          {
+            "q": "Can I park an RV at the Bryce Canyon viewpoints?",
+            "a": "Not in the amphitheater during shuttle hours. Vehicles 23 feet or longer are restricted from the Visitor Center 1-hour lot, Sunrise Point, Bryce Lodge, Sunset Point, Inspiration Point, and Bryce Point while the shuttle is operating, and from Paria View at all hours. Oversize vehicles should use the Additional Parking Lot, the Shuttle Station lot, or a campsite. The southern Scenic Drive past Mile 3 has no oversize restrictions."
+          }
+        ],
+        "related": [
+          {
+            "label": "Sunset Point — the Navajo Loop crunch",
+            "href": "/trailheads/sunset-point/"
+          },
+          {
+            "label": "Bryce Point — sunrise and Peekaboo",
+            "href": "/trailheads/bryce-point/"
+          },
+          {
+            "label": "Fairyland Point — before the fee booth",
+            "href": "/trailheads/fairyland-point/"
+          },
+          {
+            "label": "Mossy Cave — the roadside outlier",
+            "href": "/trailheads/mossy-cave/"
+          },
+          {
+            "label": "Zion parking — the park with the mandatory shuttle",
+            "href": "/trailheads/zion-visitor-center/"
+          },
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1671,
+          37.6237
+        ]
+      },
+      "properties": {
+        "name": "Sunset Point",
+        "slug": "sunset-point",
+        "region": "Bryce Canyon National Park",
+        "meta_title": "Sunset Point Parking, Bryce Canyon: 115 Spaces for the Park's Busiest Trail (2026)",
+        "meta_description": "Sunset Point has 115 spaces — the biggest lot in the Bryce Amphitheater and still the tightest squeeze, because Navajo Loop and Queen's/Navajo start here. NPS closes the lot when it fills. Wall Street closes in winter.",
+        "card_summary": "115 spaces (7 oversize) serving the busiest trailhead in the park. NPS temporarily closes the lot when it hits capacity — and blames hikers whose cars sit there for hours. Which is you.",
+        "quick_answer": "<strong>115 spaces, 7 of them oversize — an NPS-published count, and the largest lot in the Bryce Amphitheater.</strong> It still fails first, because the <strong>Navajo Loop</strong> (1.3 mi, 515 ft of climbing) and the <strong>Queen's/Navajo Combination</strong> (2.9 mi, 600 ft) both start here, and those are the two hikes almost everyone at Bryce does.\n\nNPS names the mechanism and it's uncomfortably specific: <em>\"The number one cause of parking lot congestion is hikers whose cars sit in popular overlook parking lots for multiple hours while they hike. When these parking lots reach capacity, they may be temporarily closed until parking becomes available.\"</em> So the failure mode here isn't circling — it's being turned away at the turnoff. The <strong>free, optional shuttle</strong> (Stop 11) exists exactly for this, and Sunrise Point's 113 spaces are a flat half-mile walk away on the paved Rim Trail.",
+        "badges": [
+          {
+            "label": "115 spaces (NPS count)",
+            "tone": "info"
+          },
+          {
+            "label": "Busiest trailhead in the park",
+            "tone": "warn"
+          },
+          {
+            "label": "Lot can be closed when full",
+            "tone": "bad"
+          }
+        ],
+        "trail_served": "Navajo Loop (1.3 mi RT, 515 ft, 1–2 hrs) past Thor's Hammer and Wall Street; Queen's/Navajo Combination Loop (2.9 mi, 600 ft); Rim Trail — the paved, accessible, leashed-pets-allowed 0.5 mi to Sunrise Point and 0.7 mi to Inspiration Point; Figure-8 and Peekaboo connections",
+        "fee": "Parking free. Park entrance $35/vehicle for 7 days; America the Beautiful accepted. No cash — card or digital pass only. Shuttle free with admission",
+        "lot_size": "115 total spaces, 7 oversize, per NPS. The largest of the four amphitheater lots — Sunrise has 113, Inspiration 36, Bryce Point 49",
+        "fill_time": "NPS publishes no clock time — only that the amphitheater is \"the most congested area of the park\" and that spaces \"can be sparse during our peak seasons\" (May–September). Visitor reports consistently describe mid-morning through mid-afternoon as the wall, with the lot workable again in the last hours of daylight",
+        "overflow": "Sunrise Point (113 spaces), a flat paved 0.5 mi away on the Rim Trail — you can hike Navajo/Queen's from either end. Otherwise the free shuttle from the Shuttle Station in Bryce Canyon City or the Additional Parking Lot at the Visitor Center",
+        "tow_risk": "Park in marked spaces only. The practical risk here isn't a tow, it's the lot being closed to inbound traffic once it's at capacity",
+        "restrooms": true,
+        "road_access": "Paved spur off the main park road at Mile 2.25. Vehicles 23 ft or longer are barred from this lot during shuttle hours",
+        "best_season": "Year-round; the lot is plowed as part of the priority first three miles. Wall Street on the Navajo Loop closes for the winter — Two Bridges stays open",
+        "official_url": "https://www.nps.gov/brca/planyourvisit/parking-information.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "Why the biggest lot is the worst lot",
+            "body": "Sunset Point has more spaces than any other viewpoint in the amphitheater — <strong>115, seven of them oversize</strong> — and it's still where the day goes wrong. The reason is dwell time. A viewpoint visitor parks for fifteen minutes. A Navajo Loop hiker parks for two hours; a Queen's/Navajo hiker for three; a Figure-8 hiker for five. Sunset Point is the trailhead for all of them.\n\nNPS says this out loud rather than dancing around it: hikers' cars sitting for multiple hours are <em>\"the number one cause of parking lot congestion,\"</em> and full lots <em>\"may be temporarily closed until parking becomes available.\"</em> Read that as written. You can be denied the turn, not merely delayed in it.\n\nThe trails themselves are short by national-park standards, which is part of the problem — they're achievable for everyone. Navajo Loop is <strong>1.3 miles with 515 feet of climbing</strong>, one to two hours, with grades touching 30% on the switchbacks. The <strong>Queen's/Navajo Combination</strong> is 2.9 miles and 600 feet, and is the single most-recommended hike in the park. Two million-plus annual visitors, one obvious hike, one 115-space lot."
+          },
+          {
+            "heading": "Wall Street, winter, and which way you'll actually go",
+            "body": "The Navajo Loop has two sides. <strong>Wall Street</strong> — the slot between hundred-foot fins — is the one on the postcards. It <strong>closes in winter</strong>, and NPS ties the closure to conditions rather than a fixed date: it shuts in months when precipitation combines with freezing overnight temperatures, because of rockfall. When it's closed, you descend and return via the <strong>Two Bridges</strong> side, which stays open year-round and passes directly under Thor's Hammer.\n\nThat matters for parking because a closed Wall Street doesn't reduce demand at Sunset Point at all — it just changes the route. Winter is still the easiest time to get a space here, since the lot sits inside the first three miles of road that NPS plows as a priority. After a storm the main road may close to all traffic beyond Mile 3 while crews work the higher elevations; Sunset Point at Mile 2.25 is inside that protected stretch.\n\nOne more constraint that catches people: if your vehicle is <strong>23 feet or longer</strong>, you cannot park here during shuttle hours at all. Same at Sunrise, Inspiration, Bryce Point, and Bryce Lodge."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Sunrise Point, then walk.</strong> This is the good Plan B and almost nobody uses it. Sunrise Point has <strong>113 spaces</strong> — two fewer than Sunset — and sits a <strong>flat, paved half-mile</strong> away on the Rim Trail, the most accessible trail in the park and the one section where leashed pets are allowed. Better still, hike the Queen's/Navajo loop <em>from</em> Sunrise Point instead: same loop, opposite direction, different lot.\n\n<strong>The free shuttle.</strong> Sunset Point is Stop 11. In 2026 the shuttle runs <strong>April 3 – October 18</strong>, roughly every 15 minutes, 8am–8pm from May 9 to September 20 and 8am–6pm at the shoulders. Park free and all day at the Shuttle Station in Bryce Canyon City and skip the whole question. It costs nothing beyond your entrance fee, and it's the only option if you're driving something over 23 feet.\n\n<strong>Or change the hour.</strong> The park is open 24 hours. Sunset Point at first light or in the last hour before dark is a different place, and the lot behaves accordingly. Honest version: on a summer weekend, arriving here between about 10am and 3pm without a backup plan is the mistake."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How many parking spaces are at Sunset Point in Bryce Canyon?",
+            "a": "115 total spaces, including 7 for oversize vehicles, according to the National Park Service. That makes it the largest of the four Bryce Amphitheater viewpoint lots — Sunrise Point has 113, Bryce Point 49, and Inspiration Point 36."
+          },
+          {
+            "q": "What time does the Sunset Point parking lot fill up?",
+            "a": "NPS does not publish a fill time. It says only that the Bryce Amphitheater is the most congested area of the park, that spaces can be sparse in peak season (May through September), and that lots may be temporarily closed once they reach capacity. Visitor reports put the hard window from roughly mid-morning to mid-afternoon on summer days."
+          },
+          {
+            "q": "Can you drive to Sunset Point, or do you have to take the shuttle?",
+            "a": "You can drive. The Bryce Canyon shuttle is free and optional — NPS states that riding it is not mandatory anywhere in the park. Sunset Point is shuttle Stop 11 but the lot is open to private vehicles year-round. The one exception: vehicles 23 feet or longer cannot park here during shuttle hours."
+          },
+          {
+            "q": "Where does the Navajo Loop trail start?",
+            "a": "At Sunset Point. The Navajo Loop is 1.3 miles round trip with 515 feet of elevation change, typically one to two hours, and passes Thor's Hammer and the Wall Street slot. Combined with Queen's Garden it becomes the 2.9-mile, 600-foot Queen's/Navajo Combination Loop, which can be started from either Sunset or Sunrise Point."
+          },
+          {
+            "q": "Is Wall Street open in winter?",
+            "a": "No. The Wall Street side of the Navajo Loop closes during months when precipitation combines with freezing overnight temperatures, due to rockfall risk. The Two Bridges side stays open year-round and can be hiked as an out-and-back or combined with Queen's Garden."
+          }
+        ],
+        "related": [
+          {
+            "label": "Bryce Canyon parking — the master page",
+            "href": "/trailheads/bryce-canyon-visitor-center/"
+          },
+          {
+            "label": "Bryce Point — sunrise and the Peekaboo Loop",
+            "href": "/trailheads/bryce-point/"
+          },
+          {
+            "label": "Fairyland Point — the quiet 20-space lot",
+            "href": "/trailheads/fairyland-point/"
+          },
+          {
+            "label": "Bryce Canyon parking lot counts (NPS)",
+            "href": "https://www.nps.gov/brca/planyourvisit/parking-information.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1567,
+          37.604
+        ]
+      },
+      "properties": {
+        "name": "Bryce Point",
+        "slug": "bryce-point",
+        "region": "Bryce Canyon National Park",
+        "meta_title": "Bryce Point Parking: 49 Spaces, the Sunrise Crowd & the Peekaboo Loop (2026)",
+        "meta_description": "Bryce Point has 49 spaces and is where everyone goes for sunrise. It's also the Peekaboo Loop trailhead — 5.5 miles, 1,560 feet. The spur road stays open in winter; the Paria View branch off it does not.",
+        "card_summary": "49 spaces for the park's marquee sunrise view and its best hard day hike. Two demands on one small lot, and the first of them starts before dawn.",
+        "quick_answer": "<strong>49 spaces, three of them oversize — NPS's own count — and two completely different crowds want them.</strong> Bryce Point is the classic sunrise overlook, the southernmost view over the whole amphitheater, and the crowd for that arrives in the dark. It's also the trailhead for the <strong>Peekaboo Loop</strong> (5.5 mi, 1,560 ft) and the <strong>Hat Shop</strong> (4.0 mi), which means multi-hour cars occupying a lot a third the size of Sunset Point's.\n\n<strong>Good news for winter:</strong> unlike Fairyland Point and Paria View, the Bryce Point road is <em>not</em> on the park's winter closure list, and it branches off at Mile 3 — inside the stretch NPS plows first. The catch is that <strong>Paria View</strong>, the 0.3-mile spur off this same road, closes all winter and is left unplowed on purpose.",
+        "badges": [
+          {
+            "label": "49 spaces (NPS count)",
+            "tone": "warn"
+          },
+          {
+            "label": "Sunrise crowd arrives pre-dawn",
+            "tone": "warn"
+          },
+          {
+            "label": "Open in winter",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "Peekaboo Loop (5.5 mi, 1,560 ft, 3–4 hrs, strenuous, clockwise recommended); Hat Shop Trail (4.0 mi, strenuous); Under-the-Rim Trail; southern terminus of the 5.5-mile Rim Trail",
+        "fee": "Parking free. Park entrance $35/vehicle for 7 days; America the Beautiful accepted. No cash accepted anywhere in the park",
+        "lot_size": "49 total spaces, 3 oversize, 2 ADA-designated (NPS). Roughly 40% the size of Sunset Point's lot",
+        "fill_time": "No NPS-published time. Two separate peaks: a pre-dawn sunrise fill that clears within an hour or two of sunup, and a mid-day peak driven by Peekaboo hikers and viewpoint traffic. Arrive well before sunrise if that's the plan — the lot is small and the crowd is deliberate",
+        "overflow": "Inspiration Point (36 spaces) is the nearest amphitheater lot and a strong sunrise alternative; Sunset Point (115) and Sunrise Point (113) are the bigger lots. The free shuttle serves Bryce Point as Stop 8",
+        "tow_risk": "Park only in marked spaces. NPS may temporarily close a lot that has reached capacity rather than let cars queue inside it",
+        "restrooms": "NPS does not list restrooms among Bryce Point's amenities (it lists a shuttle stop, trash and recycling, and wheelchair access). Treat the Visitor Center or Sunset Point as your last reliable stop. Pit toilets exist on the west side of the Peekaboo Loop but only in summer",
+        "road_access": "Paved. Turn east at Mile 3 of the main park road, then 2 miles up the Bryce Point spur. Vehicles 23 ft or longer are barred during shuttle hours; Paria View, off this same spur, bans them at all hours",
+        "best_season": "Year-round. Winter access is real — the road isn't seasonally closed — but the Rim Trail section between Bryce Point and Inspiration Point closes all winter due to snow cornices, and Peekaboo can be under 2–15 feet of snow mid-winter",
+        "official_url": "https://www.nps.gov/brca/planyourvisit/parking-information.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The sunrise math",
+            "body": "Bryce Point is the sunrise view — the southernmost overlook, high above the amphitheater, so the first light rakes across every hoodoo below you at once. That reputation is the parking problem. <strong>49 spaces</strong>, and a crowd that plans its arrival around an astronomical event.\n\nNPS doesn't publish a fill time for sunrise, and honestly nobody can: it moves with the calendar and the season. What's structural is the size of the lot. Forty-nine spaces is small enough that a single tour van and a dozen photographers make a visible dent. Visitor accounts converge on arriving <strong>30–60 minutes before sunrise</strong>, not for parking alone but because the railed viewing platform is a single narrow deck and everyone squeezes onto it.\n\nThe park is <strong>open 24 hours a day</strong>, so nothing stops you from being there at 4:30am in June. The shuttle won't help you — it doesn't start until 8am even in peak season, which means <strong>every sunrise visitor is a driver</strong>. That's worth internalizing: at dawn the free-shuttle escape valve does not exist, and the 49 spaces are the whole supply.\n\nThe consolation is that it empties fast. An hour after sunrise, most of that crowd has gone to breakfast."
+          },
+          {
+            "heading": "Peekaboo: the other, longer claim on the same 49 spaces",
+            "body": "Bryce Point is the trailhead for the <strong>Peekaboo Loop</strong>, which NPS puts at <strong>5.5 miles with 1,560 feet of elevation change and 3–4 hours</strong> — an initial 670-foot descent before the loop even begins, grades averaging 6% and hitting 27%, rated strenuous. NPS recommends hiking it <strong>clockwise</strong>. It's a horse trail as well: you'll meet riders, especially in summer, and hikers yield.\n\nSo from mid-morning, the lot is holding cars for three to four hours at a stretch. Add the <strong>Hat Shop Trail</strong> (4.0 miles, strenuous) and the Under-the-Rim Trail, and Bryce Point is doing serious trailhead duty on a viewpoint-sized lot. This is precisely the dynamic NPS calls out as the number one cause of congestion, and it's the argument for taking the shuttle in if you're hiking rather than sightseeing.\n\nIn mid-winter Peekaboo can sit under <strong>2 to 15 feet of snow</strong> and become effectively inaccessible — which, perversely, makes Bryce Point one of the easier winter lots in the park."
+          },
+          {
+            "heading": "Winter: what closes and what doesn't",
+            "body": "This is where Bryce Point gets misdescribed. <strong>The Bryce Point road stays open in winter.</strong> Only two spur roads close for the season: the 1-mile road to <a href=\"/trailheads/fairyland-point/\">Fairyland Point</a> and the 0.3-mile road to Paria View, both left deliberately unplowed as cross-country ski and snowshoe surfaces. Bryce Point is on neither list.\n\nWhat does happen: after a snowstorm the main park road <strong>may close to all traffic beyond Mile 3</strong> while crews plow the higher southern elevations. The Bryce Point turnoff is at Mile 3, in the amphitheater stretch NPS plows first — so it's on the protected side of that line, but a storm morning can still mean waiting. Check current conditions before dawn.\n\nTwo winter closures that do bite here: the <strong>Rim Trail between Bryce Point and Inspiration Point</strong> is closed for the whole winter season because of snow cornices over a narrow trail, so the classic 1.5-mile rim walk to Inspiration is off. And Paria View — 21 spaces, no oversize vehicles ever — is gone until spring."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Inspiration Point.</strong> 36 spaces, off the main road rather than up a 2-mile spur, and by many accounts the better sunrise view of the two — you're closer to the hoodoos. Seven of its spaces are oversize, the most in the amphitheater. If Bryce Point looks full in the dark, don't sit there idling; drive back down and go to Inspiration.\n\n<strong>Sunrise Point, for sunrise.</strong> Yes, really. 113 spaces, and the name isn't a coincidence. It's the largest practical dawn option in the park.\n\n<strong>Shuttle Stop 8, for hiking.</strong> If you're doing Peekaboo and not chasing dawn, park free all day at the Shuttle Station in Bryce Canyon City and ride in — April 3 to October 18 in 2026, buses roughly every 15 minutes. It removes a four-hour car from a 49-space lot, which is the entire point. Just check the last-bus times before you drop below the rim: in peak season the final northbound leaves Bryce Point at 7:52pm, and in the shoulder seasons at 6:07pm."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How many parking spaces are at Bryce Point?",
+            "a": "49 total, including 3 oversize spaces and 2 ADA-designated spaces, per the National Park Service. It is significantly smaller than Sunset Point (115) and Sunrise Point (113), which matters because Bryce Point is both the main sunrise viewpoint and the Peekaboo Loop trailhead."
+          },
+          {
+            "q": "What time should I arrive at Bryce Point for sunrise?",
+            "a": "NPS publishes no arrival guidance, but the lot holds only 49 cars and the shuttle doesn't start running until 8am, so every sunrise visitor is driving. Visitor reports consistently recommend arriving 30 to 60 minutes before sunrise — as much for a spot on the narrow railed viewing platform as for parking. The park is open 24 hours, so there is no gate to wait for."
+          },
+          {
+            "q": "Is the road to Bryce Point closed in winter?",
+            "a": "No. Only two spur roads close for the winter season at Bryce Canyon: the 1-mile road to Fairyland Point and the 0.3-mile road to Paria View, both left unplowed for skiers and snowshoers. Bryce Point stays open, and its turnoff at Mile 3 sits inside the amphitheater stretch that NPS plows first. After storms the main road may close beyond Mile 3 until plowing is finished."
+          },
+          {
+            "q": "Where does the Peekaboo Loop start?",
+            "a": "At Bryce Point. NPS lists it at 5.5 miles with 1,560 feet of elevation change and 3 to 4 hours, rated strenuous, with an initial 670-foot descent before the loop begins. Clockwise is recommended. It is shared with horses and mules, and hikers yield to riders. Mid-winter snow depths of 2 to 15 feet can make it inaccessible."
+          },
+          {
+            "q": "Are there restrooms at Bryce Point?",
+            "a": "NPS does not list restrooms among Bryce Point's amenities — it lists a shuttle stop, trash and recycling receptacles, and wheelchair accessibility. Plan on the Visitor Center or Sunset Point, both of which have confirmed restrooms. Pit toilets on the west side of the Peekaboo Loop operate only in summer."
+          }
+        ],
+        "related": [
+          {
+            "label": "Bryce Canyon parking — the master page",
+            "href": "/trailheads/bryce-canyon-visitor-center/"
+          },
+          {
+            "label": "Sunset Point — the Navajo Loop crunch",
+            "href": "/trailheads/sunset-point/"
+          },
+          {
+            "label": "Fairyland Point — closed to cars all winter",
+            "href": "/trailheads/fairyland-point/"
+          },
+          {
+            "label": "Peekaboo Loop (NPS)",
+            "href": "https://www.nps.gov/thingstodo/peekaboo-loop.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1478,
+          37.6496
+        ]
+      },
+      "properties": {
+        "name": "Fairyland Point",
+        "slug": "fairyland-point",
+        "region": "Bryce Canyon National Park",
+        "meta_title": "Fairyland Point Parking: 20 Spaces, No Shuttle, Closed to Cars All Winter (2026)",
+        "meta_description": "Fairyland Point sits before the Bryce Canyon fee booth on a 1-mile spur road. 20 spaces, no shuttle stop, no restrooms — and the road is deliberately left unplowed every winter for skiers.",
+        "card_summary": "The quiet one. 20 spaces up a 1-mile spur that leaves Highway 63 before the entrance booth, no shuttle service, and the 8-mile Fairyland Loop starting from it. Closed to vehicles all winter.",
+        "quick_answer": "<strong>Twenty spaces, three of them oversize — the smallest amphitheater-area lot NPS publishes, and the emptiest.</strong> The spur road leaves Highway 63 just inside the park boundary, <strong>before you reach the entrance fee booth</strong>, runs a mile north, and ends at an overlook the shuttle does not serve. That combination — no booth, no bus, no facilities — is why it stays quiet while Sunset Point is turning cars away two miles south.\n\n<strong>Confirmed: the road closes for the entire winter season.</strong> NPS closes the 1-mile Fairyland Point road to vehicles once snow requires plowing and then deliberately leaves it unplowed, as a surface for cross-country skiers and snowshoers. It's one of only two roads in the park closed to cars all winter — the other is Paria View. You can still walk, ski, or snowshoe in.",
+        "badges": [
+          {
+            "label": "Before the fee booth",
+            "tone": "good"
+          },
+          {
+            "label": "Only 20 spaces, no shuttle",
+            "tone": "warn"
+          },
+          {
+            "label": "Road closed to cars all winter",
+            "tone": "bad"
+          }
+        ],
+        "trail_served": "Fairyland Loop (8 mi, 1,716 ft, 4–5 hrs, strenuous — counter-clockwise recommended); northern terminus of the 5.5-mile Rim Trail; Tower Bridge via the loop's southern half",
+        "fee": "Parking free. The spur road leaves the highway before the entrance station, so there is no booth to stop at — but this is inside the park, and Bryce Canyon is a fee area throughout. Keep your $35 vehicle pass or America the Beautiful pass with the vehicle; rangers do check",
+        "lot_size": "20 total spaces, 3 oversize, 2 ADA-designated (NPS). The smallest published lot in the amphitheater area",
+        "fill_time": "NPS publishes no fill data for Fairyland Point. It is not a shuttle stop and not on the main viewpoint circuit, so it runs far quieter than Sunset or Bryce Point — but 20 spaces is 20 spaces, and a handful of Fairyland Loop hikers parked for five hours can fill it on a summer morning",
+        "overflow": "Start the Fairyland Loop from the other end instead — the Tower Bridge trailhead on the Rim Trail north of Sunrise Point, where the lot holds 113. Sunrise Point bans vehicles 23 ft and over during shuttle hours; Fairyland Point does not",
+        "tow_risk": "Low. Park in marked spaces; there is no shoulder parking on the spur road and no reason to invent any",
+        "restrooms": "No — NPS lists bicycle racks, picnic tables and wheelchair access at Fairyland Point but no restroom or water. The nearest are at the Visitor Center, about a mile and a half south",
+        "road_access": "Paved 1-mile spur east off Highway 63, signed and just inside the park boundary before the entrance station. Oversize vehicles are permitted here — one of the few amphitheater-area lots where they are",
+        "best_season": "Spring through fall. Closed to vehicles for the entire winter season once snow requires plowing; open to hikers, skiers and snowshoers year-round",
+        "official_url": "https://www.nps.gov/brca/planyourvisit/parking-information.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The lot that the system forgot",
+            "body": "Three facts make Fairyland Point the quietest developed viewpoint at Bryce, and all three are structural rather than seasonal.\n\n<strong>It's before the fee booth.</strong> The turnoff is signed off Highway 63 just inside the park boundary, ahead of the entrance station and the Visitor Center. Drivers in the entrance queue physically pass it before they've stopped to pay, and almost nobody peels off.\n\n<strong>The shuttle doesn't come here.</strong> NPS's 15-stop route covers Bryce, Inspiration, Sunset and Sunrise Points and skips Fairyland entirely. Every visitor who has parked at the Shuttle Station and boarded a bus has taken themselves out of the running for this lot.\n\n<strong>There are no facilities.</strong> NPS lists bike racks, picnic tables, and wheelchair access — no restroom, no water, no store. That filters out a large share of casual traffic.\n\nThe result is <strong>20 spaces</strong> that behave nothing like the 49 at Bryce Point. It's also, unusually, a lot where <strong>oversize vehicles are welcome</strong> — three of the twenty spaces are sized for them, while Sunrise, Sunset, Inspiration, Bryce Point and the Visitor Center 1-hour lot all shut out anything 23 feet or longer during shuttle hours.\n\nOne caution about the \"free\" framing: passing no booth is not the same as paying no fee. Bryce Canyon is a fee area throughout, and NPS asks visitors at unstaffed access points to keep proof of admission with the vehicle."
+          },
+          {
+            "heading": "Verified: the winter closure is real, and it's on purpose",
+            "body": "This one gets muddled in trip reports, so here it is straight from NPS. The <strong>1-mile road to Fairyland Point</strong> and the <strong>0.3-mile road to Paria View</strong> are the only two roads in Bryce Canyon closed to vehicles for the entire winter season. The trigger is snow that requires plowing, not a calendar date, so the exact start and end shift year to year.\n\nAnd it isn't neglect. The park closes these two spurs and <strong>deliberately leaves them unplowed</strong> to provide a groomed-by-nature surface for cross-country skiing and snowshoeing. Both roads stay fully open to people on foot, skis, or snowshoes.\n\nSo in winter, Fairyland Point becomes a 1-mile approach rather than a trailhead. Park where the spur meets the highway, and you've added two miles round trip to whatever you had planned. For the 8-mile Fairyland Loop that's a serious change to the day; for a rim view and a photograph it's a pleasant hour on skis. Separately, note that <strong>Fairyland Point is where the winter Rim Trail still works</strong> — the closed rim section is between Inspiration and Bryce Points, well south of here."
+          },
+          {
+            "heading": "The Fairyland Loop, and which end to start from",
+            "body": "NPS puts the <strong>Fairyland Loop at 8 miles with 1,716 feet of elevation change and 4–5 hours</strong>, rated strenuous, and calls it some of the best strenuous hiking in the park — rim walking near Boat Mesa on one half, deep canyon and long amphitheater views on the other. <strong>Counter-clockwise is recommended.</strong>\n\nCritically for parking, it's a loop with <strong>two trailheads</strong>. You can start at Fairyland Point (20 spaces) or at the <strong>Tower Bridge trailhead</strong> on the Rim Trail just north of Sunrise Point (113 spaces). NPS spells out the tradeoff itself: oversize vehicles are permitted at Fairyland Point, and prohibited at Sunrise Point while the shuttle is running.\n\nSo the decision is simple. Small rig, want quiet, arriving early: Fairyland Point. Arriving late, or driving anything long, or want a shuttle ride back to a different lot: start from Sunrise. Same loop, same views, completely different parking risk."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Sunrise Point and the Tower Bridge trailhead.</strong> 113 spaces, restrooms, water, a general store in season, and the same Fairyland Loop from the other end. This is the real answer if the 20 spaces are gone.\n\n<strong>In winter, park at the spur junction and walk.</strong> The road is closed to cars but open to you. A mile in, a mile out, and you will very likely have the overlook to yourself — Bryce with snow on the hoodoos is the park's best-kept condition.\n\n<strong>Or go north to <a href=\"/trailheads/mossy-cave/\">Mossy Cave</a>.</strong> Also outside the fee-booth corridor, also small, also year-round, and a 0.8-mile trail instead of an 8-mile one. If you rolled up to Fairyland with an hour to spare and found it full, that's your hour.\n\nHonest version: Fairyland Point is the one Bryce lot where showing up mid-morning is usually fine — May through October. The rest of the year, check whether the road is even open before you commit to the turn."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is the road to Fairyland Point closed in winter?",
+            "a": "Yes. The 1-mile Fairyland Point spur road closes to vehicles for the entire winter season once snow requires plowing, and NPS deliberately leaves it unplowed to provide a surface for cross-country skiers and snowshoers. It is one of only two roads in the park closed to cars all winter, along with the 0.3-mile Paria View road. Both remain open to hikers, skiers, and snowshoers on foot."
+          },
+          {
+            "q": "How many parking spaces are at Fairyland Point?",
+            "a": "20 total spaces, including 3 oversize and 2 ADA-designated, per the National Park Service. It is the smallest published lot in the Bryce Amphitheater area, but also the quietest — the shuttle doesn't stop there and the turnoff comes before the entrance station."
+          },
+          {
+            "q": "Do you have to pay the entrance fee to visit Fairyland Point?",
+            "a": "The spur road leaves Highway 63 before the entrance fee booth, so there is no station to stop at. But Fairyland Point is inside Bryce Canyon National Park, and the park is a fee area throughout. Keep your $35 vehicle pass, America the Beautiful pass, or digital pass with the vehicle — rangers check at unstaffed access points."
+          },
+          {
+            "q": "Does the Bryce Canyon shuttle stop at Fairyland Point?",
+            "a": "No. The shuttle's 15-stop route covers Bryce Point, Inspiration Point, Sunset Point, and Sunrise Point plus the Visitor Center, lodging, and campgrounds — Fairyland Point is not served. If you want to reach it, you drive, or you walk the Rim Trail north from Sunrise Point."
+          },
+          {
+            "q": "Where does the Fairyland Loop start?",
+            "a": "At either Fairyland Point or the Tower Bridge trailhead on the Rim Trail north of Sunrise Point. NPS lists the loop at 8 miles with 1,716 feet of elevation change and 4 to 5 hours, rated strenuous, with counter-clockwise recommended. Oversize vehicles can park at Fairyland Point but not at Sunrise Point while the shuttle is operating."
+          }
+        ],
+        "related": [
+          {
+            "label": "Bryce Canyon parking — the master page",
+            "href": "/trailheads/bryce-canyon-visitor-center/"
+          },
+          {
+            "label": "Mossy Cave — the other no-booth trailhead",
+            "href": "/trailheads/mossy-cave/"
+          },
+          {
+            "label": "Sunset Point — where everyone else is",
+            "href": "/trailheads/sunset-point/"
+          },
+          {
+            "label": "Visiting Bryce Canyon in winter (NPS)",
+            "href": "https://www.nps.gov/brca/planyourvisit/winter.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1102,
+          37.6657
+        ]
+      },
+      "properties": {
+        "name": "Mossy Cave",
+        "slug": "mossy-cave",
+        "region": "Bryce Canyon National Park",
+        "meta_title": "Mossy Cave Parking: 15 Spaces on Highway 12, No Fee Booth (2026)",
+        "meta_description": "Mossy Cave is Bryce Canyon's roadside outlier — a 15-space lot on Highway 12, four miles east of the Highway 63 junction, with no entrance station. 0.8 miles, 150 feet, a summer waterfall and winter icicles.",
+        "card_summary": "Fifteen spaces on Highway 12, no fee booth, no shuttle, and a 0.8-mile trail to a dripping alcove and a waterfall. The purest trailhead-parking problem in the park.",
+        "quick_answer": "<strong>Fifteen spaces. That's the whole story.</strong> Mossy Cave sits on <strong>Highway 12, about four miles east of the Highway 12/63 junction</strong> — the northern corner of Bryce Canyon, reached without passing an entrance station. NPS confirms the lot at <strong>15 spaces, 2 oversize, 2 ADA van-accessible and step-free</strong>, with accessible restrooms on site. The trail is <strong>0.8 miles round trip and 150 feet of climbing</strong>, about an hour, and it's one of the lowest-elevation hikes in the park.\n\n<strong>The common misconception: this is still inside the park and still a fee area.</strong> NPS says you can reach the trail \"without entering through the park's fee booths\" but that it \"remains a fee area requiring proof of admission.\" No booth is not the same as no fee — keep your $35 vehicle pass or America the Beautiful pass with the car.",
+        "badges": [
+          {
+            "label": "No entrance booth",
+            "tone": "good"
+          },
+          {
+            "label": "Only 15 spaces",
+            "tone": "bad"
+          },
+          {
+            "label": "Still a fee area",
+            "tone": "warn"
+          }
+        ],
+        "trail_served": "Mossy Cave Trail — 0.8 mi round trip, 150 ft elevation gain, roughly 1 hour, easy. Leads to the mossy grotto and a side spur to the waterfall on the Tropic Ditch",
+        "fee": "Parking free. No entrance station on this access, but the park entrance fee still applies — $35/vehicle for 7 days, or America the Beautiful. NPS asks visitors to keep proof of admission with the vehicle for ranger inspection. The park does not accept cash; buy a digital pass on Recreation.gov if you're arriving from the east on Highway 12",
+        "lot_size": "15 total spaces — 2 oversize, 2 ADA-designated, 2 ADA van-accessible, 2 step-free (NPS)",
+        "fill_time": "NPS publishes no fill time. With 15 spaces on a busy state highway and a trail short enough for anyone, expect it to be full at some point on most summer days — but turnover is fast, because the average visit is about an hour rather than the four hours a Fairyland Loop hiker takes",
+        "overflow": "There is no sanctioned overflow lot. Do not park along the SR-12 shoulder. Wait out the turnover, come early or late, or go elsewhere in the park",
+        "tow_risk": "Roadside parking on Highway 12 is not permitted — this is a 55+ mph state highway with a narrow shoulder and heavy RV traffic. Use the lot or come back later",
+        "restrooms": true,
+        "road_access": "Paved. Highway 12, about 4 miles east of the Highway 12/63 junction, between the park turnoff and Tropic. No shuttle service — NPS notes private options may be available",
+        "best_season": "Open year-round. Waterfalls in summer, icicles in winter; the trail crosses the creek on bridges and can be icy in cold months",
+        "official_url": "https://www.nps.gov/thingstodo/mossy-cave-trail.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The outlier, described accurately",
+            "body": "Mossy Cave gets called \"outside the park\" constantly, including by people selling tours. It isn't. Highway 12 clips the <strong>northern section of Bryce Canyon National Park</strong>, and the trailhead sits inside the boundary — it's just outside the <em>fee-booth corridor</em>, which is a different thing. NPS's own wording: you can hike it \"without entering through the park's fee booths,\" and it \"remains a fee area requiring proof of admission.\"\n\nThat distinction is the whole practical character of the place. There's <strong>no entrance queue</strong>, <strong>no shuttle</strong>, <strong>no viewpoint circuit</strong>, and <strong>no ranger waving you past a full lot</strong>. There is a 15-space asphalt rectangle beside a state highway, and either there's room or there isn't.\n\nThe lot's accessibility numbers are unusually strong for its size — of 15 spaces, <strong>2 are ADA-designated, 2 van-accessible, and 2 step-free</strong>, with accessible restrooms on site. Proportionally that's the best-equipped small lot at Bryce.\n\nThe trail earns the stop: <strong>0.8 miles round trip, 150 feet</strong>, about an hour, and NPS notes the pleasant oddity that it \"begins with a climb and ends with a descent.\" You get a dripping, moss-hung alcove, and a short spur to a waterfall — fed by the Tropic Ditch, a 19th-century irrigation diversion, which is why there's running water here and nowhere else in the hoodoos. In winter the whole thing ices over into columns. Dogs are not allowed; service animals are."
+          },
+          {
+            "heading": "Fifteen spaces and a highway",
+            "body": "Here's the arithmetic that makes this page necessary. Bryce Canyon takes over two million visitors a year. Mossy Cave is on the main route between Bryce and Escalante, Capitol Reef, and the whole eastern Utah loop, so a large share of them <em>drive past it</em>. And it has <strong>fifteen spaces</strong>.\n\nWhat saves it is dwell time. An hour is the typical visit — compare the three to five hours a Peekaboo or Fairyland Loop hiker leaves a car sitting. Turnover is genuinely fast, and waiting five or ten minutes in the lot entrance often works, which is almost never true at <a href=\"/trailheads/sunset-point/\">Sunset Point</a>.\n\nWhat doesn't save it: parking on the highway. <strong>SR-12 shoulder parking is not permitted here.</strong> This is a fast state route with heavy RV and trailer traffic and a narrow, soft shoulder, and the pedestrian crossing from a shoulder space to the trailhead is genuinely dangerous. Two of the fifteen spaces are sized for oversize vehicles — if both are taken and you're driving something long, this stop isn't happening today.\n\nNPS publishes a predicted-occupancy tool on its parking page where you can select a date, which is the closest thing to a fill forecast the park offers. It does not give a clock time, and neither will we."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Come at the edges of the day.</strong> The park is open 24 hours and the shuttle is irrelevant here, so nothing about your arrival is gated. Early morning and the last two hours of light are both quiet, and the alcove photographs better without midday glare anyway.\n\n<strong>Wait it out.</strong> Genuinely viable at this trailhead and almost nowhere else at Bryce. An hour-long average visit in a 15-space lot means a space opens every few minutes on a busy day. Pull into the entrance, don't block it, and be patient.\n\n<strong>Go into the park proper.</strong> The <a href=\"/trailheads/bryce-canyon-visitor-center/\">main entrance</a> is four miles west, and Sunset Point (115 spaces), Sunrise Point (113), and the free shuttle are all right there. Or head south past Mile 3 on the Scenic Drive, where Rainbow Point has 56 spaces and no oversize restrictions.\n\n<strong>If you're routing on to Zion</strong>, this is the natural last stop before turning west — and the parking situation there works on completely different rules. Read the <a href=\"/trailheads/zion-visitor-center/\">Zion parking page</a> before you arrive, because at Zion the shuttle is mandatory and the lot fills by mid-morning."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you have to pay to visit Mossy Cave?",
+            "a": "Yes, though there's no booth. NPS states that the Mossy Cave trailhead can be reached without entering through the park's fee booths but that it remains a fee area requiring proof of admission. Keep your $35 vehicle pass, America the Beautiful pass, or Recreation.gov digital pass with the vehicle — rangers inspect at unstaffed access points."
+          },
+          {
+            "q": "How big is the Mossy Cave parking lot?",
+            "a": "15 spaces total, per the National Park Service — including 2 oversize spaces, 2 ADA-designated, 2 ADA van-accessible, and 2 step-free. Accessible restrooms are on site. There is no overflow lot, and parking on the Highway 12 shoulder is not permitted."
+          },
+          {
+            "q": "Where is the Mossy Cave trailhead?",
+            "a": "On Highway 12 in the northern section of Bryce Canyon National Park, about four miles east of the Highway 12 and Highway 63 junction, on the way toward Tropic. It is inside the park boundary but outside the entrance-station corridor, so you reach it without queuing at a fee booth."
+          },
+          {
+            "q": "How long is the Mossy Cave trail?",
+            "a": "0.8 miles round trip with 150 feet of elevation gain, taking most people about an hour. NPS rates it easy and notes it is one of the lowest-elevation hikes in the park, and unusual in that it begins with a climb and ends with a descent. Pets are not permitted; service animals are."
+          },
+          {
+            "q": "Is Mossy Cave open in winter?",
+            "a": "Yes, it's open year-round and there is no seasonal road closure on Highway 12 comparable to the Fairyland Point spur. NPS lists waterfalls in summer and icicles in winter as seasonal features. The trail crosses the creek on bridges and can be icy in cold months, so bring traction."
+          }
+        ],
+        "related": [
+          {
+            "label": "Bryce Canyon parking — the master page",
+            "href": "/trailheads/bryce-canyon-visitor-center/"
+          },
+          {
+            "label": "Fairyland Point — the other no-booth stop",
+            "href": "/trailheads/fairyland-point/"
+          },
+          {
+            "label": "Zion parking — if you're heading west next",
+            "href": "/trailheads/zion-visitor-center/"
+          },
+          {
+            "label": "Mossy Cave Trail (NPS)",
+            "href": "https://www.nps.gov/thingstodo/mossy-cave-trail.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6199,
+          38.6165
+        ]
+      },
+      "properties": {
+        "name": "Arches National Park Entrance & Visitor Center",
+        "slug": "arches-timed-entry",
+        "region": "Arches National Park",
+        "meta_title": "Arches Timed Entry 2026: There Isn't One — Parking Is the Real Gate",
+        "meta_description": "NPS dropped Arches' timed-entry reservation for 2026. Entry is $30/vehicle for 7 days with no ticket to book — but NPS publishes the lot sizes (160, 157, 92 spaces) and says summer trailhead lots fill by 7:30am. Adventure Pass is not valid.",
+        "card_summary": "The reservation is gone for 2026 — no ticket, no 8am scramble on Recreation.gov. What replaced it is the thing the ticket was hiding: three trailhead lots totaling 409 spaces, full for hours at a time.",
+        "quick_answer": "<strong>There is no timed entry at Arches in 2026.</strong> On February 18, 2026 the park announced it <em>“will not require advanced timed-entry reservations this year,”</em> and that <em>“visitors may enter the park at any time during operating hours.”</em> You do not book anything. You just drive in and pay: <strong>$30 per private vehicle, good for 7 days</strong>, or show an America the Beautiful pass.\n\nThat removed the ticket, not the problem. The reservation was always a <em>vehicle entry</em> ticket — it was never an entrance fee, never a parking pass, and never a promise of a space at Delicate Arch. Now the constraint is undisguised: NPS says <em>“during summer months, many trailhead parking lots fill by 7:30 am”</em> and that when lots reach capacity, <strong>staff may temporarily restrict access</strong> to specific areas. SoCal note: an <a href=\"/adventure-pass/\"><strong>Adventure Pass is not valid at Arches</strong></a>.",
+        "badges": [
+          {
+            "label": "No timed entry in 2026",
+            "tone": "good"
+          },
+          {
+            "label": "Summer lots fill by 7:30am (NPS)",
+            "tone": "warn"
+          },
+          {
+            "label": "Adventure Pass NOT valid",
+            "tone": "bad"
+          }
+        ],
+        "trail_served": "The whole park — the scenic drive to Balanced Rock, The Windows, Wolfe Ranch (Delicate Arch), Fiery Furnace and Devils Garden all start from this entrance. The visitor center is also where Fiery Furnace permits are picked up",
+        "fee": "$30 per private vehicle (7 days), $25 motorcycle (7 days, up to 2 bikes / 4 people), $15 per person on foot or bike (15 and under free). Southeast Utah annual pass $55 (US residents; also covers Canyonlands, Natural Bridges, Hovenweep). America the Beautiful $80 resident / $250 non-resident. No timed-entry ticket fee in 2026 — the program is not running",
+        "lot_size": "NPS publishes real counts for the three trailhead lots: Devils Garden 160 spaces (10 oversized), Wolfe Ranch 157 (28 oversized), The Windows 92 (4 oversized) — 409 total. The visitor center lot itself has no published capacity",
+        "fill_time": "NPS: \"During summer months, many trailhead parking lots fill by 7:30 am.\" Peak congestion is 8am–3pm spring through fall, and entrance-line waits can reach an hour",
+        "overflow": "There is no overflow lot and no park shuttle. NPS directs visitors to lesser-traveled viewpoints, to visit after dark (International Dark Sky Park), or to Dead Horse Point State Park, Canyonlands, and Utahraptor State Park",
+        "tow_risk": "NPS does not publish a towing policy for Arches. It does ask visitors \"not to wait in roadways for parking spaces\" — queueing in the travel lane is the behavior rangers actively break up",
+        "restrooms": true,
+        "road_access": "Paved. US-191, five miles north of Moab; the park road climbs switchbacks immediately past the entrance station. Open 24 hours a day, year-round",
+        "best_season": "Spring and fall are the good hiking weather and the worst crowds. Summer exceeds 100°F. Winter (Nov–Feb) is the only season you can show up midday and park",
+        "address": "Arches National Park Visitor Center, US-191, Moab, UT 84532",
+        "official_url": "https://www.nps.gov/arch/planyourvisit/parking.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The 2026 headline: the reservation is gone",
+            "body": "For four seasons, entering Arches between roughly April and October meant buying a <strong>timed-entry ticket</strong> on Recreation.gov for a one-hour entry window. That system is <strong>not in effect in 2026</strong>. The park's February 18, 2026 news release is unambiguous: Arches <em>“will not require advanced timed-entry reservations this year,”</em> and <em>“visitors may enter the park at any time during operating hours.”</em>\n\nWhat still requires a reservation, per that same release: <strong>Devils Garden Campground</strong>, <strong>self-guided Fiery Furnace permits</strong>, and <strong>ranger-led Fiery Furnace hikes</strong>. Nothing else. If a blog or a tour reseller is still telling you to set an alarm for the 8am next-day ticket drop, it is describing a system that ended.\n\nOne caveat worth holding onto. Superintendent Lena Pace framed 2026 as <em>“refining our approach”</em> — not as a permanent repeal. The program has been switched on and off before. If you are planning a 2027 trip, re-check before you assume."
+          },
+          {
+            "heading": "Three separate things, and only one of them is parking",
+            "body": "Even without the reservation, people still conflate the transactions here, so:\n\n<strong>The entrance fee</strong> is <strong>$30 per private vehicle for 7 days</strong> ($25 motorcycle, $15 per person walking or biking, free for 15 and under). An <strong>America the Beautiful</strong> pass covers it, as do the Senior, Access, Military, 4th Grade, and Volunteer passes. A <strong>$55 Southeast Utah annual pass</strong> covers Arches, Canyonlands, Natural Bridges, and Hovenweep and is worth it on any two-park Moab trip. Eight <strong>fee-free days</strong> in 2026: Feb 16, May 25, Jun 14, Jul 3–5, Aug 25, Sep 17, Oct 27, and Nov 11 — note that fee-free days remove the fee, not the cars.\n\n<strong>A Fiery Furnace permit</strong> is authorization to walk into one specific labyrinth. It is not entry and not parking. See the <a href=\"/trailheads/fiery-furnace/\">Fiery Furnace page</a>.\n\n<strong>Parking</strong> is free, unreserved, unreservable, and first-come. There is no way to buy it, no way to book it, and no shuttle to substitute for it. This is the one that will actually ruin your morning.\n\nTwo pass footnotes. The <a href=\"/adventure-pass/\">Adventure Pass</a> is a Southern California <em>national forest</em> day-use pass and is worthless at a National Park Service entrance station — if that's what's in your windshield, you're paying $30 at the gate. And unlike Zion, <strong>Arches is not on the $100 non-resident surcharge list</strong>: that January 1, 2026 surcharge applies at eleven parks (Acadia, Bryce Canyon, Everglades, Glacier, Grand Canyon, Grand Teton, Rocky Mountain, Sequoia &amp; Kings Canyon, Yellowstone, Yosemite, Zion), and Arches is not one of them."
+          },
+          {
+            "heading": "What NPS actually publishes — and it's more than most parks",
+            "body": "Arches is unusual in that the Park Service prints the numbers. Its parking page lists each major lot with a hard count:\n\n<strong>Devils Garden — 160 spaces</strong> (10 oversized, 8 ADA-designated, 4 van-accessible)<br><strong>Wolfe Ranch / Delicate Arch — 157 spaces</strong> (28 oversized, 5 ADA, 2 van)<br><strong>The Windows — 92 spaces</strong> (4 oversized, 4 ADA, 2 van)\n\nThat is <strong>409 spaces</strong> for the three destinations essentially every visitor drives to. NPS also runs a <strong>live status and busy-time prediction</strong> for each of those three lots on the same page, plus an <strong>entrance webcam</strong> at go.nps.gov/archeswebcam for the gate line. Check both before you leave Moab — this is real, current data, not a guess.\n\nWhat NPS does <em>not</em> publish: capacities for the visitor center lot, Balanced Rock, Sand Dune Arch, Delicate Arch Viewpoint, or Fiery Furnace. Those exist and they're small; nobody has printed a number, so we won't invent one."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>Time is the only lever you have.</strong> NPS's own advice is to enter <strong>before 8am or after 3pm</strong>, and its traffic page warns that at peak the entrance line can cost you <strong>up to an hour</strong> and that when lots fill, <em>“periods of restricted access can last 3–5 hours.”</em> Roll in at 10am on a Saturday in May and you may sit at the gate, then find every lot that matters full, and there is no second lot to fall back on.\n\nSo: <strong>be through the gate by 7am</strong>, or come at 4pm and hike into the evening. Late afternoon is genuinely good here — Delicate Arch is a sunset hike, the light is better, and lots that were hopeless at 11am open up. Arches is an <strong>International Dark Sky Park</strong> and the release explicitly encourages after-hours visits.\n\nIf you're already at the entrance at midday and it's backed up, the honest move is to leave. <strong>Canyonlands Island in the Sky</strong> is 40 minutes away with far more parking, <strong>Dead Horse Point State Park</strong> is on the same road, and both are listed by NPS as alternatives. Come back to Arches at 5pm.\n\nAnd leave the RV in town. NPS says outright that oversize parking is <em>“extremely limited”</em> and to leave trailers in Moab or at the visitor center lot — 92 spaces at The Windows include exactly <strong>four</strong> oversized."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need a timed entry reservation for Arches in 2026?",
+            "a": "No. On February 18, 2026 Arches National Park announced it will not require advanced timed-entry reservations this year, and that visitors may enter at any time during operating hours. You still need a valid entrance pass — $30 per private vehicle for 7 days, or an America the Beautiful pass. Devils Garden Campground and both Fiery Furnace hikes still require separate reservations."
+          },
+          {
+            "q": "How much does it cost to enter Arches National Park?",
+            "a": "$30 per private vehicle valid for 7 days, $25 for a motorcycle, or $15 per person arriving on foot or by bicycle; visitors 15 and under are free. A $55 Southeast Utah annual pass covers Arches, Canyonlands, Natural Bridges and Hovenweep for a year. An America the Beautiful pass ($80 for US residents, $250 for non-residents) also covers entry."
+          },
+          {
+            "q": "Does a timed entry ticket guarantee you a parking space at Arches?",
+            "a": "It never did, and in 2026 there is no ticket at all. The reservation was only permission for a vehicle to pass the entrance station during a time window. Parking at Delicate Arch, Devils Garden and The Windows has always been first-come, first-served, with no reservation, no shuttle, and no overflow lot."
+          },
+          {
+            "q": "What time do parking lots fill at Arches?",
+            "a": "The National Park Service states that during summer months many trailhead parking lots fill by 7:30 am, and that lots at Devils Garden, Delicate Arch and The Windows are usually full for much of the day. Peak congestion runs 8 am to 3 pm spring through fall. NPS recommends entering before 8 am or after 3 pm."
+          },
+          {
+            "q": "Do non-US residents pay a surcharge at Arches?",
+            "a": "No. The $100 nonresident surcharge that took effect January 1, 2026 applies at eleven parks — Acadia, Bryce Canyon, Everglades, Glacier, Grand Canyon, Grand Teton, Rocky Mountain, Sequoia & Kings Canyon, Yellowstone, Yosemite and Zion — and Arches is not on that list. Non-residents pay the standard $30 vehicle fee, or can buy the $250 America the Beautiful Non-Resident Annual Pass."
+          }
+        ],
+        "related": [
+          {
+            "label": "Delicate Arch — Wolfe Ranch, 157 spaces",
+            "href": "/trailheads/delicate-arch/"
+          },
+          {
+            "label": "Devils Garden — the park's biggest lot",
+            "href": "/trailheads/devils-garden/"
+          },
+          {
+            "label": "The Windows — 92 spaces and constant turnover",
+            "href": "/trailheads/the-windows/"
+          },
+          {
+            "label": "Fiery Furnace — permit is not parking",
+            "href": "/trailheads/fiery-furnace/"
+          },
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5205,
+          38.7351
+        ]
+      },
+      "properties": {
+        "name": "Delicate Arch Trailhead (Wolfe Ranch)",
+        "slug": "delicate-arch",
+        "region": "Arches National Park",
+        "meta_title": "Delicate Arch Parking: 157 Spaces at Wolfe Ranch, Full by 7:30am (2026)",
+        "meta_description": "The Wolfe Ranch lot has 157 spaces (28 oversized) and NPS says it's full for hours at a time. The overflow is the Delicate Arch Viewpoint lot — which adds a mile of road walking each way. No timed entry required in 2026.",
+        "card_summary": "157 published spaces for the most-hiked trail in Utah. Full by 7:30am in summer, and the only Plan B turns a 3-mile hike into a 5-mile one along the shoulder of a road.",
+        "quick_answer": "<strong>The Wolfe Ranch lot has 157 spaces — 28 of them oversized — and NPS says it fills for hours at a time.</strong> That is the entire Delicate Arch parking situation. There is no shuttle, no reservation, and no second lot at the trailhead. The hike is <strong>3 miles round trip with 480 feet of climbing</strong>, most of it up open slickrock.\n\nWhen it's full, NPS's own answer is the <strong>Delicate Arch Viewpoint lot</strong>, then <strong>walk a mile back up the road</strong> to the trailhead — which makes the day <strong>5 miles round trip</strong>. Note that in <strong>2026 there is no timed-entry ticket</strong> to buy for any of this; the gate is open and the lot is the bottleneck.",
+        "badges": [
+          {
+            "label": "157 spaces (NPS published)",
+            "tone": "info"
+          },
+          {
+            "label": "Full for hours at a time",
+            "tone": "bad"
+          },
+          {
+            "label": "Overflow adds 2 miles of road walking",
+            "tone": "warn"
+          }
+        ],
+        "trail_served": "Delicate Arch Trail (3 mi round trip, 480 ft gain, strenuous slickrock); Wolfe Ranch cabin and the Ute petroglyph panel are a short flat walk from the same lot",
+        "fee": "Parking free. Park entrance $30/vehicle for 7 days, $25 motorcycle, $15/person. America the Beautiful accepted. No timed-entry ticket required in 2026",
+        "lot_size": "157 total spaces, 28 oversized, 5 ADA-designated (2 van-accessible) — NPS published figure. Oversize parking is in a separate area across the road from the main lot",
+        "fill_time": "NPS: summer trailhead lots \"fill by 7:30 am,\" and Delicate Arch is named as one of the lots \"usually full for much of the day.\" Sunset is the second rush — the lot refills in the late afternoon",
+        "overflow": "Delicate Arch Viewpoint parking lot, then a 1-mile walk each way along the park road to the trailhead (5 miles round trip total). No capacity published for the viewpoint lot",
+        "tow_risk": "No published towing policy. NPS asks visitors not to wait in roadways for spaces; the shoulder along the Delicate Arch road is not parking",
+        "restrooms": true,
+        "road_access": "Paved spur off the main park road, 13 miles from the entrance station — about a 30–35 minute drive from the visitor center",
+        "best_season": "Spring and fall. Summer means 100°F+ on exposed slickrock with zero shade and no water at the trailhead; winter ice on the final ledge is a real hazard",
+        "official_url": "https://www.nps.gov/arch/planyourvisit/delicate-arch.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "157 spaces, and everyone in the park wants one",
+            "body": "Arches publishes the number, which is rare and useful: the Wolfe Ranch lot holds <strong>157 vehicles</strong>, including <strong>28 oversized</strong> spaces (in a separate area across the road) and <strong>5 ADA spaces</strong>, 2 of them van-accessible. It sits <strong>13 miles from the entrance station</strong>. There are <strong>toilets open year-round</strong> and <strong>no drinking water</strong> — fill up in Moab or at the visitor center, because this is the hike that generates most of the park's heat rescues.\n\nAgainst that, the demand: Delicate Arch is the arch on the Utah license plate and the single most-searched destination in the park. NPS states flatly that lots like this one <em>“often fill for hours at a time, especially on weekends and holidays”</em> and that in summer many trailhead lots are <strong>full by 7:30 am</strong>.\n\nThere is a genuinely useful tool here: NPS runs a <strong>live parking status</strong> and a busy-times prediction for the Wolfe Ranch lot on its parking page. Look at it before you drive 13 miles up the road."
+          },
+          {
+            "heading": "The sunset problem",
+            "body": "Delicate Arch has two rush hours, not one. The morning fills the lot by 7:30 in summer. Then it empties around midday — nobody sane hikes exposed slickrock at 2pm in July — and then it <strong>fills again in the late afternoon</strong>, because sunset at the arch is a bucket-list event. NPS describes <em>“sometimes hundreds of people”</em> at the arch at sunset.\n\nSo the counterintuitive advice: <strong>the best parking odds are the worst hiking hours</strong>. If you're set on sunset, be in the lot two hours before, not thirty minutes before, and carry a headlamp — the slickrock descent in the dark is where people get hurt.\n\nThe midday window is real but only in shoulder season. In April or October, 11am–2pm is a legitimately good time to find a space and hike comfortably. In July it is a heat-illness plan."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>The official overflow is the Delicate Arch Viewpoint lot</strong>, and NPS is upfront about the cost: park there and it's <em>“about a 1-mile walk along the road to the trailhead,”</em> turning the hike into <strong>5 miles round trip</strong>. On a hot day, that's not a footnote — that's two extra miles of pavement with no shade bracketing a strenuous climb. Decide before you commit.\n\n<strong>The better Plan B is to give up on the trail and take the viewpoints, which are the same lot.</strong> The <strong>Lower Delicate Arch Viewpoint</strong> is a level <strong>100-yard walk</strong> that shows you the arch from a mile off — wheelchair-reachable, and honestly a fine photo. The <strong>Upper Viewpoint</strong> is a <strong>half-mile</strong> walk up stairs for a less obstructed angle. If you're travelling with kids, with anyone who shouldn't be on slickrock, or you've simply arrived at noon in August, this is not a consolation prize. It's the sane version of the day.\n\n<strong>The real Plan B is a clock.</strong> Be parked by 7am, or come at 4pm. NPS's park-wide guidance is to enter before 8am or after 3pm, and it applies here more than anywhere else in Arches."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How many parking spaces are at the Delicate Arch trailhead?",
+            "a": "The Wolfe Ranch parking lot has 157 total spaces, including 28 oversized spaces and 5 ADA-designated spaces (2 van-accessible), according to the National Park Service. The oversized parking is in a separate area across the road from the main lot."
+          },
+          {
+            "q": "What time does the Delicate Arch parking lot fill up?",
+            "a": "NPS states that during summer months many trailhead parking lots fill by 7:30 am, and names Delicate Arch as one of the lots usually full for much of the day. It fills a second time in the late afternoon for sunset. Arriving before 7 am or after 4 pm gives you the best odds."
+          },
+          {
+            "q": "Where do you park if the Delicate Arch lot is full?",
+            "a": "The Delicate Arch Viewpoint parking lot, about a mile down the road. NPS notes that walking back to the trailhead from there adds a mile each way, making the hike 5 miles round trip instead of 3. There is no shuttle and no other overflow lot."
+          },
+          {
+            "q": "Do you need a reservation or permit to hike Delicate Arch?",
+            "a": "No. There is no permit for the Delicate Arch trail, and in 2026 Arches is not requiring timed-entry reservations to enter the park at all. You need only a valid entrance pass — $30 per vehicle for 7 days, or an America the Beautiful pass — and a parking space."
+          },
+          {
+            "q": "Are there restrooms and water at the Delicate Arch trailhead?",
+            "a": "There are toilets at the Wolfe Ranch parking lot, open year-round. There is no drinking water at the trailhead. Carry your own — the 3-mile round trip climbs 480 feet across open slickrock with no shade, and rangers regularly perform rescues here."
+          }
+        ],
+        "related": [
+          {
+            "label": "Arches entry & parking — the 2026 master page",
+            "href": "/trailheads/arches-timed-entry/"
+          },
+          {
+            "label": "Devils Garden — the park's biggest lot",
+            "href": "/trailheads/devils-garden/"
+          },
+          {
+            "label": "The Windows — the fastest-turnover lot",
+            "href": "/trailheads/the-windows/"
+          },
+          {
+            "label": "Live parking status for Wolfe Ranch (NPS)",
+            "href": "https://www.nps.gov/arch/planyourvisit/parking.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.595,
+          38.7828
+        ]
+      },
+      "properties": {
+        "name": "Devils Garden Trailhead",
+        "slug": "devils-garden",
+        "region": "Arches National Park",
+        "meta_title": "Devils Garden Parking: 160 Spaces at the End of the Road (2026)",
+        "meta_description": "The largest lot in Arches — 160 spaces, 10 oversized — 18 miles from the entrance at the end of the scenic drive. NPS says it fills by 7:30am in summer, and there is no overflow. Landscape Arch, Double O, and the Primitive Loop start here.",
+        "card_summary": "160 spaces, the biggest lot in the park, at the very end of the road — which means if it's full you've driven 18 miles for nothing. Toilets year-round, water spring through fall.",
+        "quick_answer": "<strong>Devils Garden is the largest parking lot in Arches — 160 spaces, 10 of them oversized — and it is 18 miles from the entrance station at the literal end of the park road.</strong> Being biggest doesn't make it easy: NPS names Devils Garden as one of the lots <em>“usually full for much of the day”</em> and says summer trailhead lots fill by <strong>7:30 am</strong>.\n\nThe geography is the whole risk. There is <strong>no overflow lot and nothing else out here</strong> — if you arrive and it's full, your options are to circle, or to turn around and drive 18 miles back. Check the <strong>NPS live parking status</strong> before you commit to the drive, which takes 40–45 minutes from the visitor center.",
+        "badges": [
+          {
+            "label": "160 spaces — largest lot in the park",
+            "tone": "good"
+          },
+          {
+            "label": "Fills by 7:30am in summer",
+            "tone": "warn"
+          },
+          {
+            "label": "18 miles in, no overflow",
+            "tone": "bad"
+          }
+        ],
+        "trail_served": "Landscape Arch (1.8 mi round trip, easy, hard-packed); Double O Arch (4.0 mi round trip, strenuous, narrow ledges); the full Devils Garden loop including the Primitive Trail (7.9 mi round trip, strenuous); Tunnel, Pine Tree, Partition and Navajo arches on spurs",
+        "fee": "Parking free. Park entrance $30/vehicle for 7 days, $25 motorcycle, $15/person. America the Beautiful accepted. No timed-entry ticket required in 2026",
+        "lot_size": "160 total spaces, 10 oversized, 8 ADA-designated (4 van-accessible) — NPS published figure",
+        "fill_time": "NPS: summer trailhead lots \"fill by 7:30 am\"; Devils Garden is specifically named as \"usually full for much of the day.\" Turnover is slow here because the hikes are long — a full loop ties up a space for 3–5 hours",
+        "overflow": "None. This is the end of the road. The nearest alternatives are the Devils Garden Campground day-use picnic area just south of the campground entrance, or driving back toward Sand Dune Arch and Broken Arch",
+        "tow_risk": "No published towing policy. NPS asks visitors not to wait in roadways for spaces — the loop road here is narrow and idling in it blocks the only way out",
+        "restrooms": true,
+        "road_access": "Paved to the trailhead, 18 miles from the entrance station at the north end of the park road. Allow 40–45 minutes from the visitor center",
+        "best_season": "Spring and fall. The Primitive Trail is not recommended when the rock is wet or icy, which rules out a lot of winter. Summer heat on the exposed sections above Landscape Arch is serious",
+        "official_url": "https://www.nps.gov/arch/planyourvisit/devils-garden.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "The biggest lot, and why that doesn't save you",
+            "body": "NPS publishes it: <strong>160 total spaces, 10 oversized, 8 ADA-designated</strong> (4 van-accessible). That's the most parking anywhere in Arches, and it's still the lot most likely to waste your morning — because of where it is and how long people stay.\n\n<strong>Location.</strong> Devils Garden sits at the north end of the scenic drive, <strong>18 miles from the entrance</strong>, a 40–45 minute drive from the visitor center. Every other lot in the park is something you pass on the way somewhere else. This one is a commitment. Arrive at 10am on a Saturday to a full lot and you have burned ninety minutes round trip.\n\n<strong>Dwell time.</strong> The Windows turns over every 45 minutes because the walk is a mile. Devils Garden does not. Landscape Arch is 1.8 miles round trip, Double O is 4.0, and the full loop with the Primitive Trail is <strong>7.9 miles and 3–5 hours</strong>. A car that parks at 8am may not move until 1pm. When the lot fills, it stays filled.\n\nOne genuine amenity: this is the rare Arches trailhead with <strong>drinking water</strong>, available spring through fall. Toilets are open year-round."
+          },
+          {
+            "heading": "Match the hike to the parking reality",
+            "body": "Most people at Devils Garden are doing Landscape Arch and turning around — <strong>1.8 miles, 30–60 minutes, hard-packed and mostly accessible</strong> until the steeper section near the arch. If that's your plan, you need the lot for an hour, and midday in shoulder season is workable.\n\nIf you're doing <strong>Double O</strong> (4.0 miles, 2–3 hours) or the <strong>full 7.9-mile loop</strong> (3–5 hours), you need a space at dawn, full stop. NPS's warnings for the Primitive Trail are not boilerplate: <em>narrow ledges, steep exposures, uneven surfaces, rock scrambling</em>, not recommended when the rock is wet or icy, and 3+ quarts of water per person plus a headlamp for the full loop. Starting that at 11am because you couldn't park earlier is how the day goes wrong.\n\nDogs are prohibited on all of it; service animals only."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>There is no overflow lot — so the Plan B has to happen before you drive up here.</strong> NPS runs a <strong>live parking status</strong> and a busy-times prediction for the Devils Garden lot on its parking page. Check it at the visitor center, not at mile 17.\n\nIf you're already at the north end and the lot is full, the useful fallbacks are close: the <strong>Devils Garden Campground day-use picnic area</strong> just south of the campground entrance, and the <strong>Sand Dune Arch / Broken Arch</strong> trailhead a few miles back — a short, sandy, shaded walk that's genuinely good and that almost nobody plans for. <strong>Skyline Arch</strong> is a five-minute stop with its own small pullout.\n\n<strong>The real answer is 7am or 4pm.</strong> Devils Garden is the best sunrise destination in Arches: the drive is long enough that arriving at first light means an empty lot and Landscape Arch to yourself. Late afternoon works too, but only for the short hike — do not start a 7.9-mile loop at 5pm.\n\nAnd if you're towing anything: <strong>10 oversized spaces</strong>. NPS says outright to leave RVs and trailers in Moab or at the visitor center."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How many parking spaces are at Devils Garden in Arches?",
+            "a": "160 total spaces, including 10 oversized spaces and 8 ADA-designated spaces (4 of them van-accessible), per the National Park Service. It is the largest parking lot in Arches National Park."
+          },
+          {
+            "q": "What time should you arrive at Devils Garden to get parking?",
+            "a": "Before 7:30 am in summer — NPS states many trailhead lots fill by that time — and ideally at first light. Devils Garden turns over slowly because the hikes are long, so a lot that fills at 7:30 can stay full into the afternoon. Late afternoon after 4 pm is the other good window."
+          },
+          {
+            "q": "How far is Devils Garden from the Arches entrance?",
+            "a": "18 miles (28 km), at the north end of the park road. Allow 40 to 45 minutes of driving each way from the Arches Visitor Center. There is no overflow parking at the end of the road, so check the NPS live parking status before making the drive."
+          },
+          {
+            "q": "What trails start at the Devils Garden trailhead?",
+            "a": "Landscape Arch is 1.8 miles round trip on a hard-packed, mostly accessible trail. Double O Arch is 4.0 miles round trip and strenuous, with narrow ledges and drop-offs. The entire Devils Garden loop including the Primitive Trail is 7.9 miles round trip and takes 3 to 5 hours."
+          },
+          {
+            "q": "Is there water at the Devils Garden trailhead?",
+            "a": "Yes, seasonally. NPS lists drinking water as available spring through fall at Devils Garden, and toilets open year-round. It is one of the few trailheads in Arches with water — Wolfe Ranch and The Windows have none."
+          }
+        ],
+        "related": [
+          {
+            "label": "Arches entry & parking — the 2026 master page",
+            "href": "/trailheads/arches-timed-entry/"
+          },
+          {
+            "label": "Delicate Arch — 157 spaces at Wolfe Ranch",
+            "href": "/trailheads/delicate-arch/"
+          },
+          {
+            "label": "Fiery Furnace — on the way back down the road",
+            "href": "/trailheads/fiery-furnace/"
+          },
+          {
+            "label": "Live parking status for Devils Garden (NPS)",
+            "href": "https://www.nps.gov/arch/planyourvisit/parking.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5371,
+          38.687
+        ]
+      },
+      "properties": {
+        "name": "The Windows Section",
+        "slug": "the-windows",
+        "region": "Arches National Park",
+        "meta_title": "The Windows Parking, Arches: 92 Spaces and Constant Turnover (2026)",
+        "meta_description": "The Windows loop lot has 92 spaces — the smallest of the park's three published lots — but the walks are short, so it recycles. NPS says it's full much of the day 8am–3pm. Double Arch, North & South Window, Turret Arch.",
+        "card_summary": "92 spaces, 4 oversized, and the highest turnover in Arches — the trail is a mile. Full 8am to 3pm, but a space opens every few minutes if you're willing to wait for one.",
+        "quick_answer": "<strong>The Windows loop has 92 spaces — the smallest of the three lots NPS publishes numbers for — and it is named as one of the lots “usually full for much of the day.”</strong> Twelve miles in from the entrance, roughly a 25–30 minute drive.\n\n<strong>But this lot behaves differently from the other two, and that's the useful thing to know.</strong> The walk to North Window, South Window and Turret Arch is <strong>1 mile round trip, 99 feet of gain, 30–60 minutes</strong>. People are in and out. Where Devils Garden ties up a space for four hours, The Windows recycles — which means midday, when Delicate Arch is hopeless, waiting five or ten minutes here usually works.",
+        "badges": [
+          {
+            "label": "92 spaces — smallest published lot",
+            "tone": "warn"
+          },
+          {
+            "label": "Full much of 8am–3pm",
+            "tone": "bad"
+          },
+          {
+            "label": "Fastest turnover in the park",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "The Windows and Turret Arch (1 mi round trip, 99 ft, easy); the primitive loop back behind the Windows; Double Arch (short, hard-packed, barrier-free) from the lower lot; views of Garden of Eden, Elephant Butte and the Parade of Elephants",
+        "fee": "Parking free. Park entrance $30/vehicle for 7 days, $25 motorcycle, $15/person. America the Beautiful accepted. No timed-entry ticket required in 2026",
+        "lot_size": "92 total spaces, 4 oversized, 4 ADA-designated (2 van-accessible) — NPS published figure. Oversize parking is at the lower lot near Double Arch",
+        "fill_time": "NPS names The Windows among lots \"usually full for much of the day,\" with peak congestion 8am–3pm spring through fall. Because the hikes are under an hour, spaces free up continuously rather than staying locked",
+        "overflow": "The lower Double Arch lot on the same loop is the practical second option. Otherwise Balanced Rock, a mile back at the junction, has its own small lot and a 0.3-mile loop",
+        "tow_risk": "No published towing policy. The loop is one-way and narrow — NPS asks visitors not to wait in roadways for spaces, and here that request has teeth: a stopped car blocks the loop",
+        "restrooms": true,
+        "road_access": "Paved spur off the main park road, 12 miles from the entrance station; about 25–30 minutes from the visitor center. The section is a one-way loop with an upper and lower lot",
+        "best_season": "Year-round — this is the best cold-weather and bad-weather stop in Arches because the walks are short. Sunrise through the South Window is the classic photograph; midday is brutal in summer with no shade",
+        "official_url": "https://www.nps.gov/arch/planyourvisit/the-windows.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "Small lot, short trail — the math works out differently here",
+            "body": "NPS lists <strong>92 total spaces, 4 oversized, 4 ADA-designated</strong> (2 van-accessible) for The Windows Section, twelve miles in from the entrance. On paper that's the tightest of the three lots the park publishes numbers for — 41% smaller than Devils Garden.\n\nIn practice it's the easiest of the three to get into, because <strong>dwell time is what actually determines whether you park</strong>. The Windows and Turret Arch trail is <strong>1 mile round trip with 99 feet of gain</strong>, rated easy, and NPS puts it at <strong>30–60 minutes</strong>. Double Arch off the lower lot is shorter still. Nobody is here for four hours. Cars leave constantly.\n\nSo the honest read: the sign says full, and NPS's traffic page correctly warns that this lot is <em>“usually full for much of the day.”</em> But circle the one-way loop once, and something will open. This is the one lot in Arches where patience is a viable strategy instead of a fantasy.\n\nVault toilets are open year-round. <strong>There is no drinking water.</strong> Oversize vehicles go to the lower lot near Double Arch — and there are exactly four such spaces."
+          },
+          {
+            "heading": "Midday, honestly",
+            "body": "Between roughly 10am and 2pm, Arches sorts itself into two categories: places you cannot park and places you can. <strong>The Windows is reliably in the second category.</strong> Delicate Arch and Devils Garden are locked up by hikers on multi-hour trails; here, the crowd churns.\n\nThis is why The Windows is the right salvage plan for a badly timed arrival. You get North Window, South Window, Turret Arch and Double Arch — four of the park's most photographed formations — inside about two hours of easy walking, from one loop. NPS itself calls this concentration <em>“the beating heart of Arches National Park.”</em>\n\nAccessibility is real here too, which is worth stating plainly: <strong>Double Arch Trail</strong> is hard-packed and described by NPS as <strong>barrier-free</strong> with accessible parking, though it has slopes and sandy patches. The first <strong>300 feet</strong> of the Windows trail is flat and accessible; past that it becomes stone steps. If someone in your group can't do slickrock, this is the stop that works."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>First: the lower Double Arch lot.</strong> The Windows Section is a one-way loop with two parking areas, and people fixate on the upper one. The lower lot serves Double Arch and is where the oversize spaces are. Drive the loop before you conclude it's hopeless.\n\n<strong>Second: Balanced Rock</strong>, a mile back at the junction with the main road. Small lot of its own, a 0.3-mile paved loop, and it's a legitimate destination rather than a consolation — about 15–20 minutes from the visitor center, so it's also the right stop if you're short on time entirely.\n\n<strong>Third, and best: come at either end of the day.</strong> The South Window frames sunrise, and the Parade of Elephants at low light is the reason photographers set alarms. NPS's park-wide advice — enter before 8am or after 3pm — applies, and here the payoff is aesthetic as well as logistical.\n\nBefore you drive out, check the <strong>NPS live parking status</strong> for The Windows lot; it's one of only three lots in the park with a live feed and a busy-times prediction."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How many parking spaces are at The Windows in Arches?",
+            "a": "92 total spaces, including 4 oversized and 4 ADA-designated spaces (2 van-accessible), according to the National Park Service. Oversize parking is at the lower lot near Double Arch. It is the smallest of the three Arches lots with published capacities."
+          },
+          {
+            "q": "Is The Windows parking lot easier to get into than Delicate Arch?",
+            "a": "Generally yes, despite being smaller. The Windows trail is only 1 mile round trip and takes 30 to 60 minutes, so cars cycle through constantly. Delicate Arch is a 3-mile hike and Devils Garden can be 7.9 miles, so those lots stay full for hours once they fill."
+          },
+          {
+            "q": "What can you see from The Windows parking lot?",
+            "a": "North Window is visible directly from the parking area. A 1-mile round-trip trail with 99 feet of elevation gain reaches North Window, South Window and Turret Arch, and Double Arch is a short hard-packed walk from the lower lot. Garden of Eden, Elephant Butte and the Parade of Elephants are also in this section."
+          },
+          {
+            "q": "Is The Windows Section wheelchair accessible?",
+            "a": "Partly. NPS describes the Double Arch Trail as barrier-free hard-packed surface with accessible parking, though it includes slopes and sandy sections. The first 300 feet of The Windows and Turret Arch trail is flat and accessible; beyond that it becomes stone steps and elevation change. There are 4 ADA-designated spaces in the lot."
+          },
+          {
+            "q": "Are there restrooms at The Windows in Arches?",
+            "a": "Yes — vault/composting toilets, open year-round. There is no drinking water at the trailhead, so bring your own from Moab or the visitor center."
+          }
+        ],
+        "related": [
+          {
+            "label": "Arches entry & parking — the 2026 master page",
+            "href": "/trailheads/arches-timed-entry/"
+          },
+          {
+            "label": "Delicate Arch — the lot that actually fills",
+            "href": "/trailheads/delicate-arch/"
+          },
+          {
+            "label": "Devils Garden — the long-hike lot",
+            "href": "/trailheads/devils-garden/"
+          },
+          {
+            "label": "Live parking status for The Windows (NPS)",
+            "href": "https://www.nps.gov/arch/planyourvisit/parking.htm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5657,
+          38.7429
+        ]
+      },
+      "properties": {
+        "name": "Fiery Furnace Trailhead & Viewpoint",
+        "slug": "fiery-furnace",
+        "region": "Arches National Park",
+        "meta_title": "Fiery Furnace Permits & Parking 2026: $10 Self-Guided, $16 Ranger-Led",
+        "meta_description": "You can't walk into the Fiery Furnace without a ranger or a permit. Self-guided permits are $10/person on Recreation.gov, 2–7 days ahead, group max 6, with mandatory in-person pickup at the visitor center. Ranger hikes are $16. The permit is not a parking space.",
+        "card_summary": "$10 self-guided permit or a $16 ranger tour — both booked on Recreation.gov days ahead, both requiring an in-person pickup at the visitor center 13 miles away. Neither one reserves you a parking spot at the trailhead.",
+        "quick_answer": "<strong>The Fiery Furnace is the one place in Arches you cannot simply walk into.</strong> NPS: <em>“the only way to enter the Fiery Furnace is with a ranger or with an individual permit.”</em> A <strong>Self-Guided Exploration Permit is $10 per person</strong>, reserved on Recreation.gov <strong>at least two days and at most seven days ahead</strong>, group size capped at <strong>six</strong>. A <strong>ranger-guided hike is $16 per person</strong>; in 2026 those have run since <strong>April 12</strong>, through early fall.\n\n<strong>Neither is a parking pass.</strong> The permit authorizes you to be inside the labyrinth on a specific date. It does not reserve a space at the trailhead, does not cover the $30 entrance fee, and does not exempt you from the same first-come lot everyone else uses. And there is a second logistical trap: <strong>every permit must be picked up in person at the Arches Visitor Center</strong>, 13 miles back down the road, at a fixed time slot, with your whole group present.",
+        "badges": [
+          {
+            "label": "Permit or ranger only — no walk-ins",
+            "tone": "bad"
+          },
+          {
+            "label": "$10 self-guided / $16 ranger-led",
+            "tone": "info"
+          },
+          {
+            "label": "Permit ≠ parking space",
+            "tone": "warn"
+          }
+        ],
+        "trail_served": "Fiery Furnace self-guided exploration (permit required, day-use sunrise to sunset) and the ~2.5-hour ranger-guided loop hike. The Fiery Furnace Viewpoint overlook, right at the lot, needs no permit at all",
+        "fee": "Parking free. Park entrance $30/vehicle for 7 days. Self-Guided Fiery Furnace Exploration Permit $10 per person; ranger-guided Fiery Furnace hike $16 per person. Both booked through Recreation.gov (877-444-6777)",
+        "lot_size": "Not published. NPS lists auto parking and a vault/composting toilet at the Fiery Furnace Viewpoint but has never printed a capacity for this lot — unlike Devils Garden, Wolfe Ranch and The Windows, which have published counts and live status feeds",
+        "fill_time": "No NPS figure for this lot specifically. It is smaller and quieter than the big three because access is permit-gated, but it shares the park-wide pattern: peak congestion 8am–3pm spring through fall. The 9am-ish ranger tour departures put a predictable pulse of cars here",
+        "overflow": "None published. If the viewpoint lot is full, the nearest pullouts are Sand Dune Arch to the north and Salt Valley Overlook. Do not idle in the spur road waiting",
+        "tow_risk": "No published towing policy. NPS asks visitors not to wait in roadways for parking spaces",
+        "restrooms": true,
+        "road_access": "Paved spur off the main park road between The Windows and Devils Garden, roughly 14 miles from the entrance station",
+        "best_season": "Ranger hikes ran from April 12, 2026 through early fall. Self-guided permits are year-round but sell out fast in spring and fall. Summer inside the Furnace is dangerous heat; the viewpoint at sunset is the payoff shot",
+        "official_url": "https://www.nps.gov/arch/planyourvisit/fiery-furnace-permit.htm",
+        "verified": "July 21, 2026",
+        "sections": [
+          {
+            "heading": "Three transactions, none of which is parking",
+            "body": "This is the Arches page where people get the layers wrong, so here they are separately.\n\n<strong>1. Entrance fee — $30 per private vehicle, 7 days</strong>, or an America the Beautiful pass. Gets your car through the gate. In 2026 there is <a href=\"/trailheads/arches-timed-entry/\">no timed-entry reservation</a> on top of it.\n\n<strong>2. Fiery Furnace authorization</strong> — either a <strong>$10 per person self-guided permit</strong> or a <strong>$16 per person ranger-guided hike</strong>. This is permission to enter a specific piece of terrain on a specific day. It is not entry to the park and you still pay the $30.\n\n<strong>3. Parking</strong> — free, unreserved, first-come, and <strong>the only one of the three you cannot book</strong>. A confirmed 9am ranger tour does not hold a space for you at the trailhead, and it does not hold one at the visitor center where you have to collect the physical permit either.\n\nNPS has never published a capacity for the Fiery Furnace lot. It lists auto parking and a vault toilet and stops there. We're not going to make a number up: the three lots with published counts are Devils Garden (160), Wolfe Ranch (157) and The Windows (92), and this isn't one of them."
+          },
+          {
+            "heading": "How the permit actually works in 2026",
+            "body": "<strong>Self-Guided Exploration Permit — $10 per person.</strong> Reserved online at Recreation.gov or by phone at 1-877-444-6777. <em>“No permits can be reserved in-person.”</em> The booking window is narrow and specific: <strong>at least two days before your trip date, at most seven days in advance</strong>. Group size is capped at <strong>six people</strong>. Children under five are not allowed; pets are prohibited. Permits are valid for a <strong>specified date, day-use only, sunrise to sunset</strong>. NPS warns they <em>“frequently sell out quickly during the busy season.”</em>\n\n<strong>Ranger-guided hike — $16 per person.</strong> About 2.5 hours, moderately strenuous, booked up to <strong>seven days in advance on Recreation.gov</strong> (Recreation.gov releases tickets at <strong>8am Mountain</strong>). Same age rules: no one under 5, and an adult must accompany every child 12 and under. Per the park's ranger-programs page, 2026 tours have been <strong>offered April 12 through early fall</strong> — there are <strong>no walk-up or first-come tickets</strong>.\n\n<strong>The pickup is the part that ruins itineraries.</strong> Every reserved permit must be collected <strong>in person at the Arches Visitor Center</strong>, on the day before or the day of your hike, at one of nine fixed times: <strong>8, 8:30, 9, 9:30, 10am and 2, 2:30, 3, 3:30pm</strong>. <em>“All persons going on the permit must be present”</em> for the required orientation film and talk — arrive 5–10 minutes early for paperwork. The visitor center is at the entrance, 13-plus miles from the trailhead. Budget the round trip, and budget parking at the visitor center too."
+          },
+          {
+            "heading": "Plan B",
+            "body": "<strong>The Fiery Furnace Viewpoint requires nothing.</strong> Same lot, same vault toilet, no permit, no fee beyond park entry. It's a short walk to an overlook above the labyrinth, and NPS's own recommendation is to stand there near sunset, <em>“when low-angle light makes the rock faces glow like a wood-fired furnace.”</em> If your permit didn't come through — and in April, May, September and October, it very often doesn't — this is the visit. It is genuinely the better use of an hour than most things in the park.\n\n<strong>If you want the maze experience and can't get a permit</strong>, the closest substitute is the <a href=\"/trailheads/devils-garden/\">Devils Garden Primitive Trail</a>: narrow ledges, scrambling, route-finding, and no permit at all. It's 7.9 miles for the full loop and NPS is explicit about the exposure.\n\n<strong>If you do have a permit</strong>, the Plan B that matters is temporal. Collect it the <strong>day before</strong>, at a 2pm or 3pm slot, so your hike morning isn't spent driving 13 miles backwards to a visitor center and then 13 miles forwards to a lot that filled at 7:30. That single change is the difference between a calm morning and a scramble.\n\nAnd a genuine safety note rather than a logistical one: NPS says GPS units <em>“do not work well due to the towering sandstone walls,”</em> there are many dead ends, and <em>“all participants must complete the hike once they enter.”</em> First-timers are advised to go with a ranger or with someone who has been before. Take that at face value."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need a permit for the Fiery Furnace at Arches?",
+            "a": "Yes. NPS states that the only way to enter the Fiery Furnace is with a ranger-guided hike or an individual permit. A Self-Guided Fiery Furnace Exploration Permit costs $10 per person, and a ranger-guided hike costs $16 per person. There are no walk-up tickets for either."
+          },
+          {
+            "q": "How far in advance can you book a Fiery Furnace permit?",
+            "a": "Self-guided permits must be reserved on Recreation.gov at least two days before your trip date and no more than seven days in advance, with a maximum group size of six. Ranger-guided tour tickets can also be reserved up to seven days ahead on Recreation.gov, released at 8 am Mountain Time. Permits frequently sell out during the busy season."
+          },
+          {
+            "q": "Does a Fiery Furnace permit include park entry or parking?",
+            "a": "No. The permit only authorizes you to enter the Fiery Furnace on a specific date. You still pay the $30 per vehicle entrance fee, or use an America the Beautiful pass, and you still have to find a parking space at the trailhead on a first-come basis. There is no reserved parking for permit holders."
+          },
+          {
+            "q": "Where do you pick up a Fiery Furnace permit?",
+            "a": "In person at the Arches Visitor Center, either the day before or the day of your hike, at one of these times: 8, 8:30, 9, 9:30 or 10 am, or 2, 2:30, 3 or 3:30 pm. Everyone on the permit must be present to watch the required orientation video. Arrive 5 to 10 minutes early for paperwork."
+          },
+          {
+            "q": "Are ranger-led Fiery Furnace hikes running in 2026?",
+            "a": "Yes. The park's ranger-programs page lists Fiery Furnace guided hikes as offered from April 12, 2026 through early fall, with tickets sold in advance on Recreation.gov and no walk-up availability. The February 2026 news release also confirmed that both ranger-led and self-guided Fiery Furnace hikes still require reservations even though park-wide timed entry was dropped."
+          }
+        ],
+        "related": [
+          {
+            "label": "Arches entry & parking — the 2026 master page",
+            "href": "/trailheads/arches-timed-entry/"
+          },
+          {
+            "label": "Devils Garden — the no-permit scrambling alternative",
+            "href": "/trailheads/devils-garden/"
+          },
+          {
+            "label": "Delicate Arch — 157 spaces at Wolfe Ranch",
+            "href": "/trailheads/delicate-arch/"
+          },
+          {
+            "label": "Fiery Furnace permits (NPS)",
+            "href": "https://www.nps.gov/arch/planyourvisit/fiery-furnace-permit.htm"
+          }
+        ]
+      }
     }
   ]
 }

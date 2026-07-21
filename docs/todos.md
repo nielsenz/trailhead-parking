@@ -101,6 +101,78 @@ especially, given the East Mesa drive-yourself alternative.
 
 ---
 
+## Bryce Canyon + Arches (batch 5, logged 2026-07-21)
+
+### [ ] Arches has no timed entry in 2026 — re-check ~Feb 2027
+**Logged 2026-07-21.** Verified directly against the NPS news release of
+Feb 18, 2026: Arches "will not require advanced timed-entry reservations this
+year," and "visitors may enter the park at any time during operating hours."
+The superintendent framed 2026 as refining the approach, so the page treats it
+as a **suspension, not a repeal** — the release says nothing about 2027.
+**NPS announces the next season's policy around February. Re-check then; if it
+returns, the master page needs a rewrite, not a tweak.**
+
+Still reservation-required at Arches: Devils Garden Campground, self-guided
+Fiery Furnace, ranger-led Fiery Furnace.
+
+### [ ] Bryce shuttle dates roll over annually
+**Logged 2026-07-21.** 2026 season **April 3 – October 18**, free and optional
+(verified). Note the NPS hours page says "April to October 20" — a two-day
+conflict with the shuttle page. Shuttle page was updated more recently and is
+what the pages use. Re-check both each spring.
+
+### [ ] Bryce: no published capacity for three lots
+**Logged 2026-07-21.** The Visitor Center lot, the Additional Parking lot, and
+the Bryce Canyon City Shuttle Station lot have no published counts, which
+matters because the **Visitor Center lot is posted 1-hour** and NPS sends
+all-day parkers to the other two. Stated as unpublished rather than guessed.
+
+### [ ] Arches: no published capacity for four locations
+**Logged 2026-07-21.** Visitor center, Balanced Rock, Sand Dune Arch, Delicate
+Arch Viewpoint and Fiery Furnace have no NPS counts. Confirmed against the
+parking page, which publishes only Devils Garden 160, Wolfe Ranch 157 and The
+Windows 92.
+
+### [ ] Arches $30/7-day vehicle fee is not verbatim on nps.gov
+**Logged 2026-07-21.** The fees page states "7 days" explicitly only on the $25
+motorcycle line. The 7-day validity for the $30 vehicle pass is standard NPS
+practice and corroborated secondarily, but isn't quoted. Low risk; worth a
+glance next fee update.
+
+### [ ] Fiery Furnace ranger-tour season end date is vague
+**Logged 2026-07-21.** NPS says "early fall"; Recreation.gov says tours end
+"in September." No firm 2026 date exists, so the page says early fall. Also
+note a live conflict the page does NOT mention: third-party sites still claim
+6-month advance booking, while NPS and Recreation.gov both say **7 days**. The
+page uses 7 days.
+
+### [ ] Bryce restrooms unknown at two viewpoints
+**Logged 2026-07-21.** Bryce Point and Fairyland Point aren't in the NPS
+amenity list, so `restrooms` carries a hedged string rather than a boolean —
+same precedent as Icehouse Canyon.
+
+### [ ] Bryce winter closures are condition-triggered, not dated
+**Logged 2026-07-21.** The Fairyland Point spur and the Paria View road are
+deliberately left unplowed all winter as ski/snowshoe surface (open to foot
+traffic); Wall Street on the Navajo Loop closes on freeze conditions. No fixed
+dates exist to cite, so the pages describe the trigger.
+
+### [ ] Mossy Cave is inside the park, outside the fee booths
+**Logged 2026-07-21.** Corrected during research: the trail is *within* the
+park boundary but reachable from Highway 12 "without entering through the
+park's fee booths," while remaining "a fee area requiring proof of admission."
+Same logic applies to Fairyland Point. Don't let a future edit re-frame either
+as "outside the park." Related: the SR-12 shoulder-parking ban at Mossy Cave
+comes from trail guides, not an NPS quote, and is phrased as a caution.
+
+### [ ] Stale NPS source pages
+**Logged 2026-07-21.** Arches `traffic.htm` still cites 2022 Easter dates and
+`parking.htm` was last updated April 18, 2025; Bryce `parking-information.htm`
+was last updated April 4, 2024. All remain the current published guidance, but
+the fill-time language is aging.
+
+---
+
 ## Contradictions between official sources
 
 Each of these has two live, official, mutually inconsistent pages. The site
