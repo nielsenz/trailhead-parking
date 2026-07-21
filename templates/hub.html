@@ -18,14 +18,35 @@
 </div>
 
 {% if cfg.show_map | default(true) %}
-{{ m.map_multi(items, section, cfg.marker_emoji, area_center) }}
+{{ m.map_multi(items, section, cfg.marker_emoji, area_center, area_zoom) }}
 {% endif %}
 
+{% if groups %}
+{% if groups | length > 1 %}
+<nav class="region-nav" aria-label="Jump to a region">
+    {% for region, region_items in groups %}
+    <a href="#{{ region | slugify }}">{{ region }} <span>({{ region_items | length }})</span></a>
+    {% endfor %}
+</nav>
+{% endif %}
+
+{% for region, region_items in groups %}
+<section class="region-group">
+    <h2 id="{{ region | slugify }}">{{ region }}</h2>
+    <div class="card-grid">
+        {% for item in region_items %}
+        {{ m.card(section, item) }}
+        {% endfor %}
+    </div>
+</section>
+{% endfor %}
+{% else %}
 <div class="card-grid">
     {% for item in items %}
     {{ m.card(section, item) }}
     {% endfor %}
 </div>
+{% endif %}
 
 {% if section == 'trails' %}
 <div class="filter-links">

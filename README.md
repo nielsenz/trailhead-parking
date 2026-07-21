@@ -7,11 +7,19 @@ rules, enforcement reality, and the realistic plan B. Sister site to
 **horizontal** play: organized around the question ("where do I park?"), not a
 destination, so it can grow across ranges.
 
-**Coverage (July 2026):** San Bernardino National Forest — Lake Arrowhead/
-Crestline/Running Springs (6 trailheads), Big Bear (Castle Rock, Cougar Crest,
-Discovery Center, Pine Knot), Idyllwild (Humber Park/Devil's Slide), and
-Forest Falls (Vivian Creek/San Gorgonio), plus the Adventure Pass explainer.
-16 pages.
+**Coverage (July 2026):** four Southern California regions, 20 trailheads,
+24 pages.
+
+- **San Bernardino Mountains (11)** — Lake Arrowhead/Crestline/Running Springs
+  (6), Big Bear (Castle Rock, Cougar Crest, Discovery Center, Pine Knot),
+  Forest Falls (Vivian Creek/San Gorgonio).
+- **San Gabriel Mountains (4)** — East Fork/Bridge to Nowhere, Chantry Flat,
+  Switzer Falls, Icehouse Canyon.
+- **San Jacinto Mountains (1)** — Humber Park/Devil's Slide.
+- **San Diego County (4)** — Cedar Creek Falls, Three Sisters Falls, Potato
+  Chip Rock/Mt. Woodson, Torrey Pines.
+
+Plus the Adventure Pass explainer and About.
 
 ## Parking content ownership (network policy)
 
@@ -67,6 +75,20 @@ netlify deploy --prod --dir=dist               # ship it
 - Every detail page answers above the fold: how many cars, when it fills, what
   pass, what enforcement looks like, what the real plan B is. No filler.
 
+## Regions
+
+Every trailhead feature carries a `region` string. `build.py` groups the hub's
+cards under region headings in `REGION_ORDER` (with a jump nav above them);
+anything with an unknown or missing region falls into a trailing "Elsewhere"
+group so the mistake is visible on the page rather than silent. Adding a region
+= add the string to the features and to `REGION_ORDER`.
+
+Because coverage is no longer one forest, pass rules can't be assumed: the
+Adventure Pass covers the Angeles, Cleveland, Los Padres and San Bernardino
+national forests, and nothing else. San Diego's lots are state (Torrey Pines)
+and city (Lake Poway) — the /adventure-pass/ page now says so explicitly, and
+so does each affected trailhead page.
+
 ## Roadmap (researched July 2026)
 
 Build in regional batches — one ranger district at a time reuses the same
@@ -78,15 +100,49 @@ pass system, sources, and phone calls:
    space counts exist for either lot (pages deliberately don't state one);
    Ernie Maxwell permit status has one contradictory USFS webpage (brochure
    says no permit — confirm at (909) 382-2921 if challenged).
-2. **Batch 2 — Angeles NF / San Gabriels:** Bridge to Nowhere/East Fork,
-   Chantry Flats (verify post-Eaton-fire access first), Switzer Falls,
-   Icehouse Canyon/Mt. Baldy. Largest audience (LA metro).
-3. **Batch 3 — San Diego:** Cedar Creek Falls (permit ≠ parking confusion is
-   the content), Three Sisters Falls (confirm fire-closure status first),
-   Potato Chip Rock.
-- **Watch list:** Eaton Canyon and Echo Mountain — closed through Dec 31,
-  2027 (Eaton Fire); build pages when reopening is announced, ahead of the
-  demand spike.
+2. ~~**Batch 2 — Angeles NF / San Gabriels:**~~ ✅ Built 2026-07-20 — East
+   Fork, Chantry Flat, Switzer Falls, Icehouse Canyon.
+3. ~~**Batch 3 — San Diego:**~~ ✅ Built 2026-07-20 — Cedar Creek Falls, Three
+   Sisters Falls, Potato Chip Rock, Torrey Pines.
+4. **Next — Eastern San Gabriels / Angeles Crest depth** (Mt. Baldy Village,
+   Sturtevant, Mt. Wilson via Sierra Madre once the upper trail reopens), then
+   **Santa Monicas / Malibu** (Sandstone Peak, Escondido Falls — county and
+   state lots, a different fee world again).
+
+### Open items from batches 2 & 3 — re-check before trusting
+
+These were flagged during research and are deliberately hedged in the copy
+rather than stated flatly. Fix the page when one resolves.
+
+- **Cedar Creek Falls is closed.** Forest Order #02-26-14 (San Diego River
+  Gorge / Cedar Creek Falls), effective July 14 2026, still posted with **no
+  end date** as of the July 20 check — verified directly against the Cleveland
+  NF alerts page. The page leads with the closure. **Re-check first**; this is
+  the most perishable fact on the site.
+- **Chantry Flat road status is volatile** — open as of July 2026 (verified
+  against the USFS page), but the road is managed by three entities and USFS
+  says it "may be closed to vehicles for safety reasons at any time." The page
+  tells readers to call (818) 899-1900 the morning of.
+- **East Fork wilderness permit contradiction** — the USFS trail page says
+  required, the USFS parking page says "encouraged but strictly voluntary."
+  Both live. Page presents both and says self-register anyway. Settle at
+  (626) 335-1251.
+- **Cucamonga Wilderness permit routing** — SBNF page routes via SGWA online,
+  secondary sources say Lytle Creek Ranger Station. Page presents both.
+- **Switzer gate hours conflict** — USFS says day use 6am–10pm, tchester.org
+  says the lower spur gate closes 6pm. Page notes both.
+- **Three Sisters' 80-vehicle capacity** comes from the National Forest
+  Foundation project description (design capacity), not a post-build USFS
+  count — attributed inline. Its coordinates predate the trailhead rebuild and
+  could be off slightly; worth a satellite check.
+- **Torrey Pines South Beach fee** — two official CA State Parks pages
+  disagree ($12–$20 vs. $12–$25). Page covers both with "up to $25 at peak."
+- **No official capacity exists for any of the four San Gabriel lots**, so
+  none of those pages states a number.
+- **Watch list:** Eaton Canyon and Echo Mountain — closed through Dec 31, 2027
+  (Eaton Fire Area Closure 05-01-26-04, which also covers Mt. Wilson Toll
+  Road, Idlehour, Castle Canyon, Sam Merrill and Mt. Lowe). Build pages when
+  reopening is announced, ahead of the demand spike.
 - **Hold on national expansion** — the big national parking-pain spots (Zion,
   Maroon Bells, Haena) already have official reservation/shuttle systems;
   regional depth beats national thin coverage.

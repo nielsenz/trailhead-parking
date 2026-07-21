@@ -185,6 +185,40 @@ main {
 .card p { color: var(--muted); font-size: 0.97rem; flex-grow: 1; }
 .card-cta { color: var(--lake); font-weight: 600; font-size: 0.92rem; }
 
+/* ---------- Region groups (hub) ---------- */
+.region-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.75rem;
+}
+
+.region-nav a {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.35rem 0.9rem;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--lake);
+    text-decoration: none;
+}
+
+.region-nav a:hover { border-color: var(--lake); background: var(--info-bg); }
+.region-nav span { color: var(--muted); font-weight: 500; }
+
+.region-group { margin-top: 2.5rem; scroll-margin-top: 1rem; }
+
+.region-group > h2 {
+    color: var(--lake-dark);
+    font-size: 1.45rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--line);
+    scroll-margin-top: 1rem;
+}
+
+.region-group .card-grid { margin-top: 1.25rem; }
+
 /* ---------- Badges ---------- */
 .badge-row { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 
@@ -212,6 +246,7 @@ main {
 }
 
 .quick-answer a { color: var(--lake-dark); }
+.quick-answer p + p { margin-top: 0.8rem; }
 
 .detail-grid {
     display: grid;

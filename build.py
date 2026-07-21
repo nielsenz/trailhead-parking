@@ -26,9 +26,21 @@ BASE_URL = "https://trailheadparking.com"
 SITE_NAME = "TrailheadParking.com"
 CURRENT_YEAR = date.today().year
 
-# Map center for hub maps (San Bernardino front range, between Crestline and
-# Running Springs)
-AREA_CENTER = [34.25, -117.19]
+# Map center for hub maps. Coverage now spans Southern California, so the hub
+# map sits between the San Gabriels and San Diego rather than on the SBNF front
+# range; detail-page maps are per-item and unaffected.
+AREA_CENTER = [33.85, -117.20]
+AREA_ZOOM = 8
+
+# Hub cards and the region nav are grouped in this order; a region not listed
+# here still renders, after the known ones. Keep coarse enough that a region
+# holds several trailheads as coverage fills in.
+REGION_ORDER = [
+    "San Bernardino Mountains",
+    "San Gabriel Mountains",
+    "San Jacinto Mountains",
+    "San Diego County",
+]
 
 # --- Section configuration ---------------------------------------------------
 # Each section = one GeoJSON file in data/, one hub page, one detail page per
@@ -38,15 +50,16 @@ AREA_CENTER = [34.25, -117.19]
 SECTIONS = {
     "trailheads": {
         "nav_label": "Trailheads",
-        "hub_title": f"San Bernardino Mountains Trailhead Parking: Every Lot, Honestly ({CURRENT_YEAR})",
-        "meta_title": f"San Bernardino Trailhead Parking: Lot Sizes, Fill Times & Passes ({CURRENT_YEAR})",
-        "meta_description": "Trailhead parking for the San Bernardino Mountains — Heart Rock, Deep Creek Hot Springs, Keller Peak and more. How many cars each lot fits, when it fills, what pass you need, and what to do when it's full.",
+        "hub_title": f"Southern California Trailhead Parking: Every Lot, Honestly ({CURRENT_YEAR})",
+        "meta_title": f"Southern California Trailhead Parking: Lot Sizes, Fill Times & Passes ({CURRENT_YEAR})",
+        "meta_description": "Trailhead parking across Southern California — the San Bernardinos, San Gabriels, San Jacintos and San Diego County. How many cars each lot fits, when it fills, what pass you need, and what to do when it's full.",
         "hub_intro": (
-            "The hike is rarely the hard part up here — the lot is. Each guide below covers one "
-            "trailhead: how many cars actually fit, when it fills on a weekend, whether you need "
-            "an <a href=\"/adventure-pass/\">Adventure Pass</a>, the tow/citation risk of getting "
-            "creative, and the realistic plan B. Coverage starts with the Lake Arrowhead–Crestline–"
-            "Running Springs area; more of the range is coming."
+            "The hike is rarely the hard part out here — the lot is. Each guide below covers one "
+            "trailhead: how many cars actually fit, when it fills on a weekend, what goes on the "
+            "dash, the tow/citation risk of getting creative, and the realistic plan B. Pass rules "
+            "vary by range — the <a href=\"/adventure-pass/\">Adventure Pass</a> covers most "
+            "national-forest trailheads in the San Bernardinos and San Gabriels, but not the "
+            "state, county and city lots in San Diego."
         ),
         "marker_emoji": "🅿️",
         "fact_rows": [
@@ -91,6 +104,19 @@ def load_section(name):
     return items
 
 
+def group_by_region(items):
+    """Group hub items into [(region, [items]), ...] in REGION_ORDER.
+
+    Items without a `region` fall into a trailing "Elsewhere" group so a
+    missing field shows up on the page instead of silently dropping a card.
+    """
+    buckets = {}
+    for item in items:
+        buckets.setdefault(item.get("region") or "Elsewhere", []).append(item)
+    known = [(r, buckets.pop(r)) for r in REGION_ORDER if r in buckets]
+    return known + sorted(buckets.items())
+
+
 def fact_value(value):
     """Render a property value for the facts table."""
     if isinstance(value, bool):
@@ -111,6 +137,13 @@ def paragraphs(text):
     if not text:
         return []
     return [p.strip() for p in text.split("\n\n") if p.strip()]
+
+
+def slugify(text):
+    """Region name -> anchor id."""
+    import re
+
+    return re.sub(r"[^a-z0-9]+", "-", (text or "").lower()).strip("-")
 
 
 def strip_tags(text):
@@ -190,12 +223,14 @@ def make_env():
         lstrip_blocks=True,
     )
     env.filters["paragraphs"] = paragraphs
+    env.filters["slugify"] = slugify
     env.globals.update(
         site_name=SITE_NAME,
         base_url=BASE_URL,
         current_year=CURRENT_YEAR,
         nav=NAV,
         area_center=AREA_CENTER,
+        area_zoom=AREA_ZOOM,
     )
     return env
 
@@ -242,6 +277,7 @@ class Builder:
                 section=name,
                 cfg=cfg,
                 items=hub_items,
+                groups=group_by_region(hub_items),
             )
             for item in items:
                 path = f"/{name}/{item['slug']}/"

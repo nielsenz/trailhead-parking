@@ -7,6 +7,7 @@
       "properties": {
         "name": "Heart Rock Trailhead",
         "slug": "heart-rock",
+        "region": "San Bernardino Mountains",
         "meta_title": "Heart Rock Trailhead Parking (Crestline): ~10 Spaces, Pass Required (2026)",
         "meta_description": "Heart Rock's trailhead lot off Hwy 138 fits about 8–10 cars, requires an Adventure Pass, and fills by 9am on spring weekends. No sanctioned overflow — Camp Seeley's road is private and Hwy 138 shoulders are patrolled. The full picture and plan B.",
         "card_summary": "~8–10 spaces for the most Instagrammed trail in the range. Full by 9am on spring weekends; no sanctioned overflow.",
@@ -64,6 +65,7 @@
       "properties": {
         "name": "Deep Creek Hot Springs Trailheads",
         "slug": "deep-creek-hot-springs",
+        "region": "San Bernardino Mountains",
         "meta_title": "Deep Creek Hot Springs Parking: Bowen Ranch vs Bradford Ridge (2026)",
         "meta_description": "Parking for Deep Creek Hot Springs: the Bowen Ranch dirt lot ($10/person cash, rough road from Apple Valley) versus free but limited roadside parking at the Bradford Ridge Path off Hwy 173. Which to pick and what each costs.",
         "card_summary": "Two ways in: Bowen Ranch's dirt lot ($10/person cash, rough road) or free, limited roadside at Bradford Ridge off Hwy 173.",
@@ -120,6 +122,7 @@
       "properties": {
         "name": "Exploration Trail (Keller Peak) Trailhead",
         "slug": "exploration-trail",
+        "region": "San Bernardino Mountains",
         "meta_title": "Exploration Trail Trailhead Parking (Keller Peak Rd): Small Lot, Check Closures (2026)",
         "meta_description": "The Exploration Trail's small primitive lot sits on Keller Peak Rd just off Hwy 18 near the Deer Lick Fire Station. Adventure Pass required, no water or restrooms — and check San Bernardino NF fire-closure alerts before driving out.",
         "card_summary": "Small primitive lot on Keller Peak Rd off Hwy 18. Adventure Pass required — and check fire-closure status first.",
@@ -172,6 +175,7 @@
       "properties": {
         "name": "Heaps Peak Arboretum Lot",
         "slug": "heaps-peak-arboretum",
+        "region": "San Bernardino Mountains",
         "meta_title": "Heaps Peak Arboretum Parking: The Easy One (2026)",
         "meta_description": "Heaps Peak Arboretum's paved lot sits right off Hwy 18 between Lake Arrowhead and Running Springs and rarely fills. Adventure Pass required, vault restrooms on site, open dawn to dusk. The rare stress-free trailhead.",
         "card_summary": "The rare easy one: paved lot right off Hwy 18, rarely fills, vault restrooms. Adventure Pass still required.",
@@ -225,6 +229,7 @@
       "properties": {
         "name": "Arrowhead Pinnacles Parking",
         "slug": "arrowhead-pinnacles",
+        "region": "San Bernardino Mountains",
         "meta_title": "Arrowhead Pinnacles Parking: Informal Pullouts off Hwy 173 (2026)",
         "meta_description": "There's no real lot for the Arrowhead Pinnacles — parking is informal dirt pullouts off Hwy 173 north of Lake Arrowhead near the OHV staging area, with no facilities and no signage. What to know before you go.",
         "card_summary": "No real lot: informal dirt pullouts off Hwy 173 near the OHV staging area. No facilities, no signage — download maps first.",
@@ -277,6 +282,7 @@
       "properties": {
         "name": "North Shore Trailhead (Hospital Rd)",
         "slug": "north-shore-trailhead",
+        "region": "San Bernardino Mountains",
         "meta_title": "North Shore Trailhead Parking (Lake Arrowhead): Two Trails, One Easy Lot (2026)",
         "meta_description": "The trailhead area by North Shore Campground on Hospital Rd serves both the North Shore Recreation Trail and Little Bear Creek Trail. Adventure Pass required, limited but rarely full, campground restrooms in season.",
         "card_summary": "One trailhead, two trails: North Shore Rec Trail and Little Bear Creek both start by the campground on Hospital Rd. Rarely full.",
@@ -326,6 +332,7 @@
       "properties": {
         "name": "Castle Rock Trailhead (Big Bear)",
         "slug": "castle-rock",
+        "region": "San Bernardino Mountains",
         "meta_title": "Castle Rock Trailhead Parking (Big Bear): The New 38-Space Free Lot (2026)",
         "meta_description": "Castle Rock finally has a real lot: 38 paved free spaces at Big Bear Blvd and Talbot Dr, open 7am–7pm, no Adventure Pass needed. It still fills by 9am on summer weekends — and roadside parking is now banned. The full picture.",
         "card_summary": "Big Bear's most popular trail got a real lot in 2025: 38 free paved spaces, 7am–7pm. Still full by 9am on summer weekends.",
@@ -383,6 +390,7 @@
       "properties": {
         "name": "Cougar Crest Trailhead (Big Bear)",
         "slug": "cougar-crest",
+        "region": "San Bernardino Mountains",
         "meta_title": "Cougar Crest Trailhead Parking (Big Bear): ~15 Spaces & the Free Plan B (2026)",
         "meta_description": "Cougar Crest's lot fits only 10–15 cars, requires an Adventure Pass, and fills by 8:30am on summer weekends. The better move: park free at the Big Bear Discovery Center 0.6 miles east and walk the paved Alpine Pedal Path to the trailhead.",
         "card_summary": "10–15 spaces for a PCT gateway trail, full by 8:30am — but there's a free 50-space plan B a 0.6-mile flat walk away.",
@@ -441,6 +449,7 @@
       "properties": {
         "name": "Big Bear Discovery Center Lot",
         "slug": "big-bear-discovery-center",
+        "region": "San Bernardino Mountains",
         "meta_title": "Big Bear Discovery Center Parking: The Free Lot That Fixes Cougar Crest (2026)",
         "meta_description": "The Big Bear Discovery Center's free 50+ space lot on North Shore Drive is the smart base for the north shore: walk the paved Alpine Pedal Path to the Cougar Crest trailhead, use real restrooms, and buy an Adventure Pass inside.",
         "card_summary": "Free 50+ space lot, real restrooms, sells Adventure Passes — and a paved path to the Cougar Crest trailhead. The north shore's easy button.",
@@ -491,6 +500,7 @@
       "properties": {
         "name": "Pine Knot Trailhead (Aspen Glen)",
         "slug": "pine-knot",
+        "region": "San Bernardino Mountains",
         "meta_title": "Pine Knot Trailhead Parking (Aspen Glen Picnic Area): The Relaxed One (2026)",
         "meta_description": "Pine Knot Trail parking at the Aspen Glen Picnic Area on Mill Creek Rd: 20–30 spaces, Adventure Pass required, vault toilet and picnic tables, and it rarely fills before 9am — one of Big Bear's lower-stress trailheads.",
         "card_summary": "20–30 spaces at a proper picnic area, rarely full before 9am. Adventure Pass on the dash and you're hiking to Grand View Point.",
@@ -541,6 +551,7 @@
       "properties": {
         "name": "Humber Park / Devil's Slide (Idyllwild)",
         "slug": "humber-park",
+        "region": "San Jacinto Mountains",
         "meta_title": "Humber Park Parking (Idyllwild): Adventure Pass, the 30-Permit Quota & Tow Reality (2026)",
         "meta_description": "Parking for Devil's Slide and Tahquitz Peak at Humber Park in Idyllwild: Adventure Pass required, a separate free wilderness permit with a 30-per-day summer weekend quota, and Fern Valley Road towing that runs $400+. The full stack, explained.",
         "card_summary": "The most rule-stacked trailhead we cover: Adventure Pass to park, a free wilderness permit to hike, a 30/day summer weekend quota — and real towing on Fern Valley Rd.",
@@ -607,6 +618,7 @@
       "properties": {
         "name": "Vivian Creek / Falls Picnic Area (Forest Falls)",
         "slug": "vivian-creek",
+        "region": "San Bernardino Mountains",
         "meta_title": "Vivian Creek Trailhead Parking (Forest Falls): Pass, Online-Only Permit & the Free Overflow (2026)",
         "meta_description": "Parking for Vivian Creek and San Gorgonio at the Falls Picnic Area: Adventure Pass required, a free online-only wilderness permit (release 90 days out), a lot shared with Big Falls waterfall tourists — and an official overflow at Momyer that needs no pass at all.",
         "card_summary": "San Gorgonio's front door: Adventure Pass + an online-only wilderness permit, a lot shared with waterfall tourists — and a free official overflow at Momyer.",
@@ -665,6 +677,806 @@
           { "label": "SGWA permit portal (permits.sgwa.org)", "href": "https://permits.sgwa.org/" },
           { "label": "Official Falls Picnic Area page (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/recreation/falls-picnic-area" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7651,
+          34.237
+        ]
+      },
+      "properties": {
+        "name": "East Fork Trailhead (Bridge to Nowhere)",
+        "slug": "east-fork",
+        "region": "San Gabriel Mountains",
+        "meta_title": "East Fork Trailhead Parking (Bridge to Nowhere): Buy the Pass First (2026)",
+        "meta_description": "Parking for the Bridge to Nowhere at the East Fork Day Use Trailhead on Camp Bonita Road: Adventure Pass required and not sold at the lot, limited designated spaces, a vault toilet, open 24 hours — and hikers reporting 5:30am arrivals on summer weekends.",
+        "card_summary": "Open 24 hours, vault toilet, Adventure Pass required — and not sold anywhere near the lot. Hikers report arriving before 8am on weekends.",
+        "quick_answer": "<strong>Buy the pass before you leave town.</strong> The East Fork Day Use Parking Trailhead at the end of Camp Bonita Road needs an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> (<strong>$5/day, $30/year</strong>, or an Interagency pass) and there is <strong>no vendor at the trailhead</strong> — the nearest Forest Service fee station is back down the canyon and weekends-only, cash only. The lot is <strong>open 24 hours</strong> with a vault toilet and no potable water, the Forest Service says flatly that <strong>space is limited</strong>, and hiker reports on summer weekends describe arrivals well before <strong>8am</strong>.",
+        "badges": [
+          {
+            "label": "Pass required, not sold on site",
+            "tone": "bad"
+          },
+          {
+            "label": "Limited spaces, early arrivals",
+            "tone": "warn"
+          },
+          {
+            "label": "Open 24 hours, vault toilet",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "East Fork Trail — 5.5 mi each way to the Bridge to Nowhere, through the Sheep Mountain Wilderness; also Heaton Flats",
+        "fee": "$5/vehicle/day or $30/year Adventure Pass; Interagency passes accepted",
+        "lot_size": "Designated spaces only; the Forest Service publishes no count and says space is limited",
+        "fill_time": "Summer and spring weekends: hiker reports describe arriving before 8am, some as early as 5:30am",
+        "overflow": "Cars spill onto the approach road — a pass still has to be displayed, and USFS says don't block roadways, gates, or dumpsters",
+        "tow_risk": "Citations for unpassed vehicles and for blocking the road, gates, or the dumpster area",
+        "restrooms": true,
+        "road_access": "Paved: SR-39 north from Azusa, right on East Fork Rd, then a sharp left on Camp Bonita Rd to the end",
+        "best_season": "Spring through fall — but never after rain; the route crosses the river repeatedly",
+        "address": "Camp Bonita Road, Azusa, CA 91702",
+        "official_url": "https://www.fs.usda.gov/r05/angeles/recreation/east-fork-day-use-parking-trailhead",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "The pass is the trap",
+            "body": "Almost everything about this trailhead is forgiving — <strong>open 24 hours</strong>, a vault toilet, a paved drive right to the end of Camp Bonita Road — except the one thing people leave to chance. An <a href=\"/adventure-pass/\">Adventure Pass</a> or Interagency pass has to be on the dash, and <strong>nothing at the trailhead sells one</strong>. The Forest Service's San Gabriel Canyon Gateway Info Site / fee station at 15200 N San Gabriel Canyon Road in Azusa sells them, but it's <strong>weekends only, roughly 8am–4pm, cash</strong>. Miss that window and you're driving back to a sporting-goods store in the valley.\n\nOn spaces, we'll say what the Forest Service says and nothing more: <strong>parking is limited, park only in designated spots, and don't block roadways, gates, or dumpsters</strong>. No agency publishes a capacity number for this lot, so we won't invent one. What hikers consistently report is the shape of the problem — the designated spaces go early on warm weekends, and 5:30am arrivals are not unusual for the Bridge to Nowhere crowd."
+          },
+          {
+            "heading": "The permit question, honestly",
+            "body": "The Forest Service contradicts itself here and it's worth knowing before a ranger asks. The <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/trails/east-fork-trail\" rel=\"noopener\">East Fork Trail page</a> says a <strong>wilderness permit is required</strong> if you enter at the East Fork Trailhead. The <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/east-fork-day-use-parking-trailhead\" rel=\"noopener\">East Fork Day Use Parking Trailhead page</a> says a permit is <strong>encouraged but strictly voluntary</strong> at the same spot.\n\nEither way it's free and it takes thirty seconds: <strong>self-register at the kiosk at the trailhead</strong>. Fill one out. It costs you nothing and resolves the disagreement in your favor. The San Gabriel Mountains National Monument office at (626) 335-1251 is the number if you want it settled definitively."
+          },
+          {
+            "heading": "Plan B",
+            "body": "There is no sanctioned overflow lot. When the designated spaces are gone, cars line the approach road — that still requires a displayed pass, and the Forest Service's own instruction is to keep roadways, gates, and the dumpster area clear. Blocking any of those is how a long river day ends with a citation.\n\nThe real plan B is temporal, not spatial: this is a hot, exposed, river-bottom hike that most people start at dawn anyway. <strong>Come on a weekday, or start before sunrise.</strong> If you arrive at 10am on a July Saturday to a full lot, the honest move is to drive twenty minutes to another canyon rather than circle. And skip it entirely after rain — the first three miles follow the streambed with repeated crossings, and swift water here has killed people."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass to park for the Bridge to Nowhere?",
+            "a": "Yes. The East Fork Day Use Parking Trailhead is a Forest Service fee site: $5 per vehicle per day or $30 per year, or an America the Beautiful Interagency pass. Passes are not sold at the trailhead — buy one before you drive up."
+          },
+          {
+            "q": "Where can you buy an Adventure Pass near the East Fork trailhead?",
+            "a": "The Forest Service's San Gabriel Canyon fee station at 15200 N San Gabriel Canyon Road in Azusa sells them, but it operates weekends only (roughly 8am–4pm) and is cash only. Otherwise buy online or from a valley vendor before you go."
+          },
+          {
+            "q": "Do you need a wilderness permit for the East Fork Trail?",
+            "a": "Forest Service pages disagree — the trail page calls it required for entry at the East Fork Trailhead, the parking-area page calls it voluntary. It's free and self-issued at the trailhead kiosk, so fill one out regardless."
+          },
+          {
+            "q": "What time does the East Fork trailhead parking fill up?",
+            "a": "The lot is open 24 hours, but hiker reports on warm-season weekends describe designated spaces filling before 8am, with some arriving around 5:30am. Weekdays are dramatically easier."
+          }
+        ],
+        "related": [
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          },
+          {
+            "label": "Icehouse Canyon — the other San Gabriel lot that fills at dawn",
+            "href": "/trailheads/icehouse-canyon/"
+          },
+          {
+            "label": "Official East Fork trailhead page (fs.usda.gov)",
+            "href": "https://www.fs.usda.gov/r05/angeles/recreation/east-fork-day-use-parking-trailhead"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0225,
+          34.1956
+        ]
+      },
+      "properties": {
+        "name": "Chantry Flat (Big Santa Anita Canyon)",
+        "slug": "chantry-flats",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Chantry Flat Parking 2026: Open Again, Gate 6am–8pm, Fills at Dawn",
+        "meta_description": "Chantry Flat is open in 2026 after the Bobcat and Eaton Fire closures — but the gate runs 6am–8pm, the lots fill before sunrise on weekends, road parking is ticketed if you're over the white line, and the Mt. Wilson side is still inside a Forest Service closure order.",
+        "card_summary": "Open again after two fire closures. Gate 6am–8pm, lots gone before sunrise on weekends, and the Mt. Wilson side is still closed through 2027.",
+        "quick_answer": "<strong>Yes, it's open — and that's the recent news, not the permanent state.</strong> Chantry Flat reopened in October 2024 after the Bobcat Fire, closed again within months for the January 2025 Eaton Fire, and reopened in <strong>April 2025</strong>. In July 2026 the road is open, the <strong>gate runs 6am–8pm</strong>, and an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> ($5/day, $30/year) is required. The lots fill <strong>before sunrise</strong> on weekends. Two catches: the Forest Service warns the road <strong>may close for safety at any time</strong>, and the Mt. Wilson side of the canyon is still inside the <strong>Eaton Fire Area Closure through December 31, 2027</strong>.",
+        "badges": [
+          {
+            "label": "Open — but road can close anytime",
+            "tone": "warn"
+          },
+          {
+            "label": "Lots full before sunrise weekends",
+            "tone": "bad"
+          },
+          {
+            "label": "Flush toilets + drinking water",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "Sturtevant Falls, Sturtevant Trail & Loop, First Water, Gabrielino National Recreation Trail, Upper and Lower Winter Creek — all reported open. Mt. Wilson Trail is a separate Sierra Madre trailhead, not this one",
+        "fee": "Adventure Pass $5/day or $30/year; Interagency passes accepted",
+        "lot_size": "Upper and lower paved lots plus road spaces; no official capacity published",
+        "fill_time": "Weekends: before the 6am gate opening — hikers queue at the gate",
+        "overflow": "Road spaces below the lots (entirely behind the white line), or Adams Pack Station's paid parking, reported around $25",
+        "tow_risk": "Forest Service tickets vehicles over the white line; anything blocking the road gets towed",
+        "restrooms": true,
+        "road_access": "Paved Santa Anita Canyon Rd (Chantry Flat Rd) from Santa Anita Ave in Arcadia, ~4.6 mi; gate controlled by the City of Sierra Madre",
+        "best_season": "Winter and spring for the waterfall; year-round access, weather permitting",
+        "address": "End of Santa Anita Canyon Road, Arcadia, CA 91006",
+        "official_url": "https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "Open — with an asterisk you should actually read",
+            "body": "Big Santa Anita Canyon spent four years mostly shut. The 2020 Bobcat Fire closed it; the road repairs finally let it reopen in <strong>October 2024</strong>; the <strong>Eaton Fire in January 2025</strong> slammed it shut again within three months; the Forest Service reopened Chantry Flat along with several other trails in <strong>April 2025</strong>. As of July 2026 it's open, and hikers report Sturtevant Falls running.\n\nThe asterisk is in the Forest Service's own language: the roadway into Chantry Flat <em>\"may be closed to vehicles for safety reasons at any time in this steep environment, even if the picnic area and adjacent hiking trails are open to the public to hike in.\"</em> That isn't boilerplate — the road is managed by <strong>three different entities</strong>: the City of Sierra Madre controls the gate, LA County maintains most of the pavement, and the Forest Service owns a short section. Repairs and storm damage can shut the drive with no notice and no coordination with the trail status. Check the <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area\" rel=\"noopener\">official Chantry Flat page</a> or call the LA Gateway District at (818) 899-1900 the morning you go."
+          },
+          {
+            "heading": "Parking: the gate is the whole game",
+            "body": "Day-use hours are <strong>6am to 8pm</strong>, and on weekends the queue forms at the gate before it opens. There are upper and lower paved lots at the flat plus road spaces on the way up; no agency publishes a space count and we're not going to guess one. What's consistent across every source is that <strong>they're all gone early on weekend mornings</strong> — this is the closest real waterfall hike to a metro area of thirteen million people, reached by one two-lane road.\n\nIf you park on the road below the lots, the rule is specific and enforced: your car must be <strong>entirely behind the white line</strong> or the Forest Service will ticket it, and anything narrowing the road gets towed. An <a href=\"/adventure-pass/\">Adventure Pass</a> or Interagency pass goes on the dash wherever you end up. On the plus side, this is a genuinely developed site — <strong>flush toilets and drinking fountains at both lots</strong>, picnic tables and grills."
+          },
+          {
+            "heading": "What's still closed up here",
+            "body": "Don't plan a Mt. Wilson summit from this canyon without checking first. The <strong>Eaton Fire Area Closure (Forest Order 05-01-26-04) runs through December 31, 2027</strong> and covers the Mount Wilson Toll Road, Idlehour, Castle Canyon, the Sam Merrill trails, Echo Mountain, and both Mount Lowe trails.\n\nSeparately — and this trips people up because of the name — the <strong>Mt. Wilson Trail is not a Chantry Flat trail at all</strong>. It starts in Sierra Madre off Mira Monte Avenue, miles away, with its own street parking. Volunteers rebuilt 24 damaged sections after the Eaton Fire and the <strong>lower ~3.5 miles reopened</strong> in time for the Mount Wilson Trail Race to return in May 2026, but the upper trail remains inside the closure. A hiker died on the reopened lower section in May 2026 after a fall near the fixed-rope stretch; it is not the casual walk the reopening headlines implied."
+          },
+          {
+            "heading": "Plan B",
+            "body": "Three real options when you arrive to a full flat. <strong>One:</strong> park on the road below, entirely behind the white line, and walk up. <strong>Two:</strong> <a href=\"https://adamspackstation.com/\" rel=\"noopener\">Adams Pack Station</a> at the flat sells paid parking — reported around <strong>$25</strong> — which also buys you a snack bar and the resident donkeys. <strong>Three:</strong> leave. There's no third lot, and circling a full canyon road with a gate at the bottom is how people burn an hour.\n\nIf the gate is shut when you get there, don't improvise on the residential streets of Arcadia and Sierra Madre below — head for <a href=\"/trailheads/switzer-falls/\">Switzer Falls</a> instead, which is about forty minutes west and serves the same waterfall itch from a different canyon."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is Chantry Flat open in 2026?",
+            "a": "Yes. It reopened in April 2025 after the Eaton Fire closure, and the road and picnic area are open as of July 2026 with day-use hours of 6am to 8pm. The Forest Service cautions the road may close for safety at any time, so confirm before driving up."
+          },
+          {
+            "q": "What time do you need to arrive at Chantry Flat to get parking?",
+            "a": "On weekends, before the 6am gate opening — hikers routinely queue at the gate. Weekdays are far easier. There's no published space count, but every lot at the flat fills early on busy mornings."
+          },
+          {
+            "q": "Can you park on the road at Chantry Flat?",
+            "a": "Yes, below the lots, but your vehicle must be entirely behind the white line or the Forest Service will cite it, and anything blocking the road gets towed. An Adventure Pass is still required."
+          },
+          {
+            "q": "Is Sturtevant Falls open?",
+            "a": "Yes — Sturtevant Falls, the Sturtevant Trail and Loop, First Water, the Gabrielino Trail, and the Upper and Lower Winter Creek trails have been reported open in 2026. The Mount Wilson Toll Road and the Eaton Fire closure area to the west remain closed through December 31, 2027."
+          },
+          {
+            "q": "Do you need an Adventure Pass at Chantry Flat?",
+            "a": "Yes — $5 per vehicle per day or $30 per year, with America the Beautiful Interagency passes also accepted. It applies in the lots and on the road spaces alike."
+          }
+        ],
+        "related": [
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          },
+          {
+            "label": "Switzer Falls — the other front-range waterfall lot",
+            "href": "/trailheads/switzer-falls/"
+          },
+          {
+            "label": "Official Chantry Flat page (fs.usda.gov)",
+            "href": "https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area"
+          },
+          {
+            "label": "Eaton Fire Area Closure order (fs.usda.gov)",
+            "href": "https://www.fs.usda.gov/r05/angeles/alerts/eaton-fire-area-closure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1457,
+          34.2662
+        ]
+      },
+      "properties": {
+        "name": "Switzer Picnic Area (Switzer Falls)",
+        "slug": "switzer-falls",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Switzer Falls Parking 2026: Two Lots, a Gated Spur Road & a 7am Deadline",
+        "meta_description": "Switzer Picnic Area parking on Angeles Crest Highway: a small upper lot at the highway and a larger lower lot down a gated spur road. Adventure Pass required, vault toilets, no water — and hikers say be there before 7am on weekends. Hwy 2 access from La Cañada is open.",
+        "card_summary": "Small upper lot at the highway, bigger lower lot down a gated spur. Be there before 7am on weekends or you're walking the spur road.",
+        "quick_answer": "<strong>Two lots and a gate decide your day.</strong> A <strong>small lot at Angeles Crest Highway</strong> (mile marker 34.2) and a <strong>larger lot a quarter-mile down a steep gated spur road</strong>. Day use is <strong>6am–10pm</strong>, an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> ($5/day, $30/year) or Interagency pass is required, and there are <strong>vault toilets but no potable water</strong>. Hikers say to be there <strong>before 7am on weekends</strong> for the lower lot — otherwise you park up top and walk the spur down, then back up at the end.",
+        "badges": [
+          {
+            "label": "Lower lot gone by 7am weekends",
+            "tone": "warn"
+          },
+          {
+            "label": "Adventure Pass required",
+            "tone": "info"
+          },
+          {
+            "label": "Vault toilets, no water",
+            "tone": "info"
+          }
+        ],
+        "trail_served": "Gabrielino National Recreation Trail to the Switzer Falls overlook (~4 mi RT); Bear Canyon beyond",
+        "fee": "Adventure Pass $5/day or $30/year; Interagency passes accepted",
+        "lot_size": "Small upper lot at the highway plus a larger lower lot by the picnic area (26 picnic sites, one ADA space); no official car count published",
+        "fill_time": "Weekends: lower lot before 7am, upper lots not long after",
+        "overflow": "The upper lots at the highway — costs you a steep half-mile down and back up",
+        "tow_risk": "Angeles Crest shoulders are narrow and patrolled; park in the designated lots",
+        "restrooms": true,
+        "road_access": "Paved: SR-2 (Angeles Crest Hwy) ~10 mi north of the 210 in La Cañada Flintridge; spur road to the lower lot is gated at the top",
+        "best_season": "Winter through spring for flow; the canyon is pleasant year-round",
+        "address": "Switzer Picnic Area, Angeles Crest Highway (SR-2), mile marker 34.2, La Cañada Flintridge, CA 91011",
+        "official_url": "https://www.fs.usda.gov/r05/angeles/recreation/switzer-picnic-site",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "Highway 2 access: fine, if you're coming from La Cañada",
+            "body": "Switzer sits at <strong>mile marker 34.2</strong>, about ten miles up Angeles Crest Highway from the 210 in La Cañada Flintridge — and that stretch is open. The Highway 2 closures people have been reading about since the storm damage are <strong>far east of here</strong>: Caltrans lists SR-2 closed <strong>from 3.3 miles east of Newcomb's Ranch to Islip Saddle</strong> and again <strong>from Islip Saddle to Big Pines</strong> for emergency repairs, roughly forty repair sites in all.\n\nWhat that means practically: you can drive to Switzer normally from the west, but <strong>you cannot drive through</strong> to Wrightwood or the east end of the range. If your plan involved approaching from Big Pines, it doesn't work. Check <a href=\"https://roads.dot.ca.gov/?roadnumber=2\" rel=\"noopener\">Caltrans SR-2 conditions</a> before any Angeles Crest trip — this highway's status changes every storm season."
+          },
+          {
+            "heading": "The two-lot problem",
+            "body": "Switzer has a <strong>small parking lot right at the Crest Highway</strong> and a <strong>larger one about a quarter-mile down a steep spur road</strong>, with a gate at the top of the spur. The lower lot is the one everybody wants — it puts you at the picnic area and the Gabrielino Trail with no road walk. It's also the one that's gone first, and hiker reports converge on the same advice: <strong>be there before 7am on weekends</strong>, or expect to circle while people wait for someone to leave.\n\nThe Forest Service publishes <strong>26 picnic sites and one accessible parking space</strong> but no vehicle capacity, so we won't quote a number. Facilities are real if basic: <strong>vault toilets, no potable water</strong> — Arroyo Seco Creek water is seasonal and needs treatment, so carry what you'll drink. Day use runs <strong>6am to 10pm</strong> per the Forest Service. One caveat worth knowing: longtime local references describe the <strong>spur-road gate closing earlier in the evening than the posted day-use window</strong>, which would strand a car in the lower lot. If you're planning a late finish, park up top."
+          },
+          {
+            "heading": "Plan B",
+            "body": "The good news about Switzer is that plan B is built in. When the lower lot is full, <strong>park in the upper lot at the highway and walk down the spur</strong> — about half a mile, steep enough that you'll notice it on the way back out, but it's pavement and it's legal. That's the whole overflow strategy, and it's why Switzer handles crowds better than most front-range trailheads.\n\nWhat isn't a plan: improvising on the Angeles Crest shoulders. They're narrow, they're patrolled, and there are proper lots fifty yards away. If everything's full and you'd rather not do the road walk, <a href=\"/trailheads/chantry-flats/\">Chantry Flat</a> is the other big front-range waterfall option about forty minutes east — though its gate closes when it fills, so call ahead rather than driving on hope."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass to park at Switzer Falls?",
+            "a": "Yes. Switzer Picnic Area is a Forest Service fee site: $5 per vehicle per day or $30 per year, or an America the Beautiful Interagency pass, displayed on the dash."
+          },
+          {
+            "q": "What time should you arrive at Switzer Picnic Area on a weekend?",
+            "a": "Before 7am if you want the larger lower lot by the picnic area. After that you'll typically be parking in the smaller upper lot at Angeles Crest Highway and walking about half a mile down the steep spur road — and back up at the end."
+          },
+          {
+            "q": "Is Angeles Crest Highway open to Switzer Falls in 2026?",
+            "a": "Yes. Switzer is at mile marker 34.2, about ten miles up SR-2 from La Cañada Flintridge, and that section is open. The current Caltrans closures for emergency repairs are far east — from 3.3 miles east of Newcomb's Ranch to Islip Saddle, and from Islip Saddle to Big Pines — so you cannot drive through the range."
+          },
+          {
+            "q": "Are there restrooms at the Switzer trailhead?",
+            "a": "Vault toilets, yes. Potable water, no — Arroyo Seco Creek flow is seasonal and would need treatment, so bring all the water you plan to drink."
+          }
+        ],
+        "related": [
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          },
+          {
+            "label": "Chantry Flat — the other front-range waterfall lot",
+            "href": "/trailheads/chantry-flats/"
+          },
+          {
+            "label": "Caltrans SR-2 (Angeles Crest) conditions",
+            "href": "https://roads.dot.ca.gov/?roadnumber=2"
+          },
+          {
+            "label": "Official Switzer Picnic Site page (fs.usda.gov)",
+            "href": "https://www.fs.usda.gov/r05/angeles/recreation/switzer-picnic-site"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.636,
+          34.2502
+        ]
+      },
+      "properties": {
+        "name": "Icehouse Canyon Trailhead (Mt. Baldy)",
+        "slug": "icehouse-canyon",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Icehouse Canyon Parking: Adventure Pass vs. Cucamonga Permit (2026)",
+        "meta_description": "Icehouse Canyon trailhead parking on Ice House Canyon Road: Adventure Pass required to park, plus a separate free wilderness permit to enter the Cucamonga Wilderness — self-issue at the trailhead for the Angeles side, a different permit for the San Bernardino side. Lot fills early.",
+        "card_summary": "Two pieces of paper, two agencies. Adventure Pass to park, free wilderness permit to hike — and which permit depends on which peak.",
+        "quick_answer": "<strong>The pass and the permit are different things, and you need both.</strong> Parking at the Icehouse Canyon lot on Ice House Canyon Road is a Forest Service fee site: <strong>$5 per vehicle per day</strong> via an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> or Interagency pass. Entering the <strong>Cucamonga Wilderness</strong> beyond the boundary needs a <strong>separate, free wilderness permit</strong> — <strong>self-issue at the brown box in the parking lot</strong> for the Angeles side (Icehouse Saddle, Ontario Peak, the Three T's), but a <strong>different permit</strong> for the San Bernardino side (Cucamonga and Etiwanda Peaks). The Forest Service says parking is <strong>limited, especially on weekends</strong>.",
+        "badges": [
+          {
+            "label": "Pass + wilderness permit",
+            "tone": "warn"
+          },
+          {
+            "label": "Two permit systems, two forests",
+            "tone": "bad"
+          },
+          {
+            "label": "Self-issue box at the lot",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "Icehouse Canyon Trail 7W07 to Icehouse Saddle (7.2 mi RT, ~2,600 ft gain, high point 7,632 ft); onward to Ontario Peak, the Three T's, Cucamonga Peak, Etiwanda Peak",
+        "fee": "$5/vehicle/day Adventure Pass ($30/year); Interagency passes accepted. Wilderness permit is free and separate",
+        "lot_size": "Trailhead lot on Ice House Canyon Road; Forest Service publishes no count and says parking is limited",
+        "fill_time": "Weekends: early — hikers report arriving around 6am even on weekdays for a comfortable spot",
+        "overflow": "Cars line Ice House Canyon Road and Mt. Baldy Road; this is a cabin community, so driveways and private frontage are genuinely private",
+        "tow_risk": "Blocking cabin driveways or narrowing the canyon road is the way to get towed here",
+        "restrooms": "Not confirmed — the Forest Service lists no restroom information for this site; plan for none",
+        "road_access": "Paved: Mt. Baldy Rd through Mt. Baldy Village, then Ice House Canyon Rd; Mt. Baldy Visitor Center is a quarter-mile away, open weekends only",
+        "best_season": "Late spring through fall. Winter and early spring here require mountaineering skills — people die on this trail",
+        "address": "7698 Ice House Canyon Road, Mt. Baldy, CA 91759",
+        "official_url": "https://www.fs.usda.gov/r05/angeles/recreation/icehouse-canyon-saddle-icehouse-canyon",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "Adventure Pass vs. wilderness permit — they are not the same thing",
+            "body": "This is the single most common mistake at Icehouse Canyon, and it's an easy one to make because both are Forest Service paperwork.\n\nThe <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> is a <strong>parking fee</strong>: $5 per vehicle per day or $30 per year, or an America the Beautiful Interagency pass, displayed on the dash. It buys you the space and nothing else.\n\nThe <strong>Cucamonga Wilderness permit</strong> is <strong>free</strong> and is about <strong>entering the wilderness</strong>, not parking. Having one does not park your car; having a pass does not let you cross the boundary. You need both, and rangers do check."
+          },
+          {
+            "heading": "Which permit, though — and this is where it gets messy",
+            "body": "The Cucamonga Wilderness straddles two national forests, and each runs its own system.\n\n<strong>Staying in the Angeles National Forest</strong> — Icehouse Saddle, Ontario Peak, the Three T's — is the easy case: a <strong>self-issue permit from the brown box in the Icehouse Canyon parking lot</strong>, available whenever you show up. The Mt. Baldy Visitor Center a quarter-mile away also issues them, but it's <strong>weekends only</strong>.\n\n<strong>Continuing into the San Bernardino National Forest</strong> — Cucamonga Peak, Etiwanda Peak, the interior — requires a <strong>separate free permit</strong>, and the guidance is genuinely inconsistent. The San Bernardino NF's Cucamonga Wilderness page routes permits through the <a href=\"https://www.sgwa.org/permits\" rel=\"noopener\">San Gorgonio Wilderness Association</a>, requestable up to 90 days ahead and issued online rather than in person. Other current guidance points hikers to the <strong>Lytle Creek Ranger Station at (909) 382-2851</strong> or an online application. If Cucamonga Peak is your objective, <strong>sort this out days before, not at the trailhead box</strong> — the brown box does not cover you past the forest boundary."
+          },
+          {
+            "heading": "Parking and the seasonal closure nobody expects",
+            "body": "The Forest Service's line on the lot is short: <em>\"Parking is limited, especially on weekends. Carpooling is recommended.\"</em> No capacity is published, so we won't put a number on it. What's clear from hiker reports is that it goes early — people describe 6am arrivals on <em>weekdays</em> for a comfortable spot. Overflow spills along Ice House Canyon Road and Mt. Baldy Road, and it matters here more than most places that this is a <strong>cabin community</strong>: those driveways belong to people who live there.\n\nThe other surprise is closures. The 2024 Bridge Fire shut this whole area, and that closure order was terminated in June 2025 — but the Angeles has since issued <strong>late-winter safety closures of the Mt. Baldy-area trails, Icehouse Canyon Trail 7W07 included</strong>, most recently for a stretch in <strong>February–March 2026</strong>, with trails reported open again by April. The Forest Service is blunt about why: serious injuries and deaths have occurred on the Icehouse Canyon and Mt. Baldy trails, and hiking here in winter, spring, or even early summer <em>\"requires experienced mountaineering skills.\"</em> Check the <a href=\"https://www.fs.usda.gov/r05/angeles/alerts\" rel=\"noopener\">Angeles NF alerts page</a> before a cold-season attempt."
+          },
+          {
+            "heading": "Plan B",
+            "body": "If the lot is full, the honest options are roadside parking on Ice House Canyon Road or Mt. Baldy Road — legal where it doesn't block a driveway or narrow the road, still requiring a displayed pass — or driving on. There is no second Icehouse lot.\n\nThe better plan B is upstream of the drive: <strong>make it a weekday, or start at first light.</strong> And if your permit situation for Cucamonga Peak fell through, the Angeles-side objectives from the same trailhead — Icehouse Saddle, Ontario Peak, the Three T's — are covered by the self-issue box in the lot, so the day doesn't have to end at the parking area."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass at Icehouse Canyon?",
+            "a": "Yes — the trailhead lot is a Forest Service fee site at $5 per vehicle per day or $30 per year, with America the Beautiful Interagency passes accepted. It covers parking only, not wilderness entry."
+          },
+          {
+            "q": "What's the difference between the Adventure Pass and the Cucamonga Wilderness permit?",
+            "a": "The Adventure Pass is a paid parking fee for the lot. The Cucamonga Wilderness permit is free and authorizes entering the wilderness area itself. They are separate requirements and you need both — one does not substitute for the other."
+          },
+          {
+            "q": "Where do you get a Cucamonga Wilderness permit?",
+            "a": "For destinations within the Angeles National Forest — Icehouse Saddle, Ontario Peak, the Three T's — self-issue at the brown box in the Icehouse Canyon parking lot, or at the Mt. Baldy Visitor Center a quarter-mile away (weekends only). For Cucamonga Peak, Etiwanda Peak, and the San Bernardino National Forest portion, you need a separate free permit obtained in advance, either through the San Gorgonio Wilderness Association's online system or via the Lytle Creek Ranger Station at (909) 382-2851."
+          },
+          {
+            "q": "How early does Icehouse Canyon parking fill up?",
+            "a": "Early. The Forest Service simply says parking is limited, especially on weekends, and recommends carpooling; hikers report arriving around 6am even on weekdays to park comfortably. Overflow lines Ice House Canyon Road and Mt. Baldy Road, where cabin driveways must stay clear."
+          },
+          {
+            "q": "Is the Icehouse Canyon Trail open in 2026?",
+            "a": "It has been open since spring 2026. The 2024 Bridge Fire closure was terminated in June 2025, but the Angeles National Forest has issued late-winter safety closures covering Icehouse Canyon Trail 7W07 — most recently a stretch in February and March 2026. Check the forest alerts page before any cold-season trip."
+          }
+        ],
+        "related": [
+          {
+            "label": "Adventure Pass: the two-minute explainer",
+            "href": "/adventure-pass/"
+          },
+          {
+            "label": "East Fork — the other pass-required San Gabriel lot",
+            "href": "/trailheads/east-fork/"
+          },
+          {
+            "label": "Official Icehouse Canyon page (fs.usda.gov)",
+            "href": "https://www.fs.usda.gov/r05/angeles/recreation/icehouse-canyon-saddle-icehouse-canyon"
+          },
+          {
+            "label": "Cucamonga Wilderness (fs.usda.gov)",
+            "href": "https://www.fs.usda.gov/r05/sanbernardino/wilderness/cucamonga-wilderness"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7563,
+          32.9952
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek Falls Trailhead (San Diego River Gorge)",
+        "slug": "cedar-creek-falls",
+        "region": "San Diego County",
+        "meta_title": "Cedar Creek Falls Parking (Ramona): Closure Status & the $6 Permit Trap (2026)",
+        "meta_description": "Closed under heat order #02-26-14 as of our July 20, 2026 check — verify before you drive. When open, parking at the San Diego River Gorge trailhead is free: the $6 Recreation.gov permit buys entry to the falls area, not a parking space, and isn't sold on site.",
+        "card_summary": "Closed under a heat order as of July 20, 2026 — check before you drive. When open: parking is free, and the $6 Recreation.gov permit buys entry to the falls area, not a parking space.",
+        "quick_answer": "<strong>Check the closure before anything else — this area was closed when we last looked.</strong> <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">Forest Order #02-26-14</a> closed the San Diego River Gorge / Cedar Creek Falls area on <strong>July 14, 2026</strong>, and on our <strong>July 20, 2026</strong> check it was still posted with <strong>no end date</strong>. Heat orders here come and go, so verify on the Cleveland National Forest alerts page the morning you go.\n\n<strong>When it is open</strong>, the thing people get backwards: parking at the trailhead (15519 Thornbush Rd, Ramona) is <strong>free</strong> — no <a href=\"/adventure-pass/\">Adventure Pass</a>, no kiosk. The <strong>$6 Recreation.gov permit</strong> buys <em>entry to the falls area</em>, covers the holder plus up to four others, is <strong>not sold at the trailhead</strong>, and there's no usable cell signal to buy it there. Rangers check.",
+        "badges": [
+          {
+            "label": "Closed now — heat order #02-26-14",
+            "tone": "bad"
+          },
+          {
+            "label": "Permit ≠ parking pass",
+            "tone": "warn"
+          },
+          {
+            "label": "Buy the permit before you drive",
+            "tone": "info"
+          }
+        ],
+        "trail_served": "San Diego River Gorge Trail to Cedar Creek Falls (~6 mi RT; ~1,800 ft of climbing on the way back out)",
+        "fee": "Parking: free. Entry permit: $6 per permit (holder + up to 4 others) via Recreation.gov — required, not sold on site",
+        "lot_size": "Small — hiker reports describe roughly a dozen marked spaces; no official count published",
+        "fill_time": "Cool-season weekend mornings are the crunch; in summer the area is often closed outright rather than crowded",
+        "overflow": "None sanctioned — and with a permit cap, an overflow lot wouldn't help anyway",
+        "tow_risk": "Thornbush Rd is a residential street in Ramona; don't improvise on it. Citations are for missing permits, not parking",
+        "restrooms": true,
+        "road_access": "Paved suburban streets through Ramona to the Thornbush Rd trailhead",
+        "best_season": "Fall, winter and spring. The Forest Service actively discourages this hike above 90°F",
+        "address": "15519 Thornbush Rd, Ramona, CA 92065",
+        "official_url": "https://www.fs.usda.gov/r05/cleveland/recreation/trails/san-diego-river-gorge-trail",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "The confusion that ruins people's mornings",
+            "body": "Two separate things get collapsed into one here. <strong>Parking</strong> at the San Diego River Gorge trailhead is free — the Forest Service's own trail page and the Recreation.gov listing both describe the $6 charge as a <em>visitor use permit to enter the Cedar Creek Falls Permit Area</em>, and neither lists this trailhead as an <a href=\"/adventure-pass/\">Adventure Pass</a> fee site. Some third-party blogs tell you to display an Adventure Pass on the dash. No official source we could find says that.\n\nThe reverse mistake is worse: showing up with the intention of paying at the trailhead. <strong>Permits are sold online only, at <a href=\"https://www.recreation.gov/permits/234735\" rel=\"noopener\">recreation.gov/permits/234735</a>, and there is no meaningful cell signal at the trailhead to buy one.</strong> Book it at home, screenshot or print it, and expect a ranger to ask. $6 covers the permit holder plus up to four more people — it's per permit, not per person, and not per car."
+          },
+          {
+            "heading": "Summer is the real gatekeeper",
+            "body": "This canyon has killed people. The trail drops about 1,800 feet in the first two miles, which means the hard part is the exit, in full sun, in the afternoon. The Forest Service's guidance is blunt: hiking is <strong>highly discouraged when the trailhead is above 90°F</strong>, and the District Ranger issues temporary closure orders for the duration of high-heat events — when that happens, Recreation.gov cancels affected reservations with a full refund.\n\nThat isn't hypothetical. <strong>Forest Order #02-26-14 closed the San Diego River Gorge / Cedar Creek Falls area effective July 14, 2026</strong>, and as of this page's July 20, 2026 check the order was still posted on the Cleveland National Forest alerts page with no end date listed. Recreation.gov was also flagging that water levels had dwindled and the pools were stagnant. Summer here is not a season with bad parking; it's a season with no access. Check <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">Cleveland NF alerts</a> before you buy a permit, and call the Palomar Ranger District at (760) 788-0250 if you want it confirmed by a human."
+          },
+          {
+            "heading": "The lot itself",
+            "body": "Small, at the end of a residential street in Ramona, with a toilet just above the parking area and a water spigot behind it. No official capacity is published, so we won't invent one — hikers consistently describe roughly a dozen marked spaces, which is modest but not the binding constraint. <strong>The daily permit cap is.</strong> Reporting from the launch of the reservation system, and hiking guides since, put it at 75 permits per day; the Forest Service's current public pages state the $6 price without restating the cap, so treat 75 as well-sourced but unconfirmed on the official page.\n\nPractically: if you hold a permit for the day, a space will almost certainly exist. If you don't hold a permit, an empty space does you no good."
+          },
+          {
+            "heading": "Plan B",
+            "body": "If the area is closed for heat, or the day's permits are gone, don't drive out and hope. <strong><a href=\"/trailheads/three-sisters-falls/\">Three Sisters Falls</a></strong> is the closest same-flavor alternative — same forest, same waterfall payoff, no permit and no fee, and a rebuilt trailhead with far more parking. It carries the identical summer heat problem and its own closure orders, so check the same alerts page.\n\nIf you want a genuinely heat-proof backup, go coastal instead: <a href=\"/trailheads/torrey-pines/\">Torrey Pines</a> is 90 minutes west and about thirty degrees cooler. And if the goal was really \"a hard San Diego County climb,\" <a href=\"/trailheads/potato-chip-rock/\">Mt. Woodson</a> is closer to town with no permit at all."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you have to pay to park at Cedar Creek Falls?",
+            "a": "No. Parking at the San Diego River Gorge trailhead on Thornbush Road in Ramona is free. The $6 charge people associate with Cedar Creek Falls is a Recreation.gov visitor-use permit to enter the falls area — a separate thing from parking, and required whether or not you drove."
+          },
+          {
+            "q": "How much is the Cedar Creek Falls permit and what does it cover?",
+            "a": "$6 per permit, which covers the permit holder plus up to four additional people (five total). It is purchased online at recreation.gov, is not sold at the trailhead, and does not include or substitute for anything parking-related. Rangers check permits on the trail."
+          },
+          {
+            "q": "Do you need an Adventure Pass at Cedar Creek Falls?",
+            "a": "No official Forest Service or Recreation.gov source lists the San Diego River Gorge trailhead as an Adventure Pass fee site — the required document is the $6 Recreation.gov permit. Some third-party guides claim otherwise; the official sources do not."
+          },
+          {
+            "q": "Is Cedar Creek Falls open in summer?",
+            "a": "Often not. The Cleveland National Forest closes the San Diego River Gorge / Cedar Creek Falls area during high-heat events, and such an order was in effect from July 14, 2026. The falls also typically stop flowing in summer, leaving stagnant, algae-filled pools. Fall through spring is the season to go."
+          },
+          {
+            "q": "Can you buy the Cedar Creek Falls permit at the trailhead?",
+            "a": "No. Permits are online-only through Recreation.gov, and there is not enough cell service at the trailhead to buy one on your phone. Book before you leave home and bring a printout or screenshot."
+          }
+        ],
+        "related": [
+          {
+            "label": "Cleveland National Forest alerts & closures (check before you drive)",
+            "href": "https://www.fs.usda.gov/r05/cleveland/alerts"
+          },
+          {
+            "label": "Three Sisters Falls — the no-permit alternative",
+            "href": "/trailheads/three-sisters-falls/"
+          },
+          {
+            "label": "Torrey Pines — the heat-proof backup",
+            "href": "/trailheads/torrey-pines/"
+          },
+          {
+            "label": "Cedar Creek Falls permit on Recreation.gov",
+            "href": "https://www.recreation.gov/permits/234735"
+          },
+          {
+            "label": "Cleveland NF alerts & closures",
+            "href": "https://www.fs.usda.gov/r05/cleveland/alerts"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6772,
+          32.9845
+        ]
+      },
+      "properties": {
+        "name": "Three Sisters Falls (Cha'chaany Hamuk Trailhead)",
+        "slug": "three-sisters-falls",
+        "region": "San Diego County",
+        "meta_title": "Three Sisters Falls Parking: Check the Heat Closure First (2026)",
+        "meta_description": "The rebuilt Cha'chaany Hamuk Trailhead gave Three Sisters Falls hardpacked parking for up to 80 vehicles, vault toilets and shade — free, no permit. The catch is closure orders: Cleveland NF shuts this trail during high-heat events, most recently July 14–16, 2026.",
+        "card_summary": "Free parking for up to 80 cars at the rebuilt trailhead, no permit needed — but the Forest Service closes this trail outright during heat events. Check alerts before you drive.",
+        "quick_answer": "<strong>Check the closure page before anything else.</strong> Cleveland National Forest shuts this trail during high-heat events — <strong>Forest Order #02-26-13 closed the Three Sisters area July 14–16, 2026</strong>, and it had expired as of this July 20 check, but forest-wide fire restrictions (#02-26-10) remain in effect with fire danger rated <strong>High</strong>. If it's open, parking is the easy part now: the rebuilt <strong>Cha'chaany Hamuk Trailhead</strong> has hardpacked parking for <strong>up to 80 vehicles</strong>, vault toilets, shade structures and picnic tables — <strong>free, no permit, no <a href=\"/adventure-pass/\">Adventure Pass</a></strong>. Getting there is the remaining chore: about 13 miles of washboarded Boulder Creek Road.",
+        "badges": [
+          {
+            "label": "Check heat-closure status first",
+            "tone": "bad"
+          },
+          {
+            "label": "Free — no permit, no pass",
+            "tone": "good"
+          },
+          {
+            "label": "Up to 80 vehicles + vault toilets",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "Three Sisters Falls Trail (moderate–strenuous, rocky and unstable in places, essentially no shade); also the approach used for Eagle Peak",
+        "fee": "Free — no fee, no permit, no Adventure Pass",
+        "lot_size": "Hardpacked parking for up to 80 vehicles including accessible spaces (per the National Forest Foundation project description)",
+        "fill_time": "Rarely the binding constraint since the rebuild — the trailhead was built to absorb weekends that draw 50–400 visitors",
+        "overflow": "Use the lot. Roadside parking on Boulder Creek Road was the exact problem this project was built to end",
+        "tow_risk": "Parking along the edge of Boulder Creek Road blocks residents and emergency vehicles and is not tolerated — there is no reason to do it now",
+        "restrooms": true,
+        "road_access": "Boulder Creek Road: ~13 miles of gravel and washboard from Descanso. Passable for low-clearance 2WD at slow speeds",
+        "best_season": "Late fall through spring. Summer here is a rescue statistic, not a hike",
+        "address": "Cha'chaany Hamuk Trailhead, Boulder Creek Rd, between Descanso and Santa Ysabel, CA",
+        "official_url": "https://www.fs.usda.gov/r05/cleveland/alerts",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "Access status comes before parking",
+            "body": "This trail's limiting factor isn't spaces, it's whether the forest is letting anyone in. The Palomar Ranger District issues short, sharp closure orders when the National Weather Service posts excessive-heat warnings: <strong>Forest Order #02-26-13 prohibited being upon the Three Sisters Closure Area from July 14 through July 16, 2026</strong>. That window had lapsed by our July 20 check, and no successor Three Sisters order was posted — but the neighboring <a href=\"/trailheads/cedar-creek-falls/\">Cedar Creek Falls</a> closure (#02-26-14) was still up with no end date, and <strong>elevated fire-use restrictions (#02-26-10, effective June 11, 2026) apply forest-wide</strong> with fire danger listed as High across all three districts.\n\nSo: check <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">the Cleveland NF alerts page</a> the morning you go, and call the Palomar Ranger District at (760) 788-0250 if the page is ambiguous. It is a long drive on a bad road to find a gate."
+          },
+          {
+            "heading": "The trailhead is genuinely fixed now",
+            "body": "For years this was a roadside free-for-all: cars strung along the shoulder of Boulder Creek Road on weekends that draw anywhere from 50 to 400 visitors, narrowing the road for residents and emergency vehicles. A roughly $1.57-million reconstruction, delivered with the National Forest Foundation and opened with a ribbon-cutting in May, replaced it with the <strong>Cha'chaany Hamuk Trailhead</strong> — the old Three Sisters Falls Trailhead, renamed.\n\nWhat's there: <strong>hardpacked parking for up to 80 vehicles, including accessible spaces</strong>, four vault toilet rooms, trash and recycling, accessible picnic tables, shade structures and interpretive signage — plus a helicopter landing zone and underground water storage for wildfire response, which tells you something about how this canyon behaves. It's all <strong>free</strong>. No permit, no fee, no Adventure Pass; unlike <a href=\"/trailheads/cedar-creek-falls/\">Cedar Creek Falls</a>, there is nothing to book.\n\nOlder trail guides still describe \"no facilities\" and a rutted dirt lot. They're out of date."
+          },
+          {
+            "heading": "Plan B",
+            "body": "If the trail is closed for heat, the honest plan B is not another backcountry waterfall — it's leaving the backcountry. <a href=\"/trailheads/cedar-creek-falls/\">Cedar Creek Falls</a> sits in the same watershed and gets closed by the same weather, and it adds a permit you'd have to buy in advance. <strong>When the Palomar district is in a heat closure, assume both are out.</strong>\n\nGo coastal instead — <a href=\"/trailheads/torrey-pines/\">Torrey Pines</a> — or head to <a href=\"/trailheads/potato-chip-rock/\">Mt. Woodson</a>, which is lower, closer to help, and served by a park with water and shade at the bottom. If the trail is open but you're worried about the drive, note that Boulder Creek Road is graded gravel rather than four-wheel-drive terrain: slow is sufficient, high clearance is not required."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is Three Sisters Falls open right now?",
+            "a": "It depends on the weather. Cleveland National Forest issues temporary closure orders for the Three Sisters area during excessive-heat events — Forest Order #02-26-13 closed it July 14–16, 2026. Check the Cleveland NF alerts page or call the Palomar Ranger District at (760) 788-0250 before driving out."
+          },
+          {
+            "q": "Do you need a permit or a fee to hike Three Sisters Falls?",
+            "a": "No. Unlike nearby Cedar Creek Falls, Three Sisters Falls requires no permit and charges no parking fee, and it is not an Adventure Pass site. Access is free when the area is open."
+          },
+          {
+            "q": "How big is the Three Sisters Falls parking lot?",
+            "a": "The rebuilt Cha'chaany Hamuk Trailhead has hardpacked parking for up to 80 vehicles, including accessible spaces, according to the National Forest Foundation, which partnered on the project. It also has vault toilets, shade structures and picnic tables."
+          },
+          {
+            "q": "Can you park on Boulder Creek Road for Three Sisters Falls?",
+            "a": "Don't. Illegal roadside parking along Boulder Creek Road restricted resident and emergency-vehicle access and was the specific problem the new 80-vehicle trailhead was built to solve. Use the lot."
+          },
+          {
+            "q": "What kind of car do you need for Boulder Creek Road?",
+            "a": "A normal one, driven slowly. Boulder Creek Road is roughly 13 miles of gravel with heavily washboarded sections from Descanso, but it is passable for low-clearance two-wheel-drive vehicles."
+          }
+        ],
+        "related": [
+          {
+            "label": "Cedar Creek Falls — same watershed, but you need a permit",
+            "href": "/trailheads/cedar-creek-falls/"
+          },
+          {
+            "label": "Potato Chip Rock / Mt. Woodson",
+            "href": "/trailheads/potato-chip-rock/"
+          },
+          {
+            "label": "Cleveland NF alerts & closures",
+            "href": "https://www.fs.usda.gov/r05/cleveland/alerts"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0134,
+          33.0066
+        ]
+      },
+      "properties": {
+        "name": "Potato Chip Rock / Mt. Woodson (Lake Poway)",
+        "slug": "potato-chip-rock",
+        "region": "San Diego County",
+        "meta_title": "Potato Chip Rock Parking: Lake Poway's $10 Weekend Fee vs. Free Hwy 67 (2026)",
+        "meta_description": "Lake Poway charges non-residents $10 to park on weekends and holidays only — weekdays are free for everyone. The Hwy 67 roadside approach is always free and half the distance, but it's a shadeless paved climb beside a fast four-lane highway.",
+        "card_summary": "Two trailheads, two different deals: Lake Poway's big lot ($10 non-resident weekends/holidays, free weekdays, gates locked at sunset) or free roadside on Hwy 67 for a shorter, uglier, steeper climb.",
+        "quick_answer": "<strong>The fee is narrower than people think.</strong> Lake Poway charges <strong>$10 for non-residents on weekends and holidays only</strong> — collected 6am to 30 minutes before sunset. <strong>Weekdays are free for everyone</strong>, and Poway residents with proof, active military with ID, and valid fishing-permit holders are always free. The alternative is the <strong>Hwy 67 trailhead</strong>: free roadside parking, about half the round-trip distance, but a steep paved fire road with no shade and no facilities, parked beside a fast four-lane highway. Neither is an <a href=\"/adventure-pass/\">Adventure Pass</a> site — this is a city park and county open space, not national forest. <strong>Lake Poway's gates are locked at sunset.</strong>",
+        "badges": [
+          {
+            "label": "Free on weekdays",
+            "tone": "good"
+          },
+          {
+            "label": "$10 non-resident weekends/holidays",
+            "tone": "info"
+          },
+          {
+            "label": "Gates locked at sunset",
+            "tone": "warn"
+          }
+        ],
+        "trail_served": "Mt. Woodson Trail to Potato Chip Rock and the summit — ~7 mi RT from Lake Poway, ~4 mi RT from Hwy 67",
+        "fee": "Lake Poway: $10 non-resident, weekends and holidays only; free weekdays; free for Poway residents, active military with ID, and fishing-permit holders. Hwy 67: free",
+        "lot_size": "Lake Poway: a large park lot with restrooms and water. Hwy 67: informal roadside, no official count",
+        "fill_time": "The lot rarely runs out before the summit-photo line does — hikers routinely advise arriving before 9am on weekends to avoid a 30-plus-minute queue at the rock",
+        "overflow": "The Hwy 67 trailhead is the de facto overflow, and it's free — but it's a different, harder-feeling hike",
+        "tow_risk": "On Hwy 67, park fully clear of the travel lanes and never block the road into the fire station. At Lake Poway the risk isn't towing — it's being locked inside after sunset",
+        "restrooms": true,
+        "road_access": "Lake Poway: paved city street to the entry station at the end of Lake Poway Rd. Hwy 67: paved highway shoulder",
+        "best_season": "October–April. This is an exposed granite climb with almost no shade — summer afternoons are miserable and occasionally dangerous",
+        "address": "Lake Poway, 14644 Lake Poway Rd, Poway, CA 92064",
+        "official_url": "https://poway.org/439/Parking",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "Lake Poway: read the fee schedule properly",
+            "body": "The City of Poway's own parking page is short and worth getting right, because the internet flattens it into \"$10 to park at Lake Poway.\" What it actually says: <strong>Poway residents — no charge. Non-residents — $10. Military with ID — no charge.</strong> And the fee applies to <strong>non-residents on weekends and holidays only</strong>, collected from <strong>6am to 30 minutes before sunset</strong>. Anyone holding a valid fishing permit is exempt. Residents can get a sticker at the entry station or office.\n\nSo a Tuesday hike from Lake Poway costs nothing, for anybody. That single fact reshuffles the whole calculation below.\n\nThe park itself is the comfortable option: a large lot, restrooms, water, picnic areas, and the Mt. Woodson trailhead a short walk from the far end. <strong>Gates open at 6am and are closed and locked at sunset</strong> — on a seven-mile round trip with a photo queue at the top, that's a real deadline, not a formality."
+          },
+          {
+            "heading": "Hwy 67: free, shorter, and less pleasant",
+            "body": "The east-side approach starts from the shoulder of Highway 67 near the CAL FIRE station and follows the paved Mt. Woodson Road service road to the summit — roughly four miles round trip instead of seven, with a steeper average grade. <strong>Parking is free roadside</strong>, with no lot, no toilets, no water and no shade.\n\nThe honest downsides: you are parking and stepping out onto the verge of a fast four-lane highway, the walk itself is asphalt with utility infrastructure rather than trail, and the area immediately around the fire station access road is signed and must be kept clear. Hikers consistently call it the more dangerous trailhead of the two, and that's about the cars, not the climb.\n\nIt earns its keep in exactly two situations: a weekend when you don't want to pay $10, or an afternoon when you want the summit without three hours of exposure."
+          },
+          {
+            "heading": "What no pass covers here",
+            "body": "Worth stating plainly because people arrive with the wrong paperwork: <strong>this is not national forest.</strong> Lake Poway is a City of Poway recreation area and Mt. Woodson's slopes are open space, so an <a href=\"/adventure-pass/\">Adventure Pass</a> buys you nothing, and neither does an America the Beautiful pass or a California State Parks pass. The $10 is a municipal parking fee paid at the entry station, cash-simple and only on the days listed above."
+          },
+          {
+            "heading": "Plan B",
+            "body": "In order of usefulness: <strong>move the day, not the trailhead.</strong> A weekday at Lake Poway is free and quiet, and the summit-photo queue — the actual bottleneck on this hike, not parking — largely evaporates. If you're locked into a weekend, arriving before 9am gets you up and down ahead of the line.\n\nIf you won't pay and can't move the day, take Hwy 67 and accept the tradeoffs. If you're chasing a summit rather than that specific photograph, <a href=\"/trailheads/three-sisters-falls/\">Three Sisters Falls</a> and Eagle Peak are an hour east with free parking and far fewer people — subject to the Cleveland National Forest's summer heat closures. And if the day has already gotten hot, go west: <a href=\"/trailheads/torrey-pines/\">Torrey Pines</a> is coastal, shaded by ocean air rather than trees, and open until sunset."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How much does it cost to park at Lake Poway for Potato Chip Rock?",
+            "a": "$10 for non-residents, and only on weekends and holidays — weekdays are free for everyone. Poway residents with proof of residency, active military with ID, and holders of a valid fishing permit park free at all times. The fee is collected from 6am to 30 minutes before sunset."
+          },
+          {
+            "q": "Can you hike Potato Chip Rock without paying?",
+            "a": "Yes, two ways. Hike on a weekday, when Lake Poway parking is free for everyone. Or start from the Highway 67 trailhead on the east side, where roadside parking is always free — a shorter, steeper paved route with no restrooms, water or shade."
+          },
+          {
+            "q": "Which Potato Chip Rock trailhead is better, Lake Poway or Highway 67?",
+            "a": "Lake Poway is the nicer hike — about seven miles round trip on real trail, with restrooms, water and a lake to start from. Highway 67 is about four miles round trip on a steep paved service road with no facilities, parked on the shoulder of a fast four-lane highway. Lake Poway for the experience, Highway 67 for speed or to skip the weekend fee."
+          },
+          {
+            "q": "What time does Lake Poway close?",
+            "a": "The gates open at 6am daily and are closed and locked at sunset. On a seven-mile round trip with a queue for the summit photo, plan your turnaround around that lock time — not around daylight."
+          },
+          {
+            "q": "Do you need an Adventure Pass at Mt. Woodson?",
+            "a": "No. Lake Poway is a City of Poway park and Mt. Woodson is not national forest land, so an Adventure Pass, an America the Beautiful pass and a California State Parks pass are all irrelevant here. The only charge is Poway's $10 non-resident weekend and holiday parking fee."
+          }
+        ],
+        "related": [
+          {
+            "label": "Adventure Pass: why it doesn't apply here",
+            "href": "/adventure-pass/"
+          },
+          {
+            "label": "Torrey Pines — the cool-weather alternative",
+            "href": "/trailheads/torrey-pines/"
+          },
+          {
+            "label": "Three Sisters Falls",
+            "href": "/trailheads/three-sisters-falls/"
+          },
+          {
+            "label": "City of Poway parking & entry station",
+            "href": "https://poway.org/439/Parking"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2497,
+          32.9218
+        ]
+      },
+      "properties": {
+        "name": "Torrey Pines State Natural Reserve",
+        "slug": "torrey-pines",
+        "region": "San Diego County",
+        "meta_title": "Torrey Pines Parking: Demand-Based Fees, Tiny Mesa Lots & the Free Street Option (2026)",
+        "meta_description": "Torrey Pines charges demand-based day-use parking — roughly $10–$25 per vehicle depending on lot and day — and the two small lots on the mesa fill early enough that the park road gets gated. Free street parking on N Torrey Pines Rd is real, competitive, and walkable in.",
+        "card_summary": "Demand-priced day use (~$10–$25), two small mesa lots that fill by mid-morning and get gated off, and free street parking outside the entrance that you have to earn by arriving early.",
+        "quick_answer": "<strong>The lots are small and the price moves.</strong> Torrey Pines uses <strong>demand-based day-use pricing</strong> — California State Parks lists roughly <strong>$10–$25 per vehicle</strong> depending on which lot, which day and which season — with an annual State Parks vehicle pass sold at the kiosk for <strong>$195</strong>. The two <strong>small lots up on the mesa</strong> near the Lodge and visitor center fill fast on weekends, at which point <strong>the park road is gated and a light above the entrance kiosk flags it</strong>. Free street parking exists on N Torrey Pines Rd outside the gate and <strong>walking in on foot is free</strong> — but those spaces are contested from mid-morning on. Gates open <strong>7:15am</strong> and close at sunset. <strong>No dogs, anywhere in the reserve.</strong>",
+        "badges": [
+          {
+            "label": "Mesa lots gated when full",
+            "tone": "bad"
+          },
+          {
+            "label": "Demand-based ~$10–$25",
+            "tone": "info"
+          },
+          {
+            "label": "Free street parking + free walk-in",
+            "tone": "good"
+          }
+        ],
+        "trail_served": "Guy Fleming, Razor Point, Yucca Point, Broken Hill and the Beach Trail down to Flat Rock — short reserve loops, not a big-mileage day",
+        "fee": "Demand-based day use: California State Parks lists the North Beach lot at $10–$25 and the South Beach lot from $12, up to $25 at peak. Annual State Parks vehicle pass $195 at the kiosk. Walking in is free",
+        "lot_size": "Two small lots on the mesa near the Lodge, plus the larger South Beach lot at the bottom of the hill and a separate North Beach lot",
+        "fill_time": "Mesa lots: often full by mid-morning on weekends, with hikers advising arrival before 8–9am. 10am–1pm is the reserve's busiest window",
+        "overflow": "South Beach lot at the base, then free street parking on N Torrey Pines Rd — the walk up the park road is the tradeoff",
+        "tow_risk": "Low inside the park. On the street, read the posted signs — this is city right-of-way near a state beach, not a free-for-all",
+        "restrooms": true,
+        "road_access": "Paved throughout, off N Torrey Pines Rd. Note the recurring closure of the park road and upper lot the 3rd Wednesday of every month, 7am–1pm",
+        "best_season": "Year-round. Winter and spring are best for wildflowers and clear air; summer weekends are the parking crunch",
+        "address": "12600 N Torrey Pines Rd, San Diego, CA 92037",
+        "official_url": "https://www.parks.ca.gov/torreypines",
+        "verified": "July 20, 2026",
+        "sections": [
+          {
+            "heading": "Three lots, two of them tiny",
+            "body": "Torrey Pines is not one parking area, it's a hierarchy. At the bottom of the hill, just inside the entrance off N Torrey Pines Rd, is the <strong>South Beach lot</strong> — the big one, with restrooms. Drive up the park road and you reach <strong>two small lots on the mesa</strong> near the Lodge, the visitor center and the trailheads, which is where everyone actually wants to be. Separately, off Carmel Valley Rd, is the <strong>North Beach lot</strong>, which has its own fee schedule.\n\nThe mesa lots are the story. They hold very few cars relative to demand, and when they're full <strong>the park road is closed to vehicles at the bottom</strong> — a flashing light above the entrance kiosk signals it so you're not queuing for something that isn't available. On weekends that happens early; the common advice is to be through the gate before 8 or 9am, and the reserve's own busiest window is roughly 10am to 1pm. Arrive at 11am on a July Saturday and the realistic outcome is the South Beach lot and a walk up the hill, which is a perfectly good warm-up and not what most people planned.\n\nOne calendar item worth noting: California State Parks lists a recurring <strong>park road and upper parking lot closure on the 3rd Wednesday of every month, 7am–1pm</strong>."
+          },
+          {
+            "heading": "What it costs, and what pass actually works",
+            "body": "Day use here is <strong>demand-based</strong>, which means the number on the sign changes with the day, the season and the holiday calendar. California State Parks publishes the North Beach lot at <strong>$10–$25 per vehicle</strong> and the South Beach lot starting at <strong>$12</strong> and running to the same ceiling; expect the top of the range on summer weekends and holidays. Payment is at automated machines or the kiosk when it's staffed. An <strong>annual California State Parks Vehicle Day Use Pass is $195</strong> at the entrance kiosk and covers it.\n\nWhat does <em>not</em> work: an <a href=\"/adventure-pass/\">Adventure Pass</a>. This is a state reserve, not national forest — the Adventure Pass and America the Beautiful cover nothing here. It's the single most common wrong-pass mistake at this gate, usually made by people who hiked in the Cleveland or San Bernardino forests the week before."
+          },
+          {
+            "heading": "The free-parking reality on N Torrey Pines Rd",
+            "body": "It's real, and it's oversold. There is free public street parking along <strong>N Torrey Pines Rd</strong> outside the entrance, facing the ocean, and along Carmel Valley Rd — and because there is <strong>no pedestrian entry fee</strong>, you can park there and simply walk in. The reserve even points out that visitors who don't want to pay the day-use fee can be dropped off near the bus stop by the free parking area.\n\nThe catch is supply and distance. Those spaces are shared with Torrey Pines State Beach traffic, surfers and the golf-course crowd, and on a warm weekend they're gone by mid-morning, at which point \"free parking on N Torrey Pines Rd\" means a space several hundred yards farther south and a walk back along the highway. Then you still have the climb up the park road if you want the mesa trails. Budget it as a real hike, not a shortcut.\n\nWhat it's excellent for: an early weekday morning, a sunset walk on the beach trail, or anyone visiting often enough that $20 a pop stings but $195 a year doesn't pencil out either."
+          },
+          {
+            "heading": "Plan B",
+            "body": "In priority order. <strong>Go early</strong> — through the gate before 8am on a weekend and none of the above applies to you. <strong>Take the street and walk in</strong> — free, always available in the sense that pedestrians are never turned away, and the beach trail from the bottom is arguably the better approach anyway. <strong>Use the North Beach lot</strong> off Carmel Valley Rd, which draws a different crowd and prices separately, and walk south along the sand at low tide.\n\nAnd the timing move nobody uses: <strong>come late</strong>. The 10am–1pm peak clears out through the afternoon, gates don't close until sunset, and the light on the sandstone in the last hour is the reason to be here in the first place. Check the tide before you count on the beach route, bring water — there's no shade to speak of on the mesa — and leave the dog at home, because dogs are prohibited throughout the reserve, including the beach below it."
+          }
+        ],
+        "faq": [
+          {
+            "q": "How much is parking at Torrey Pines State Natural Reserve?",
+            "a": "It's demand-based and changes with the day and season. California State Parks lists the North Beach lot at $10–$25 per vehicle and the South Beach lot from $12 up to the same ceiling, with the highest rates on peak weekends and holidays. An annual California State Parks Vehicle Day Use Pass costs $195 at the entrance kiosk."
+          },
+          {
+            "q": "Is there free parking at Torrey Pines?",
+            "a": "Yes — free street parking on N Torrey Pines Rd outside the entrance and along Carmel Valley Rd, and there is no fee to enter the reserve on foot. The spaces are shared with beach and golf traffic and typically fill by mid-morning on warm weekends, so it works best early or late in the day."
+          },
+          {
+            "q": "Why is the road to the Torrey Pines upper parking lot closed?",
+            "a": "The two small lots on the mesa near the Lodge fill quickly, and when they do, staff gate the park road at the bottom and signal it with a light above the entrance kiosk. Once that happens you park at the South Beach lot below and walk up. There is also a scheduled closure of the park road and upper lot on the 3rd Wednesday of every month, 7am–1pm."
+          },
+          {
+            "q": "What time does Torrey Pines State Natural Reserve open?",
+            "a": "Gates open at 7:15am and close at sunset. The visitor center in the Lodge is open 9am to 5pm. The reserve's busiest hours are roughly 10am to 1pm."
+          },
+          {
+            "q": "Does an Adventure Pass work at Torrey Pines?",
+            "a": "No. Torrey Pines is a California State Natural Reserve, not a national forest, so the Adventure Pass and America the Beautiful passes are not accepted. You need to pay the demand-based day-use fee or hold a California State Parks annual vehicle day use pass."
+          }
+        ],
+        "related": [
+          {
+            "label": "Adventure Pass: why it isn't valid here",
+            "href": "/adventure-pass/"
+          },
+          {
+            "label": "Potato Chip Rock / Mt. Woodson",
+            "href": "/trailheads/potato-chip-rock/"
+          },
+          {
+            "label": "Cedar Creek Falls — the inland option, when it's not too hot",
+            "href": "/trailheads/cedar-creek-falls/"
+          },
+          {
+            "label": "Official reserve page (parks.ca.gov)",
+            "href": "https://www.parks.ca.gov/torreypines"
+          }
         ]
       }
     }

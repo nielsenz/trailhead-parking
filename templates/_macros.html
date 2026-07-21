@@ -28,6 +28,7 @@
 {% endmacro %}
 
 {% macro map_multi(items, section, emoji, center, zoom=11) %}
+{# zoom is passed by the hub (area_zoom); the default suits a single range. #}
 <div id="map" class="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>

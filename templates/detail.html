@@ -27,7 +27,9 @@
 
     {% if item.quick_answer %}
     <div class="quick-answer">
-        <p>{{ item.quick_answer | safe }}</p>
+        {% for p in item.quick_answer | paragraphs %}
+        <p>{{ p | safe }}</p>
+        {% endfor %}
     </div>
     {% endif %}
 
