@@ -43,6 +43,9 @@ REGION_ORDER = [
     "Zion National Park",
     "Bryce Canyon National Park",
     "Arches National Park",
+    "Rocky Mountain National Park",
+    "Glacier National Park",
+    "Yosemite National Park",
 ]
 
 # --- Section configuration ---------------------------------------------------

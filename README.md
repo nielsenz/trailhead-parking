@@ -7,7 +7,7 @@ rules, enforcement reality, and the realistic plan B. Sister site to
 **horizontal** play: organized around the question ("where do I park?"), not a
 destination, so it can grow across ranges.
 
-**Coverage (July 2026):** seven regions, 35 trailheads, 39 pages.
+**Coverage (July 2026):** ten regions, 50 trailheads, 54 pages.
 
 - **San Bernardino Mountains (11)** — Lake Arrowhead/Crestline/Running Springs
   (6), Big Bear (Castle Rock, Cougar Crest, Discovery Center, Pine Knot),
@@ -23,6 +23,12 @@ destination, so it can grow across ranges.
   Bryce Point, Fairyland Point, Mossy Cave.
 - **Arches National Park (5)** — timed entry (master), Delicate Arch/Wolfe
   Ranch, Devils Garden, The Windows, Fiery Furnace.
+- **Rocky Mountain National Park (5)** — timed entry (master), Bear Lake,
+  Glacier Gorge, Alpine Visitor Center/Trail Ridge Road, Longs Peak.
+- **Glacier National Park (5)** — entry & Going-to-the-Sun Road (master), Logan
+  Pass, Avalanche Creek/Trail of the Cedars, Many Glacier, St. Mary Falls.
+- **Yosemite National Park (5)** — entry & reservations (master), Valley
+  day-use parking, Glacier Point, Cathedral Lakes, Mist Trail/Happy Isles.
 
 Plus the Adventure Pass explainer and About.
 
@@ -97,8 +103,11 @@ so explicitly, and so does each affected trailhead page — our readers arrive
 from the forest pages and will assume the pass travels with them.
 
 One checkable contrast worth keeping accurate: the **$100 non-US-resident
-surcharge** (effective Jan 1 2026) applies at Zion and Bryce, but **not** at
-Arches, which isn't on the 11-park list.
+surcharge** (effective Jan 1 2026) applies at Zion, Bryce, Rocky Mountain,
+Glacier and Yosemite — but **not** at Arches, which isn't on the 11-park list.
+It is waived by an annual or America the Beautiful pass, which is unusual for a
+surcharge and is quoted verbatim from each park's fees page rather than
+paraphrased.
 
 ## Roadmap (researched July 2026)
 
@@ -123,15 +132,24 @@ pass system, sources, and phone calls:
    **Arches requires no timed-entry reservation in 2026** (NPS news release,
    Feb 18 2026), and **Bryce's Visitor Center lot is posted 1-hour**, with
    all-day parkers sent to the Shuttle Station lot in Bryce Canyon City.
-6. **Next, same logic** — Rocky Mountain NP and Glacier (timed entry, both
-   well documented), Haena/Kalalau (reservation), Yosemite (peak-hours
-   reservation). Then **Eastern San Gabriels / Angeles Crest depth** (Mt.
-   Baldy Village, Sturtevant, Mt. Wilson via Sierra Madre once the upper trail
-   reopens) and **Santa Monicas / Malibu** (Sandstone Peak, Escondido Falls).
+6. ~~**Batch 6 — Rocky Mountain, Glacier, Yosemite:**~~ ✅ Built 2026-07-28.
+   Three findings inverted their briefs, and two of them the same way:
+   **Glacier requires no vehicle reservation in 2026** (first season since
+   2020) and **Yosemite requires none either** (announced Feb 18, 2026). Only
+   RMNP still gates entry — and it does it with *two* different permits people
+   routinely confuse. Also corrected mid-build: a research claim that RMNP's
+   Park & Ride lets you skip the corridor permit is wrong; NPS says the Bear
+   Lake Road permit covers "all destinations on Bear Lake Road," and the
+   Park & Ride is 5.2 miles up it.
+7. **Next, same logic** — Haena/Kalalau (reservation), Acadia (Cadillac
+   Summit Road reservation), Shenandoah/Old Rag (day-use ticket). Then
+   **Eastern San Gabriels / Angeles Crest depth** (Mt. Baldy Village,
+   Sturtevant, Mt. Wilson via Sierra Madre once the upper trail reopens) and
+   **Santa Monicas / Malibu** (Sandstone Peak, Escondido Falls).
 
-### A note on the three park systems, because readers conflate them
+### A note on the six park systems, because readers conflate them
 
-They are three genuinely different regimes, and the pages say so explicitly:
+Six genuinely different regimes, and the pages say so explicitly:
 
 - **Zion** — shuttle is *mandatory* in season; you cannot drive the Scenic
   Drive Mar 7 – Nov 28.
@@ -139,8 +157,21 @@ They are three genuinely different regimes, and the pages say so explicitly:
   NPS: "In no area of the park is riding the shuttle mandatory."
 - **Arches** — no shuttle at all, and **no timed entry in 2026**. Parking is
   the only gate.
+- **Rocky Mountain** — **two** timed entry permits with different hours and
+  different end dates. Bear Lake Road is gated 5am–6pm; the rest of the park
+  9am–2pm. Buying the wrong one is the batch's signature mistake.
+- **Glacier** — **no vehicle reservation in 2026**, replaced by a *paid* $1
+  ticketed Logan Pass shuttle and a **3-hour parking limit at Logan Pass**
+  enforced 24/7, Jul 1 – Sep 7. The old free hop-on GTSR shuttle is gone, and
+  its replacement's six-stop route no longer serves Avalanche Creek, St. Mary
+  Falls or Many Glacier — a service cut that was never announced as one.
+- **Yosemite** — **no reservation in 2026**, and nothing ticketed replaced it.
+  The gate is entirely the Valley floor, which NPS says fills by 8am.
 
 Readers arriving from the Zion pages assume the Zion rules travel. They don't.
+The 2026 lesson across the newer parks is that a reservation system's absence
+is now as newsworthy as its presence — three of the six have dropped theirs,
+and every one of those decisions is re-made annually.
 
 ### Open items
 
