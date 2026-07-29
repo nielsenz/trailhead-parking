@@ -2,5 +2,10 @@
 name = "trailheadparking"
 version = "0.1.0"
 description = "Static site builder for trailheadparking.com"
-requires-python = ">=3.11"
-dependencies = ["jinja2>=3.1"]
+requires-python = ">=3.12"
+dependencies = [
+    "sitekit",
+]
+
+[tool.uv.sources]
+sitekit = { path = "../sitekit", editable = true }
