@@ -79,6 +79,20 @@ SECTIONS = {
             ("best_season", "Busy season"),
         ],
         "schema_type": "ParkingFacility",
+        "hub_sections": [
+            {
+                "heading": "The one rule that saves your morning: get there early",
+                "body": "Across every trailhead on this site, in every region, the single biggest predictor of a good day is arrival time. Popular Southern California lots — Heart Rock, Icehouse Canyon, Cedar Creek Falls, Potato Chip Rock — routinely <strong>fill between 7 and 9am on weekends</strong>, and the Utah national-park lots (Zion, Bryce, Arches) fill even earlier or hand the problem to a shuttle or a timed-entry system. If a lot has a hard cap and a tow or citation risk on the shoulder, showing up at 10am doesn't mean a long walk — it means turning around. Each guide below gives the specific fill time we could verify, plus the realistic Plan B when it's already full."
+            },
+            {
+                "heading": "Which pass or permit you actually need (they're not the same thing)",
+                "body": "The most expensive mistakes here aren't parking tickets — they're driving hours to a trailhead with the wrong pass, or none. The rules change completely by region:\n\n<strong>Southern California national forests</strong> (San Bernardino, San Gabriel, San Jacinto ranges) mostly use the <a href=\"/adventure-pass/\">Adventure Pass</a> — $5/day or $30/year on the dash, or an America the Beautiful pass. <strong>San Diego County</strong> is a patchwork: Cedar Creek Falls needs a $6 Recreation.gov <em>permit</em> (not a parking pass), while Torrey Pines is a state reserve and Potato Chip Rock's Lake Poway lot is a city park — none of them honor an Adventure Pass. <strong>The Utah national parks</strong> (Zion, Bryce, Arches) charge a per-vehicle entrance fee and layer on shuttles, timed-entry reservations, or permit lotteries that decide where — and whether — you park at all.\n\nA permit is not a parking pass, an entrance fee is not an Adventure Pass, and a reservation is not a guarantee of a space. Every guide below states exactly which one that specific lot requires."
+            },
+            {
+                "heading": "How we cover parking — and how facts stay current",
+                "body": "This site covers the parking situation, not the trail's scenery: how many cars fit, when the lot fills, what goes on the dash, the tow and citation risk of getting creative, and the realistic overflow plan. Coverage spans four Southern California ranges — the San Bernardinos, San Gabriels, San Jacintos and San Diego County — plus Zion, Bryce Canyon and Arches, where the Park Service publishes lot-by-lot capacities most forests don't.\n\nMountain and desert access rules change with the seasons, so every page carries a <strong>\"facts last verified\"</strong> date, and the perishable ones — road closures, heat-advisory closures, permit systems — get re-checked against the official source on a recurring pass. When something changes, we fix the page rather than defend it. More on the method is on the <a href=\"/about/\">about page</a>."
+            },
+        ],
     },
 }
 

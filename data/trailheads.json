@@ -380,6 +380,7 @@
         ],
         "related": [
           { "label": "Castle Rock Trail guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/castle-rock-trail" },
+          { "label": "Champion Lodgepole Pine — nearby, dirt-road access", "href": "/trailheads/champion-lodgepole-pine/" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
         ]
       }
@@ -489,6 +490,7 @@
         ],
         "related": [
           { "label": "Cougar Crest Trailhead — the lot this one fixes", "href": "/trailheads/cougar-crest/" },
+          { "label": "Woodland Trail — easy family loop, same free lot", "href": "/trailheads/woodland-trail/" },
           { "label": "Alpine Pedal Path guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/alpine-pedal-path" },
           { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
         ]
@@ -1058,6 +1060,10 @@
             "href": "/adventure-pass/"
           },
           {
+            "label": "Manker Flats / San Antonio Falls — the other Mt. Baldy trailhead",
+            "href": "/trailheads/manker-flats/"
+          },
+          {
             "label": "East Fork — the other pass-required San Gabriel lot",
             "href": "/trailheads/east-fork/"
           },
@@ -1085,22 +1091,22 @@
         "name": "Cedar Creek Falls Trailhead (San Diego River Gorge)",
         "slug": "cedar-creek-falls",
         "region": "San Diego County",
-        "meta_title": "Cedar Creek Falls Parking (Ramona): Closure Status & the $6 Permit Trap (2026)",
-        "meta_description": "Closed under heat order #02-26-14 as of our July 20, 2026 check — verify before you drive. When open, parking at the San Diego River Gorge trailhead is free: the $6 Recreation.gov permit buys entry to the falls area, not a parking space, and isn't sold on site.",
+        "meta_title": "Cedar Creek Falls Parking (Ramona): Free Lot & the $6 Permit Trap (2026)",
+        "meta_description": "Parking at the Cedar Creek Falls (San Diego River Gorge) trailhead in Ramona is free — the $6 Recreation.gov permit buys entry to the falls area, not a parking space, and isn't sold on site. Small lot fills by 7–8am; vault toilets, no water. Plus the summer heat-closure risk to check before you drive.",
         "card_summary": "Closed under a heat order as of July 20, 2026 — check before you drive. When open: parking is free, and the $6 Recreation.gov permit buys entry to the falls area, not a parking space.",
-        "quick_answer": "<strong>Check the closure before anything else — this area was closed when we last looked.</strong> <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">Forest Order #02-26-14</a> closed the San Diego River Gorge / Cedar Creek Falls area on <strong>July 14, 2026</strong>, and on our <strong>July 20, 2026</strong> check it was still posted with <strong>no end date</strong>. Heat orders here come and go, so verify on the Cleveland National Forest alerts page the morning you go.\n\n<strong>When it is open</strong>, the thing people get backwards: parking at the trailhead (15519 Thornbush Rd, Ramona) is <strong>free</strong> — no <a href=\"/adventure-pass/\">Adventure Pass</a>, no kiosk. The <strong>$6 Recreation.gov permit</strong> buys <em>entry to the falls area</em>, covers the holder plus up to four others, is <strong>not sold at the trailhead</strong>, and there's no usable cell signal to buy it there. Rangers check.",
+        "quick_answer": "<strong>The thing people get backwards:</strong> parking at the trailhead (15519 Thornbush Rd, Ramona) is <strong>free</strong> — no <a href=\"/adventure-pass/\">Adventure Pass</a>, no kiosk. The <strong>$6 Recreation.gov permit</strong> buys <em>entry to the falls area</em>, covers the holder plus up to four others (75 permits/day), is <strong>not sold at the trailhead</strong>, and there's no usable cell signal to buy it there. Rangers check.\n\n<strong>Seasonal heads-up:</strong> the Cleveland National Forest closes this area on short-notice <strong>heat advisories</strong> in summer — the latest, Forest Order #02-26-17, ran <strong>July 31–August 2, 2026</strong>. These are brief, not indefinite, but they do happen, so glance at the <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">Cleveland NF alerts page</a> the morning you go, especially on a hot forecast.",
         "badges": [
-          {
-            "label": "Closed now — heat order #02-26-14",
-            "tone": "bad"
-          },
           {
             "label": "Permit ≠ parking pass",
             "tone": "warn"
           },
           {
-            "label": "Buy the permit before you drive",
+            "label": "Free parking · $6 entry permit",
             "tone": "info"
+          },
+          {
+            "label": "Heat-closure risk in summer",
+            "tone": "warn"
           }
         ],
         "trail_served": "San Diego River Gorge Trail to Cedar Creek Falls (~6 mi RT; ~1,800 ft of climbing on the way back out)",
@@ -1114,7 +1120,7 @@
         "best_season": "Fall, winter and spring. The Forest Service actively discourages this hike above 90°F",
         "address": "15519 Thornbush Rd, Ramona, CA 92065",
         "official_url": "https://www.fs.usda.gov/r05/cleveland/recreation/trails/san-diego-river-gorge-trail",
-        "verified": "July 20, 2026",
+        "verified": "August 1, 2026",
         "sections": [
           {
             "heading": "The confusion that ruins people's mornings",
@@ -1122,7 +1128,7 @@
           },
           {
             "heading": "Summer is the real gatekeeper",
-            "body": "This canyon has killed people. The trail drops about 1,800 feet in the first two miles, which means the hard part is the exit, in full sun, in the afternoon. The Forest Service's guidance is blunt: hiking is <strong>highly discouraged when the trailhead is above 90°F</strong>, and the District Ranger issues temporary closure orders for the duration of high-heat events — when that happens, Recreation.gov cancels affected reservations with a full refund.\n\nThat isn't hypothetical. <strong>Forest Order #02-26-14 closed the San Diego River Gorge / Cedar Creek Falls area effective July 14, 2026</strong>, and as of this page's July 20, 2026 check the order was still posted on the Cleveland National Forest alerts page with no end date listed. Recreation.gov was also flagging that water levels had dwindled and the pools were stagnant. Summer here is not a season with bad parking; it's a season with no access. Check <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">Cleveland NF alerts</a> before you buy a permit, and call the Palomar Ranger District at (760) 788-0250 if you want it confirmed by a human."
+            "body": "This canyon has killed people. The trail drops about 1,800 feet in the first two miles, which means the hard part is the exit, in full sun, in the afternoon. The Forest Service's guidance is blunt: hiking is <strong>highly discouraged when the trailhead is above 90°F</strong>, and the District Ranger issues temporary closure orders for the duration of high-heat events — when that happens, Recreation.gov cancels affected reservations with a full refund.\n\nThat isn't hypothetical. The Palomar Ranger District issues short, sharp heat-advisory closures here on hot forecasts — the most recent, <strong>Forest Order #02-26-17, closed the San Diego River Gorge / Cedar Creek Falls area July 31–August 2, 2026</strong> (a three-day window, not an indefinite closure); earlier in July, order #02-26-14 did the same. These come and go with the weather, so summer here is less a season of bad parking than one of intermittent no-access. Check <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">Cleveland NF alerts</a> before you buy a permit, and call the Palomar Ranger District at (760) 788-0250 if you want it confirmed by a human."
           },
           {
             "heading": "The lot itself",
@@ -1221,11 +1227,11 @@
         "best_season": "Late fall through spring. Summer here is a rescue statistic, not a hike",
         "address": "Cha'chaany Hamuk Trailhead, Boulder Creek Rd, between Descanso and Santa Ysabel, CA",
         "official_url": "https://www.fs.usda.gov/r05/cleveland/alerts",
-        "verified": "July 20, 2026",
+        "verified": "August 1, 2026",
         "sections": [
           {
             "heading": "Access status comes before parking",
-            "body": "This trail's limiting factor isn't spaces, it's whether the forest is letting anyone in. The Palomar Ranger District issues short, sharp closure orders when the National Weather Service posts excessive-heat warnings: <strong>Forest Order #02-26-13 prohibited being upon the Three Sisters Closure Area from July 14 through July 16, 2026</strong>. That window had lapsed by our July 20 check, and no successor Three Sisters order was posted — but the neighboring <a href=\"/trailheads/cedar-creek-falls/\">Cedar Creek Falls</a> closure (#02-26-14) was still up with no end date, and <strong>elevated fire-use restrictions (#02-26-10, effective June 11, 2026) apply forest-wide</strong> with fire danger listed as High across all three districts.\n\nSo: check <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">the Cleveland NF alerts page</a> the morning you go, and call the Palomar Ranger District at (760) 788-0250 if the page is ambiguous. It is a long drive on a bad road to find a gate."
+            "body": "This trail's limiting factor isn't spaces, it's whether the forest is letting anyone in. The Palomar Ranger District issues short, sharp closure orders when the National Weather Service posts excessive-heat warnings: the most recent, <strong>Forest Order #02-26-18, prohibited being upon the Three Sisters Falls area from July 30 through August 2, 2026</strong> (an earlier order, #02-26-13, did the same July 14–16). The neighboring <a href=\"/trailheads/cedar-creek-falls/\">Cedar Creek Falls</a> area draws parallel heat closures, and <strong>elevated fire-use restrictions (#02-26-10, effective June 11, 2026) apply forest-wide</strong>. As of August 2026 a <strong>Grade Fire</strong> was also active on the Palomar Ranger District near Lake Henshaw — another reason to check status before the drive.\n\nSo: check <a href=\"https://www.fs.usda.gov/r05/cleveland/alerts\" rel=\"noopener\">the Cleveland NF alerts page</a> the morning you go, and call the Palomar Ranger District at (760) 788-0250 if the page is ambiguous. It is a long drive on a bad road to find a gate."
           },
           {
             "heading": "The trailhead is genuinely fixed now",
@@ -2967,6 +2973,187 @@
             "label": "Fiery Furnace permits (NPS)",
             "href": "https://www.nps.gov/arch/planyourvisit/fiery-furnace-permit.htm"
           }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.6247, 34.2664] },
+      "properties": {
+        "name": "Manker Flats / San Antonio Falls (Mt. Baldy)",
+        "slug": "manker-flats",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Manker Flats Trailhead Parking (Mt. Baldy): The Pass Confusion, Solved (2026)",
+        "meta_description": "Parking at Manker Flats — the trailhead for San Antonio Falls and the Mt. Baldy summit via the Ski Hut — is a roadside/small-lot mix off Mt Baldy Road that fills by 7am on weekends. Whether you actually need an Adventure Pass, where the sources disagree, and the realistic plan B.",
+        "card_summary": "The launch point for San Antonio Falls and Mt. Baldy's summit. Roadside parking fills by 7am on weekends; the pass rule is genuinely muddy — here's the honest read.",
+        "quick_answer": "<strong>Get there before 7am on a weekend, or plan to walk.</strong> Manker Flats is the upper trailhead on Mt Baldy Road — the start of the easy <strong>San Antonio Falls</strong> walk and the hard <strong>Mt. Baldy summit</strong> via the Ski Hut/Baldy Bowl. Parking is a mix of a small paved area and <strong>roadside pullouts along Falls Road</strong>, and it fills fast on any nice weekend. On the pass question the sources genuinely disagree: most vendors and signs say display an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> (or an America the Beautiful pass), while the Angeles NF fee map lists some of this stretch as non-fee — so the safe move is to <strong>display a pass and avoid the ambiguity</strong>, because cars here do get ticketed.",
+        "badges": [
+          { "label": "Roadside — fills by 7am", "tone": "warn" },
+          { "label": "Display a pass to be safe", "tone": "info" },
+          { "label": "Summit + waterfall trailhead", "tone": "good" }
+        ],
+        "trail_served": "San Antonio Falls (1.4 mi RT, easy) and Mt. San Antonio / Mt. Baldy summit via Ski Hut & Baldy Bowl (~10–11 mi RT, strenuous)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass — display it; parts of the corridor are signed non-fee but enforcement is inconsistent, so don't risk it",
+        "lot_size": "Small paved area plus roadside pullouts along Falls Rd — a few dozen cars total before it spills down the road",
+        "fill_time": "Weekends and holidays: by 7am, earlier for a summit start",
+        "overflow": "Park farther down Mt Baldy Road toward the Village and walk up, or start from the Village lots — adds road-walking either way",
+        "tow_risk": "Park fully off the pavement; Mt Baldy Road is narrow and CHP/USFS ticket cars blocking the lane or parked in no-parking zones",
+        "restrooms": "Vault toilet near the trailhead; none higher up",
+        "road_access": "Paved: Mt Baldy Road up through the Village to Manker Flats; chains possible in winter",
+        "best_season": "Waterfall best late winter–spring for flow; summit is a summer–fall hike (snow/ice gear needed off-season)",
+        "address": "Falls Rd / Mt Baldy Rd, Mt Baldy, CA 91759",
+        "official_url": "https://www.fs.usda.gov/angeles",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "Two very different hikes, one parking problem",
+            "body": "Manker Flats is where the easiest and the hardest days on Mt. Baldy both begin. The <strong>San Antonio Falls</strong> walk is a mostly paved 1.4-mile round trip to a 75-foot waterfall — family-friendly, best in late winter and spring when it's actually flowing. The <strong>Mt. Baldy summit</strong> via the Ski Hut and Baldy Bowl starts from the same spot and is a serious ~10–11 mile, ~3,900-foot climb that turns genuinely mountaineering in snow. Both share the same modest parking, which is why summit hikers show up before dawn and waterfall families should still aim for early morning.\n\nParking is a small paved area plus a string of <strong>roadside pullouts along Falls Road</strong>. On any decent weekend it's full by 7am, and cars then line the road downhill — legal only where the pavement is fully clear and no signs prohibit it."
+          },
+          {
+            "heading": "The Adventure Pass question, honestly",
+            "body": "This is the thing people argue about on hiking forums, so here's the straight version: the majority of vendors, signs, and guides tell you to display an <a href=\"/adventure-pass/\">Adventure Pass</a> (or an America the Beautiful interagency pass) to park at Manker Flats, and people <em>do</em> get cited here. At the same time, the Angeles National Forest fee map lists parts of this corridor as \"no-fee,\" which is why some hikers insist no pass is needed. Rather than gamble on which sign applies to your exact pullout, <strong>display a valid pass</strong> — a $5 day pass is far cheaper than the ticket, and if you already hold an interagency pass it costs you nothing to lay it on the dash.\n\nIf you want to skip the roadside scramble entirely, the <strong>Mt. Baldy Village lots</strong> lower down are an option (some are paid/attended), and you can also grab a day pass on the way up at the Mount Baldy Lodge/Visitor Center — see our <a href=\"/adventure-pass/\">Adventure Pass guide</a> for exactly where to buy one."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass to park at Manker Flats?",
+            "a": "Most signs and vendors say yes — display an Adventure Pass or an America the Beautiful pass. Parts of the corridor are mapped as non-fee, which causes confusion, but cars do get ticketed here, so the safe move is to display a valid pass. A day pass is $5."
+          },
+          {
+            "q": "Where do you park for San Antonio Falls?",
+            "a": "At Manker Flats on Mt Baldy Road — a small paved area plus roadside pullouts along Falls Road. It fills by about 7am on weekends. The falls are a short, mostly paved 1.4-mile round trip from there."
+          },
+          {
+            "q": "When does Manker Flats parking fill up?",
+            "a": "By roughly 7am on weekends and holidays, and earlier if you're starting the Mt. Baldy summit hike. After that, cars park down Mt Baldy Road and walk up."
+          },
+          {
+            "q": "Where can I buy an Adventure Pass near Mt. Baldy?",
+            "a": "The Mount Baldy Lodge / Visitor Center on Mt Baldy Road sells them, and you can buy online ahead of time. See our Adventure Pass guide for the full list of vendors."
+          }
+        ],
+        "related": [
+          { "label": "Icehouse Canyon — the other Mt. Baldy trailhead", "href": "/trailheads/icehouse-canyon/" },
+          { "label": "Adventure Pass: cost, where to buy & where you need it", "href": "/adventure-pass/" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9147, 34.2647] },
+      "properties": {
+        "name": "Woodland Trail 1E23 (Big Bear)",
+        "slug": "woodland-trail",
+        "region": "San Bernardino Mountains",
+        "meta_title": "Woodland Trail Parking (Big Bear): Small Lot, Adventure Pass & Free Plan B (2026)",
+        "meta_description": "The Woodland Interpretive Trail (1E23) lot on North Shore Drive near the Big Bear Discovery Center is small and needs an Adventure Pass. It fills on summer weekends — but the free Discovery Center lot next door is the easy plan B. Lot size, fees, and the family-hike details.",
+        "card_summary": "Big Bear's easy 1.5-mile family nature loop. Small Adventure Pass lot on North Shore Drive — but the free Discovery Center lot is right next door.",
+        "quick_answer": "<strong>Great beginner loop, tiny lot, easy fix.</strong> The Woodland Interpretive Trail (1E23) is a flat, family-friendly <strong>1.5-mile loop</strong> on Big Bear's north shore, with a small trailhead lot off North Shore Drive that requires an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> ($5/day or $30/yr, or an interagency pass). It fills on summer weekends — but the <a href=\"/trailheads/big-bear-discovery-center/\"><strong>Big Bear Discovery Center</strong></a> is right next door with free parking and restrooms.",
+        "badges": [
+          { "label": "Small Adventure Pass lot", "tone": "warn" },
+          { "label": "Easy 1.5-mi family loop", "tone": "good" },
+          { "label": "Free lot next door", "tone": "good" }
+        ],
+        "trail_served": "Woodland Interpretive Trail 1E23 (1.5-mi loop, easy, self-guided nature trail)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass — or use the free Discovery Center lot",
+        "lot_size": "Small — a handful of spaces at the trailhead pullout",
+        "fill_time": "Summer and holiday weekends, mid-morning",
+        "overflow": "Big Bear Discovery Center — free parking, 50+ spaces, restrooms, a short walk away",
+        "tow_risk": "Low, but display a pass; North Shore Drive (Hwy 38) shoulders are narrow — don't block them",
+        "restrooms": "None at the trailhead; restrooms at the Discovery Center",
+        "road_access": "Paved: North Shore Drive (Highway 38), near the Big Bear Discovery Center",
+        "best_season": "Spring through fall; a pleasant snowshoe route in winter",
+        "address": "North Shore Drive (Highway 38), Fawnskin, CA 92333",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "The easy-hike, easy-parking combo",
+            "body": "The Woodland Trail is one of Big Bear's most-recommended <strong>first hikes</strong> — a flat 1.5-mile interpretive loop with numbered stops, gentle enough for young kids and grandparents, right on the north shore near the Discovery Center. The trailhead lot on North Shore Drive is small and posts an <a href=\"/adventure-pass/\">Adventure Pass</a> requirement, and on summer weekends the handful of spaces can be gone by mid-morning.\n\nBecause it's an easy, popular family trail, turnover is quick — but you don't have to rely on it."
+          },
+          {
+            "heading": "Just use the Discovery Center",
+            "body": "The <a href=\"/trailheads/big-bear-discovery-center/\">Big Bear Discovery Center</a> sits right beside the trail with <strong>free parking, 50+ spaces, and real restrooms</strong>, and it sells Adventure Passes if you need one for elsewhere. On days it's open (it closes Tuesdays and Wednesdays), it's the obvious place to leave the car — you'll walk a few minutes to the loop and skip both the tiny lot and the $5. For a dawn start or a closed day, use the trailhead lot with a pass displayed.\n\nTrail details and the wider north-shore hike list are on our sister site, <a href=\"https://bigbearmap.com\" rel=\"noopener\">BigBearMap.com</a>."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass for the Woodland Trail?",
+            "a": "Yes at the trailhead lot on North Shore Drive — display an Adventure Pass or an interagency pass. Or park free at the adjacent Big Bear Discovery Center, which also sells passes."
+          },
+          {
+            "q": "Where do you park for the Big Bear Woodland Trail?",
+            "a": "There's a small Adventure Pass lot at the trailhead on North Shore Drive, but the easiest option is the free Big Bear Discovery Center lot right next door (50+ spaces, restrooms), open every day except Tuesday and Wednesday."
+          },
+          {
+            "q": "How long is the Woodland Trail in Big Bear?",
+            "a": "It's a 1.5-mile self-guided interpretive loop — flat and easy, one of the best family and beginner hikes on Big Bear's north shore."
+          }
+        ],
+        "related": [
+          { "label": "Big Bear Discovery Center — free parking next door", "href": "/trailheads/big-bear-discovery-center/" },
+          { "label": "Cougar Crest Trailhead — nearby, same free plan B", "href": "/trailheads/cougar-crest/" },
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.8092, 34.2306] },
+      "properties": {
+        "name": "Champion Lodgepole Pine (Big Bear)",
+        "slug": "champion-lodgepole-pine",
+        "region": "San Bernardino Mountains",
+        "meta_title": "Champion Lodgepole Pine Parking (Big Bear): Dirt-Road Access & the Pass (2026)",
+        "meta_description": "Getting to the Champion Lodgepole Pine trailhead means a few miles of dirt Forest Service road (2N11) south of Big Bear Lake, then a small lot that needs an Adventure Pass. Road condition, what vehicle you need, lot size, and the very short walk to the tree.",
+        "card_summary": "The biggest lodgepole pine in the world, reached by a dirt-road drive. Small Adventure Pass lot; the real question is the road, not the walk.",
+        "quick_answer": "<strong>The hike is trivial; the drive is the catch.</strong> The Champion Lodgepole Pine — the largest lodgepole in the country — sits at the end of a <strong>0.5-mile easy trail</strong>, but getting to the trailhead means driving <strong>Forest Service dirt roads (Mill Creek Rd / 2N11)</strong> a few miles south of Big Bear Lake. The small trailhead lot needs an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a>. In dry summer conditions most cars manage the road slowly; after rain or snow it can get rough — check conditions first.",
+        "badges": [
+          { "label": "Dirt-road access (2N11)", "tone": "warn" },
+          { "label": "Adventure Pass required", "tone": "info" },
+          { "label": "Easy 0.5-mi trail", "tone": "good" }
+        ],
+        "trail_served": "Champion Lodgepole Pine Trail 1W11 (~0.5 mi RT, easy) to the record lodgepole pine",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass",
+        "lot_size": "Small dirt lot at the trailhead — a handful of cars",
+        "fill_time": "Rarely a crush; summer weekends can fill the few spots by midday",
+        "overflow": "Limited roadside space on 2N11 — park sensibly off the roadway",
+        "tow_risk": "Low out here, but don't block the forest road; display a pass",
+        "restrooms": "None — go before you leave the Village",
+        "road_access": "Unpaved: Mill Creek Rd (2N10) to 2N11, a few miles of Forest Service dirt road; high-clearance helps but isn't always required in dry conditions — impassable when muddy or snowy",
+        "best_season": "Summer and early fall, once the dirt roads are dry and snow-free; roads gated/closed in winter",
+        "address": "Forest Rd 2N11, south of Big Bear Lake, CA 92315",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "The road is the whole story",
+            "body": "The walk to the Champion Lodgepole Pine — the largest lodgepole pine in the world, in a pretty meadow — is a flat half-mile round trip that anyone can do. What stops people is the <strong>access road</strong>: from Big Bear Lake you take Mill Creek Road (2N10) and turn onto <strong>2N11</strong>, then drive a few miles of graded Forest Service dirt road to the trailhead. In dry summer conditions ordinary cars usually make it going slowly; after rain, or when snow lingers, the road turns rough or impassable, and it's <strong>gated closed in winter</strong>. Check current road status with the San Bernardino National Forest before committing to the drive.\n\nThe trailhead lot is a small dirt clearing that needs an <a href=\"/adventure-pass/\">Adventure Pass</a> on the dash. There are no facilities out here, so use a restroom in the Village first."
+          },
+          {
+            "heading": "Make it a loop with Castle Rock or Bluff Lake",
+            "body": "Because the drive is the expensive part, it's worth pairing the tree with something nearby. The same general area holds Bluff Lake and connects toward the longer route from <a href=\"/trailheads/castle-rock/\">Castle Rock</a>, and the meadow itself is a lovely, low-effort stop for families. Buy your Adventure Pass before you head up the dirt road — there's nowhere to get one out here; our <a href=\"/adventure-pass/\">Adventure Pass guide</a> lists Big Bear vendors including the Discovery Center. Trail and area details are on our sister site, <a href=\"https://bigbearmap.com\" rel=\"noopener\">BigBearMap.com</a>."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Can a regular car reach the Champion Lodgepole Pine trailhead?",
+            "a": "In dry summer conditions, most passenger cars can manage the dirt Forest Service road (2N11) slowly and carefully. After rain or snow it gets rough or impassable, and it's gated in winter. High-clearance helps but isn't always required when it's dry — check current road conditions first."
+          },
+          {
+            "q": "Do you need an Adventure Pass for Champion Lodgepole Pine?",
+            "a": "Yes — the trailhead lot requires an Adventure Pass or an interagency pass. Buy it before you head up the dirt road; there's nowhere to purchase one out there."
+          },
+          {
+            "q": "How long is the Champion Lodgepole Pine hike?",
+            "a": "The trail itself is only about a half-mile round trip and easy — the effort is entirely in the dirt-road drive to reach the trailhead."
+          }
+        ],
+        "related": [
+          { "label": "Castle Rock Trailhead — nearby Big Bear hike", "href": "/trailheads/castle-rock/" },
+          { "label": "Adventure Pass: cost, where to buy & where you need it", "href": "/adventure-pass/" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
         ]
       }
     }

@@ -12,20 +12,29 @@ back).
 
 ## Perishable — check these first
 
-### [ ] Cedar Creek Falls is closed, with no end date
+### [x] Cedar Creek Falls closure — RESOLVED 2026-08-01
 **Logged 2026-07-20.** Forest Order #02-26-14 (San Diego River Gorge / Cedar
 Creek Falls Closure Area, Palomar Ranger District) took effect **July 14, 2026**
-and was still posted with **no end date** when verified directly against the
-Cleveland NF alerts page on July 20.
+and was still posted with no end date on July 20.
 
-The page currently leads with the closure — title, first badge, first paragraph.
-Heat closures here are typically issued "for the duration of the weather event,"
-so this may already be moot. **This is the single most perishable fact on the
-site.**
+**Resolution (checked Cleveland NF alerts 2026-08-01):** #02-26-14 is no longer
+posted. It was a heat-advisory closure that expired, not an indefinite one. The
+current pattern is confirmed: the Palomar RD issues short (2–3 day) heat-advisory
+closures here on hot forecasts. The live one at check time was **#02-26-17,
+July 31 – August 2, 2026**. Page rewritten to LEAD with the permit-vs-parking
+reality (the actual search intent) and treat heat closures as a seasonal caveat,
+not the headline; closure badge dropped; quick-answer + "Summer is the real
+gatekeeper" section rewritten; meta title/description de-closured; `verified`
+re-stamped Aug 1. Three Sisters Falls page updated in the same pass (its own
+live order is **#02-26-18, July 30 – Aug 2**). Watch: these recur all summer —
+re-check on any excessive-heat forecast for San Diego County backcountry.
 
-- Check: https://www.fs.usda.gov/r05/cleveland/alerts
-- When it lifts: restore the permit-vs-parking lede, drop the closure badge,
-  rewrite the quick answer's first paragraph, re-stamp `verified`.
+### [ ] Grade Fire on Palomar Ranger District — watch (logged 2026-08-01)
+A **Grade Fire** (100+ acres, near Lake Henshaw / East Grade Rd) was reported
+active on the Cleveland NF Palomar Ranger District on **July 31, 2026**. Not
+currently affecting the covered trailheads' access text beyond the Three Sisters
+note, but if it grows it could trigger a burned-area closure touching Cedar Creek
+/ Three Sisters. Re-check Cleveland NF alerts.
 
 ### [ ] Chantry Flat road status is volatile
 **Logged 2026-07-20.** Open as of July 2026 (verified against the USFS page),
