@@ -47,11 +47,19 @@ Reopened Oct 2024 after the Bobcat Fire, closed again Jan 2025 for the Eaton
 Fire, reopened April 2025. The page tells readers to call **(818) 899-1900** the
 morning of. Expect this to need re-checking every few months.
 
-### [ ] Eaton Fire closure runs through Dec 31, 2027 — watch for early reopening
-**Logged 2026-07-20.** Area Closure Order 05-01-26-04 covers Eaton Canyon, Echo
-Mountain, Mount Wilson Toll Road, Idlehour, Castle Canyon, Sam Merrill and Mount
-Lowe. Build those pages when a reopening is announced, ahead of the demand
-spike — this is a known-date content opportunity, not just a caveat.
+### [~] Eaton Fire closure runs through Dec 31, 2027 — PAGES BUILT 2026-08-01, watch for reopening
+**Logged 2026-07-20; pages built 2026-08-01.** Area Closure Order 05-01-26-04
+covers Eaton Canyon, Echo Mountain, Mount Wilson Toll Road, Idlehour, Castle
+Canyon, Sam Merrill and Mount Lowe. Verified 2026-08-01 against ANF alerts:
+order effective Jan 7 2026 **through Dec 31 2027**; some front-country (Millard,
+Dawn Mine, Sunset Ridge) reopened Jan 2026, but Eaton Canyon + Echo Mountain
+stay fully closed. Built the ahead-of-reopening pages: **/trailheads/eaton-canyon/**
+(fully closed), **/trailheads/echo-mountain/** (Sam Merrill, fully closed),
+**/trailheads/mount-wilson-trail/** (Sierra Madre — LOWER section REOPENED 2026,
+upper + Altadena Toll Road still closed). Each leads with dated closure status +
+documents the parking reality for reopening. **TODO when it reopens:** flip each
+page's lead from closed→open, drop the CLOSED badges, re-stamp verified. Watch
+ANF alerts: https://www.fs.usda.gov/alerts/angeles/alerts-notices
 
 The Sierra Madre section of the Mt. Wilson Trail is a separate matter: the lower
 ~3.5 miles were rebuilt and reopened (the race returned May 2026), the upper

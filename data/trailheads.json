@@ -867,6 +867,10 @@
             "href": "/trailheads/switzer-falls/"
           },
           {
+            "label": "Mt. Wilson Trail (Sierra Madre) — lower section reopened",
+            "href": "/trailheads/mount-wilson-trail/"
+          },
+          {
             "label": "Official Chantry Flat page (fs.usda.gov)",
             "href": "https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area"
           },
@@ -960,6 +964,10 @@
           {
             "label": "Chantry Flat — the other front-range waterfall lot",
             "href": "/trailheads/chantry-flats/"
+          },
+          {
+            "label": "Eaton Canyon — closed through 2027 (Eaton Fire)",
+            "href": "/trailheads/eaton-canyon/"
           },
           {
             "label": "Caltrans SR-2 (Angeles Crest) conditions",
@@ -3223,6 +3231,7 @@
           }
         ],
         "related": [
+          { "label": "Marion Mountain — the free-lot route up San Jacinto Peak", "href": "/trailheads/marion-mountain/" },
           { "label": "Humber Park / Devil's Slide — the other Idyllwild trailhead", "href": "/trailheads/humber-park/" },
           { "label": "Adventure Pass: where to buy one in Idyllwild", "href": "/adventure-pass/" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
@@ -3352,6 +3361,246 @@
           { "label": "Potato Chip Rock via Lake Poway — the other side", "href": "/trailheads/potato-chip-rock/" },
           { "label": "Cowles Mountain — another San Diego peak", "href": "/trailheads/cowles-mountain/" },
           { "label": "Adventure Pass: why it doesn't apply here", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.7622, 33.8072] },
+      "properties": {
+        "name": "Marion Mountain Trailhead (Idyllwild)",
+        "slug": "marion-mountain",
+        "region": "San Jacinto Mountains",
+        "meta_title": "Marion Mountain Trailhead Parking (Idyllwild): Free Lot, Permit to Hike (2026)",
+        "meta_description": "The Marion Mountain Trailhead — the shortest route up San Jacinto Peak — has a free dirt lot off the Marion Mountain Campground Road near Idyllwild, but you still need a free wilderness permit to hike and dogs aren't allowed. Lot size, the road in, and how it compares to Deer Springs.",
+        "card_summary": "The shortest route up San Jacinto Peak. Free dirt lot off the campground road — no Adventure Pass needed here — but you still need a free wilderness permit, and no dogs.",
+        "quick_answer": "<strong>The pass rule flips here — parking is free.</strong> Unlike most Idyllwild trailheads, the dirt lot at the Marion Mountain Trailhead is a <strong>non-fee site</strong>, so you don't display an <a href=\"/adventure-pass/\">Adventure Pass</a>. You do still need a <strong>free self-issue wilderness permit</strong> to hike into the San Jacinto Wilderness, and <strong>dogs are not allowed</strong>. It's the shortest — and steepest — route to San Jacinto Peak, reached via the Marion Mountain Campground Road off Highway 243 north of Idyllwild.",
+        "badges": [
+          { "label": "Free lot — no Adventure Pass", "tone": "good" },
+          { "label": "Free wilderness permit to hike", "tone": "warn" },
+          { "label": "No dogs · strenuous", "tone": "warn" }
+        ],
+        "trail_served": "Marion Mountain Trail 2E14 → San Jacinto Peak — the shortest route (~12–13 mi RT despite the ~5.6 mi signage), ~4,500 ft gain, strenuous",
+        "fee": "Free to park (non-fee dirt lot); free self-issue day-use wilderness permit required to hike ($5/person only for overnight camping)",
+        "lot_size": "Small-to-medium dirt lot at the trailhead, off the Marion Mountain Campground Road",
+        "fill_time": "Summer and fall weekends fill early, especially for a peak attempt (many start pre-dawn)",
+        "overflow": "Limited; the nearby Deer Springs Trailhead is the usual alternate start (but that one needs an Adventure Pass)",
+        "tow_risk": "Low out here, but don't block the campground road or the trailhead turnaround",
+        "restrooms": "None at the trailhead; vault toilets at the adjacent Marion Mountain / Fern Basin campgrounds when open",
+        "road_access": "Paved Hwy 243 to the Marion Mountain Campground Road (4S71), then a short paved/dirt spur to the trailhead — road accessible late spring through fall, snow-gated in winter",
+        "best_season": "May–October for the peak; snow and ice up high demand traction gear off-season",
+        "address": "Marion Mountain Campground Rd (off Hwy 243), Idyllwild-Pine Cove, CA 92549",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "Why this trailhead is different: no parking fee",
+            "body": "Most San Bernardino National Forest trailheads around Idyllwild are Adventure Pass sites — but the Marion Mountain Trailhead is a documented <strong>non-fee dirt lot</strong>, so you don't need a pass on the dash to park here. That's the opposite of the nearby <a href=\"/trailheads/deer-springs/\">Deer Springs Trailhead</a>, which does require one. If a ranger or vendor tells you every Idyllwild lot needs an Adventure Pass, this is the exception — but conditions change, so if there's fresh fee signage at the lot, believe the sign.\n\nWhat you still absolutely need is the <strong>wilderness permit</strong>: the trail enters the San Jacinto Wilderness and Mount San Jacinto State Park Wilderness, and a free self-issue day-use permit is required. Grab one at the trailhead register or 24/7 at the San Jacinto Ranger Station, 54270 Pine Crest Ave, Idyllwild, (909) 382-2921."
+          },
+          {
+            "heading": "The shortest route up San Jacinto Peak",
+            "body": "Marion Mountain is prized as the <strong>shortest route to San Jacinto Peak</strong> — but \"shortest\" is not \"short.\" The signs say about 5.6 miles to the summit; hikers' GPS tracks consistently log <strong>12–13 miles round trip with roughly 4,500 feet of gain</strong>, almost all of it a relentless forested climb. It's a genuine peak day: start early, carry more water than you think, and be acclimated.\n\n<strong>Dogs are not allowed</strong> (State Park Wilderness), and the access road is snow-gated in winter. If the small lot is full, <a href=\"/trailheads/deer-springs/\">Deer Springs</a> is the standard fallback — a slightly longer route, and remember it needs an Adventure Pass where this one doesn't."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass at the Marion Mountain Trailhead?",
+            "a": "No — the Marion Mountain Trailhead dirt lot is a non-fee site, so no Adventure Pass is required to park. You do still need a free self-issue wilderness permit to hike into the San Jacinto Wilderness, and dogs are not allowed."
+          },
+          {
+            "q": "What is the shortest route to San Jacinto Peak?",
+            "a": "The Marion Mountain Trail is the shortest route to San Jacinto Peak. Signs say about 5.6 miles to the summit, but most hikers log 12–13 miles round trip with about 4,500 feet of elevation gain — short in distance relative to other routes, but strenuous."
+          },
+          {
+            "q": "Where do I get the wilderness permit for Marion Mountain?",
+            "a": "It's free and self-issued for day hikes: fill out the form at the trailhead register, or get one 24/7 at the San Jacinto Ranger Station, 54270 Pine Crest Ave, Idyllwild, (909) 382-2921. Overnight camping is $5 per person and more limited."
+          },
+          {
+            "q": "Are dogs allowed on the Marion Mountain Trail?",
+            "a": "No. The trail enters the Mount San Jacinto State Park Wilderness, where dogs are prohibited."
+          }
+        ],
+        "related": [
+          { "label": "Deer Springs Trailhead — nearby, but Adventure Pass required", "href": "/trailheads/deer-springs/" },
+          { "label": "Humber Park / Devil's Slide — the other Idyllwild trailhead", "href": "/trailheads/humber-park/" },
+          { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.0967, 34.1772] },
+      "properties": {
+        "name": "Eaton Canyon Natural Area (Altadena)",
+        "slug": "eaton-canyon",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Eaton Canyon Parking (Altadena): Closed Through Dec 2027 — Status & the Lot (2026)",
+        "meta_description": "Eaton Canyon Natural Area and its waterfall trail are closed through December 31, 2027 after the January 2025 Eaton Fire — Forest Order 05-01-26-04. The free Nature Center lot off Altadena Drive is closed too. Current status, why, and what the parking looks like for when it reopens.",
+        "card_summary": "Closed through Dec 31, 2027 after the Eaton Fire. The free Nature Center lot off Altadena Drive is closed with it. Here's the status and the parking picture for when it returns.",
+        "quick_answer": "<strong>Eaton Canyon is closed — do not plan a hike here yet.</strong> The Eaton Canyon Natural Area, Nature Center, waterfall trail, and its parking lot are all closed through <strong>December 31, 2027</strong> under Angeles National Forest <strong>Forest Order 05-01-26-04</strong>, following damage from the January 2025 Eaton Fire. Hiking apps may still show it as open — it isn't. When it reopens, parking is the <strong>free Nature Center lot off Altadena Drive</strong> (no <a href=\"/adventure-pass/\">Adventure Pass</a> needed — it's an L.A. County natural area, not fee forest).",
+        "badges": [
+          { "label": "CLOSED through Dec 31, 2027", "tone": "bad" },
+          { "label": "Nature Center lot closed too", "tone": "bad" },
+          { "label": "Free lot when it reopens", "tone": "info" }
+        ],
+        "trail_served": "Eaton Canyon Trail to Eaton Canyon Falls (~3–4 mi RT, easy–moderate) — currently closed",
+        "fee": "Free to park (L.A. County natural area, not an Adventure Pass site) — when open",
+        "lot_size": "Large free lot at the Eaton Canyon Nature Center off Altadena Drive — currently gated closed",
+        "fill_time": "Historically packed by mid-morning on weekends for the waterfall; moot while closed",
+        "overflow": "None while closed. Do not attempt to park nearby and enter — the closure is enforced and the terrain is genuinely hazardous",
+        "tow_risk": "Entering or parking to access the closure area risks citation; this is an active safety closure, not a formality",
+        "restrooms": "At the Nature Center (closed while the area is closed)",
+        "road_access": "Paved: Nature Center entrance at 1750 N Altadena Drive, Pasadena — gate closed",
+        "best_season": "N/A until reopening; historically fall–spring for the waterfall flow",
+        "address": "Eaton Canyon Nature Center, 1750 N Altadena Dr, Pasadena, CA 91107",
+        "official_url": "https://www.fs.usda.gov/alerts/angeles/alerts-notices",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "Closed now — the status in plain terms",
+            "body": "This is the honest headline: <strong>you cannot legally hike Eaton Canyon right now.</strong> The January 2025 Eaton Fire burned through the canyon, and the Angeles National Forest's <strong>Eaton Fire Area Closure (Forest Order 05-01-26-04)</strong> keeps Eaton Canyon, its trails, the Nature Center, and the parking lot closed <strong>through December 31, 2027</strong> — the burn left unstable terrain, loose soil, rockfall and severe erosion that make it unsafe. A January 2026 update reopened some nearby front-country paths (Millard, Dawn Mine, Sunset Ridge), but <strong>Eaton Canyon itself remains fully closed regardless of what a hiking app shows</strong>.\n\nDon't try to park near the gate and walk in. The closure is enforced, and the hazard is real — this section exists so you don't make a wasted, ticketable drive."
+          },
+          {
+            "heading": "The parking picture for when it reopens",
+            "body": "When Eaton Canyon does reopen, the parking story is one of the friendlier ones in this area: a <strong>large free lot at the Eaton Canyon Nature Center</strong>, off Altadena Drive, with restrooms and trail signage. It's an L.A. County natural area, so no <a href=\"/adventure-pass/\">Adventure Pass</a> or any pass is required — just show up. Historically the catch was simply crowds: the easy walk to Eaton Canyon Falls made the lot fill by mid-morning on weekends, pushing people to nearby residential streets (mind the posted signs).\n\nWe're keeping this page updated as the reopening approaches — check the <a href=\"https://www.fs.usda.gov/alerts/angeles/alerts-notices\" rel=\"noopener\">Angeles National Forest alerts</a> for the official word, and in the meantime consider open alternatives like <a href=\"/trailheads/switzer-falls/\">Switzer Falls</a> or <a href=\"/trailheads/chantry-flats/\">Chantry Flat</a>."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is Eaton Canyon open for hiking?",
+            "a": "No. Eaton Canyon Natural Area, its trails, the Nature Center, and the parking lot are closed through December 31, 2027 under Angeles National Forest Forest Order 05-01-26-04, due to damage from the January 2025 Eaton Fire. Hiking apps may show it as open, but it is not."
+          },
+          {
+            "q": "When will Eaton Canyon reopen?",
+            "a": "The Eaton Fire closure is scheduled through December 31, 2027, barring an earlier reopening or a further extension. Some nearby front-country trails reopened in January 2026, but Eaton Canyon itself remains closed. Check the Angeles National Forest alerts page for official updates."
+          },
+          {
+            "q": "Where do you park for Eaton Canyon Falls?",
+            "a": "When open, at the free Eaton Canyon Nature Center lot, 1750 N Altadena Drive in Pasadena — no Adventure Pass required, since it's an L.A. County natural area. It historically filled by mid-morning on weekends. The lot is currently closed with the rest of the area."
+          }
+        ],
+        "related": [
+          { "label": "Switzer Falls — an open San Gabriel waterfall alternative", "href": "/trailheads/switzer-falls/" },
+          { "label": "Chantry Flat — open again after the fire closures", "href": "/trailheads/chantry-flats/" },
+          { "label": "Echo Mountain — also in the Eaton Fire closure", "href": "/trailheads/echo-mountain/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.1319, 34.2033] },
+      "properties": {
+        "name": "Echo Mountain via Sam Merrill Trail (Altadena)",
+        "slug": "echo-mountain",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Echo Mountain / Sam Merrill Trail Parking (Altadena): Closed Through 2027 (2026)",
+        "meta_description": "The Sam Merrill Trail to Echo Mountain from Lake Ave & Loma Alta in Altadena is closed through December 31, 2027 after the Eaton Fire (Forest Order 05-01-26-04). Parking was always free residential street parking — here's the status and what to know for the reopening.",
+        "card_summary": "Closed through Dec 31, 2027 after the Eaton Fire. Parking was free residential street parking at Lake & Loma Alta — here's the status and the reopening picture.",
+        "quick_answer": "<strong>Echo Mountain is closed — the Sam Merrill Trail is inside the Eaton Fire closure.</strong> Access from the trailhead at <strong>Lake Avenue & Loma Alta Drive</strong> in Altadena is prohibited through <strong>December 31, 2027</strong> under Angeles National Forest <strong>Forest Order 05-01-26-04</strong>. Parking here was never a lot — it's <strong>free residential street parking</strong>, no <a href=\"/adventure-pass/\">Adventure Pass</a> needed — but none of that matters until the trail reopens. Don't hike it yet.",
+        "badges": [
+          { "label": "CLOSED through Dec 31, 2027", "tone": "bad" },
+          { "label": "Free street parking when open", "tone": "info" },
+          { "label": "No parking after 10pm (when open)", "tone": "warn" }
+        ],
+        "trail_served": "Sam Merrill Trail to Echo Mountain & the Mt. Lowe Railway ruins (~5–6 mi RT, moderate) — currently closed",
+        "fee": "Free residential street parking (no Adventure Pass) — when open",
+        "lot_size": "No lot — free street parking around Lake Ave & Loma Alta Dr, Altadena",
+        "fill_time": "Historically a popular hike — street spots filled early on weekends; moot while closed",
+        "overflow": "Park farther down the residential blocks (when open); none while closed — the trail is off-limits",
+        "tow_risk": "When open, obey posted residential signs (no parking after 10pm); while closed, entering the area risks citation",
+        "restrooms": "None at the trailhead",
+        "road_access": "Paved: trailhead at the corner of Lake Avenue and Loma Alta Drive, Altadena — gated/closed area",
+        "best_season": "N/A until reopening; historically fall–spring, and early morning to beat sun and crowds",
+        "address": "Lake Ave & Loma Alta Dr, Altadena, CA 91001",
+        "official_url": "https://www.fs.usda.gov/alerts/angeles/alerts-notices",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "Closed now — Sam Merrill is in the burn area",
+            "body": "The Sam Merrill Trail to <strong>Echo Mountain</strong> — with its famous Mt. Lowe Railway ruins and the \"echo phone\" — climbs out of Altadena straight into the terrain that burned in the January 2025 Eaton Fire. It sits inside the Angeles National Forest's <strong>Eaton Fire Area Closure (Forest Order 05-01-26-04)</strong>, closed <strong>through December 31, 2027</strong>. The slopes here took heavy fire damage, and post-fire rockfall and erosion are exactly why the Forest Service is keeping people out.\n\nAs with Eaton Canyon, some other front-country trails reopened in early 2026, but the Echo Mountain / Sam Merrill corridor is not one of them. Don't rely on a hiking app's \"open\" label."
+          },
+          {
+            "heading": "Parking here for when it returns",
+            "body": "There's no parking lot at this trailhead and never was — access is from the corner of <strong>Lake Avenue and Loma Alta Drive</strong>, and hikers park for <strong>free on the surrounding residential streets</strong>. No <a href=\"/adventure-pass/\">Adventure Pass</a> applies (this is a city-edge trailhead into the forest, not a fee lot). The two things that mattered pre-closure: it's a popular hike so street spots went early on weekends, and the residential signs are enforced — including <strong>no parking after 10pm</strong>, which caught late descenders off guard.\n\nUntil it reopens, point yourself at an open trail instead — <a href=\"/trailheads/switzer-falls/\">Switzer Falls</a> and <a href=\"/trailheads/chantry-flats/\">Chantry Flat</a> are both operating — and watch the <a href=\"https://www.fs.usda.gov/alerts/angeles/alerts-notices\" rel=\"noopener\">Angeles National Forest alerts</a> for the reopening."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is the Sam Merrill Trail to Echo Mountain open?",
+            "a": "No. It's within the Angeles National Forest Eaton Fire Area Closure (Forest Order 05-01-26-04) and is closed through December 31, 2027 due to fire damage. Some other nearby trails reopened in early 2026, but Echo Mountain is not among them."
+          },
+          {
+            "q": "Where do you park for the Echo Mountain hike?",
+            "a": "At the trailhead corner of Lake Avenue and Loma Alta Drive in Altadena — free residential street parking, no Adventure Pass. Note the posted no-parking-after-10pm rule. All of this applies only when the trail reopens; it's currently closed."
+          },
+          {
+            "q": "When will Echo Mountain reopen?",
+            "a": "The Eaton Fire closure runs through December 31, 2027, unless the Forest Service reopens the corridor earlier or extends it. Check the Angeles National Forest alerts page for the official status before planning a trip."
+          }
+        ],
+        "related": [
+          { "label": "Eaton Canyon — also in the Eaton Fire closure", "href": "/trailheads/eaton-canyon/" },
+          { "label": "Mt. Wilson Trail (Sierra Madre) — partially reopened", "href": "/trailheads/mount-wilson-trail/" },
+          { "label": "Switzer Falls — an open alternative", "href": "/trailheads/switzer-falls/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.0503, 34.1650] },
+      "properties": {
+        "name": "Mt. Wilson Trail (Sierra Madre)",
+        "slug": "mount-wilson-trail",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Mt. Wilson Trail Parking (Sierra Madre): Lower Trail Reopened, Free Street Parking (2026)",
+        "meta_description": "The lower Mt. Wilson Trail from Mount Wilson Trail Park (189 E Mira Monte Ave, Sierra Madre) reopened in 2026 — free street parking, no pass. But the upper trail and the forest-side Mt. Wilson Toll Road stay closed under the Eaton Fire order through Dec 2027. What's open, what isn't.",
+        "card_summary": "The lower Sierra Madre trail reopened in 2026 (free street parking at Mira Monte) — but the upper trail and the Altadena-side Toll Road stay closed under the Eaton Fire order. Here's exactly what's open.",
+        "quick_answer": "<strong>Partly open — read this before you go.</strong> The <strong>lower Mt. Wilson Trail</strong> from <strong>Mount Wilson Trail Park (189 E Mira Monte Ave, Sierra Madre)</strong> reopened in 2026; parking is <strong>free street parking</strong> in the residential area plus a little inside the park, and no <a href=\"/adventure-pass/\">Adventure Pass</a> is needed. But the <strong>upper trail and the Altadena-side Mt. Wilson Toll Road remain closed</strong> under the Eaton Fire order (Forest Order 05-01-26-04) through December 31, 2027 — so you can hike the lower section, not to the summit.",
+        "badges": [
+          { "label": "Lower trail reopened (2026)", "tone": "good" },
+          { "label": "Upper trail / Toll Road closed", "tone": "warn" },
+          { "label": "Free street parking, no pass", "tone": "info" }
+        ],
+        "trail_served": "Mt. Wilson Trail from Sierra Madre — lower section to First Water / Jones Peak cutoff open; the full route to Mt. Wilson summit is closed above",
+        "fee": "Free — street parking plus limited spaces inside Mount Wilson Trail Park; no Adventure Pass",
+        "lot_size": "Small park lot at Mount Wilson Trail Park plus free residential street parking on Mira Monte Ave and nearby",
+        "fill_time": "Weekend mornings — the residential street parking gets busy; go early",
+        "overflow": "Farther down the residential streets around Mira Monte Ave — obey posted signs",
+        "tow_risk": "Residential Sierra Madre streets are signed and enforced; park legally and don't block driveways",
+        "restrooms": "Restrooms at Mount Wilson Trail Park",
+        "road_access": "Paved: to Mount Wilson Trail Park at 189 E Mira Monte Ave, Sierra Madre; park open dawn to dusk",
+        "best_season": "Fall–spring; the lower trail is exposed and hot in summer afternoons",
+        "address": "Mount Wilson Trail Park, 189 E Mira Monte Ave, Sierra Madre, CA 91024",
+        "official_url": "https://www.sierramadreca.gov/",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "What's open and what isn't",
+            "body": "This one needs a careful answer because \"Mt. Wilson Trail\" spans two jurisdictions. The <strong>civic lower trail</strong>, run by the City of Sierra Madre from Mount Wilson Trail Park, <strong>reopened in 2026</strong> — the Forest Service adjusted the Eaton Fire closure to move the lower Old Mt. Wilson Trail out of the closed area, so you can now hike the lower section (to First Water and the Jones Peak cutoff). The <strong>upper trail to the Mt. Wilson summit, and the separate Altadena-side Mt. Wilson Toll Road</strong> (from Henninger Flats), remain closed under <strong>Forest Order 05-01-26-04 through December 31, 2027</strong>.\n\nSo: a good lower-canyon hike is back on; a summit push from here is not. Confirm the day's status with Sierra Madre Community Services at (626) 355-5278, since post-fire conditions and fire-season rules can re-close the lower trail on short notice."
+          },
+          {
+            "heading": "Parking at Mount Wilson Trail Park",
+            "body": "Parking is refreshingly simple and free. There's a <strong>small lot inside Mount Wilson Trail Park</strong> (189 E Mira Monte Ave) with restrooms and grass, plus <strong>free residential street parking</strong> on Mira Monte Avenue and the surrounding blocks. No <a href=\"/adventure-pass/\">Adventure Pass</a> is required — this is a city trailhead, not a fee forest lot.\n\nThe only real friction is popularity: on weekend mornings the close-in street spots fill, and Sierra Madre's residential blocks are signed and enforced, so read the signs and don't block driveways. The park is open dawn to dusk. For a summit-region day while the upper trail is closed, the open <a href=\"/trailheads/chantry-flats/\">Chantry Flat</a> is the nearest substitute."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is the Mt. Wilson Trail in Sierra Madre open?",
+            "a": "The lower section, from Mount Wilson Trail Park in Sierra Madre, reopened in 2026. The upper trail to the Mt. Wilson summit and the Altadena-side Mt. Wilson Toll Road remain closed under the Eaton Fire order through December 31, 2027. Confirm current status with Sierra Madre Community Services at (626) 355-5278."
+          },
+          {
+            "q": "Where do you park for the Mt. Wilson Trail in Sierra Madre?",
+            "a": "At Mount Wilson Trail Park, 189 E Mira Monte Ave — a small free park lot plus free residential street parking nearby. No Adventure Pass is required. Weekend mornings fill up, so arrive early and obey the residential parking signs."
+          },
+          {
+            "q": "Can you hike to the Mt. Wilson summit from Sierra Madre right now?",
+            "a": "No. Only the lower trail is open; the upper trail to the summit is inside the Eaton Fire closure through December 31, 2027. You can hike the lower section (to First Water / Jones Peak cutoff) but not to the top from here."
+          }
+        ],
+        "related": [
+          { "label": "Chantry Flat — the open summit-area alternative", "href": "/trailheads/chantry-flats/" },
+          { "label": "Eaton Canyon — still fully closed", "href": "/trailheads/eaton-canyon/" },
+          { "label": "Echo Mountain — still closed in the Eaton Fire area", "href": "/trailheads/echo-mountain/" }
         ]
       }
     }
