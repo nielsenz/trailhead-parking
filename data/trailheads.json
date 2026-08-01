@@ -609,6 +609,7 @@
         ],
         "related": [
           { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "Deer Springs — Suicide Rock & San Jacinto Peak, nearby", "href": "/trailheads/deer-springs/" },
           { "label": "Official Humber Park page (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/recreation/humber-park-trailhead-parking" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
         ]
@@ -1365,6 +1366,10 @@
         ],
         "related": [
           {
+            "label": "Mt. Woodson via Hwy 67 — the new $5 east-side lot",
+            "href": "/trailheads/mount-woodson-highway-67/"
+          },
+          {
             "label": "Adventure Pass: why it doesn't apply here",
             "href": "/adventure-pass/"
           },
@@ -1470,6 +1475,10 @@
           {
             "label": "Adventure Pass: why it isn't valid here",
             "href": "/adventure-pass/"
+          },
+          {
+            "label": "Cowles Mountain — San Diego's most-hiked peak",
+            "href": "/trailheads/cowles-mountain/"
           },
           {
             "label": "Potato Chip Rock / Mt. Woodson",
@@ -3154,6 +3163,195 @@
           { "label": "Castle Rock Trailhead — nearby Big Bear hike", "href": "/trailheads/castle-rock/" },
           { "label": "Adventure Pass: cost, where to buy & where you need it", "href": "/adventure-pass/" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.7419, 33.7736] },
+      "properties": {
+        "name": "Deer Springs Trailhead (Idyllwild)",
+        "slug": "deer-springs",
+        "region": "San Jacinto Mountains",
+        "meta_title": "Deer Springs Trailhead Parking (Idyllwild): Adventure Pass + Free Permit (2026)",
+        "meta_description": "The Deer Springs Trailhead on Highway 243 north of Idyllwild — the gateway to Suicide Rock and San Jacinto Peak — needs an Adventure Pass to park plus a free self-issue wilderness permit. Small lot, fills early on weekends, and the exact two-piece paperwork explained.",
+        "card_summary": "Idyllwild's gateway to Suicide Rock and San Jacinto Peak. Two pieces of paper needed — an Adventure Pass to park and a free wilderness permit to hike — plus a small lot that fills early.",
+        "quick_answer": "<strong>You need two different things here, and people forget the second.</strong> To park at the Deer Springs Trailhead — on Highway 243 about a mile north of Idyllwild — you display an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> ($5/day, $30/yr, or an interagency pass). To <em>hike</em> it, you also need a <strong>free self-issue wilderness permit</strong> for the San Jacinto Wilderness, filled out at the trailhead box or the Idyllwild ranger station. The lot is small and fills early on summer weekends; <strong>no dogs</strong> in the wilderness.",
+        "badges": [
+          { "label": "Adventure Pass to park", "tone": "info" },
+          { "label": "Free wilderness permit to hike", "tone": "warn" },
+          { "label": "No dogs · fills early", "tone": "warn" }
+        ],
+        "trail_served": "Deer Springs Trail to Suicide Rock (~7 mi RT) and on to San Jacinto Peak & Little Round Valley (strenuous, ~16 mi RT)",
+        "fee": "Adventure Pass ($5/day, $30/yr) or Interagency pass to park; free self-issue day-use wilderness permit to hike ($5/person only for overnight camping)",
+        "lot_size": "Small paved/dirt trailhead lot on Hwy 243 — a couple dozen cars before it spills to the roadside",
+        "fill_time": "Summer and fall weekends: early morning, especially for a peak attempt",
+        "overflow": "Limited roadside on Hwy 243 shoulders — park fully clear of the lane; the Marion Mountain Trailhead nearby is an alternate start",
+        "tow_risk": "Hwy 243 is a mountain highway; don't block it. Citations are for a missing pass or permit as much as for parking",
+        "restrooms": "None at the trailhead; restrooms and the ranger station are in Idyllwild",
+        "road_access": "Paved: Highway 243, about 1 mile north of Idyllwild",
+        "best_season": "Late spring through fall for the peak; snow and ice linger up high into spring (traction gear needed off-season)",
+        "address": "Highway 243, ~1 mi north of Idyllwild, CA 92549",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "The two-piece paperwork, explained",
+            "body": "Idyllwild's forest trailheads trip people up because two separate rules stack here. First, <strong>parking</strong>: the Deer Springs lot is a Forest Service fee site, so you display an <a href=\"/adventure-pass/\">Adventure Pass</a> or an America the Beautiful interagency pass on the dash — same as most San Bernardino National Forest trailheads. Second, <strong>access</strong>: the Deer Springs Trail enters the San Jacinto Wilderness (and San Jacinto State Park Wilderness up high), which requires a <strong>wilderness permit</strong>. For day hikes that permit is <strong>free and self-issued</strong> — fill out the form at the trailhead register or grab one 24/7 at the San Jacinto Ranger Station, 54270 Pine Crest Ave in Idyllwild, (909) 382-2921. Overnight trips cost $5 per person and are more limited.\n\nSo the failure mode isn't usually parking — it's hiking up with a pass on the dash but no permit in your pack. Bring both."
+          },
+          {
+            "heading": "Where it goes and why the lot fills",
+            "body": "Deer Springs is one of Idyllwild's best-value trailheads because a single lot serves several classic hikes: the moderate climb to <strong>Suicide Rock</strong> (about 7 miles round trip, big granite views), and the long, serious push to <strong>San Jacinto Peak</strong> by way of Little Round Valley — a ~16-mile day with roughly 4,400 feet of gain that separates the acclimated from the optimistic. Because it feeds both a popular half-day hike and a bucket-list summit, the small lot fills early on any decent-weather weekend, and summit hikers are often starting in the dark.\n\n<strong>No dogs</strong> are allowed in the wilderness here. If Deer Springs is full, the nearby Marion Mountain Trailhead (the shortest route to the peak) is the usual fallback — same Adventure-Pass-plus-permit rules apply."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you need an Adventure Pass at the Deer Springs Trailhead?",
+            "a": "Yes — the Deer Springs lot is a Forest Service fee site, so display an Adventure Pass or an America the Beautiful interagency pass to park. Separately, you also need a free self-issue wilderness permit to hike into the San Jacinto Wilderness."
+          },
+          {
+            "q": "Where do I get the wilderness permit for Deer Springs or San Jacinto Peak?",
+            "a": "For day hikes it's free and self-issued: fill out the form at the trailhead register, or pick one up 24/7 at the San Jacinto Ranger Station, 54270 Pine Crest Ave, Idyllwild, (909) 382-2921. Overnight backcountry camping costs $5 per person and is more limited."
+          },
+          {
+            "q": "How do you get to Suicide Rock from Idyllwild?",
+            "a": "Via the Deer Springs Trail from the trailhead on Highway 243, about a mile north of Idyllwild. It's roughly a 7-mile round trip, moderate, with an Adventure Pass required to park and a free wilderness permit required to hike."
+          },
+          {
+            "q": "Are dogs allowed on the Deer Springs Trail?",
+            "a": "No. The trail enters the San Jacinto Wilderness and San Jacinto State Park Wilderness, where dogs are not permitted."
+          }
+        ],
+        "related": [
+          { "label": "Humber Park / Devil's Slide — the other Idyllwild trailhead", "href": "/trailheads/humber-park/" },
+          { "label": "Adventure Pass: where to buy one in Idyllwild", "href": "/adventure-pass/" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.0347, 32.8017] },
+      "properties": {
+        "name": "Cowles Mountain Trailhead (Mission Trails)",
+        "slug": "cowles-mountain",
+        "region": "San Diego County",
+        "meta_title": "Cowles Mountain Parking (San Diego): Free Lot, the Tire-Cramp Ticket & Break-Ins (2026)",
+        "meta_description": "The Cowles Mountain trailhead lot at Golfcrest & Navajo in San Diego is free and fills by 8:30am on weekends. Free street parking overflows nearby — but curb your wheels on the hills or get ticketed, and the lot has a real car-break-in problem. No pass needed.",
+        "card_summary": "San Diego's most-hiked peak. Free lot at Golfcrest & Navajo fills by 8:30am; free street overflow — but cramp your tires on the hills and don't leave valuables in the car.",
+        "quick_answer": "<strong>It's free, but the lot is small and there are two traps.</strong> The main Cowles Mountain trailhead lot at <strong>Golfcrest Drive & Navajo Road</strong> (7001 Golfcrest Dr) is free, open sunrise to sunset, and fills by about <strong>8:30am on weekends</strong>. Free street parking is plentiful nearby — but on the sloped residential streets you must <strong>turn your wheels toward the curb</strong> or you'll get a citation, and the trailhead lot has a <strong>known car-break-in problem</strong>, so take valuables with you. No <a href=\"/adventure-pass/\">Adventure Pass</a> or any pass is required — this is Mission Trails Regional Park.",
+        "badges": [
+          { "label": "Free — no pass needed", "tone": "good" },
+          { "label": "Full by 8:30am weekends", "tone": "warn" },
+          { "label": "Break-ins · cramp your wheels", "tone": "warn" }
+        ],
+        "trail_served": "Cowles Mountain Trail to the summit (~3 mi RT, moderate) — the highest point in the City of San Diego",
+        "fee": "Free — no parking fee, no entry fee, no permit",
+        "lot_size": "Small dirt/paved lot at Golfcrest & Navajo; free street parking overflows into the neighborhood",
+        "fill_time": "Weekends and holidays: by about 8:30am",
+        "overflow": "Free street parking on Golfcrest Drive and nearby residential blocks — mind the posted rules and curb your wheels",
+        "tow_risk": "Not towing so much as citations: turn wheels toward the curb on the hills, and don't block driveways or hydrants on the residential streets",
+        "restrooms": "Portable/restroom facilities at the main trailhead; none on the trail",
+        "road_access": "Paved city streets to the Golfcrest & Navajo trailhead in the San Carlos neighborhood",
+        "best_season": "Year-round, but go early — it's an exposed, shadeless climb that bakes on summer afternoons",
+        "address": "7001 Golfcrest Dr, San Diego, CA 92119",
+        "official_url": "https://www.mtrp.org/",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "The most-hiked peak in San Diego — and its tiny lot",
+            "body": "Cowles Mountain is the highest point in the City of San Diego and the single most popular hike in Mission Trails Regional Park, which is exactly why its parking is a bottleneck. The main lot at <strong>Golfcrest Drive and Navajo Road</strong> is free, opens at sunrise, and is <strong>routinely full by 8:30am on weekends</strong>. The hike itself is a short but steep ~3-mile round trip to the summit — no shade, so the early start does double duty: better parking and cooler air.\n\nThere's no pass or fee of any kind. Mission Trails is a regional park, so an <a href=\"/adventure-pass/\">Adventure Pass</a>, an America the Beautiful pass, and a State Parks pass are all irrelevant here — a nice change from the forest trailheads."
+          },
+          {
+            "heading": "Street parking without the ticket (or the break-in)",
+            "body": "When the lot fills — and it will — free street parking is widely available on Golfcrest Drive and the surrounding San Carlos blocks. Two very local gotchas save you grief. First, several of these streets are on a hill, and California law requires you to <strong>turn your front wheels toward the curb</strong> when parked facing downhill (and away when facing uphill); the neighborhood is patrolled and drivers who skip this get cited. Second, respect driveways, hydrants, and any posted permit or time limits on the residential blocks.\n\nThe bigger warning is the lot itself: Cowles has a <strong>persistent car-break-in problem</strong>. Don't leave bags, electronics, or anything visible in the car at the trailhead — take it with you or don't bring it. This is the most common bad day at an otherwise easy, free trailhead."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is parking free at Cowles Mountain?",
+            "a": "Yes — the trailhead lot at Golfcrest and Navajo is free, as is nearby street parking, and there's no entry fee or permit. It's part of Mission Trails Regional Park. The catch is that the lot is small and fills by about 8:30am on weekends."
+          },
+          {
+            "q": "Where do you park for Cowles Mountain?",
+            "a": "The main lot is at 7001 Golfcrest Dr (Golfcrest & Navajo) in San Diego. When it's full, park free on the surrounding residential streets — but curb your wheels on the hills to avoid a ticket, and don't leave valuables in the car."
+          },
+          {
+            "q": "What time does the Cowles Mountain lot fill up?",
+            "a": "By about 8:30am on weekends and holidays. Arriving before then also beats the heat on this shadeless climb. Street parking is the reliable overflow."
+          },
+          {
+            "q": "Do you need an Adventure Pass for Cowles Mountain?",
+            "a": "No. Cowles Mountain is in Mission Trails Regional Park, not national forest, so no Adventure Pass, America the Beautiful pass, or State Parks pass is required. Parking is free."
+          }
+        ],
+        "related": [
+          { "label": "Potato Chip Rock / Mt. Woodson — another free-ish SD climb", "href": "/trailheads/potato-chip-rock/" },
+          { "label": "Torrey Pines — the coastal alternative", "href": "/trailheads/torrey-pines/" },
+          { "label": "Adventure Pass: why it doesn't apply here", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9758, 33.0206] },
+      "properties": {
+        "name": "Mt. Woodson via Highway 67 (Ramona)",
+        "slug": "mount-woodson-highway-67",
+        "region": "San Diego County",
+        "meta_title": "Mt. Woodson Highway 67 Parking: The New $5 Gateway Lot (2026)",
+        "meta_description": "The old free roadside parking on Highway 67 for Potato Chip Rock is gone — as of March 2026 the County opened the Mount Woodson Gateway Preserve lot (16286 Hwy 67, Ramona): ~200 spaces, $5/day, sunrise to sunset, first-come. Roadside parking is now heavily ticketed. What changed and how to park.",
+        "card_summary": "The east-side Potato Chip Rock trailhead. A new $5 County lot (~200 spaces) replaced the free-for-all roadside parking in March 2026 — and the shoulder is now ticketed.",
+        "quick_answer": "<strong>Big 2026 change: the free roadside parking is over.</strong> The east/Ramona approach to Potato Chip Rock and Mt. Woodson now uses the new <strong>Mount Woodson Gateway County Preserve</strong> lot at <strong>16286 Highway 67, Ramona</strong> — about <strong>200 spaces, $5 per vehicle per day</strong> (or a $50 annual county pass), open sunrise to sunset, first-come with no reservation. Parking along Highway 67 itself is now <strong>strictly discouraged and heavily ticketed</strong>. This isn't an <a href=\"/adventure-pass/\">Adventure Pass</a> site — it's a San Diego County parks fee.",
+        "badges": [
+          { "label": "New $5 County lot (2026)", "tone": "info" },
+          { "label": "Roadside now ticketed", "tone": "warn" },
+          { "label": "~200 spaces · first-come", "tone": "good" }
+        ],
+        "trail_served": "Mt. Woodson Trail (Hwy 67 / east side) to Potato Chip Rock and the summit — ~4 mi RT, moderate–hard, paved service road",
+        "fee": "$5 per vehicle per day, or $50 annual San Diego County parks pass; free perpetual pass for County residents 62+. Not an Adventure Pass site",
+        "lot_size": "~200 public spaces plus 7 ADA at the Mount Woodson Gateway Preserve",
+        "fill_time": "Weekend mornings — arrive early both for a space and to beat the heat on this shadeless climb",
+        "overflow": "None sanctioned — Highway 67 roadside parking is now discouraged and ticketed, so the lot (or the Lake Poway side) is the plan",
+        "tow_risk": "High for roadside offenders on Hwy 67 now that the lot has opened — use the paid lot; it exists specifically to end the dangerous shoulder parking",
+        "restrooms": "Portable restrooms at the Gateway Preserve lot; none on the trail",
+        "road_access": "Paved: entrance off Highway 67 at 16286 Hwy 67, Ramona",
+        "best_season": "October–April; the paved, west-facing climb is brutally exposed in summer",
+        "address": "Mount Woodson Gateway County Preserve, 16286 Highway 67, Ramona, CA 92065",
+        "official_url": "https://www.sdparks.org/",
+        "verified": "August 1, 2026",
+        "sections": [
+          {
+            "heading": "What changed in 2026",
+            "body": "For years, the shortest way to Potato Chip Rock was to park free on the shoulder of Highway 67 near the CAL FIRE station and walk up the paved Mt. Woodson service road. That's over. On <strong>March 18, 2026</strong>, San Diego County opened the <strong>Mount Woodson Gateway County Preserve</strong> — an 84-acre property at 16286 Highway 67 in Ramona with a purpose-built lot of about <strong>200 spaces (plus 7 ADA)</strong> — specifically to get hikers off the dangerous highway shoulder. Parking along Highway 67 is now <strong>strictly discouraged and heavily ticketed</strong>.\n\nThe new lot costs <strong>$5 per vehicle per day</strong> or a $50 annual County parks pass, is open <strong>sunrise to sunset</strong>, and is first-come, first-served (no reservation needed — pay on-site by QR code or online). San Diego County residents aged 62+ can get a free perpetual parking pass. Walk-in trail access remains available outside vehicle hours, but you can't leave a car in the lot after close."
+          },
+          {
+            "heading": "Which side to hike: Hwy 67 vs. Lake Poway",
+            "body": "Mt. Woodson has two trailheads and they're genuinely different days. This <strong>Highway 67 (Ramona) side</strong> is the short, steep one — roughly a 4-mile round trip up a paved service road, now from the $5 Gateway lot. The <a href=\"/trailheads/potato-chip-rock/\">Lake Poway side</a> is the longer, prettier ~7-mile round trip on real trail, with its own fee structure ($10 non-resident on weekends/holidays, free weekdays) and gates that lock at sunset.\n\nQuick rule of thumb: take <strong>Hwy 67</strong> for the fastest up-and-back to the Potato Chip photo, and <strong>Lake Poway</strong> for the nicer hike or a free weekday visit. Either way this is a shadeless granite climb — go early, carry more water than feels necessary, and skip it on hot afternoons. Neither trailhead is national forest, so an <a href=\"/adventure-pass/\">Adventure Pass</a> does nothing here."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Can you still park for free on Highway 67 for Potato Chip Rock?",
+            "a": "No — as of March 2026 the free roadside parking is discouraged and heavily ticketed. The east/Ramona approach now uses the new Mount Woodson Gateway County Preserve lot at 16286 Hwy 67, which charges $5 per vehicle per day."
+          },
+          {
+            "q": "How much does the Mount Woodson Gateway parking lot cost?",
+            "a": "$5 per vehicle per day, or $50 for an annual San Diego County parks pass. County residents aged 62 and older can get a free perpetual parking pass. Pay on-site by QR code or online; no reservation is required."
+          },
+          {
+            "q": "What are the hours of the new Mount Woodson parking lot?",
+            "a": "Sunrise to sunset daily for vehicle access and restrooms. Walk-in trail access continues outside those hours, but you can't leave a vehicle in the lot after it closes."
+          },
+          {
+            "q": "Is the Highway 67 or Lake Poway trailhead better for Potato Chip Rock?",
+            "a": "Highway 67 is the shorter, steeper route (~4 miles round trip) from the new $5 Gateway lot. Lake Poway is the longer, nicer trail (~7 miles) with a different fee ($10 non-resident weekends/holidays, free weekdays) and gates that lock at sunset. Pick Hwy 67 for speed, Lake Poway for the experience."
+          }
+        ],
+        "related": [
+          { "label": "Potato Chip Rock via Lake Poway — the other side", "href": "/trailheads/potato-chip-rock/" },
+          { "label": "Cowles Mountain — another San Diego peak", "href": "/trailheads/cowles-mountain/" },
+          { "label": "Adventure Pass: why it doesn't apply here", "href": "/adventure-pass/" }
         ]
       }
     }
