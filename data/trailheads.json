@@ -439,6 +439,7 @@
         ],
         "related": [
           { "label": "Big Bear Discovery Center — the free plan B", "href": "/trailheads/big-bear-discovery-center/" },
+          { "label": "Grays Peak — quieter north-shore summit (eagle-closure seasonal)", "href": "/trailheads/grays-peak/" },
           { "label": "Cougar Crest Trail guide (BigBearMap.com)", "href": "https://bigbearmap.com/trails/cougar-crest-trail" },
           { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
         ]
@@ -678,6 +679,7 @@
         ],
         "related": [
           { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
+          { "label": "San Bernardino Peak — the other San Gorgonio Wilderness climb", "href": "/trailheads/san-bernardino-peak/" },
           { "label": "SGWA permit portal (permits.sgwa.org)", "href": "https://permits.sgwa.org/" },
           { "label": "Official Falls Picnic Area page (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/recreation/falls-picnic-area" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
@@ -965,6 +967,10 @@
           {
             "label": "Chantry Flat — the other front-range waterfall lot",
             "href": "/trailheads/chantry-flats/"
+          },
+          {
+            "label": "Devil's Punchbowl — free county lot on the desert side",
+            "href": "/trailheads/devils-punchbowl/"
           },
           {
             "label": "Eaton Canyon — closed through 2027 (Eaton Fire)",
@@ -3667,6 +3673,7 @@
         "related": [
           { "label": "Manker Flats / Mt. Baldy — the other big San Gabriel peak start", "href": "/trailheads/manker-flats/" },
           { "label": "Icehouse Canyon — nearby Mt. Baldy-area trailhead", "href": "/trailheads/icehouse-canyon/" },
+          { "label": "Devil's Punchbowl — free county lot on the desert side of the range", "href": "/trailheads/devils-punchbowl/" },
           { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
         ]
       }
@@ -3777,6 +3784,173 @@
         "related": [
           { "label": "Humber Park / Devil's Slide — the other Tahquitz Peak start", "href": "/trailheads/humber-park/" },
           { "label": "Deer Springs Trailhead — nearby Idyllwild trailhead", "href": "/trailheads/deer-springs/" },
+          { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9530, 34.2470] },
+      "properties": {
+        "name": "Grays Peak Trailhead (Fawnskin, Big Bear)",
+        "slug": "grays-peak",
+        "region": "San Bernardino Mountains",
+        "meta_title": "Grays Peak Trailhead Parking (Big Bear): $5 Day Pass, Bald Eagle Closure (2026)",
+        "meta_description": "The Grays Peak trailhead on Hwy 38 west of Fawnskin needs a $5 day-use pass (or Adventure Pass) — but the trail closes every winter/spring (about Nov 1–Apr 1, longer in 2026) to protect nesting bald eagles. When it's open, how to pay, and what to check first.",
+        "card_summary": "Quiet, less-crowded Big Bear summit hike with a flush toilet at the trailhead. $5 day pass or Adventure Pass — but it's closed roughly Nov 1–Apr 1 (into July in 2026) for bald eagle nesting. Check the closure before you drive.",
+        "quick_answer": "<strong>Check the eagle closure before anything else.</strong> The Grays Peak trailhead sits on the west side of <strong>Hwy 38 (North Shore Drive), just west of Fawnskin</strong>, across from Grout Bay Picnic Area. Parking needs a <strong>$5 day-use pass or a valid <a href=\"/adventure-pass/\">Adventure Pass</a></strong> (or America the Beautiful pass) on the dash. The catch is timing: because the lower trail runs through <strong>bald eagle nesting habitat</strong>, the Forest Service closes it every winter and spring — roughly <strong>November 1 through April 1</strong>, and in 2026 the closure ran March 12–July 1. When it's open it's one of the quieter Big Bear hikes.",
+        "badges": [
+          { "label": "$5 day pass or Adventure Pass", "tone": "info" },
+          { "label": "Closed ~Nov 1–Apr 1 (eagle nesting)", "tone": "warn" },
+          { "label": "Flush toilet · less crowded", "tone": "good" }
+        ],
+        "trail_served": "Grays Peak Trail 1W06 to the summit — ~7–7.2 mi round trip, ~1,000–1,300 ft gain, moderate; forest road plus singletrack with a short boulder scramble to lake views",
+        "fee": "$5/vehicle day-use pass, or a valid Adventure Pass / America the Beautiful interagency pass; pay on-site via the Recreation.gov app or a self-pay envelope and display the receipt or pass face-up",
+        "lot_size": "Good-sized trailhead lot on the west side of Hwy 38 across from Grout Bay Picnic Area",
+        "fill_time": "Rarely a problem — this is one of the less-crowded north-shore trails; weekends are busier but seldom full",
+        "overflow": "Limited; if the lot is full use nearby north-shore pullouts, but do not enter any posted eagle-closure area",
+        "tow_risk": "Low, but entering the closed area during nesting season is enforced — the trailhead itself is gated shut during the closure",
+        "restrooms": "Flush toilet and picnic tables at the trailhead when open",
+        "road_access": "Paved Hwy 38 (North Shore Drive) west of Fawnskin; easy year-round access to the lot, though the trail beyond may be gated during the eagle closure",
+        "best_season": "Late spring through fall, after the eagle closure lifts and before it returns; summer is hot and dry up high — carry 2+ liters of water",
+        "address": "Grays Peak Trailhead, Hwy 38 (North Shore Dr), Fawnskin, CA 92333",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The bald eagle closure decides your season",
+            "body": "Grays Peak's lower trail passes through <strong>bald eagle nesting and wintering habitat</strong>, so the San Bernardino National Forest closes the trail and trailhead every year to protect the birds — typically <strong>November 1 through April 1</strong>, sometimes longer. In 2026 the protective order ran <strong>March 12 through July 1</strong>, with the trail reopening July 2. During a closure the trailhead is physically gated and entry is prohibited and enforced, so this is the one trailhead where you must check the current Forest Service alert before you drive up — a great-looking forecast doesn't mean the trail is open."
+          },
+          {
+            "heading": "Paying to park: $5 day pass or an Adventure Pass",
+            "body": "When it's open, parking is a fee site. You can pay a <strong>$5 day-use pass</strong> right there via the <strong>Recreation.gov app</strong> or a <strong>self-pay envelope</strong>, or display a valid <a href=\"/adventure-pass/\">Adventure Pass</a> ($5/day or $30/year) or an America the Beautiful interagency pass. Whichever you use, put the receipt or pass <strong>face-up on the dashboard</strong> — the QR code or confirmation number needs to be visible. The lot has a flush toilet and picnic tables, which is a nicer setup than most trailheads in the range."
+          },
+          {
+            "heading": "The hike itself",
+            "body": "Grays Peak is a <strong>~7-mile round-trip, moderate</strong> climb that starts on a forest road (merging onto 2N04X), switches to singletrack, and finishes with a short boulder scramble to a summit with panoramic <strong>Big Bear Lake views</strong>. It's known for being <strong>less crowded</strong> than nearby Castle Rock or Cougar Crest, and it's dog-friendly on leash. Bring plenty of water — it's dry and exposed in spots, and dehydration at elevation is the usual complaint."
+          }
+        ],
+        "faq": [
+          { "q": "Is the Grays Peak trail open right now?", "a": "It depends on the season. Grays Peak closes every winter and spring — roughly November 1 through April 1 — to protect nesting bald eagles, and in 2026 the closure ran March 12 to July 1. Always check the current San Bernardino National Forest alert before you go; the trailhead is gated shut during the closure." },
+          { "q": "Do you need an Adventure Pass at Grays Peak?", "a": "You need to pay to park: either a $5 day-use pass (paid via the Recreation.gov app or a self-pay envelope) or a valid Adventure Pass ($5/day, $30/year) or America the Beautiful pass. Display the receipt or pass face-up on your dashboard." },
+          { "q": "Why does Grays Peak close for part of the year?", "a": "The lower trail runs through bald eagle nesting and wintering habitat, so the Forest Service closes the trail and trailhead during nesting season — typically November 1 to April 1, and into summer in some years like 2026 — to keep hikers from disturbing the eagles." },
+          { "q": "How long is the Grays Peak hike?", "a": "About 7 to 7.2 miles round trip with roughly 1,000–1,300 feet of gain — a moderate half-day hike on forest road and singletrack, ending with a short boulder scramble to Big Bear Lake views." }
+        ],
+        "related": [
+          { "label": "Cougar Crest — the other north-shore Big Bear trailhead", "href": "/trailheads/cougar-crest/" },
+          { "label": "Big Bear Discovery Center — free parking nearby", "href": "/trailheads/big-bear-discovery-center/" },
+          { "label": "San Bernardino Peak — the big San Gorgonio-side summit", "href": "/trailheads/san-bernardino-peak/" },
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9840, 34.1450] },
+      "properties": {
+        "name": "San Bernardino Peak Trailhead (Angelus Oaks)",
+        "slug": "san-bernardino-peak",
+        "region": "San Bernardino Mountains",
+        "meta_title": "San Bernardino Peak Trailhead Parking (Angelus Oaks): Adventure Pass + Reserved Permit (2026)",
+        "meta_description": "The San Bernardino Peak Trail (1W07) from Angelus Oaks needs an Adventure Pass to park and a free San Gorgonio Wilderness permit — reserved online in advance, with a quota — to hike. The rough dirt road in, the ~20-car lot, and how the permit works.",
+        "card_summary": "The long climb to San Bernardino Peak from Angelus Oaks. Adventure Pass to park, plus a free but quota-limited San Gorgonio Wilderness permit you must reserve online ahead of time. ~20-car dirt lot at the end of a rough road.",
+        "quick_answer": "<strong>Two things, and one of them you book in advance.</strong> Parking at the San Bernardino Peak Trailhead (Trail 1W07) off Highway 38 in Angelus Oaks needs an <a href=\"/adventure-pass/\">Adventure Pass</a> or America the Beautiful pass on the dash. To hike, you also need a <strong>free San Gorgonio Wilderness permit</strong> — but unlike the self-issue San Jacinto permits, this one is <strong>reserved online in advance through the San Gorgonio Wilderness Association, and a quota applies</strong>, so popular dates fill up. The final stretch is a rough dirt road (1W07) best suited to higher-clearance vehicles, ending at a small ~20-car lot.",
+        "badges": [
+          { "label": "Adventure Pass to park", "tone": "warn" },
+          { "label": "Free permit — reserve online, quota applies", "tone": "warn" },
+          { "label": "Rough dirt road · ~20 spaces", "tone": "info" }
+        ],
+        "trail_served": "San Bernardino Peak Trail 1W07 — ~15 mi round trip, ~4,700 ft gain to a 10,649 ft summit; a very long day hike or a weekend backpack, group size limited to 12",
+        "fee": "Adventure Pass or America the Beautiful pass required to park ($5/day or $30/year); free San Gorgonio Wilderness permit required to hike, reserved in advance online (quota in effect)",
+        "lot_size": "Small dirt lot at the trailhead — about 20 vehicles — at the end of Forest Road 1W07",
+        "fill_time": "The permit quota caps use more than the lot does, but on a released-permit weekend the small lot can still fill early",
+        "overflow": "Limited roadside space along the frontage road/1W07; don't block the narrow dirt road or turnaround",
+        "tow_risk": "Low out here; the real risk is hiking without the reserved permit, which is checked in the wilderness",
+        "restrooms": "None at the trailhead; use facilities in Angelus Oaks before you drive up",
+        "road_access": "From Angelus Oaks turn east off Hwy 38 onto Manzanita, then the frontage road, then Forest Road 1W07 — a dirt road where higher clearance is recommended for the final stretch",
+        "best_season": "Late spring through fall; snow lingers up high into early summer, and the exposed upper trail bakes midsummer — carry plenty of water, there is none reliable en route",
+        "address": "San Bernardino Peak Trailhead, Forest Rd 1W07 off Hwy 38, Angelus Oaks, CA 92305",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The permit is the part people miss — reserve it in advance",
+            "body": "San Bernardino Peak sits inside the <strong>San Gorgonio Wilderness</strong>, and a <strong>free wilderness permit is required for day hikes and overnight trips</strong>. The important difference from the Idyllwild-area trailheads: this permit isn't a self-issue form at the trailhead. You <strong>reserve it online in advance through the San Gorgonio Wilderness Association (sgwa.org)</strong>, and a <strong>quota is in effect</strong>, so popular weekends can sell out of free permits well ahead of time. Group size is capped at 12. Book early, print or save your permit, and carry it — rangers check in the wilderness."
+          },
+          {
+            "heading": "Parking: Adventure Pass, and a rough road in",
+            "body": "The parking itself needs an <a href=\"/adventure-pass/\">Adventure Pass</a> ($5/day or $30/year) or an America the Beautiful pass on the dash — buy it ahead of time, since local vendors near Angelus Oaks can run out. Getting to the lot means turning off Highway 38 onto Manzanita, then the frontage road, then <strong>Forest Road 1W07</strong>, a dirt road where a <strong>higher-clearance vehicle helps</strong> on the final stretch. The lot is small — around <strong>20 vehicles</strong> — with no restroom, so plan accordingly."
+          },
+          {
+            "heading": "A serious hike — plan the day",
+            "body": "This is one of the range's big-effort summits: roughly <strong>15 miles round trip with about 4,700 feet of gain</strong> to the 10,649 ft peak. Most people either commit to a very long day or split it into an overnight backpack (the permit covers both). It compares to the <a href=\"/trailheads/vivian-creek/\">Vivian Creek</a> route up San Gorgonio in commitment level — long, exposed, and water-scarce up high. Start early, carry more water than you think, and check conditions for lingering snow into early summer."
+          }
+        ],
+        "faq": [
+          { "q": "Do you need a permit to hike San Bernardino Peak?", "a": "Yes — a free San Gorgonio Wilderness permit is required for both day hikes and overnight trips. Unlike the self-issue San Jacinto permits, you must reserve it online in advance through the San Gorgonio Wilderness Association, and a quota applies, so popular dates can fill up." },
+          { "q": "Do you need an Adventure Pass at the San Bernardino Peak trailhead?", "a": "Yes. An Adventure Pass ($5/day or $30/year) or an America the Beautiful interagency pass is required to park at the trailhead, in addition to the free reserved wilderness permit needed to hike." },
+          { "q": "Can any car reach the San Bernardino Peak trailhead?", "a": "The final approach is Forest Road 1W07, a dirt road where a higher-clearance vehicle is recommended for the last stretch. Many cars make it in dry conditions, but low-clearance vehicles should go slowly or park lower and walk." },
+          { "q": "How hard is the San Bernardino Peak hike?", "a": "It's strenuous — about 15 miles round trip with roughly 4,700 feet of gain to a 10,649 ft summit. It makes a very long day hike or a weekend backpacking trip, with group size limited to 12." }
+        ],
+        "related": [
+          { "label": "Vivian Creek — the other big San Gorgonio Wilderness start", "href": "/trailheads/vivian-creek/" },
+          { "label": "Grays Peak — a shorter Big Bear-area summit", "href": "/trailheads/grays-peak/" },
+          { "label": "SGWA permit portal (permits.sgwa.org)", "href": "https://permits.sgwa.org/" },
+          { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.8636, 34.4147] },
+      "properties": {
+        "name": "Devil's Punchbowl Natural Area (Pearblossom)",
+        "slug": "devils-punchbowl",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Devil's Punchbowl Parking (Pearblossom): Free Lot, No Pass, Closed Mondays (2026)",
+        "meta_description": "The Devil's Punchbowl Natural Area near Pearblossom has a free county lot with a nature center and restrooms — no Adventure Pass needed. But it's closed Mondays, the ~30–40 space lot fills on busy days, and the longer Devil's Chair route crosses into the forest. Hours, parking, and the one pass nuance.",
+        "card_summary": "Dramatic tilted-rock canyon on the desert side of the San Gabriels. Free LA County lot with a nature center and restrooms — no Adventure Pass. Closed Mondays, ~30–40 spaces that fill on busy days.",
+        "quick_answer": "<strong>Free, but closed Mondays and small.</strong> The Devil's Punchbowl Natural Area (28000 Devil's Punchbowl Rd, Valyermo, near Pearblossom) is run by <strong>Los Angeles County</strong>, so parking is <strong>free and no <a href=\"/adventure-pass/\">Adventure Pass</a> is required</strong> for the lot or nature center. The catches: it's <strong>closed Mondays</strong>, the lot holds only about <strong>30–40 cars</strong> and fills on busy days, and hours are seasonal (8am–7:30pm in summer, 8am–5pm in winter). The short loop into the punchbowl needs no pass; only the longer backcountry route toward the Devil's Chair edges into Angeles National Forest.",
+        "badges": [
+          { "label": "Free lot — no Adventure Pass", "tone": "good" },
+          { "label": "Closed Mondays · seasonal hours", "tone": "warn" },
+          { "label": "~30–40 spaces · fills on busy days", "tone": "info" }
+        ],
+        "trail_served": "Devil's Punchbowl Loop (~1–1.5 mi, moderate with a steep return) into the tilted sandstone formation; longer Burkhart / Devil's Chair Trail (~7–8 mi RT) continues into the Angeles National Forest backcountry",
+        "fee": "Free — no Adventure Pass and no entry fee for the county lot and nature center; the Devil's Chair extension enters the national forest but the Punchbowl lot itself is county-run and free",
+        "lot_size": "Small county lot, roughly 30–40 cars, at the nature center",
+        "fill_time": "Weekend and holiday midday it can fill completely — arrive in the morning; cars overflow onto the access road on the busiest days",
+        "overflow": "Limited roadside space along Devil's Punchbowl Rd on crowded days; don't block the gate, and note the lot is locked at closing",
+        "tow_risk": "Cars left after closing time can be locked in behind the gate — finish and exit before the posted closing hour",
+        "restrooms": "Restrooms and a nature center at the trailhead (nature center staffed Tue–Sun 9am–5pm)",
+        "road_access": "Paved access via Devil's Punchbowl Rd off Hwy 138 near Pearblossom; easy for any vehicle year-round",
+        "best_season": "October through May — summer heat on the desert side can be extreme; the park closes Mondays year-round",
+        "address": "28000 Devil's Punchbowl Rd, Valyermo, CA 93563",
+        "official_url": "https://parks.lacounty.gov",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Free to park — no Adventure Pass here",
+            "body": "Unlike the national-forest trailheads elsewhere on the desert side of the San Gabriels, the <strong>Devil's Punchbowl Natural Area is a Los Angeles County park</strong>, so the lot and nature center are <strong>free and require no <a href=\"/adventure-pass/\">Adventure Pass</a></strong> or entry fee. The one nuance worth knowing: the short loop trail down into the punchbowl stays entirely on county land, but the <strong>longer route toward the Devil's Chair follows the Burkhart Trail into Angeles National Forest</strong>. You still park for free at the county lot either way — the distinction only matters if you're reading conflicting notes online about a pass."
+          },
+          {
+            "heading": "Closed Mondays, small lot, and a gate that locks",
+            "body": "Three practical things trip people up. First, the park is <strong>closed every Monday</strong> year-round. Second, hours are <strong>seasonal</strong> — roughly <strong>8am–7:30pm March–October</strong> and <strong>8am–5pm November–February</strong> (nature center Tue–Sun 9am–5pm). Third, the lot only holds about <strong>30–40 cars</strong> and fills on busy weekends, with overflow spilling onto the access road. The gate is <strong>locked at closing</strong>, so time your hike to be back at the car before the posted hour — a car left inside can be shut in overnight."
+          },
+          {
+            "heading": "What you're seeing: the tilted-rock canyon",
+            "body": "The draw is the geology: dramatically <strong>tilted sandstone slabs</strong> pushed up along the San Andreas Fault, forming the natural amphitheater the place is named for. The main <strong>Punchbowl Loop is a short (~1–1.5 mile) but steep-on-the-way-back</strong> hike into the formation. For a full day, the <strong>Devil's Chair</strong> route (~7–8 miles round trip via the Burkhart Trail) traverses to a railed overlook above the punchbowl. It's dog-friendly on leash, but bring water and go October–May — the desert side gets brutally hot in summer."
+          }
+        ],
+        "faq": [
+          { "q": "Is parking free at Devil's Punchbowl?", "a": "Yes. Devil's Punchbowl Natural Area is a Los Angeles County park, so parking and entry are free and no Adventure Pass is required for the lot or nature center. The lot holds only about 30–40 cars, though, and fills on busy days." },
+          { "q": "Do you need an Adventure Pass for Devil's Punchbowl?", "a": "No — not for the county-run lot and the loop into the punchbowl. Only the longer Devil's Chair route follows the Burkhart Trail into Angeles National Forest, but you still park for free at the county lot." },
+          { "q": "What days is Devil's Punchbowl open?", "a": "It's open Tuesday through Sunday and closed Mondays year-round. Hours are seasonal: about 8am–7:30pm March–October and 8am–5pm November–February. The gate locks at closing, so be back at your car in time." },
+          { "q": "How long is the Devil's Punchbowl hike?", "a": "The main loop into the punchbowl is short — roughly 1 to 1.5 miles — but steep on the climb back out. The longer Devil's Chair route is about 7–8 miles round trip via the Burkhart Trail into the national forest." }
+        ],
+        "related": [
+          { "label": "Vincent Gap / Mt. Baden-Powell — the other Angeles Crest desert-side stop", "href": "/trailheads/vincent-gap/" },
+          { "label": "Switzer Falls — a San Gabriel front-range alternative", "href": "/trailheads/switzer-falls/" },
           { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
         ]
       }
