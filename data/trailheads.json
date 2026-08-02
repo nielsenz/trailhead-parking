@@ -610,6 +610,7 @@
         "related": [
           { "label": "Adventure Pass: the two-minute explainer", "href": "/adventure-pass/" },
           { "label": "Deer Springs — Suicide Rock & San Jacinto Peak, nearby", "href": "/trailheads/deer-springs/" },
+          { "label": "South Ridge — the quieter route to Tahquitz Peak", "href": "/trailheads/south-ridge-tahquitz/" },
           { "label": "Official Humber Park page (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/sanbernardino/recreation/humber-park-trailhead-parking" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
         ]
@@ -1077,6 +1078,10 @@
             "href": "/trailheads/east-fork/"
           },
           {
+            "label": "Vincent Gap / Mt. Baden-Powell — nearby Angeles Crest peak start",
+            "href": "/trailheads/vincent-gap/"
+          },
+          {
             "label": "Official Icehouse Canyon page (fs.usda.gov)",
             "href": "https://www.fs.usda.gov/r05/angeles/recreation/icehouse-canyon-saddle-icehouse-canyon"
           },
@@ -1376,6 +1381,10 @@
           {
             "label": "Mt. Woodson via Hwy 67 — the new $5 east-side lot",
             "href": "/trailheads/mount-woodson-highway-67/"
+          },
+          {
+            "label": "Iron Mountain (Poway) — free lot, San Diego's most popular hike",
+            "href": "/trailheads/iron-mountain-poway/"
           },
           {
             "label": "Adventure Pass: why it doesn't apply here",
@@ -3051,6 +3060,7 @@
         ],
         "related": [
           { "label": "Icehouse Canyon — the other Mt. Baldy trailhead", "href": "/trailheads/icehouse-canyon/" },
+          { "label": "Vincent Gap / Mt. Baden-Powell — Big Pines pass, not Adventure Pass", "href": "/trailheads/vincent-gap/" },
           { "label": "Adventure Pass: cost, where to buy & where you need it", "href": "/adventure-pass/" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
         ]
@@ -3232,6 +3242,7 @@
         ],
         "related": [
           { "label": "Marion Mountain — the free-lot route up San Jacinto Peak", "href": "/trailheads/marion-mountain/" },
+          { "label": "South Ridge — the quieter route to Tahquitz Peak", "href": "/trailheads/south-ridge-tahquitz/" },
           { "label": "Humber Park / Devil's Slide — the other Idyllwild trailhead", "href": "/trailheads/humber-park/" },
           { "label": "Adventure Pass: where to buy one in Idyllwild", "href": "/adventure-pass/" },
           { "label": "All trailhead parking guides", "href": "/trailheads/" }
@@ -3359,6 +3370,7 @@
         ],
         "related": [
           { "label": "Potato Chip Rock via Lake Poway — the other side", "href": "/trailheads/potato-chip-rock/" },
+          { "label": "Iron Mountain (Poway) — free lot, San Diego's most popular hike", "href": "/trailheads/iron-mountain-poway/" },
           { "label": "Cowles Mountain — another San Diego peak", "href": "/trailheads/cowles-mountain/" },
           { "label": "Adventure Pass: why it doesn't apply here", "href": "/adventure-pass/" }
         ]
@@ -3601,6 +3613,171 @@
           { "label": "Chantry Flat — the open summit-area alternative", "href": "/trailheads/chantry-flats/" },
           { "label": "Eaton Canyon — still fully closed", "href": "/trailheads/eaton-canyon/" },
           { "label": "Echo Mountain — still closed in the Eaton Fire area", "href": "/trailheads/echo-mountain/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-117.7519, 34.3726] },
+      "properties": {
+        "name": "Vincent Gap Trailhead (Mt. Baden-Powell)",
+        "slug": "vincent-gap",
+        "region": "San Gabriel Mountains",
+        "meta_title": "Vincent Gap Trailhead Parking (Mt. Baden-Powell): Big Pines Pass, Not Adventure Pass (2026)",
+        "meta_description": "The Vincent Gap lot on Angeles Crest Highway — the start of the Mt. Baden-Powell hike — is now run by a concessionaire and needs a $5/day Big Pines Parking Pass. Your Adventure Pass and America the Beautiful pass are no longer honored here. Where to pay, and the free roadside alternative.",
+        "card_summary": "Start of the Mt. Baden-Powell PCT climb. The paved lot is now concession-run and needs a $5/day Big Pines Parking Pass — Adventure Pass no longer accepted — but roadside parking on ACH is free.",
+        "quick_answer": "<strong>Your Adventure Pass no longer works here.</strong> The paved Vincent Gap lot on Angeles Crest Highway (CA-2) is now run by a concessionaire (Mountain High), so it requires a <strong>Big Pines Parking Pass — $5 per day or $30 per year</strong> — and the <a href=\"/adventure-pass/\">National Forest Adventure Pass</a> and America the Beautiful pass are <strong>not honored in the lot</strong>. You can pay at the self-serve station or buy the pass from Wrightwood vendors. If you'd rather not pay, roadside parking along CA-2 is free — just cross the highway carefully. It's the trailhead for Mt. Baden-Powell (9,406 ft) via the Pacific Crest Trail.",
+        "badges": [
+          { "label": "Big Pines Pass $5/day — not Adventure Pass", "tone": "warn" },
+          { "label": "Free roadside parking on CA-2", "tone": "good" },
+          { "label": "Vault toilets · strenuous PCT climb", "tone": "info" }
+        ],
+        "trail_served": "Mt. Baden-Powell via the Pacific Crest Trail — ~8–8.4 mi round trip, ~2,750–2,900 ft gain, ~40 switchbacks to a 9,406 ft summit; strenuous",
+        "fee": "$5/vehicle/day or $30/vehicle/year Big Pines Parking Pass (concession-run lot); Adventure Pass and America the Beautiful pass NOT accepted in the lot; free roadside parking on CA-2",
+        "lot_size": "Large paved lot at the gap, plus roadside pullouts along Angeles Crest Highway",
+        "fill_time": "Weekend mornings in season fill early — arrive before 8am for a peak attempt",
+        "overflow": "Free roadside parking along CA-2 near the gap; farther pullouts add a short highway-shoulder walk",
+        "tow_risk": "Moderate in the lot without a valid Big Pines pass; don't block the plowed shoulder or gates",
+        "restrooms": "Vault toilets and trash cans at the trailhead; no drinking water",
+        "road_access": "Paved Angeles Crest Highway (CA-2), about 5.5 miles west of Wrightwood; the highway is gated and snow-closed in winter — check the CA-2 status before you drive",
+        "best_season": "Late spring through fall for a dry summit; winter demands traction gear and an open highway",
+        "address": "Vincent Gap, Angeles Crest Highway (CA-2), Wrightwood, CA 92563",
+        "official_url": "https://www.fs.usda.gov/r05/angeles",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The pass rule changed here — bring a Big Pines pass, not an Adventure Pass",
+            "body": "For years hikers displayed a <a href=\"/adventure-pass/\">National Forest Adventure Pass</a> at Vincent Gap and drove off. That no longer works in the lot. The paved Vincent Gap parking area is now operated by a <strong>concessionaire (Mountain High)</strong>, which charges a separate <strong>Big Pines Parking Pass — $5 per vehicle per day or $30 per year</strong>. The Forest Service confirms the fee site on its Mt. Baden-Powell trail page, and the concession does <strong>not honor the Adventure Pass or the America the Beautiful interagency pass</strong> for the lot. Buy the Big Pines pass at the self-serve station on-site or from vendors in Wrightwood before you head up the highway. If you already own an annual America the Beautiful pass, it still gets you into the national parks — but it won't cover this specific lot."
+          },
+          {
+            "heading": "The free workaround: roadside parking on Angeles Crest Highway",
+            "body": "If you don't want to pay the concession fee, roadside parking along <strong>Angeles Crest Highway (CA-2)</strong> near the gap is free and legal where signs allow — this is the standard local move. The catch is a short walk along a mountain-highway shoulder and, often, <strong>crossing CA-2 on foot</strong> to reach the trailhead, so use daylight, watch for fast traffic on the curves, and don't leave valuables visible. Get there early either way: the free pullouts fill on busy weekends just like the lot does."
+          },
+          {
+            "heading": "What you're parking for: Mt. Baden-Powell",
+            "body": "Vincent Gap is the classic north-side start for <strong>Mt. Baden-Powell (9,406 ft)</strong>, one of the San Gabriels' signature summits. The route climbs the <strong>Pacific Crest Trail</strong> through roughly 40 well-graded switchbacks — about <strong>8 miles round trip with ~2,800 ft of gain</strong>. It's strenuous but non-technical in summer; up high near the ancient limber pines it holds snow and ice well into spring, so check conditions and carry traction gear off-season. The highway itself (CA-2) is gated and closed by snow in winter, which decides your season more than the trail does."
+          }
+        ],
+        "faq": [
+          { "q": "Does an Adventure Pass work at the Vincent Gap trailhead?", "a": "Not in the lot. The paved Vincent Gap parking area is now concession-run (Mountain High) and requires a Big Pines Parking Pass — $5/day or $30/year. The National Forest Adventure Pass and America the Beautiful pass are no longer honored in the lot. Free roadside parking along CA-2 is the alternative." },
+          { "q": "How much does it cost to park at Vincent Gap?", "a": "$5 per vehicle per day or $30 per vehicle per year for the Big Pines Parking Pass, paid at the self-serve station or bought from Wrightwood vendors. Roadside parking along Angeles Crest Highway is free where signs allow." },
+          { "q": "Can you park for free to hike Mt. Baden-Powell?", "a": "Yes — you can park for free along Angeles Crest Highway (CA-2) near the gap where parking is allowed, then walk in (often crossing the highway on foot). Only the paved concession lot charges the $5/day Big Pines fee." },
+          { "q": "Is the road to Vincent Gap open in winter?", "a": "Not reliably. Angeles Crest Highway (CA-2) is gated and closed by snow in winter near the gap. Check the CA-2 status before driving; the highway closure, not the trail, usually decides whether you can get there." }
+        ],
+        "related": [
+          { "label": "Manker Flats / Mt. Baldy — the other big San Gabriel peak start", "href": "/trailheads/manker-flats/" },
+          { "label": "Icehouse Canyon — nearby Mt. Baldy-area trailhead", "href": "/trailheads/icehouse-canyon/" },
+          { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.9744, 32.9736] },
+      "properties": {
+        "name": "Iron Mountain Trailhead (Poway)",
+        "slug": "iron-mountain-poway",
+        "region": "San Diego County",
+        "meta_title": "Iron Mountain Trailhead Parking (Poway): Free Lot, Fills by 8am (2026)",
+        "meta_description": "The Iron Mountain trailhead at CA-67 and Poway Road has a free gravel lot with restrooms, open 24 hours — no pass, no fee. But it hits 75–85% capacity by 8am on weekends. Where to park, the signed overflow lot, and the free CA-67 street option.",
+        "card_summary": "San Diego's most popular hike. Free gravel lot with restrooms at CA-67 & Poway Rd — no pass — but it's 75–85% full by 8am weekends. Signed overflow 0.2 mi east, plus free CA-67 street parking.",
+        "quick_answer": "<strong>It's free — the challenge is arriving early enough.</strong> The Iron Mountain trailhead at <strong>14847 CA-67, Poway</strong> (CA-67 and Poway Road) has a <strong>free gravel/dirt lot with restrooms, open 24 hours, no pass or fee</strong> — no <a href=\"/adventure-pass/\">Adventure Pass</a> applies here. The catch is popularity: this is one of San Diego County's most-hiked trails, and the lot runs <strong>75–85% full by around 8am on weekends</strong>. There's a <strong>signed overflow lot about 0.2 mile east</strong> and free street parking along CA-67 when the main lot fills.",
+        "badges": [
+          { "label": "Free lot — no pass, open 24h", "tone": "good" },
+          { "label": "75–85% full by 8am weekends", "tone": "warn" },
+          { "label": "Restrooms · signed overflow lot", "tone": "info" }
+        ],
+        "trail_served": "Iron Mountain Trail to the summit — ~5.8–6 mi round trip, moderate, mostly shadeless; dogs on leash and mountain bikes allowed (10 mph)",
+        "fee": "Free — no Adventure Pass, no parking fee; free main lot, free signed overflow, and free CA-67 street parking",
+        "lot_size": "Decent-sized gravel/dirt lot at the trailhead, plus a signed overflow lot ~0.2 mi east and roadside space on CA-67",
+        "fill_time": "Weekends reach 75–85% capacity by about 8am; arrive by 7–7:30am or hike a weekday to be safe",
+        "overflow": "Signed overflow lot about 0.2 mile east of the main trailhead; hikers are asked to use it when the main lot is full, plus free CA-67 street parking",
+        "tow_risk": "Low in the lots; along CA-67 park fully off the travel lane and heed any posted no-parking signs",
+        "restrooms": "Restrooms (pit toilets) at the main trailhead; no reliable drinking water — bring plenty, the trail is almost entirely shadeless",
+        "road_access": "Paved access right off CA-67 near Poway Road; the lot is signed and easy to reach year-round",
+        "best_season": "Fall through spring, and early mornings in summer — there's almost no shade and it gets very hot midday",
+        "address": "14847 CA-67, Poway, CA 92064",
+        "official_url": "https://poway.org",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "No pass, no fee — but plan around the crowd",
+            "body": "Iron Mountain is regularly called San Diego's most popular hike, and the parking is refreshingly simple: the main <strong>gravel/dirt lot at 14847 CA-67 is free, open 24 hours, and needs no pass</strong>. No <a href=\"/adventure-pass/\">Adventure Pass</a> applies — this is a City of Poway trailhead, not a national forest fee site. The real constraint is timing. On weekends the lot hits <strong>roughly 75–85% capacity by 8am</strong>, so the difference between a five-second park and circling for a spot is showing up before 7:30. Weekday mornings are wide open by comparison."
+          },
+          {
+            "heading": "When the main lot fills: overflow and CA-67 street parking",
+            "body": "The trailhead has a <strong>signed overflow lot about 0.2 mile east</strong> of the main parking, and hikers are specifically asked to use it once the main lot is full rather than jam the entrance. Beyond that, <strong>free street parking along CA-67</strong> is common — pull fully off the travel lane, don't block driveways or gates, and honor any posted no-parking stretches. It adds a short walk but keeps the trailhead approach clear."
+          },
+          {
+            "heading": "What to expect on the trail",
+            "body": "The Iron Mountain Trail is a <strong>~6-mile round-trip, moderate</strong> climb to a summit with picnic tables and big views. It's <strong>dog-friendly (leashed)</strong> and open to mountain bikes (10 mph limit), so mornings mix hikers, runners, and riders. The single most important prep note is water and sun: the route is <strong>almost entirely shadeless</strong>, so carry more water than you think you need and start early in summer. Restrooms are at the trailhead, not on the trail."
+          }
+        ],
+        "faq": [
+          { "q": "Is parking free at the Iron Mountain trailhead in Poway?", "a": "Yes. The main gravel lot at 14847 CA-67 is completely free, open 24 hours, and requires no pass or fee. There's also a free signed overflow lot about 0.2 mile east and free street parking along CA-67." },
+          { "q": "Do you need an Adventure Pass for Iron Mountain in Poway?", "a": "No. This is a City of Poway trailhead, not a national forest fee site, so no Adventure Pass is required. Parking is free." },
+          { "q": "What time does the Iron Mountain parking lot fill up?", "a": "On weekends the main lot reaches about 75–85% capacity by 8am. Arrive by 7–7:30am for an easy spot, or hike on a weekday when the lot stays open." },
+          { "q": "Is there overflow parking at Iron Mountain?", "a": "Yes — a signed overflow lot sits about 0.2 mile east of the main trailhead, and hikers are asked to use it when the main lot is full. Free street parking along CA-67 is also available." }
+        ],
+        "related": [
+          { "label": "Mt. Woodson via Highway 67 — the paid lot just up the road", "href": "/trailheads/mount-woodson-highway-67/" },
+          { "label": "Potato Chip Rock / Lake Poway — the other side of Mt. Woodson", "href": "/trailheads/potato-chip-rock/" },
+          { "label": "Cowles Mountain — San Diego's other must-do peak", "href": "/trailheads/cowles-mountain/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-116.6906, 33.7375] },
+      "properties": {
+        "name": "South Ridge Trailhead (Tahquitz Peak, Idyllwild)",
+        "slug": "south-ridge-tahquitz",
+        "region": "San Jacinto Mountains",
+        "meta_title": "South Ridge Trailhead Parking (Tahquitz Peak, Idyllwild): Adventure Pass + Free Permit, Rough Road (2026)",
+        "meta_description": "The South Ridge Trailhead to Tahquitz Peak sits at the end of rough dirt Forest Road 5S11 off Tahquitz View Drive in Idyllwild. You need an Adventure Pass to park and a free wilderness permit to hike — and most cars park low and walk the last stretch. The road, the permit, and how it compares to Humber Park.",
+        "card_summary": "The quieter route to Tahquitz Peak's fire lookout. Adventure Pass to park, free wilderness permit to hike — but rough dirt Road 5S11 means most cars park low and walk up. Compares to Humber Park.",
+        "quick_answer": "<strong>Two documents and a rough road.</strong> The South Ridge Trailhead to <strong>Tahquitz Peak</strong> needs a <a href=\"/adventure-pass/\">National Forest Adventure Pass</a> (or America the Beautiful pass) to <strong>park</strong>, plus a <strong>free self-issue wilderness permit</strong> to <strong>hike</strong> into the San Jacinto Wilderness. The trailhead is at the end of <strong>Forest Road 5S11</strong>, a steep unpaved road off Tahquitz View Drive that washes out — many cars park lower near Tahquitz View Drive and walk the last 1–2 miles round trip. It's the quieter, drier alternative to the Devil's Slide route from Humber Park.",
+        "badges": [
+          { "label": "Adventure Pass to park", "tone": "warn" },
+          { "label": "Free wilderness permit to hike", "tone": "warn" },
+          { "label": "Rough dirt road 5S11 · park low & walk", "tone": "info" }
+        ],
+        "trail_served": "South Ridge Trail to Tahquitz Peak and its fire lookout — roughly 6.5–7 mi round trip from the upper trailhead (more if you park low), strenuous; a quieter alternative to Devil's Slide",
+        "fee": "Adventure Pass required to park ($5/day or $30/year, or an America the Beautiful pass); free self-issue day-use wilderness permit required to hike ($5/person only for overnight)",
+        "lot_size": "Small dirt clearing at the upper trailhead; limited roadside space lower down near Tahquitz View Drive when the road is too rough",
+        "fill_time": "Small and remote — the bigger limiter is road condition and the summer weekend permit quota, not a full lot",
+        "overflow": "Park lower along Tahquitz View Drive / Forest Road 5S11 and walk up; Humber Park (Devil's Slide) is the busier alternate start",
+        "tow_risk": "Low out here; don't block the narrow forest road, turnarounds, or private driveways near Tahquitz View Drive",
+        "restrooms": "None at the trailhead; use facilities in Idyllwild before you drive up",
+        "road_access": "Forest Road 5S11 off Tahquitz View Drive is a steep, unpaved dirt road that can wash out — high-clearance or 4WD is recommended for the final stretch; if it's too rough or gated, park lower and add ~1–2 mi round trip on foot",
+        "best_season": "Late spring through fall; the south-facing ridge dries out earlier than Devil's Slide but bakes in midsummer — carry water, there's none up top",
+        "address": "South Ridge Trailhead, Forest Road 5S11 off Tahquitz View Dr, Idyllwild-Pine Cove, CA 92549",
+        "official_url": "https://www.fs.usda.gov/r05/sanbernardino",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The paperwork: Adventure Pass to park, free permit to hike",
+            "body": "Like most Idyllwild-area forest trailheads, South Ridge needs <strong>two separate things</strong>. To <strong>park</strong>, display a <a href=\"/adventure-pass/\">National Forest Adventure Pass</a> — $5/day or $30/year — or an America the Beautiful interagency pass. To <strong>hike</strong> into the San Jacinto Wilderness, you also need a <strong>free self-issue day-use wilderness permit</strong>. Get the permit 24/7 from the rack outside the <strong>San Jacinto Ranger Station, 54270 Pine Crest Ave, Idyllwild, (909) 382-2921</strong>; fill out the carbon-copy form and carry your copy on the trail. Overnight trips cost $5 per person and are more limited. Note the pass is a parking pass and the permit is a hiking permit — you need both."
+          },
+          {
+            "heading": "The real gatekeeper: Forest Road 5S11",
+            "body": "The thing that actually decides your day here is the road. <strong>Forest Road 5S11</strong>, off Tahquitz View Drive, is a <strong>steep, unpaved dirt road that washes out</strong>; high-clearance or 4WD is recommended for the final rough stretch to the upper trailhead. If your car isn't up to it — or the road is gated or storm-damaged — <strong>park lower near Tahquitz View Drive and walk the remaining 1–2 miles round trip</strong> to the trailhead. Plenty of hikers do exactly this. Don't block the narrow road, turnarounds, or private driveways when you park low."
+          },
+          {
+            "heading": "South Ridge vs. Devil's Slide (Humber Park)",
+            "body": "Tahquitz Peak has two classic approaches. <strong>South Ridge</strong> is the quieter, drier, south-facing route that starts higher — but its payoff comes with that rough access road. The <strong>Devil's Slide Trail from Humber Park</strong> is the busier, better-maintained start with easier (paved) parking, though it's subject to a <strong>summer weekend permit quota</strong> that South Ridge largely avoids. If the 5S11 road is in bad shape, or you want a maintained trail, use Humber Park; if you want solitude and the road is dry, South Ridge is the pick. Both need the same Adventure Pass and free wilderness permit."
+          }
+        ],
+        "faq": [
+          { "q": "Do you need an Adventure Pass at the South Ridge Trailhead?", "a": "Yes — an Adventure Pass ($5/day or $30/year) or an America the Beautiful pass is required to park at the South Ridge Trailhead. You also need a separate free wilderness permit to hike into the San Jacinto Wilderness." },
+          { "q": "Where do I get the wilderness permit for Tahquitz Peak?", "a": "It's free and self-issued. Pick one up 24/7 from the rack outside the San Jacinto Ranger Station, 54270 Pine Crest Ave, Idyllwild, (909) 382-2921. Fill out the carbon-copy form and carry your copy. Overnight trips are $5 per person." },
+          { "q": "Can you drive all the way to the South Ridge Trailhead?", "a": "Sometimes. Forest Road 5S11 is a steep, unpaved road that can wash out; high-clearance or 4WD is recommended for the final stretch. If it's too rough or gated, park lower near Tahquitz View Drive and walk the last 1–2 miles round trip." },
+          { "q": "Is South Ridge or Devil's Slide better for Tahquitz Peak?", "a": "South Ridge is quieter and drier but has a rough access road and starts higher; Devil's Slide from Humber Park has easier paved parking but a summer weekend permit quota. Both require an Adventure Pass and a free wilderness permit." }
+        ],
+        "related": [
+          { "label": "Humber Park / Devil's Slide — the other Tahquitz Peak start", "href": "/trailheads/humber-park/" },
+          { "label": "Deer Springs Trailhead — nearby Idyllwild trailhead", "href": "/trailheads/deer-springs/" },
+          { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
         ]
       }
     }
