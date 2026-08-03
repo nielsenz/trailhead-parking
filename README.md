@@ -81,6 +81,10 @@ python3 -m http.server -d dist 8000            # local preview
 netlify deploy --prod --dir=dist               # ship it
 ```
 
+Disclosed Stay22 lodging links render on trailhead detail pages only. They use
+campaign `trailheadparking_stays`; Stay22 Hub provides click and booking totals
+without a custom browser event collector.
+
 ## Editorial rules
 
 - Every fact checked against an official source (USFS, county, operator) and

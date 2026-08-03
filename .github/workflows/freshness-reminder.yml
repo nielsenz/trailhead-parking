@@ -1,0 +1,26 @@
+name: Freshness reminder
+
+on:
+  schedule:
+    - cron: "0 15 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open the next freshness audit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create freshness --color 1f883d --description "Recurring content freshness audit" --force
+          open_count=$(gh issue list --label freshness --state open --json number --jq 'length')
+          if [ "$open_count" -eq 0 ]; then
+            issue_date=$(date -u +%F)
+            gh issue create --title "Freshness audit — $issue_date" --label freshness --body-file FRESHNESS.md
+          fi

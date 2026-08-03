@@ -390,3 +390,7 @@ main {
     .fact-row { flex-direction: column; gap: 0; }
     .fact-row dd { text-align: left; }
 }
+.contextual-affiliate-cta .affiliate-note {
+    color: var(--muted);
+    font-size: 0.85rem;
+}

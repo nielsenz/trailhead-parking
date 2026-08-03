@@ -7,12 +7,33 @@ defaults by filename — base.html, index.html and 404.html are site-specific,
 hub/detail/filter/_macros are inherited.
 """
 
+import os
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlencode
 
 from sitekit import Site, build
 
 CURRENT_YEAR = date.today().year
+STAY22_AID = os.environ.get("STAY22_AID", "bigbearmapcom")
+
+
+def contextual_stay22_cta(section, item):
+    """Offer nearby lodging only after the page answers the parking question."""
+    if section != "trailheads":
+        return None
+    destination = item.get("address") or f"{item['name']}, {item.get('region', '')}"
+    query = urlencode({
+        "aid": STAY22_AID,
+        "address": destination,
+        "campaign": "trailheadparking_stays",
+    })
+    return {
+        "heading": "Staying near the trailhead?",
+        "body": "Compare nearby lodging after checking the access plan; mountain and park entrances can be much farther from a room than the map first suggests.",
+        "label": "Compare nearby stays",
+        "url": f"https://www.stay22.com/allez/roam?{query}",
+    }
 
 # Hub cards and the region nav are grouped in this order; a region not listed
 # here still renders, after the known ones. Keep coarse enough that a region
@@ -112,6 +133,7 @@ SITE = Site(
     group_order=REGION_ORDER,
     group_label="region",
     default_marker_emoji="🅿️",
+    extra_globals={"contextual_affiliate_cta": contextual_stay22_cta},
 )
 
 
