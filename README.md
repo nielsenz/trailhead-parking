@@ -183,6 +183,13 @@ Check that file before trusting a page's more specific claims — especially
 
 Batch 1's carried-over item (Ernie Maxwell permit status) lives there too.
 
+### Why a batch was built
+
+`docs/todos.md` tracks facts that might be wrong. **[experiments/](experiments/)**
+tracks bets that might be misjudged — region choice, cluster shape, page mix —
+written down before the traffic data exists, with the check-back dates that
+would settle them. Starts with batch 6.
+
 ## Analytics
 
 Tinylytics (embed in `templates/base.html`). Register the domain in Google
