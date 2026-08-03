@@ -18,7 +18,7 @@ the next region choice gets better.
 |---|---|---|---|
 | 2026-07-28 | [Batch 6 — Rocky Mountain, Glacier, Yosemite](2026-07-28-batch-6-national-parks.md) | Three marquee parks at once; absence-of-reservation as the hook | ⏳ open — first read ~Aug 27 |
 | 2026-08-02 | [Batch 7 — San Bernardino + San Gabriel](2026-08-02-batch-7-san-bernardino-san-gabriel.md) | Practical constraints — closures, permits, and small lots — can carry local trailhead search demand | ⏳ open — first read ~Sep 1 |
-| 2026-08-02 (built) | [Batch 8 — Famous vs local trailheads](2026-08-02-batch-8-famous-vs-local.md) | A recognizable trail name may earn discovery; a smaller local cluster may earn more parking-specific visits | ⏳ open — deploy before measuring |
+| 2026-08-02 built / 2026-08-03 deployed | [Batch 8 — Famous vs local trailheads](2026-08-02-batch-8-famous-vs-local.md) | A recognizable trail name may earn discovery; a smaller local cluster may earn more parking-specific visits | ⏳ open — first read Sep 2 |
 
 Batches 1–5 shipped before this log existed. Their reasoning is compressed into
 the roadmap in [../README.md](../README.md); it isn't worth reconstructing them

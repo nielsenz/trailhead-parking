@@ -1,7 +1,11 @@
 # Batch 8 — Famous vs local trailheads
 
-**Built** 2026-08-02 · **15 pages** · locally built from `main` at `39bc356`;
-not deployed yet.
+**Built** 2026-08-02 (`3882458`) · **Deployed** 2026-08-03 via merge
+`7dcacd2` · **15 pages**
+
+Both cohorts were verified in production on 2026-08-03. Representative famous
+and local pages returned HTTP 200 at `/trailheads/mount-whitney-portal/` and
+`/trailheads/sandstone-peak/`.
 
 This batch creates two deliberately labeled cohorts in
 `data/trailheads.json`. The `experiment_cohort` field is metadata for analysis;
@@ -74,6 +78,7 @@ batch should follow the query evidence rather than add more nearby pages.
 
 ### Check-backs
 
-- **30 days after deployment** — indexing, impressions, and first query buckets.
-- **90 days after deployment** — clicks, CTR, page-view comparison, and cohort
-  verdict.
+- **2026-09-02 (30 days after deployment)** — indexing, impressions, and first
+  query buckets.
+- **2026-11-01 (90 days after deployment)** — clicks, CTR, page-view comparison,
+  and cohort verdict.
