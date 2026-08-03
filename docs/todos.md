@@ -351,6 +351,46 @@ says $12–$25. Page covers both with "from $12, up to $25 at peak."
 **Logged 2026-07-18, carried over.** One contradictory USFS webpage; the
 brochure says no permit required. Confirm at **(909) 382-2921** if challenged.
 
+### [x] Caltrans contradicts itself on SR-38 — use the live feed, never the project page
+**Logged 2026-08-03 (found via bigbearmap.com).** Two official Caltrans surfaces
+disagreed about whether Hwy 38 was open, and one of them is a permanent trap:
+
+- **`roads.dot.ca.gov`** (live road-conditions feed) — correct and current.
+- **`dot.ca.gov/.../sr-38-emergency-repair-project`** — titled as a current
+  District 8 project, but still serves **2023** content about an *older* repair
+  ("re-opened Friday, November 17… repair work expected to continue through
+  spring 2024"). It reads as current and is not. It is not a usable status
+  source for anything.
+
+Visit Big Bear's routes page was a third voice, still asserting "Hwy 38 from
+Redlands is closed to Big Bear" — true last winter, ~8 months stale by August.
+
+**Resolution:** Tropical Storm Mario washed out SR-38 in **Sept 2025** (closed
+3+ months) → reopened **24 Dec 2025** → weekday-only closures (Mon–Fri 7 AM–5 PM,
+Mill Creek Rd to Hills Ranch Rd) from **5 Jan 2026** during a $9.7M emergency
+repair scheduled to end **June 2026** → **3 Aug 2026: no restrictions reported.**
+Hwy 38 is open. Kept resolved per the convention above because the *source trap*
+outlives this particular closure.
+
+**Why this repo cares — and the distinction that matters.** Six trailhead pages
+mention Hwy 38, but they are on two unrelated segments:
+
+- **On the Redlands approach (affected by closures):** `vivian-creek`
+  (Forest Falls, off Valley of the Falls Dr — inside the closed Mill Creek
+  segment) and `san-bernardino-peak` (Angelus Oaks, directly on the corridor).
+- **On the North Shore Drive segment past Big Bear (unaffected):**
+  `cougar-crest`, `big-bear-discovery-center`, `woodland-trail`, `grays-peak`.
+  A Redlands-side closure does **not** cut these off. Don't blanket-edit all six
+  the next time "Hwy 38 closed" is in the news.
+
+**Open follow-up:** neither `vivian-creek` nor `san-bernardino-peak` carries any
+"check road status before you drive" line, and both were `verified` during the
+repair window (July 18 / Aug 2, 2026) without the closure ever being noted. For
+two trailheads whose only paved access is a corridor with a demonstrated history
+of multi-month washouts, that's a gap — compare the Chantry Flat page, which
+tells readers to call the morning of. Consider adding a status line and
+**roads.dot.ca.gov** to both.
+
 ---
 
 ## Numbers we could not source
