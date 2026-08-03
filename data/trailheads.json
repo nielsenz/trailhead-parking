@@ -3954,6 +3954,844 @@
           { "label": "Adventure Pass: where it does and doesn't apply", "href": "/adventure-pass/" }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2920, 36.5786] },
+      "properties": {
+        "name": "Mount Whitney Portal Trailhead Parking (Lone Pine)",
+        "slug": "mount-whitney-portal",
+        "region": "Mount Whitney",
+        "experiment_cohort": "famous",
+        "meta_title": "Mount Whitney Portal Parking: Limited Lot, Permit & Bear Boxes (2026)",
+        "meta_description": "Mount Whitney Portal parking is limited at the end of Whitney Portal Road, about 13 miles from Lone Pine. A wilderness permit is required year-round, and every car must use the bear-proof lockers for food and scented items.",
+        "card_summary": "Limited parking at the end of Whitney Portal Road. Permit required year-round; remove all food and scented items from the car before starting the hike.",
+        "quick_answer": "<strong>Get the permit and the parking plan before driving 13 miles up from Lone Pine.</strong> Mount Whitney Portal has <strong>limited trailhead parking</strong>, a wilderness permit is required year-round, and the Forest Service expects hikers to remove food, trash and scented items from vehicles and use the <strong>bear-proof lockers</strong>. The day-use and overnight permits are separate products; a reservation receipt is not the permit.",
+        "badges": [
+          { "label": "Limited parking", "tone": "warn" },
+          { "label": "Permit required year-round", "tone": "bad" },
+          { "label": "Bear lockers at the lot", "tone": "info" }
+        ],
+        "trail_served": "Mount Whitney Trail and the Whitney Zone; 22 mi round trip to the summit",
+        "fee": "Mount Whitney wilderness permit required year-round; the Recreation.gov reservation fee is $15 per person",
+        "lot_size": "Limited trailhead parking; no simple public space count",
+        "fill_time": "Permit dates and summer weekends are the pressure points; carpooling is recommended",
+        "overflow": "No official overflow plan; do not block Whitney Portal Road or park off-road",
+        "tow_risk": "Keep the road, turnarounds and signed areas clear; remove food and trash from the vehicle",
+        "restrooms": "Restrooms and a pack-out waste disposal box near the trailhead",
+        "road_access": "Whitney Portal Road from Lone Pine, about 13 miles to the end of the road",
+        "best_season": "Summer and early fall for the high route; check snow, heat and altitude conditions before the drive",
+        "address": "Whitney Portal Road, Lone Pine, CA 93545",
+        "official_url": "https://www.recreation.gov/permits/445860",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The permit is the gate",
+            "body": "A wilderness permit is required year-round to enter the Whitney Zone. Day-use permits are valid for one day, and overnight Mt. Whitney Trail permits cover a multi-day trip. The lottery releases results on March 15; unclaimed dates open after the claim deadline, and the signed permit must be printed before the no-show cutoff."
+          },
+          {
+            "heading": "Parking is limited at the end of the road",
+            "body": "Whitney Portal is about 13 miles from Lone Pine, and Recreation.gov tells visitors to <strong>carpool because parking is limited</strong>. There is no useful late-arrival strategy for a permit date: do not create a shoulder or turnaround space, and do not expect the trailhead to absorb an extra vehicle from every group."
+          },
+          {
+            "heading": "The bear-locker rule starts at the car",
+            "body": "Remove food, trash, toiletries and other scented items from the vehicle before hiking. Bear-proof lockers and trash cans are provided at the portal. Overnight hikers also need to follow the wilderness food-storage rules; a sealed backpack in the car is not a substitute for the locker."
+          }
+        ],
+        "faq": [
+          { "q": "Do I need a permit to hike Mount Whitney?", "a": "Yes. A wilderness permit is required year-round for the Whitney Zone. Day-use and overnight permits are separate, and a reservation receipt is not a valid permit." },
+          { "q": "How much parking is at Mount Whitney Portal?", "a": "The Forest Service and Recreation.gov describe parking as limited but do not publish a simple space count. Carpooling is recommended, especially for summer permit dates." },
+          { "q": "Where do I park for Mount Whitney?", "a": "Drive Whitney Portal Road from Lone Pine to the trailhead at the end of the road. Park only in designated areas and keep the road and turnarounds clear." },
+          { "q": "What do I do with food at Whitney Portal?", "a": "Remove food, trash, toiletries and other scented items from your vehicle and place them in the bear-proof lockers or trash cans at the trailhead." }
+        ],
+        "related": [
+          { "label": "Official Mount Whitney permit page", "href": "https://www.recreation.gov/permits/445860" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-119.5570, 37.7450] },
+      "properties": {
+        "name": "Yosemite Valley Parking (Happy Isles / Half Dome)",
+        "slug": "yosemite-valley",
+        "region": "Yosemite National Park",
+        "experiment_cohort": "famous",
+        "meta_title": "Yosemite Valley Parking for Half Dome & Mist Trail (2026)",
+        "meta_description": "Yosemite Valley parking for Half Dome, the Mist Trail and Happy Isles: no timed entry reservation in 2026, no parking at Happy Isles itself, and the free Valley shuttle connects the Curry Village lot to the trailheads.",
+        "card_summary": "No timed-entry reservation in 2026, but Valley parking is actively managed. Park near Curry Village or Yosemite Falls and use the free shuttle; Happy Isles itself has no public parking.",
+        "quick_answer": "<strong>Do not drive to Happy Isles expecting a trailhead space.</strong> Yosemite has no season-wide timed-entry reservation in 2026, but the Valley is still managed for congestion. For Half Dome, the Mist Trail and Little Yosemite Valley, park at the lot just beyond <strong>Curry Village</strong> and take the free Valley shuttle. <strong>Parking is not available at Happy Isles or Mirror Lake.</strong>",
+        "badges": [
+          { "label": "No 2026 entrance reservation", "tone": "good" },
+          { "label": "Happy Isles has no parking", "tone": "bad" },
+          { "label": "Free Valley shuttle", "tone": "info" }
+        ],
+        "trail_served": "Happy Isles, Mist Trail, Half Dome and Little Yosemite Valley",
+        "fee": "Yosemite National Park entrance pass required; no timed-entry reservation system in 2026",
+        "lot_size": "Several Valley lots; NPS does not publish one combined capacity",
+        "fill_time": "Summer weekends and holidays can create congestion and fill popular lots by late morning",
+        "overflow": "Use the Curry Village, Yosemite Falls or Yosemite Village lots and the free Valley shuttle; do not park on road shoulders",
+        "tow_risk": "Park only in marked lots; active traffic management and roadside restrictions apply in the Valley",
+        "restrooms": "Flush facilities at Valley hubs and trailhead areas; food lockers at designated trailhead parking",
+        "road_access": "Yosemite Valley roads; use the free East Valley shuttle for Happy Isles and eastern trailheads",
+        "best_season": "Summer is the busiest; weekdays and shoulder seasons offer a better parking margin",
+        "address": "Yosemite Valley, Yosemite National Park, CA 95389",
+        "official_url": "https://www.nps.gov/yose/planyourvisit/thparking.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The 2026 rule is no reservation, not no planning",
+            "body": "Yosemite ended its season-wide timed entrance reservation for 2026. The park still warns visitors to expect congestion and active parking management in Yosemite Valley, especially on weekends and holidays. A day with no reservation requirement can still be a bad day to arrive late."
+          },
+          {
+            "heading": "Half Dome parking is near Curry Village",
+            "body": "The Happy Isles trailheads are reached from the parking area just beyond Curry Village, roughly a half-mile from the trail loop. There is <strong>no public parking at Happy Isles or Mirror Lake</strong>. Park once, then use the free shuttle for the final connection to the Mist Trail and Happy Isles."
+          },
+          {
+            "heading": "Use a lot, not the shoulder",
+            "body": "When the Valley feels full, switch lots rather than inventing a space along the road. Yosemite lists Curry Village, Yosemite Falls and Yosemite Village parking options, and the free shuttle links the eastern Valley. Wilderness permit holders have separate overnight parking rules; check the trailhead page before leaving a car for a multi-day trip."
+          }
+        ],
+        "faq": [
+          { "q": "Do I need a Yosemite reservation in 2026?", "a": "Yosemite is not using a season-wide timed entrance reservation system in 2026. You still need a park entrance pass, and busy Valley days can have active traffic and parking management." },
+          { "q": "Can I park at Happy Isles for Half Dome?", "a": "No. Park near Curry Village or another designated Valley lot and use the free Valley shuttle. The NPS says parking is not available at Happy Isles or Mirror Lake." },
+          { "q": "Where should I park for the Mist Trail?", "a": "Use the trailhead parking just beyond Curry Village, then walk or take the free East Valley shuttle to Happy Isles." },
+          { "q": "What if Yosemite Valley parking is full?", "a": "Follow current NPS traffic direction, use another designated Valley lot such as Yosemite Falls or Yosemite Village, and connect by shuttle. Do not park on a shoulder or in an unmarked pullout." }
+        ],
+        "related": [
+          { "label": "Glacier Point parking", "href": "/trailheads/glacier-point/" },
+          { "label": "Yosemite trailhead parking rules", "href": "https://www.nps.gov/yose/planyourvisit/thparking.htm" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-119.5730, 37.7270] },
+      "properties": {
+        "name": "Glacier Point Parking (Yosemite)",
+        "slug": "glacier-point",
+        "region": "Yosemite National Park",
+        "experiment_cohort": "famous",
+        "meta_title": "Glacier Point Parking (Yosemite): Road Dates, Lot Rules & RV Limits (2026)",
+        "meta_description": "Glacier Point parking is at the end of a seasonal road in Yosemite. Glacier Point Road opened to vehicles May 9, 2026; overnight parking is prohibited after October 15 until spring reopening, and vehicles over 30 feet cannot continue past Sentinel Dome/Taft Point.",
+        "card_summary": "A seasonal drive to a famous overlook with no assigned parking reservation. Check Glacier Point Road status, vehicle length limits and the October 15 overnight-parking cutoff.",
+        "quick_answer": "<strong>Glacier Point is a road-and-season problem before it is a parking problem.</strong> Glacier Point Road opened to vehicles on <strong>May 9, 2026</strong>, but it normally closes in late fall. The viewpoint has a parking and tour unloading area; there is no assigned parking reservation. Vehicles over <strong>30 feet</strong> and trailers are restricted beyond Sentinel Dome/Taft Point, and overnight parking on the road is prohibited from October 15 until spring reopening.",
+        "badges": [
+          { "label": "Seasonal road", "tone": "warn" },
+          { "label": "No assigned parking reservation", "tone": "info" },
+          { "label": "30-ft limit beyond Sentinel Dome", "tone": "bad" }
+        ],
+        "trail_served": "Glacier Point overlook, Four Mile Trail, Panorama Trail and Glacier Point wilderness trailheads",
+        "fee": "Yosemite National Park entrance pass; no separate Glacier Point parking reservation",
+        "lot_size": "Parking and tour unloading area; no simple public capacity published",
+        "fill_time": "Summer afternoons and weekends are busiest; tour and private-car traffic share the area",
+        "overflow": "No reliable overflow beyond designated areas; arrive early or use the Glacier Point Tour when available",
+        "tow_risk": "No overnight parking after October 15 on Glacier Point Road; obey vehicle-length and no-parking signs",
+        "restrooms": "Vault toilets; drinking water is seasonal",
+        "road_access": "Wawona Road / Highway 41 to Glacier Point Road; road opening and work delays change by season",
+        "best_season": "Late May through October or November when the road is open; check current road status before departure",
+        "address": "Glacier Point Road, Yosemite National Park, CA 95389",
+        "official_url": "https://www.nps.gov/yose/planyourvisit/glacierpoint.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Check the road before the lot",
+            "body": "Glacier Point Road opened to vehicles on May 9, 2026. The road usually closes sometime in November and can have construction or storm delays even while the rest of Yosemite is open. The NPS current-conditions page is the final check before a drive built around the overlook."
+          },
+          {
+            "heading": "Parking is shared with the overlook",
+            "body": "The Glacier Point parking and tour unloading area serves the viewpoint and nearby trail access. A vehicle reservation does not assign a space. If the lot is full, there is no sensible roadside substitute on the narrow mountain road; wait for a space or use a tour when one is operating."
+          },
+          {
+            "heading": "Know the vehicle rules",
+            "body": "Beyond Sentinel Dome and the Taft Point trailhead, single vehicles are limited to 30 feet and trailers are not permitted. Overnight parking on Glacier Point Road beyond Badger Pass is prohibited beginning October 15 each year until the road reopens in spring."
+          }
+        ],
+        "faq": [
+          { "q": "Is Glacier Point Road open in 2026?", "a": "The road opened to vehicles on May 9, 2026. It is seasonal and can close for weather or work, so check Yosemite current conditions before driving." },
+          { "q": "Do I need a reservation to park at Glacier Point?", "a": "No separate parking reservation assigns a space at Glacier Point. You need the Yosemite entrance pass and must park in designated areas." },
+          { "q": "Can an RV drive to Glacier Point?", "a": "Vehicles over 30 feet and trailers are restricted beyond Sentinel Dome/Taft Point. Check Yosemite's current vehicle restrictions before taking a large vehicle." },
+          { "q": "Can I leave my car overnight on Glacier Point Road?", "a": "No. Overnight parking on Glacier Point Road between Badger Pass and Glacier Point is prohibited from October 15 until the road reopens in spring." }
+        ],
+        "related": [
+          { "label": "Yosemite Valley parking for Half Dome", "href": "/trailheads/yosemite-valley/" },
+          { "label": "Glacier Point Road status", "href": "https://www.nps.gov/yose/planyourvisit/tioga.htm" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-112.1401, 36.0567] },
+      "properties": {
+        "name": "Bright Angel Trailhead Parking (Grand Canyon South Rim)",
+        "slug": "bright-angel",
+        "region": "Grand Canyon National Park",
+        "experiment_cohort": "famous",
+        "meta_title": "Bright Angel Trailhead Parking (South Rim): Lot D & Shuttle Plan (2026)",
+        "meta_description": "The Bright Angel Trailhead is one of the busiest parking areas on Grand Canyon's South Rim. Park at the Backcountry Information Center Lot D or use the Village Route shuttle; limited private parking is available near the trailhead.",
+        "card_summary": "Very busy South Rim trailhead with limited private parking. Lot D is the reliable plan: park at the Backcountry Information Center and walk or take the free Village shuttle.",
+        "quick_answer": "<strong>Use Lot D as your default, not the small trailhead lot.</strong> Bright Angel is a very busy South Rim trailhead with limited private-vehicle parking. The Backcountry Information Center's <strong>Lot D</strong> is the best fallback and a short walk away; the free <strong>Village Route</strong> also drops near the trailhead. Check the trail's current water and closure notices before starting a canyon descent.",
+        "badges": [
+          { "label": "Very busy trailhead", "tone": "warn" },
+          { "label": "Lot D is the reliable plan", "tone": "good" },
+          { "label": "Free Village shuttle", "tone": "info" }
+        ],
+        "trail_served": "Bright Angel Trail into the Grand Canyon; River Resthouse access varies with current conditions",
+        "fee": "Grand Canyon National Park entrance pass; no separate Bright Angel parking fee",
+        "lot_size": "Limited private parking near the trailhead; Lot D is a large designated alternative",
+        "fill_time": "Busy most of the year; Lot D can be the better choice when the village is congested",
+        "overflow": "Backcountry Information Center Lot D, then walk 5–10 minutes or use the Village Route shuttle",
+        "tow_risk": "Use marked lots and obey shuttle lanes; do not park along roads or block bus movement",
+        "restrooms": "Restrooms and water facilities near South Rim hubs; confirm current water availability before descending",
+        "road_access": "South Rim Village roads; private cars can reach the Bright Angel area but parking is limited",
+        "best_season": "Year-round access, with spring, fall and holiday periods carrying heavy demand",
+        "address": "Bright Angel Trailhead, Grand Canyon Village, AZ 86023",
+        "official_url": "https://home.nps.gov/grca/planyourvisit/parking_sr.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Lot D is the parking answer",
+            "body": "The NPS identifies the Backcountry Information Center parking lot, called <strong>Lot D</strong>, as the best place to park for Bright Angel when the village is congested. From there it is a 5–10 minute walk along the sidewalk past Maswik Lodge, or you can use the free Village Route shuttle."
+          },
+          {
+            "heading": "Do not count on a space by the trailhead",
+            "body": "The Bright Angel area is a very busy parking location with limited private-vehicle space. A car that arrives after the lot has filled does not gain a legal space by waiting on the road. Park at Lot D, keep bus lanes clear and let the shuttle do the short connection."
+          },
+          {
+            "heading": "The trail status can change below the rim",
+            "body": "Parking is only the first decision. Before heading down, check the NPS signs and current corridor-trail notices for water, heat and closure information. The <a href=\"/trailheads/south-kaibab/\">South Kaibab Trailhead</a> uses a different shuttle plan and has no private parking at the trailhead."
+          }
+        ],
+        "faq": [
+          { "q": "Where should I park for the Bright Angel Trail?", "a": "The NPS recommends the Backcountry Information Center's Lot D when the village is congested. Walk 5–10 minutes to the trailhead or take the free Village Route shuttle." },
+          { "q": "Can I drive to the Bright Angel Trailhead?", "a": "You can drive into the South Rim village area, but parking near Bright Angel is limited and often busy. Lot D is the more dependable plan." },
+          { "q": "Is there a shuttle to Bright Angel?", "a": "Yes. The free Village Route shuttle connects South Rim parking and lodging areas with Bright Angel. Check current route dates and stops before you go." },
+          { "q": "Is the Bright Angel Trail open?", "a": "Trail and water conditions can change. Check the NPS current conditions and the signs at the trailhead on the day of your hike." }
+        ],
+        "related": [
+          { "label": "South Kaibab Trailhead parking", "href": "/trailheads/south-kaibab/" },
+          { "label": "Grand Canyon South Rim parking map", "href": "https://www.nps.gov/grca/planyourvisit/parking_sr.htm" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-112.0830, 36.0560] },
+      "properties": {
+        "name": "South Kaibab Trailhead Parking (Grand Canyon South Rim)",
+        "slug": "south-kaibab",
+        "region": "Grand Canyon National Park",
+        "experiment_cohort": "famous",
+        "meta_title": "South Kaibab Trailhead Parking: No Private Cars, Shuttle from Lot D (2026)",
+        "meta_description": "Private automobiles are not allowed at the South Kaibab Trailhead. Park at the Grand Canyon Visitor Center or Backcountry Information Center Lot D and take the Orange Kaibab Rim shuttle or Hiker Express.",
+        "card_summary": "There is no private-car parking at South Kaibab. Leave the car at Lot D or the Visitor Center and take the Orange shuttle or Hiker Express to the trailhead.",
+        "quick_answer": "<strong>Do not drive to the South Kaibab Trailhead.</strong> Private automobiles are not allowed there. Park at the <strong>Backcountry Information Center Lot D</strong> and take the Hiker Express, or park at the Visitor Center and take the <strong>Orange Kaibab Rim shuttle</strong>. The trail has no water, so the shuttle plan and water plan belong in the same morning checklist.",
+        "badges": [
+          { "label": "No private cars at trailhead", "tone": "bad" },
+          { "label": "Orange shuttle or Hiker Express", "tone": "info" },
+          { "label": "No water on trail", "tone": "warn" }
+        ],
+        "trail_served": "South Kaibab Trail to Cedar Ridge, Skeleton Point, Tipoff and Bright Angel Campground",
+        "fee": "Grand Canyon National Park entrance pass; shuttle is included with park access",
+        "lot_size": "No parking at the trailhead; use designated Visitor Center or Lot D parking",
+        "fill_time": "South Rim visitor lots fill during busy periods; Lot D often has space when the village is congested",
+        "overflow": "Backcountry Information Center Lot D or Grand Canyon Visitor Center parking",
+        "tow_risk": "Do not drive beyond the signed shuttle access; use the designated lots and shuttle stops",
+        "restrooms": "Restrooms at the Visitor Center, Lot D area and trailhead facilities; no water on the South Kaibab Trail",
+        "road_access": "South Rim roads to the Visitor Center or Backcountry Information Center; final access is shuttle-only",
+        "best_season": "Year-round trail access subject to conditions; spring, fall and holidays are busy",
+        "address": "South Kaibab Trailhead, Grand Canyon National Park, AZ 86023",
+        "official_url": "https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The trailhead is shuttle-only",
+            "body": "The NPS South Kaibab trail guide states that parking is not permitted at the trailhead. The Orange Kaibab Rim Route runs from the Visitor Center to South Kaibab and Yaki Point, while the early-morning Hiker Express connects from the Backcountry Information Center and Bright Angel Lodge."
+          },
+          {
+            "heading": "Choose the lot before the bus",
+            "body": "Lot D is the useful base for hikers who are also returning via Bright Angel. The Visitor Center works for the Orange Route and has more visitor services. Either way, park once and board the correct shuttle; do not follow a map pin toward the trailhead in a private car."
+          },
+          {
+            "heading": "Pack water before leaving the rim",
+            "body": "The South Kaibab Trail has no water source. The NPS recommends using it primarily as a descent and returning by a route with a water plan. Parking at the correct lot will not help if the last shuttle and water decisions are left until the trailhead."
+          }
+        ],
+        "faq": [
+          { "q": "Can I park at the South Kaibab Trailhead?", "a": "No. Private automobiles are not allowed at the South Kaibab Trailhead. Park at the Visitor Center or Backcountry Information Center Lot D and take the Orange Kaibab Rim shuttle or Hiker Express." },
+          { "q": "Where does the South Kaibab shuttle leave from?", "a": "The Orange Kaibab Rim Route leaves from the Grand Canyon Visitor Center. The Hiker Express provides early-morning service from the Backcountry Information Center, Bright Angel Lodge and Yavapai Lodge on its current schedule." },
+          { "q": "Is there water on the South Kaibab Trail?", "a": "No. Carry the water you need from the rim and check current NPS conditions before starting." },
+          { "q": "Can I park at Lot D for a South Kaibab and Bright Angel loop?", "a": "Yes. Lot D is near the Backcountry Information Center and connects to the Hiker Express for South Kaibab; Bright Angel is a short walk or Village Route shuttle ride away." }
+        ],
+        "related": [
+          { "label": "Bright Angel Trailhead parking", "href": "/trailheads/bright-angel/" },
+          { "label": "Grand Canyon shuttle information", "href": "https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-68.224610, 44.352643] },
+      "properties": {
+        "name": "Cadillac Mountain Summit Parking (Acadia)",
+        "slug": "cadillac-mountain",
+        "region": "Acadia National Park",
+        "experiment_cohort": "famous",
+        "meta_title": "Cadillac Mountain Parking (Acadia): $6 Reservation, 145 Spaces (2026)",
+        "meta_description": "Cadillac Mountain has 145 summit parking spaces, but driving the road requires a $6 vehicle reservation from May 20 through October 25, 2026, plus an Acadia entrance pass. The reservation does not guarantee a space.",
+        "card_summary": "145 spaces at the summit, a $6 timed vehicle reservation in season, and an Acadia entrance pass. Reservations get you through the gate but do not assign a parking space.",
+        "quick_answer": "<strong>Cadillac has a parking lot, but the road has a reservation gate.</strong> From <strong>May 20 through October 25, 2026</strong>, every vehicle driving Cadillac Summit Road needs a <strong>$6 timed vehicle reservation</strong> plus an Acadia entrance pass. The summit has <strong>145 spaces</strong>; the reservation does not assign one, re-entry is not allowed, and vehicles over 21 feet, RVs and trailers are prohibited on the road.",
+        "badges": [
+          { "label": "145 summit spaces", "tone": "info" },
+          { "label": "$6 reservation May 20–Oct 25", "tone": "warn" },
+          { "label": "No re-entry or assigned space", "tone": "bad" }
+        ],
+        "trail_served": "Cadillac Mountain Summit Loop and summit overlooks",
+        "fee": "Acadia entrance pass plus $6 Cadillac Summit Road vehicle reservation May 20–Oct 25, 2026",
+        "lot_size": "145 total spaces at Cadillac Mountain; 0 oversized spaces",
+        "fill_time": "Sunrise and daytime summer reservations control access; summit spaces still fill on popular windows",
+        "overflow": "No roadside parking outside designated areas; use the Island Explorer for other Acadia destinations, not Cadillac Summit Road",
+        "tow_risk": "Parking outside marked spaces is prohibited; vehicles over 21 feet and trailers can be denied at the road",
+        "restrooms": "Restrooms and visitor facilities at the summit",
+        "road_access": "Three-mile Cadillac Summit Road from Park Loop Road; no Island Explorer service to the summit",
+        "best_season": "May 20–October 25, 2026 for vehicle reservations; the road is seasonally closed outside the operating window",
+        "address": "Cadillac Mountain Summit, Acadia National Park, ME 04609",
+        "official_url": "https://www.nps.gov/acad/planyourvisit/vehicle_reservations.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Buy two different things",
+            "body": "The Acadia entrance pass covers entry to the park. The <strong>Cadillac vehicle reservation</strong> is a separate $6 timed entry for the summit road. It is sold online, not at the park, and reservations are released in two waves: 30 percent 90 days ahead and 70 percent two days ahead."
+          },
+          {
+            "heading": "A reservation gets you through, not into a space",
+            "body": "The summit has 145 spaces and no oversized-vehicle spaces. A valid vehicle reservation does not assign a specific parking spot. Park only in designated spaces, do not re-enter after leaving, and do not cross the road to use a space on the opposite side."
+          },
+          {
+            "heading": "Check the vehicle length before booking",
+            "body": "Vehicles longer than 21 feet, including bike racks and hitch attachments, plus RVs and trailers, are prohibited on Cadillac Summit Road. The road is narrow and has no Island Explorer service, so a reservation cannot rescue the wrong vehicle."
+          }
+        ],
+        "faq": [
+          { "q": "Do I need a reservation for Cadillac Mountain in 2026?", "a": "Yes, to drive Cadillac Summit Road from May 20 through October 25, 2026. You also need an Acadia entrance pass." },
+          { "q": "How many parking spaces are at Cadillac Mountain?", "a": "The NPS parking page lists 145 total spaces and no oversized spaces." },
+          { "q": "Does the Cadillac reservation guarantee parking?", "a": "No. It is a timed vehicle entry and does not assign a parking space. Parking outside designated areas is prohibited." },
+          { "q": "Can an RV drive Cadillac Summit Road?", "a": "No. RVs, trailers and vehicles over 21 feet, including attached racks, are prohibited on Cadillac Summit Road." }
+        ],
+        "related": [
+          { "label": "Acadia entrance fees and passes", "href": "https://www.nps.gov/acad/planyourvisit/fees.htm" },
+          { "label": "Acadia parking overview", "href": "https://home.nps.gov/acad/parking.htm" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Kalalau Trailhead Parking (Hāʻena)",
+        "slug": "kalalau-trailhead",
+        "region": "Kauai — Haena & Napali Coast",
+        "experiment_cohort": "famous",
+        "meta_title": "Kalalau Trailhead Parking (Kauaʻi): Day-Use Reservation & Shuttle Rules (2026)",
+        "meta_description": "The Kalalau Trail begins inside Hāʻena State Park, where nonresidents need advance park-entry and parking reservations or a GoHaena shuttle. A camping permit is required beyond Hanakāpīʻai Valley.",
+        "card_summary": "The famous Kalalau Trail starts behind Hāʻena's reservation gate. Day hikers need entry and parking reservations; camping hikers need a Kalalau permit and separate overnight parking.",
+        "quick_answer": "<strong>The Kalalau Trailhead is inside Hāʻena State Park.</strong> Non-Hawaiʻi residents need an advance <strong>entry reservation for each person</strong> and a <strong>parking reservation for the vehicle</strong>, or a GoHaena shuttle booking. Hiking beyond <strong>Hanakāpīʻai Valley</strong> requires a Nāpali Coast camping permit. Overnight cars need a separate Hāʻena overnight parking reservation.",
+        "badges": [
+          { "label": "Reservation-only access", "tone": "warn" },
+          { "label": "Camping permit past Hanakāpīʻai", "tone": "bad" },
+          { "label": "Shuttle alternative", "tone": "good" }
+        ],
+        "trail_served": "Kalalau Trail, 11 mi one way to Kalalau Valley; Hanakāpīʻai Valley is 2 mi from Hāʻena",
+        "fee": "Day use: Hāʻena entry and parking reservations. Overnight: Nāpali Coast camping permit plus separate parking reservation.",
+        "lot_size": "Limited Hāʻena parking; the state does not publish a simple space count",
+        "fill_time": "Summer weekends and holiday morning inventory go first",
+        "overflow": "GoHaena shuttle for day use; no legal highway-side parking",
+        "tow_risk": "Do not leave a car on Kuhio Highway or assume a camping permit covers day parking",
+        "restrooms": "Facilities at Hāʻena; composting toilets farther along the trail; carry water",
+        "road_access": "Route 560 to Hāʻena State Park at the northwest end of Kauaʻi's north shore",
+        "best_season": "Dry-weather windows are safer; check weather, ocean and stream conditions before leaving",
+        "address": "Kuhio Highway (Route 560), Hāʻena, Kauaʻi, HI",
+        "official_url": "https://dlnr.hawaii.gov/dsp/hiking/kauai/kalalau-trail/",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The trail permit and parking booking are different",
+            "body": "A day hike to Hanakāpīʻai uses Hāʻena State Park entry and parking reservations, or the GoHaena shuttle. Going beyond Hanakāpīʻai Valley requires a Nāpali Coast State Wilderness Park camping permit. The camping permit solves the trail access problem; it does not automatically reserve a daytime parking space."
+          },
+          {
+            "heading": "The famous name does not change the gate",
+            "body": "Kalalau is one of Kauaʻi's best-known hikes, but the arrival rule is the same as the rest of Hāʻena: buy the correct time slot, arrive with the voucher and leave before the park closes unless you have the separate overnight permissions. Roadside parking is not a backup."
+          },
+          {
+            "heading": "Plan the return before the first mile",
+            "body": "The trail runs 11 miles one way to Kalalau Valley. Day hikers who turn at Hanakāpīʻai still need an 8-mile round trip plan for the waterfall. Check the current access page for park hours, road status and ocean conditions before committing to the drive."
+          }
+        ],
+        "faq": [
+          { "q": "Do I need a reservation to hike the Kalalau Trail?", "a": "Yes. Day hikers need Hāʻena State Park entry and parking reservations or a GoHaena shuttle reservation. Anyone going beyond Hanakāpīʻai Valley needs a valid Nāpali Coast camping permit." },
+          { "q": "Does a Kalalau camping permit include parking?", "a": "No. Overnight parking at Hāʻena requires a separate reservation tied to a valid Kalalau camping permit." },
+          { "q": "Can I park along the road for the Kalalau Trail?", "a": "No. Kuhio Highway shoulders and private access roads are not legal overflow parking. Use a Hāʻena parking reservation or the shuttle." },
+          { "q": "How long is the Kalalau Trail?", "a": "The trail is 11 miles one way, or 22 miles round trip, from Hāʻena to Kalalau Valley. Hanakāpīʻai Valley is about 2 miles from the trailhead." }
+        ],
+        "related": [
+          { "label": "Hāʻena State Park access information", "href": "https://dlnr.hawaii.gov/dsp/home/haena-napali-access/" },
+          { "label": "All trailhead parking guides", "href": "/trailheads/" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.9374, 34.1100] },
+      "properties": {
+        "name": "Sandstone Peak / Mishe Mokwa Trailhead Parking",
+        "slug": "sandstone-peak",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Sandstone Peak Parking (Malibu): Mishe Mokwa Lot, Hours & Plan B (2026)",
+        "meta_description": "Sandstone Peak and Mishe Mokwa use small National Park Service lots along Yerba Buena Road near Circle X Ranch. Parking is free, the road is winding, and there is no useful shoulder overflow when the lots fill.",
+        "card_summary": "Free NPS parking on Yerba Buena Road for Sandstone Peak and Mishe Mokwa. Small lots, winding access and no reliable shoulder overflow.",
+        "quick_answer": "<strong>Use the marked Yerba Buena Road lots, not the road shoulder.</strong> Sandstone Peak and Mishe Mokwa share the Circle X area, with separate small parking lots along the winding road. The NPS site is <strong>fee-free</strong>; there is no Adventure Pass. Arrive early on clear weekends because the lots are limited and there is no safe overflow plan on the road.",
+        "badges": [
+          { "label": "Free NPS parking", "tone": "good" },
+          { "label": "Small lots on winding road", "tone": "warn" },
+          { "label": "No shoulder overflow", "tone": "bad" }
+        ],
+        "trail_served": "Sandstone Peak Trail (3 mi RT) and Mishe Mokwa Trail to Split Rock (3.5 mi RT)",
+        "fee": "No NPS entrance fee or Adventure Pass at the Circle X/Sandstone Peak area; check signs for partner-managed sites",
+        "lot_size": "Small unpaved lots; no published space count",
+        "fill_time": "Clear spring and fall weekends are the pressure point; arrive in the morning",
+        "overflow": "No safe official roadside overflow; use another trailhead rather than blocking Yerba Buena Road",
+        "tow_risk": "Do not block the winding road, gates or turnouts; vehicles and trailers are difficult here",
+        "restrooms": "Restrooms and water at Circle X Ranch; carry water for the trail",
+        "road_access": "Yerba Buena Road from Pacific Coast Highway; winding road with limited parking areas",
+        "best_season": "Spring and fall are comfortable; heat, wildfire and rain closures can change access",
+        "address": "Yerba Buena Road near Circle X Ranch, Malibu, CA 90265",
+        "official_url": "https://www.nps.gov/samo/planyourvisit/circlexranch.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Two trailheads, one narrow road",
+            "body": "The NPS places the Sandstone Peak lot about a mile north of the Circle X contact station and the Mishe Mokwa lot about 1.75 miles north. Both are on Yerba Buena Road, where a badly parked car can narrow the road for everyone. Read the lot signs rather than stopping at the first convenient shoulder."
+          },
+          {
+            "heading": "The parking is free, but not unlimited",
+            "body": "The Santa Monica Mountains National Recreation Area is fee-free at its NPS sites, so there is no Adventure Pass or federal entrance booth here. The lots are unpaved and the NPS does not publish a capacity. On busy weekends the useful strategy is an early start, not a creative pullout."
+          },
+          {
+            "heading": "Circle X is the practical service point",
+            "body": "Circle X Ranch has restrooms, water and a ranger contact station. The <a href=\"/trailheads/circle-x-ranch/\">Circle X page</a> is the better starting point if the Sandstone Peak lot is full; it also covers the Grotto and Happy Hollow options."
+          }
+        ],
+        "faq": [
+          { "q": "Is Sandstone Peak parking free?", "a": "Yes at the NPS Circle X/Sandstone Peak area. No Adventure Pass is required, but you must use designated parking." },
+          { "q": "Where do I park for Mishe Mokwa?", "a": "Use the marked Mishe Mokwa Trailhead lot on Yerba Buena Road, about 1.75 miles north of the Circle X contact station." },
+          { "q": "What if the Sandstone Peak lot is full?", "a": "Do not park on the road shoulder or block Yerba Buena Road. Try another marked trailhead or return at a less busy time." },
+          { "q": "Are there restrooms at Sandstone Peak?", "a": "Circle X Ranch has restrooms and water. The smaller Sandstone Peak and Mishe Mokwa lots should not be treated as fully serviced facilities." }
+        ],
+        "related": [
+          { "label": "Circle X Ranch parking", "href": "/trailheads/circle-x-ranch/" },
+          { "label": "Solstice Canyon parking", "href": "/trailheads/solstice-canyon/" },
+          { "label": "Official Circle X site information", "href": "https://www.nps.gov/samo/planyourvisit/circlexranch.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.7445, 34.0350] },
+      "properties": {
+        "name": "Solstice Canyon Trailhead Parking (Malibu)",
+        "slug": "solstice-canyon",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Solstice Canyon Parking (Malibu): Limited Lot, Sunset Gate & Road Rules (2026)",
+        "meta_description": "Solstice Canyon has a paved but limited parking lot at Corral Canyon Road and Solstice Canyon Road. The lot is open 8am to sunset, roadside parking must stay outside the striping, and illegally parked cars can be towed.",
+        "card_summary": "Paved, limited lot with water and restrooms, open 8am to sunset. The weekend fallback is legal roadside space outside the road striping, not a blocked lane.",
+        "quick_answer": "<strong>Solstice is easy to reach and easy to fill.</strong> The paved NPS lot at Corral Canyon Road and Solstice Canyon Road is <strong>limited</strong> and popular on weekends. It opens at <strong>8am and closes at sunset</strong>. If you use roadside parking along Corral Canyon Road, every part of the car must be outside the painted road striping; illegally parked vehicles can be towed.",
+        "badges": [
+          { "label": "Limited paved lot", "tone": "warn" },
+          { "label": "Open 8am–sunset", "tone": "info" },
+          { "label": "Water and restrooms", "tone": "good" }
+        ],
+        "trail_served": "Solstice Canyon Trail to the waterfall and Roberts Ranch House ruins; Rising Sun and TRW Loop trails",
+        "fee": "NPS site is fee-free; no Adventure Pass",
+        "lot_size": "Limited paved parking; no published space count",
+        "fill_time": "Weekend mornings and warm coastal days fill the lot quickly",
+        "overflow": "Roadside parking only where the car is fully outside the striping; walking from farther along the road is safer",
+        "tow_risk": "Illegally parked cars along Corral Canyon Road are subject to towing",
+        "restrooms": "Restroom about 100 feet up the main trail; drinking fountain at the lot",
+        "road_access": "Corral Canyon Road from Pacific Coast Highway, then 0.25 mile to Solstice Canyon Road",
+        "best_season": "Year-round, with spring and fall weekends busiest; wet weather can close or damage roads and trails",
+        "address": "Corral Canyon Road and Solstice Canyon Road, Malibu, CA 90265",
+        "official_url": "https://www.nps.gov/samo/planyourvisit/solsticecanyon.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The lot closes at sunset",
+            "body": "The main parking lot is open from 8am until sunset. That is a real gate, not a suggestion for a sunrise-to-sunset hike. The canyon trail and the lot are both popular because the approach is easy, so start early if you want a weekend space."
+          },
+          {
+            "heading": "Roadside parking has one strict rule",
+            "body": "If the lot is full, the NPS allows roadside parking only where the vehicle is <strong>completely outside the road striping</strong>. A tire or bumper in the travel lane creates a tow risk and a hazard on Corral Canyon Road. The road walk is the honest cost of arriving late."
+          },
+          {
+            "heading": "This is one of the better-served small lots",
+            "body": "Solstice has a paved lot, a drinking fountain and a restroom about 100 feet up the main trail. That does not make it a large lot, but it does make the first half-mile easier for families and visitors who need a developed starting point."
+          }
+        ],
+        "faq": [
+          { "q": "When does Solstice Canyon parking open?", "a": "The parking lot is open from 8am until sunset. Check current closure notices after rain or during fire weather." },
+          { "q": "What if the Solstice Canyon lot is full?", "a": "Park only where your entire vehicle is outside the painted road striping on Corral Canyon Road, or return later. Illegally parked vehicles can be towed." },
+          { "q": "Is Solstice Canyon parking free?", "a": "Yes at the NPS site; no Adventure Pass is required." },
+          { "q": "Are there restrooms and water at Solstice Canyon?", "a": "Yes. The NPS lists a restroom near the main trail and a drinking fountain at the parking lot." }
+        ],
+        "related": [
+          { "label": "Sandstone Peak parking", "href": "/trailheads/sandstone-peak/" },
+          { "label": "Zuma Canyon parking", "href": "/trailheads/zuma-canyon/" },
+          { "label": "Official Solstice Canyon information", "href": "https://www.nps.gov/samo/planyourvisit/solsticecanyon.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.9374, 34.1100] },
+      "properties": {
+        "name": "Circle X Ranch Trailhead Parking (Malibu)",
+        "slug": "circle-x-ranch",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Circle X Ranch Parking (Malibu): Sandstone Peak Lots, Water & Restrooms (2026)",
+        "meta_description": "Circle X Ranch has NPS parking, restrooms and water near Sandstone Peak and Mishe Mokwa on Yerba Buena Road. The lots are unpaved and limited; winding access makes trailers a poor fit.",
+        "card_summary": "A useful service point for Sandstone Peak, Mishe Mokwa and Happy Hollow: free NPS parking, restrooms and water, but unpaved lots on a winding road.",
+        "quick_answer": "<strong>Circle X is the best-served lot in this part of the Santa Monicas.</strong> The NPS site has <strong>unpaved parking, restrooms and water</strong> near the ranger station, with separate lots for Sandstone Peak and Mishe Mokwa farther north on Yerba Buena Road. There is no published capacity, and trailers are a poor match for the winding road and limited areas.",
+        "badges": [
+          { "label": "Free NPS parking", "tone": "good" },
+          { "label": "Restrooms and water", "tone": "info" },
+          { "label": "Unpaved, limited lots", "tone": "warn" }
+        ],
+        "trail_served": "Sandstone Peak, Mishe Mokwa, Grotto and Happy Hollow Loop trails",
+        "fee": "No NPS entrance fee or Adventure Pass",
+        "lot_size": "Unpaved lots; no published space count",
+        "fill_time": "Popular weekends fill the trailhead lots before midday; trailers are especially difficult",
+        "overflow": "Use the marked Sandstone Peak or Mishe Mokwa lots only; do not create shoulder parking on Yerba Buena Road",
+        "tow_risk": "Keep gates, turnarounds and the winding road clear; horse trailers are not recommended",
+        "restrooms": "Restrooms at the ranch; water available at the site",
+        "road_access": "Yerba Buena Road from Pacific Coast Highway, 5.4 miles to the Circle X contact station",
+        "best_season": "Spring and fall; rain and fire conditions can close unpaved roads and trails",
+        "address": "12896 Yerba Buena Road, Malibu, CA 90265",
+        "official_url": "https://www.nps.gov/samo/planyourvisit/circlexranch.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Circle X is a starting point, not one single lot",
+            "body": "The contact station lot serves the ranch and nearby Happy Hollow routes. The <a href=\"/trailheads/sandstone-peak/\">Sandstone Peak lot</a> is about a mile farther north, and the Mishe Mokwa lot is about 1.75 miles farther north on Yerba Buena Road. Read the route sign before parking so you do not add an avoidable road walk."
+          },
+          {
+            "heading": "Services are better than the lot size",
+            "body": "Circle X has restrooms and water, which makes it a useful base for a long day in the Boney Mountain area. The parking areas remain unpaved and limited, and the NPS warns that winding roads and limited parking make horse trailers a poor fit."
+          },
+          {
+            "heading": "Free does not mean unrestricted",
+            "body": "There is no NPS entrance fee or Adventure Pass at Circle X. Park only in the marked areas, keep the road open for other vehicles and leave before a fire-weather or storm closure turns an ordinary trailhead into a closed site."
+          }
+        ],
+        "faq": [
+          { "q": "Is Circle X Ranch parking free?", "a": "Yes. The NPS Circle X site is fee-free and does not require an Adventure Pass." },
+          { "q": "Does Circle X have restrooms and water?", "a": "Yes. The NPS lists restrooms and water at the site." },
+          { "q": "Where do I park for Sandstone Peak from Circle X?", "a": "The Sandstone Peak lot is about one mile north of the Circle X contact station on Yerba Buena Road. Mishe Mokwa has a separate lot about 1.75 miles north." },
+          { "q": "Can a trailer reach Circle X Ranch?", "a": "The NPS warns that horse trailers are not recommended because the road is winding and parking areas are limited." }
+        ],
+        "related": [
+          { "label": "Sandstone Peak / Mishe Mokwa parking", "href": "/trailheads/sandstone-peak/" },
+          { "label": "Rocky Oaks parking", "href": "/trailheads/rocky-oaks/" },
+          { "label": "Official Circle X site information", "href": "https://www.nps.gov/samo/planyourvisit/circlexranch.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.5480, 34.0470] },
+      "properties": {
+        "name": "Temescal Gateway Park Trailhead Parking",
+        "slug": "temescal-gateway",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Temescal Canyon Parking (Pacific Palisades): Fee, Hours & Transit (2026)",
+        "meta_description": "Temescal Gateway Park parking is near Sunset Boulevard in Pacific Palisades. The site is managed by the Mountains Recreation and Conservation Authority, not the Forest Service, and an entry fee may be collected.",
+        "card_summary": "Urban-edge parking for Temescal Canyon and Topanga trails. Check the local fee sign; this is not an Adventure Pass lot, and Metro and Santa Monica buses serve the gateway.",
+        "quick_answer": "<strong>Temescal is a local-agency lot, not an Adventure Pass site.</strong> Temescal Gateway Park sits at 15601 Sunset Boulevard and is managed by the Mountains Recreation and Conservation Authority partnership. The NPS notes that a <strong>fee may be collected</strong>; check the posted local rule. Transit from Los Angeles and Santa Monica is a real alternative when the lot is busy.",
+        "badges": [
+          { "label": "Local agency parking", "tone": "info" },
+          { "label": "Fee may be collected", "tone": "warn" },
+          { "label": "Metro and Santa Monica bus access", "tone": "good" }
+        ],
+        "trail_served": "Temescal Canyon Loop and connections into Topanga State Park",
+        "fee": "A local entry fee may be collected; no Adventure Pass",
+        "lot_size": "Developed gateway parking; no published space count",
+        "fill_time": "Weekends and warm coastal mornings are busiest",
+        "overflow": "Use transit or arrive early; do not block Sunset Boulevard or nearby residential streets",
+        "tow_risk": "Follow MRCA and posted curb rules; the lot is not a Forest Service fee site",
+        "restrooms": "Restrooms at the park and conference-center area",
+        "road_access": "15601 Sunset Boulevard, turn onto Temescal Canyon Road from Pacific Coast Highway",
+        "best_season": "Year-round; summer beach traffic adds pressure and winter rain can affect trails",
+        "address": "15601 Sunset Blvd, Pacific Palisades, CA",
+        "official_url": "https://www.nps.gov/samo/planyourvisit/temescalgateway.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Read the agency sign",
+            "body": "Temescal Gateway is managed through the Mountains Recreation and Conservation Authority partnership. The NPS site says a fee <strong>may be collected</strong>, so the posted local sign controls the payment rule. An Adventure Pass does not apply here."
+          },
+          {
+            "heading": "The lot sits beside a busy city edge",
+            "body": "This is not a remote forest trailhead. Sunset Boulevard, Pacific Coast Highway and nearby residential streets carry normal traffic, so the shoulder is not a good overflow plan. Arrive early, use transit or choose a different Santa Monica Mountains site if the gate area is full."
+          },
+          {
+            "heading": "Transit is part of the parking plan",
+            "body": "The NPS identifies Los Angeles Metro and Santa Monica Blue Bus service to Temescal Gateway. That makes this one of the few pages in the cluster where the realistic parking alternative is leaving the car at home rather than moving it to another small lot."
+          }
+        ],
+        "faq": [
+          { "q": "Do I need an Adventure Pass at Temescal Canyon?", "a": "No. Temescal Gateway is managed by the Mountains Recreation and Conservation Authority partnership, not the Forest Service. A local entry fee may be collected; follow the posted sign." },
+          { "q": "Where is Temescal Gateway Park?", "a": "The entrance is at 15601 Sunset Boulevard in Pacific Palisades, reached from Pacific Coast Highway via Temescal Canyon Road." },
+          { "q": "What if Temescal parking is full?", "a": "Use Metro or Santa Monica bus service, arrive earlier, or choose another marked lot. Do not block Sunset Boulevard or residential streets." },
+          { "q": "Are there restrooms at Temescal Gateway?", "a": "The site lists restrooms among its park amenities." }
+        ],
+        "related": [
+          { "label": "Solstice Canyon parking", "href": "/trailheads/solstice-canyon/" },
+          { "label": "Zuma Canyon parking", "href": "/trailheads/zuma-canyon/" },
+          { "label": "Official Temescal Gateway information", "href": "https://www.nps.gov/samo/planyourvisit/temescalgateway.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.8160, 34.0410] },
+      "properties": {
+        "name": "Zuma Canyon Trailhead Parking (Malibu)",
+        "slug": "zuma-canyon",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Zuma Canyon Parking (Malibu): Weekend Fill, Kanan Overflow & Hours (2026)",
+        "meta_description": "Zuma Canyon's Bonsall Drive lot serves the canyon trails and is open 8am to sunset. Nearby Kanan Trailhead parking fills quickly on weekends, with an official overflow lot about a quarter mile north on Kanan Dume Road.",
+        "card_summary": "Free NPS canyon parking near Zuma Beach. The Bonsall Drive lot is gated 8am to sunset; Kanan Trailhead fills quickly on weekends and has a marked overflow lot north on Kanan Dume Road.",
+        "quick_answer": "<strong>Know which Zuma lot your trail uses.</strong> The Zuma Canyon Trailhead is at the end of Bonsall Drive and has water and restrooms; the lot is open <strong>8am to sunset</strong>. The nearby Kanan Trailhead fills quickly on weekends and has an official overflow lot about <strong>¼ mile north along Kanan Dume Road</strong>. Both are NPS sites and do not use an Adventure Pass.",
+        "badges": [
+          { "label": "Free NPS parking", "tone": "good" },
+          { "label": "Kanan fills quickly", "tone": "warn" },
+          { "label": "Overflow ¼ mile north", "tone": "info" }
+        ],
+        "trail_served": "Zuma Canyon Trail, Zuma Ridge Trail, Kanan Trailhead and Newton Canyon routes",
+        "fee": "No NPS entrance fee or Adventure Pass; check signs at partner-managed sites",
+        "lot_size": "Multiple small lots; no published combined capacity",
+        "fill_time": "Kanan Trailhead fills quickly on weekends; Zuma Canyon is busiest in good weather",
+        "overflow": "Kanan Trailhead overflow is about ¼ mile north along Kanan Dume Road; do not invent overflow at Bonsall Drive",
+        "tow_risk": "Bonsall Drive lot is gated; keep roads and gates clear and follow sunset closing",
+        "restrooms": "Zuma Canyon Trailhead has restrooms and water; Zuma Ridge does not list restrooms",
+        "road_access": "Bonsall Drive near Pacific Coast Highway for Zuma Canyon; Kanan Road for the other lots",
+        "best_season": "Spring and fall are comfortable; rain can close unpaved lots and summer heat is severe inland",
+        "address": "Bonsall Drive, Malibu, CA 90265",
+        "official_url": "https://home.nps.gov/samo/planyourvisit/zumatrancascanyons.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Bonsall Drive and Kanan are different parking problems",
+            "body": "Zuma Canyon's lot is at the end of Bonsall Drive near Zuma Beach. The Kanan Trailhead is farther north on Kanan Road and is the one the NPS says fills quickly on weekends. Do not use directions for one lot and expect the other to absorb the car."
+          },
+          {
+            "heading": "Kanan has a real overflow lot",
+            "body": "When the Kanan Trailhead fills, the official alternative is an overflow lot approximately <strong>one-quarter mile north along Kanan Dume Road</strong>. That is different from leaving a car on a shoulder. Follow current signs because the area is a patchwork of NPS and partner-managed land."
+          },
+          {
+            "heading": "Bonsall closes at sunset",
+            "body": "The Bonsall Drive parking area is open from 8am to sunset. Zuma Canyon has restrooms and water, while Zuma Ridge does not list restrooms. Pack water for the trail even when the first lot has a fountain."
+          }
+        ],
+        "faq": [
+          { "q": "Where do I park for Zuma Canyon?", "a": "Use the Zuma Canyon Trailhead at the end of Bonsall Drive near Zuma Beach. It has restrooms and water and is open from 8am to sunset." },
+          { "q": "What is the overflow for Kanan Trailhead?", "a": "The NPS lists an overflow lot approximately one-quarter mile north along Kanan Dume Road." },
+          { "q": "Is Zuma Canyon parking free?", "a": "The NPS site is fee-free and does not require an Adventure Pass. Check signs if you use a partner-managed lot." },
+          { "q": "Does Zuma Ridge Trailhead have restrooms?", "a": "The NPS lists no restrooms at the Zuma Ridge Trailhead; facilities are at the Zuma Canyon lot." }
+        ],
+        "related": [
+          { "label": "Rocky Oaks parking", "href": "/trailheads/rocky-oaks/" },
+          { "label": "Solstice Canyon parking", "href": "/trailheads/solstice-canyon/" },
+          { "label": "Official Zuma and Trancas information", "href": "https://home.nps.gov/samo/planyourvisit/zumatrancascanyons.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.8141, 34.0967] },
+      "properties": {
+        "name": "Rocky Oaks Trailhead Parking (Malibu)",
+        "slug": "rocky-oaks",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Rocky Oaks Parking (Malibu): Small Dirt Lot, Rain Closure & Hours (2026)",
+        "meta_description": "Rocky Oaks has a small NPS dirt lot on Mulholland Highway with restrooms and a water fountain. The lot is open 8am to sunset but closes during rain and while the ground is wet.",
+        "card_summary": "Small dirt lot on Mulholland Highway with restrooms and water. It closes during rain, making weather the parking constraint rather than a reservation system.",
+        "quick_answer": "<strong>Rocky Oaks is a small, weather-sensitive lot.</strong> The NPS dirt parking area sits in the 31500 block of Mulholland Highway, with <strong>restrooms and a water fountain</strong>. It is open from <strong>8am to sunset</strong> but closes during rain and can stay closed until the ground dries. There is no Adventure Pass.",
+        "badges": [
+          { "label": "Small dirt lot", "tone": "info" },
+          { "label": "Closed during rain", "tone": "bad" },
+          { "label": "Restrooms and water", "tone": "good" }
+        ],
+        "trail_served": "Rocky Oaks Loop, Pond, Glade and Overlook trails",
+        "fee": "No NPS entrance fee or Adventure Pass",
+        "lot_size": "Small dirt lot; no published space count",
+        "fill_time": "Sunny spring weekends are busiest; there is little margin if the lot is full",
+        "overflow": "No official overflow; do not park on Mulholland Highway or in private driveways",
+        "tow_risk": "Use the marked lot and respect rain closures; wet-road shoulders are not a parking plan",
+        "restrooms": "Restrooms and water fountain at the main parking lot",
+        "road_access": "31500 block of Mulholland Highway, west of Kanan Road",
+        "best_season": "Spring and dry fall days; rain closures can happen in winter and after storms",
+        "address": "31500 block of Mulholland Highway, Agoura Hills, CA",
+        "official_url": "https://www.nps.gov/samo/planyourvisit/rockyoaks.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "Rain can close the parking before it closes the map",
+            "body": "Rocky Oaks is an unpaved lot. The NPS closes it during rain and can keep it closed for a day or two after the storm while the ground dries. Check the park closure page before driving from the 101; a clear sky at home is not proof that the lot has reopened."
+          },
+          {
+            "heading": "A small lot with useful facilities",
+            "body": "The lot is small, but the site has restrooms and a water fountain near the amphitheater. The Rocky Oaks Loop and Pond trails are short, which makes this a useful local outing when the lot is open and a poor place to improvise a roadside space when it is not."
+          },
+          {
+            "heading": "Parking is free at this NPS site",
+            "body": "No entrance fee or Adventure Pass is required. The management boundary still matters: do not use private driveways or block Mulholland Highway if the lot is full. Choose another site in the Santa Monicas instead."
+          }
+        ],
+        "faq": [
+          { "q": "Is Rocky Oaks parking free?", "a": "Yes. The NPS site is fee-free and does not require an Adventure Pass." },
+          { "q": "Is Rocky Oaks parking open after rain?", "a": "Not always. The dirt lot closes during rain and may remain closed until the ground dries. Check current NPS closure information." },
+          { "q": "Does Rocky Oaks have restrooms?", "a": "Yes. The NPS lists restrooms and a water fountain at the main parking lot." },
+          { "q": "Is there overflow parking at Rocky Oaks?", "a": "The NPS does not list an overflow lot. Do not park on Mulholland Highway or private property." }
+        ],
+        "related": [
+          { "label": "Zuma Canyon parking", "href": "/trailheads/zuma-canyon/" },
+          { "label": "Rancho Sierra Vista/Satwiwa parking", "href": "/trailheads/rancho-sierra-vista/" },
+          { "label": "Official Santa Monica closures", "href": "https://www.nps.gov/samo/planyourvisit/parkhomeclosuresrestrictions.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.9733, 34.1569] },
+      "properties": {
+        "name": "Rancho Sierra Vista / Satwiwa Trailhead Parking",
+        "slug": "rancho-sierra-vista",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Rancho Sierra Vista / Satwiwa Parking: Free Lot, Hours & Wendy Trailhead (2026)",
+        "meta_description": "Rancho Sierra Vista/Satwiwa has free NPS parking near Newbury Park, open 8am to sunset, with restrooms and water. When the main gate is closed, parking is available in front of the gate; Wendy Trailhead is available anytime.",
+        "card_summary": "Free, serviced parking near Satwiwa and Big Sycamore Canyon. Main lot is open 8am to sunset; the gate-closed plan is front-of-gate parking or the Wendy Trailhead.",
+        "quick_answer": "<strong>Satwiwa has a better fallback than most local trailheads.</strong> The main Rancho Sierra Vista lot is <strong>free</strong>, open <strong>8am to sunset</strong>, and has restrooms and water. If the gate is closed, the NPS says visitors may park in front of the gate; the separate <strong>Wendy Trailhead</strong> is available any time. Do not use the service driveway for general parking.",
+        "badges": [
+          { "label": "Free NPS lot", "tone": "good" },
+          { "label": "Restrooms and water", "tone": "info" },
+          { "label": "Wendy Trailhead backup", "tone": "warn" }
+        ],
+        "trail_served": "Satwiwa Loop, Big Sycamore Canyon and trails near the Native American Indian Culture Center",
+        "fee": "Free; no Adventure Pass or NPS entrance fee",
+        "lot_size": "Main paved lot; no published space count; one accessible space by the culture center",
+        "fill_time": "Weekend mornings are busiest; the site has more room than the small Malibu canyon lots",
+        "overflow": "Parking in front of the gate when closed; Wendy Trailhead is available any time",
+        "tow_risk": "Do not use the service road or block the gate; respect the accessible parking rules",
+        "restrooms": "Restrooms and water at the main lot and Satwiwa Culture Center",
+        "road_access": "Lynn Road to Via Goleta, Newbury Park; separate Wendy Trailhead via Wendy Drive and Potrero Road",
+        "best_season": "Year-round; spring wildflowers and clear weekends draw the largest local crowds",
+        "address": "Via Goleta and Lynn Road, Newbury Park, CA 91320",
+        "official_url": "https://home.nps.gov/samo/planyourvisit/rsvsatwiwa.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "The main lot has a published fallback",
+            "body": "The Rancho Sierra Vista entrance is at Via Goleta and Lynn Road. The main lot is open from 8am to sunset. If the gate is closed, the NPS says parking is available in front of the gate, so visitors can still walk in. The Wendy Trailhead is a separate access point that is available any time."
+          },
+          {
+            "heading": "Use the service-road rule correctly",
+            "body": "The driveway to the Satwiwa Culture Center is a service road and is not general overflow parking. One accessible space is available by the center; everyone else should use the main lot and walk the 0.3-mile gravel road."
+          },
+          {
+            "heading": "This is a serviced local starting point",
+            "body": "The main lot and culture center have restrooms and water. That makes Satwiwa a practical choice for a longer Big Sycamore Canyon day when smaller Malibu lots have no facilities or no legal overflow."
+          }
+        ],
+        "faq": [
+          { "q": "Is Rancho Sierra Vista parking free?", "a": "Yes. The NPS lists free parking and no Adventure Pass or entrance fee." },
+          { "q": "What if the Rancho Sierra Vista gate is closed?", "a": "The NPS says visitors may park in front of the gate and walk in. The Wendy Trailhead is another access point available any time." },
+          { "q": "Can I park by the Satwiwa Culture Center?", "a": "Only the accessible space is available there. General visitors should use the main entrance parking and walk the gravel road." },
+          { "q": "Are there restrooms and water at Satwiwa?", "a": "Yes. Restrooms and water fountains are located near the main lot and the Satwiwa Culture Center." }
+        ],
+        "related": [
+          { "label": "Rocky Oaks parking", "href": "/trailheads/rocky-oaks/" },
+          { "label": "Circle X Ranch parking", "href": "/trailheads/circle-x-ranch/" },
+          { "label": "Official Satwiwa site information", "href": "https://home.nps.gov/samo/planyourvisit/rsvsatwiwa.htm" }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Paramount Ranch Trailhead Parking",
+        "slug": "paramount-ranch",
+        "region": "Santa Monica Mountains",
+        "experiment_cohort": "less-famous",
+        "meta_title": "Paramount Ranch Parking (Santa Monica Mountains): Lot, Restrooms & Access (2026)",
+        "meta_description": "Paramount Ranch has ample free NPS parking, restrooms and water for the ranch grounds and nearby trails. Check current fire and site closures before driving to this former film location.",
+        "card_summary": "One of the easier local parking answers: ample free parking, restrooms and water at the former film ranch, with closures still possible during fire weather or site work.",
+        "quick_answer": "<strong>Paramount Ranch is the roomy comparison point in this cluster.</strong> The NPS lists <strong>ample parking, restrooms and water</strong> at the former film location. It is free and does not need an Adventure Pass. Check current park alerts before driving; fire-weather closures and site work can change access even when the lot normally has room.",
+        "badges": [
+          { "label": "Ample free parking", "tone": "good" },
+          { "label": "Restrooms and water", "tone": "info" },
+          { "label": "Check closure notices", "tone": "warn" }
+        ],
+        "trail_served": "Paramount Ranch grounds, Coyote Canyon and Medea Creek trails",
+        "fee": "No NPS entrance fee or Adventure Pass",
+        "lot_size": "Ample parking; no public numeric capacity",
+        "fill_time": "Usually more forgiving than the canyon trailheads; event days can change the pattern",
+        "overflow": "The site normally has ample parking; follow event signs rather than using roadside space",
+        "tow_risk": "Park in marked areas and obey temporary event or closure signs",
+        "restrooms": "Restrooms at the site",
+        "road_access": "Paramount Ranch area off Cornell Road and Mulholland Highway near Agoura Hills",
+        "best_season": "Year-round, subject to fire-weather, rain and site-specific closures",
+        "address": "Paramount Ranch, Agoura Hills, CA 91301",
+        "official_url": "https://www.nps.gov/samo/planyourvisit/paramountranch.htm",
+        "verified": "August 2, 2026",
+        "sections": [
+          {
+            "heading": "This is the roomy lot in the comparison",
+            "body": "The NPS lists ample parking at Paramount Ranch, along with restrooms and water. That makes it a useful control against the small-lot pages in this cluster: the parking question is usually simple unless a special event or closure changes the site."
+          },
+          {
+            "heading": "The film history is not the access rule",
+            "body": "Paramount Ranch is a former film location with trails and ranch grounds. The parking remains an NPS site, so there is no Adventure Pass. Follow the current site map and any temporary fencing around historic or closed areas."
+          },
+          {
+            "heading": "Check before you drive",
+            "body": "Santa Monica Mountains sites can close for red-flag fire weather, wet conditions or construction. Confirm the current alert before treating Paramount Ranch as the backup for another lot, especially on a weekend with an event scheduled."
+          }
+        ],
+        "faq": [
+          { "q": "Is Paramount Ranch parking free?", "a": "Yes. The NPS site is fee-free and does not require an Adventure Pass." },
+          { "q": "Does Paramount Ranch have enough parking?", "a": "The NPS describes parking as ample but does not publish a numeric capacity. Event days can change the normal pattern." },
+          { "q": "Are there restrooms at Paramount Ranch?", "a": "Yes. The NPS lists restrooms and water." },
+          { "q": "Is Paramount Ranch open?", "a": "Check current Santa Monica Mountains alerts before going. Fire-weather, rain and site-specific closures can change access." }
+        ],
+        "related": [
+          { "label": "Rancho Sierra Vista/Satwiwa parking", "href": "/trailheads/rancho-sierra-vista/" },
+          { "label": "Solstice Canyon parking", "href": "/trailheads/solstice-canyon/" },
+          { "label": "Official Paramount Ranch information", "href": "https://www.nps.gov/samo/planyourvisit/paramountranch.htm" }
+        ]
+      }
     }
   ]
 }

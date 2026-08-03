@@ -43,6 +43,12 @@ REGION_ORDER = [
     "Zion National Park",
     "Bryce Canyon National Park",
     "Arches National Park",
+    "Mount Whitney",
+    "Yosemite National Park",
+    "Grand Canyon National Park",
+    "Acadia National Park",
+    "Kauai — Haena & Napali Coast",
+    "Santa Monica Mountains",
 ]
 
 # --- Section configuration ---------------------------------------------------
@@ -55,16 +61,16 @@ SECTIONS = {
         "nav_label": "Trailheads",
         "hub_title": f"Trailhead Parking, Honestly: Every Lot We Cover ({CURRENT_YEAR})",
         "meta_title": f"Trailhead Parking Guides: Lot Sizes, Fill Times & Passes ({CURRENT_YEAR})",
-        "meta_description": "Trailhead parking across Southern California, Zion, Bryce Canyon and Arches. How many cars each lot fits, when it fills, what pass or permit you need, and what to do when it's full.",
+        "meta_description": "Trailhead parking across Southern California, Zion, Bryce Canyon, Arches, Yosemite, Grand Canyon, Acadia and Kauaʻi. How many cars each lot fits, when it fills, what pass or permit you need, and what to do when it's full.",
         "hub_intro": (
             "The hike is rarely the hard part — the lot is. Each guide below covers one "
             "trailhead: how many cars actually fit, when it fills on a weekend, what goes on the "
             "dash, the tow/citation risk of getting creative, and the realistic plan B. Pass rules "
             "change completely between regions — the <a href=\"/adventure-pass/\">Adventure Pass</a> "
             "covers most national-forest trailheads in the San Bernardinos and San Gabriels, but "
-            "buys nothing at San Diego's state, county and city lots, and nothing in the Utah "
-            "national parks, where a shuttle, a permit lottery or a 1-hour posted limit decides "
-            "where you park at all."
+            "buys nothing at San Diego's state, county and city lots, and nothing in national or "
+            "state parks where an entrance pass, shuttle, permit or timed reservation controls "
+            "the approach."
         ),
         "marker_emoji": "🅿️",
         "fact_rows": [
@@ -82,11 +88,11 @@ SECTIONS = {
         "hub_sections": [
             {
                 "heading": "The one rule that saves your morning: get there early",
-                "body": "Across every trailhead on this site, in every region, the single biggest predictor of a good day is arrival time. Popular Southern California lots — Heart Rock, Icehouse Canyon, Cedar Creek Falls, Potato Chip Rock — routinely <strong>fill between 7 and 9am on weekends</strong>, and the Utah national-park lots (Zion, Bryce, Arches) fill even earlier or hand the problem to a shuttle or a timed-entry system. If a lot has a hard cap and a tow or citation risk on the shoulder, showing up at 10am doesn't mean a long walk — it means turning around. Each guide below gives the specific fill time we could verify, plus the realistic Plan B when it's already full."
+                "body": "Across every trailhead on this site, in every region, the single biggest predictor of a good day is arrival time. Popular Southern California lots — Heart Rock, Icehouse Canyon, Cedar Creek Falls, Potato Chip Rock — routinely <strong>fill between 7 and 9am on weekends</strong>. National-park and state-park sites add another kind of gate: a shuttle, a day-use ticket, a timed-entry reservation or a reservation-only parking slot. If a lot has a hard cap and a tow or citation risk on the shoulder, showing up at 10am doesn't mean a long walk — it means turning around. Each guide below gives the specific fill time we could verify, plus the realistic Plan B when it's already full."
             },
             {
                 "heading": "Which pass or permit you actually need (they're not the same thing)",
-                "body": "The most expensive mistakes here aren't parking tickets — they're driving hours to a trailhead with the wrong pass, or none. The rules change completely by region:\n\n<strong>Southern California national forests</strong> (San Bernardino, San Gabriel, San Jacinto ranges) mostly use the <a href=\"/adventure-pass/\">Adventure Pass</a> — $5/day or $30/year on the dash, or an America the Beautiful pass. <strong>San Diego County</strong> is a patchwork: Cedar Creek Falls needs a $6 Recreation.gov <em>permit</em> (not a parking pass), while Torrey Pines is a state reserve and Potato Chip Rock's Lake Poway lot is a city park — none of them honor an Adventure Pass. <strong>The Utah national parks</strong> (Zion, Bryce, Arches) charge a per-vehicle entrance fee and layer on shuttles, timed-entry reservations, or permit lotteries that decide where — and whether — you park at all.\n\nA permit is not a parking pass, an entrance fee is not an Adventure Pass, and a reservation is not a guarantee of a space. Every guide below states exactly which one that specific lot requires."
+                "body": "The most expensive mistakes here aren't parking tickets — they're driving hours to a trailhead with the wrong pass, or none. The rules change completely by region:\n\n<strong>Southern California national forests</strong> (San Bernardino, San Gabriel, San Jacinto ranges) mostly use the <a href=\"/adventure-pass/\">Adventure Pass</a> — $5/day or $30/year on the dash, or an America the Beautiful pass. <strong>San Diego County</strong> is a patchwork: Cedar Creek Falls needs a $6 Recreation.gov <em>permit</em> (not a parking pass), while Torrey Pines is a state reserve and Potato Chip Rock's Lake Poway lot is a city park — none of them honor an Adventure Pass. <strong>National parks</strong> use entrance passes plus their own systems: Yosemite manages Valley parking and shuttles, Grand Canyon routes hikers from designated lots to trailheads, and Acadia adds a Cadillac vehicle reservation. Hāʻena State Park requires advance entry and parking reservations for nonresidents.\n\nA permit is not a parking pass, an entrance fee is not an Adventure Pass, and a reservation is not a guarantee of a space. Every guide below states exactly which one that specific lot requires."
             },
             {
                 "heading": "How we cover parking — and how facts stay current",

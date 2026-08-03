@@ -7,22 +7,30 @@ rules, enforcement reality, and the realistic plan B. Sister site to
 **horizontal** play: organized around the question ("where do I park?"), not a
 destination, so it can grow across ranges.
 
-**Coverage (July 2026):** seven regions, 35 trailheads, 39 pages.
+**Coverage (August 2026):** thirteen regions, 66 trailheads, 70 pages.
 
-- **San Bernardino Mountains (11)** — Lake Arrowhead/Crestline/Running Springs
-  (6), Big Bear (Castle Rock, Cougar Crest, Discovery Center, Pine Knot),
-  Forest Falls (Vivian Creek/San Gorgonio).
-- **San Gabriel Mountains (4)** — East Fork/Bridge to Nowhere, Chantry Flat,
-  Switzer Falls, Icehouse Canyon.
-- **San Jacinto Mountains (1)** — Humber Park/Devil's Slide.
-- **San Diego County (4)** — Cedar Creek Falls, Three Sisters Falls, Potato
-  Chip Rock/Mt. Woodson, Torrey Pines.
+- **San Bernardino Mountains (15)** — Lake Arrowhead/Crestline/Running Springs,
+  Big Bear, Forest Falls, Grays Peak, and San Bernardino Peak.
+- **San Gabriel Mountains (10)** — East Fork/Bridge to Nowhere, Chantry Flat,
+  Switzer Falls, Icehouse Canyon, and Devil's Punchbowl.
+- **San Jacinto Mountains (4)** — Humber Park/Devil's Slide and Idyllwild-area
+  trailheads.
+- **San Diego County (7)** — Cedar Creek Falls, Three Sisters Falls, Potato
+  Chip Rock/Mt. Woodson, Torrey Pines, and other county trailheads.
 - **Zion National Park (5)** — Visitor Center (master parking page), Angels
   Landing, Temple of Sinawava/The Narrows, Canyon Overlook, Kolob Canyons.
 - **Bryce Canyon National Park (5)** — Visitor Center (master), Sunset Point,
   Bryce Point, Fairyland Point, Mossy Cave.
 - **Arches National Park (5)** — timed entry (master), Delicate Arch/Wolfe
   Ranch, Devils Garden, The Windows, Fiery Furnace.
+- **Mount Whitney (1)** — Whitney Portal.
+- **Yosemite National Park (2)** — Valley day-use parking and Glacier Point.
+- **Grand Canyon National Park (2)** — Bright Angel and South Kaibab.
+- **Acadia National Park (1)** — Cadillac Mountain.
+- **Kauai — Haena & Napali Coast (1)** — Kalalau Trailhead.
+- **Santa Monica Mountains (8)** — Sandstone Peak/Mishe Mokwa, Solstice Canyon,
+  Circle X Ranch, Temescal Gateway, Zuma Canyon, Rocky Oaks, Rancho Sierra
+  Vista/Satwiwa, and Paramount Ranch.
 
 Plus the Adventure Pass explainer and About.
 
@@ -123,11 +131,13 @@ pass system, sources, and phone calls:
    **Arches requires no timed-entry reservation in 2026** (NPS news release,
    Feb 18 2026), and **Bryce's Visitor Center lot is posted 1-hour**, with
    all-day parkers sent to the Shuttle Station lot in Bryce Canyon City.
-6. **Next, same logic** — Rocky Mountain NP and Glacier (timed entry, both
-   well documented), Haena/Kalalau (reservation), Yosemite (peak-hours
-   reservation). Then **Eastern San Gabriels / Angeles Crest depth** (Mt.
-   Baldy Village, Sturtevant, Mt. Wilson via Sierra Madre once the upper trail
-   reopens) and **Santa Monicas / Malibu** (Sandstone Peak, Escondido Falls).
+6. ~~**Batch 6 — Famous parks:**~~ ✅ Built 2026-08-02 — Whitney Portal,
+   Yosemite Valley, Glacier Point, Bright Angel, South Kaibab, Cadillac
+   Mountain, and Kalalau Trailhead.
+7. ~~**Batch 7 — Local comparison cluster:**~~ ✅ Built 2026-08-02 — eight
+   Santa Monica Mountains sites. The 15 pages are tagged with
+   `experiment_cohort` so GSC and Tinylytics can compare famous versus
+   less-famous search demand after deployment.
 
 ### A note on the three park systems, because readers conflate them
 
