@@ -190,6 +190,134 @@ the fill-time language is aging.
 
 ---
 
+## Rocky Mountain, Glacier, Yosemite (batch 6, logged 2026-07-28)
+
+### [ ] Two NPS pages give different timed-entry end dates for RMNP
+**Logged 2026-07-28.** The timed entry permit page (updated May 14, 2026) says
+the season ends **Oct 18** (Bear Lake Road) and **Oct 12** (rest of park). The
+Feb 18, 2026 news release announcing the season says **Oct 19** and **Oct 13**.
+Neither is a weekday typo — both are internally consistent, they simply differ
+by a day on both permit types.
+
+The pages use the permit page, on two grounds: it was updated three months
+later, and the published shuttle season (May 22 – Oct 18) matches it exactly.
+The master page discloses the conflict rather than hiding it. **A phone call or
+a re-check in early October settles it.**
+
+### [ ] Three reservation systems that could all return in 2027
+**Logged 2026-07-28.** The single largest staleness risk on the site, because
+three pages are built around an *absence*:
+
+- **Glacier** requires no vehicle reservation in 2026 — first season since
+  2020. Verified against `vehicle-reservations2026.htm` (updated June 22, 2026):
+  *"Vehicle reservations will not be required in 2026."*
+- **Yosemite** requires none either. Verified against `reservations.htm`
+  (updated Feb 18, 2026): *"Yosemite National Park today announced it will no
+  longer use a timed reservation system in 2026."*
+- **RMNP** still has one, in two flavours.
+
+All three are re-decided annually and announced roughly December–February.
+**Re-check all three in February 2027.** If Glacier's or Yosemite's returns,
+those master pages need a rewrite, not a tweak — the same lesson Arches taught
+in batch 5.
+
+### [ ] Corrected during research: the RMNP Park & Ride is not a permit bypass
+**Logged 2026-07-28.** A research pass claimed riding the Bear Lake shuttle
+lets you skip the timed entry system. It does not: the Park & Ride sits **5.2
+miles up Bear Lake Road**, and NPS states the corridor permit is required *"to
+access all destinations on Bear Lake Road."* The genuine permit-free route is
+the **Hiker Shuttle from Estes Park**, which starts outside the park and
+carries its own $2 Recreation.gov reservation. **NPS does not spell out a
+shuttle-rider exemption anywhere we could find** — the pages are phrased to
+avoid claiming one.
+
+### [ ] Glacier's 2026 shuttle is a service cut, framed as a change
+**Logged 2026-07-28.** The old free, walk-up, full-length GTSR shuttle is gone.
+The replacement Logan Pass Shuttle costs **$1/person**, requires an advance
+Recreation.gov ticket, runs **Jul 1 – Sep 7 only**, and stops at just six
+places: Apgar, Lake McDonald Lodge, The Loop, Logan Pass, St. Mary VC, Rising
+Sun. **Avalanche Creek, St. Mary Falls and Many Glacier are no longer served**,
+verified directly against the stop list on `shuttle-service-2026.htm` (updated
+June 25, 2026). The Avalanche Creek and St. Mary Falls pages both state that
+they have no shuttle fallback. Re-verify the stop list each spring.
+
+### [ ] Logan Pass 3-hour limit has no published penalty
+**Logged 2026-07-28.** NPS documents the kiosk permit and the 3-hour limit
+(Jul 1 – Sep 7, 2026, enforced 24 hours/day) but states **no citation or towing
+consequence** for overstaying. The page says so rather than inventing one. Same
+gap as RMNP, which publishes no park-specific tow policy at all.
+
+### [ ] Many Glacier's 339 spaces is the only capacity NPS publishes in Glacier
+**Logged 2026-07-28.** Confirmed on `2026-construction-updates-in-glacier-national-park.htm`
+(Feb 18, 2026): *"The Swiftcurrent area now has 339 parking spaces, an increase
+of 171 parking spaces."* Logan Pass, Avalanche Creek, St. Mary Falls and Two
+Medicine have **no published count** — the widely-quoted "236 spaces" at Logan
+Pass traces to a park social media post, not a citable page, and is not used.
+
+Note this figure came from *construction reporting*, not a parking page. Worth
+remembering as a sourcing technique when a park won't publish capacities.
+
+### [ ] Yosemite: two live NPS pages disagree on the Valley fill time
+**Logged 2026-07-28.** `traffic.htm` (updated June 24, 2026) says *"arrive
+before 8 am"*; `yv.htm` (updated June 8, 2026) says *"arrive before 9 am"*.
+Both current. The site uses **8 a.m.** — more recently updated, and the
+conservative choice costs the reader nothing if wrong. Both are disclosed on
+the Valley page.
+
+### [ ] Yosemite Mist Trail weekday closure is live and explicitly provisional
+**Logged 2026-07-28.** Jul 27 – Oct 2026, the Mist Trail above the Vernal Fall
+footbridge is open **Fri–Sun and holidays only**, closed Mon–Thu 7am–3:30pm,
+with the John Muir Trail as the signed detour. NPS's own wording includes
+*"subject to change"*, and the source page was updated the day before we
+verified it. **The most perishable fact in this batch** — re-check before
+trusting it, and drop it entirely once October passes.
+
+### [ ] Cathedral Lakes: the trailhead moved in 2022 and the internet hasn't noticed
+**Logged 2026-07-28.** Guides still describe tiny Tioga Road shoulder parking.
+NPS relocated the trailhead to the **Tuolumne Meadows Visitor Center** lot under
+the Tioga Road Rehabilitation Project, and roadside parking in the meadows is
+now **prohibited**, not merely discouraged. The relocation narrative is sourced
+to Yosemite Conservancy (the funding partner), *not* to an NPS page — the NPS
+place page never restates it. Worth confirming on an NPS source if one appears.
+
+### [ ] Seasonal road dates that reset every year
+**Logged 2026-07-28.** All 2026-specific, all announced by news release rather
+than published in advance:
+- Going-to-the-Sun Road fully opened **June 22, 2026**.
+- Tioga Road opened **May 15, 2026** — NPS called it the earliest in 16 years,
+  so it is explicitly an anomaly, not a baseline.
+- Glacier Point Road opened **May 9, 2026**; tree-removal delays of ~15 min run
+  8am–4pm, **Jul 21 – Aug 2026** (drop this once it lapses).
+- Old Fall River Road (RMNP) opened **July 4, 2026**, closes early October.
+- Trail Ridge Road closes roughly mid-October, weather-dependent.
+
+NPS's own road-opening page states outright that predicting these dates is not
+possible even in late spring. **Never carry a date forward a year.**
+
+### [ ] Restrooms unconfirmed at Glacier Gorge and Glacier Point
+**Logged 2026-07-28.** Neither NPS page states restroom facilities. Both carry
+a hedged string advising you plan for none, rather than a boolean guess — same
+precedent as Icehouse Canyon, Bryce Point and Fairyland Point. Glacier Point
+additionally has **no confirmed drinking water**.
+
+### [ ] Longs Peak mileage is third-party consensus
+**Logged 2026-07-28.** The ubiquitous 14.5 mi / 5,100 ft figures for the
+Keyhole Route could not be confirmed on a readable NPS page — the two official
+PDFs (Keyhole Route Site Bulletin, Longs Peak Area Trail Guide) returned
+unextractable binary. **The page therefore states no mileage or gain for the
+summit route**, describing it qualitatively instead. Add the numbers if the
+PDFs ever become readable or NPS publishes them in HTML.
+
+### [ ] Two Medicine deliberately not built
+**Logged 2026-07-28.** Chosen against St. Mary Falls for this batch because the
+2026–2028 disruption is severe: campground fully closed in 2026, North Shore
+Trailhead inaccessible with a reroute requiring an **unbridged ford**, and road
+plus parking-lot rehab running fall 2026 through late 2027, possibly into 2028.
+Build it when the work finishes — or build it *now* explicitly framed around the
+disruption, which is the higher-intent search either way.
+
+---
+
 ## Contradictions between official sources
 
 Each of these has two live, official, mutually inconsistent pages. The site

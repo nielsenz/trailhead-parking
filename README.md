@@ -7,7 +7,7 @@ rules, enforcement reality, and the realistic plan B. Sister site to
 **horizontal** play: organized around the question ("where do I park?"), not a
 destination, so it can grow across ranges.
 
-**Coverage (August 2026):** thirteen regions, 66 trailheads, 70 pages.
+**Coverage (August 2026):** fifteen regions, 79 trailheads, 83 pages.
 
 - **San Bernardino Mountains (15)** — Lake Arrowhead/Crestline/Running Springs,
   Big Bear, Forest Falls, Grays Peak, and San Bernardino Peak.
@@ -23,8 +23,13 @@ destination, so it can grow across ranges.
   Bryce Point, Fairyland Point, Mossy Cave.
 - **Arches National Park (5)** — timed entry (master), Delicate Arch/Wolfe
   Ranch, Devils Garden, The Windows, Fiery Furnace.
+- **Rocky Mountain National Park (5)** — timed entry (master), Bear Lake,
+  Glacier Gorge, Alpine Visitor Center/Trail Ridge Road, Longs Peak.
+- **Glacier National Park (5)** — entry & Going-to-the-Sun Road (master), Logan
+  Pass, Avalanche Creek/Trail of the Cedars, Many Glacier, St. Mary Falls.
 - **Mount Whitney (1)** — Whitney Portal.
-- **Yosemite National Park (2)** — Valley day-use parking and Glacier Point.
+- **Yosemite National Park (5)** — entry & reservations (master), Valley
+  day-use parking, Glacier Point, Cathedral Lakes, Mist Trail/Happy Isles.
 - **Grand Canyon National Park (2)** — Bright Angel and South Kaibab.
 - **Acadia National Park (1)** — Cadillac Mountain.
 - **Kauai — Haena & Napali Coast (1)** — Kalalau Trailhead.
@@ -51,11 +56,10 @@ own domains from competing on the same "X trailhead parking" SERP.
 
 ## Architecture
 
-Same pure-static pattern as lake-arrowhead (no Flask — that's a Big Bear
-lesson, not a pattern):
+Pure static, with shared build machinery in the sibling `sitekit` package:
 
 ```
-JSON data  →  build.py (Jinja2)  →  dist/  →  Netlify
+JSON data  →  build.py config  →  sitekit + Jinja2  →  dist/  →  Netlify
 ```
 
 - `data/trailheads.json` — GeoJSON FeatureCollection, one feature per
@@ -64,15 +68,15 @@ JSON data  →  build.py (Jinja2)  →  dist/  →  Netlify
   (renders on-page FAQ + `FAQPage` JSON-LD — the AI-referral play), `related`,
   and a `verified` date stamped when facts were last checked.
 - `data/pages.json` — standalone pages (Adventure Pass explainer, About).
-- `templates/` — base/index/hub/detail/filter + `_macros.html` (Leaflet map,
-  badges, JSON-LD emission).
-- `build.py` writes directory-style URLs, `sitemap.xml`, `robots.txt`,
-  `_redirects` (www → non-www 301), and `404.html`.
+- `templates/` — site-specific base, home and 404 templates. Hub, detail,
+  filter and macro templates are inherited from `../sitekit`.
+- `build.py` is site configuration only. `sitekit` writes directory-style
+  URLs, `sitemap.xml`, `robots.txt`, `_redirects` and `404.html`.
 
 ## Build & deploy
 
 ```bash
-uv run --with 'jinja2>=3.1' build.py          # renders into dist/
+uv run python build.py                        # renders into dist/
 python3 -m http.server -d dist 8000            # local preview
 netlify deploy --prod --dir=dist               # ship it
 ```
@@ -105,8 +109,11 @@ so explicitly, and so does each affected trailhead page — our readers arrive
 from the forest pages and will assume the pass travels with them.
 
 One checkable contrast worth keeping accurate: the **$100 non-US-resident
-surcharge** (effective Jan 1 2026) applies at Zion and Bryce, but **not** at
-Arches, which isn't on the 11-park list.
+surcharge** (effective Jan 1 2026) applies at Zion, Bryce, Rocky Mountain,
+Glacier and Yosemite — but **not** at Arches, which isn't on the 11-park list.
+It is waived by an annual or America the Beautiful pass, which is unusual for a
+surcharge and is quoted verbatim from each park's fees page rather than
+paraphrased.
 
 ## Roadmap (researched July 2026)
 
@@ -131,17 +138,27 @@ pass system, sources, and phone calls:
    **Arches requires no timed-entry reservation in 2026** (NPS news release,
    Feb 18 2026), and **Bryce's Visitor Center lot is posted 1-hour**, with
    all-day parkers sent to the Shuttle Station lot in Bryce Canyon City.
-6. ~~**Batch 6 — Famous parks:**~~ ✅ Built 2026-08-02 — Whitney Portal,
-   Yosemite Valley, Glacier Point, Bright Angel, South Kaibab, Cadillac
-   Mountain, and Kalalau Trailhead.
-7. ~~**Batch 7 — Local comparison cluster:**~~ ✅ Built 2026-08-02 — eight
-   Santa Monica Mountains sites. The 15 pages are tagged with
-   `experiment_cohort` so GSC and Tinylytics can compare famous versus
-   less-famous search demand after deployment.
+6. ~~**Batch 6 — Rocky Mountain, Glacier, Yosemite:**~~ ✅ Built 2026-07-28.
+   Three findings inverted their briefs, and two of them the same way:
+   **Glacier requires no vehicle reservation in 2026** (first season since
+   2020) and **Yosemite requires none either** (announced Feb 18, 2026). Only
+   RMNP still gates entry — and it does it with *two* different permits people
+   routinely confuse. Also corrected mid-build: a research claim that RMNP's
+   Park & Ride lets you skip the corridor permit is wrong; NPS says the Bear
+   Lake Road permit covers "all destinations on Bear Lake Road," and the
+   Park & Ride is 5.2 miles up it.
+7. ~~**Batch 7 — Southern California depth:**~~ ✅ Built through 2026-08-02 —
+   sixteen additional trailheads across the San Bernardinos, San Gabriels,
+   San Jacintos and San Diego County, finishing with Grays Peak, San Bernardino
+   Peak and Devil's Punchbowl.
+8. **Batch 8 — Famous vs local:** Built locally 2026-08-02, not yet deployed —
+   seven famous-park pages and eight Santa Monica Mountains pages tagged with
+   `experiment_cohort` so GSC and Tinylytics can compare discovery demand with
+   parking-specific local demand after deployment.
 
-### A note on the three park systems, because readers conflate them
+### A note on the six park systems, because readers conflate them
 
-They are three genuinely different regimes, and the pages say so explicitly:
+Six genuinely different regimes, and the pages say so explicitly:
 
 - **Zion** — shuttle is *mandatory* in season; you cannot drive the Scenic
   Drive Mar 7 – Nov 28.
@@ -149,18 +166,38 @@ They are three genuinely different regimes, and the pages say so explicitly:
   NPS: "In no area of the park is riding the shuttle mandatory."
 - **Arches** — no shuttle at all, and **no timed entry in 2026**. Parking is
   the only gate.
+- **Rocky Mountain** — **two** timed entry permits with different hours and
+  different end dates. Bear Lake Road is gated 5am–6pm; the rest of the park
+  9am–2pm. Buying the wrong one is the batch's signature mistake.
+- **Glacier** — **no vehicle reservation in 2026**, replaced by a *paid* $1
+  ticketed Logan Pass shuttle and a **3-hour parking limit at Logan Pass**
+  enforced 24/7, Jul 1 – Sep 7. The old free hop-on GTSR shuttle is gone, and
+  its replacement's six-stop route no longer serves Avalanche Creek, St. Mary
+  Falls or Many Glacier — a service cut that was never announced as one.
+- **Yosemite** — **no reservation in 2026**, and nothing ticketed replaced it.
+  The gate is entirely the Valley floor, which NPS says fills by 8am.
 
 Readers arriving from the Zion pages assume the Zion rules travel. They don't.
+The 2026 lesson across the newer parks is that a reservation system's absence
+is now as newsworthy as its presence — three of the six have dropped theirs,
+and every one of those decisions is re-made annually.
 
 ### Open items
 
 Unresolved facts, contradictions between official sources, and perishable
 claims are tracked in **[docs/todos.md](docs/todos.md)**, dated as logged.
-Check that file before trusting a page's more specific claims — especially
-**Cedar Creek Falls**, which is closed under an open-ended heat order, and
-**Chantry Flat**, whose road can shut on any given day.
+Check that file before trusting a page's more specific claims — especially the
+recurring heat closures at **Cedar Creek Falls** and **Chantry Flat**, whose
+road can shut on any given day.
 
 Batch 1's carried-over item (Ernie Maxwell permit status) lives there too.
+
+### Why a batch was built
+
+`docs/todos.md` tracks facts that might be wrong. **[experiments/](experiments/)**
+tracks bets that might be misjudged — region choice, cluster shape, page mix —
+written down before the traffic data exists, with the check-back dates that
+would settle them. Starts with batch 6.
 
 ## Analytics
 
