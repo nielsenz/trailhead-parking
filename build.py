@@ -7,33 +7,86 @@ defaults by filename — base.html, index.html and 404.html are site-specific,
 hub/detail/filter/_macros are inherited.
 """
 
-import os
 from datetime import date
 from pathlib import Path
-from urllib.parse import urlencode
 
-from sitekit import Site, build
+from sitekit import AffiliateProgram, Site, build
 
 CURRENT_YEAR = date.today().year
-STAY22_AID = os.environ.get("STAY22_AID", "bigbearmapcom")
+
+# --- Affiliate programs ------------------------------------------------------
+# Declared here rather than hand-built in the CTA function, so an unset id
+# drops the CTA instead of shipping a link that earns nothing. Stay22's
+# publisher id is public and shared across the network, with the environment
+# able to override it; Viator stays disabled until its private account value is
+# supplied. Amazon is wired but renders no block on trailhead pages — a gear
+# search doesn't answer a parking question. It is available to any item that
+# names it in `affiliate_ctas`.
+
+AFFILIATES = {
+    "stay22": AffiliateProgram(
+        key="stay22",
+        label="Stay22",
+        url_template=(
+            "https://www.stay22.com/allez/roam"
+            "?aid={id}&address={target}&campaign=trailheadparking_stays"
+        ),
+        env="STAY22_AID",
+        default_id="bigbearmapcom",
+        disclosure="We earn a commission on lodging bookings.",
+    ),
+    "viator": AffiliateProgram(
+        key="viator",
+        label="Viator",
+        url_template="https://www.viator.com/searchResults/all?text={target}&pid={id}",
+        env="VIATOR_PID",
+        disclosure="We earn a commission on Viator bookings.",
+    ),
+    "amazon": AffiliateProgram(
+        key="amazon",
+        label="Amazon",
+        url_template="https://www.amazon.com/s?k={target}&tag={id}",
+        env="AMAZON_ASSOC_TAG",
+        disclosure="As an Amazon Associate we earn from qualifying purchases.",
+    ),
+}
 
 
-def contextual_stay22_cta(section, item):
-    """Offer nearby lodging only after the page answers the parking question."""
+def contextual_affiliate_ctas(section, item):
+    """Lodging and tours, offered only after the page answers the parking question.
+
+    Returns a list; a program with no partner id contributes nothing rather
+    than rendering a link that earns nothing.
+    """
     if section != "trailheads":
-        return None
-    destination = item.get("address") or f"{item['name']}, {item.get('region', '')}"
-    query = urlencode({
-        "aid": STAY22_AID,
-        "address": destination,
-        "campaign": "trailheadparking_stays",
-    })
-    return {
-        "heading": "Staying near the trailhead?",
-        "body": "Compare nearby lodging after checking the access plan; mountain and park entrances can be much farther from a room than the map first suggests.",
-        "label": "Compare nearby stays",
-        "url": f"https://www.stay22.com/allez/roam?{query}",
-    }
+        return []
+
+    ctas = []
+
+    stay22 = AFFILIATES["stay22"]
+    if stay22.configured:
+        destination = item.get("address") or f"{item['name']}, {item.get('region', '')}"
+        ctas.append({
+            "heading": "Staying near the trailhead?",
+            "body": "Compare nearby lodging after checking the access plan; mountain and park entrances can be much farther from a room than the map first suggests.",
+            "label": "Compare nearby stays",
+            "url": stay22.url(destination),
+        })
+
+    # Tours are worth offering where an outfitter can solve the access problem
+    # the page just described — a shuttle or guided trip sidesteps the lot
+    # entirely. Keyed off region so the search lands on the park, not the lot.
+    viator = AFFILIATES["viator"]
+    region = item.get("region")
+    if viator.configured and region:
+        ctas.append({
+            "heading": f"Guided trips in {region}",
+            "body": "If the lot fills before you can reach it, a guided trip or tour shuttle starts somewhere else entirely — often the simplest way around a capacity gate.",
+            "label": f"See {region} tours",
+            "url": viator.url(f"{region} tours"),
+        })
+
+    return ctas
 
 # Hub cards and the region nav are grouped in this order; a region not listed
 # here still renders, after the known ones. Keep coarse enough that a region
@@ -133,7 +186,8 @@ SITE = Site(
     group_order=REGION_ORDER,
     group_label="region",
     default_marker_emoji="🅿️",
-    extra_globals={"contextual_affiliate_cta": contextual_stay22_cta},
+    affiliate_programs=AFFILIATES,
+    extra_globals={"contextual_affiliate_cta": contextual_affiliate_ctas},
 )
 
 
