@@ -12,6 +12,18 @@ back).
 
 ## Perishable — check these first
 
+### [ ] Adventure Pass seller and purchase-link recheck — October 20, 2026
+**Logged September 19, 2026.** Recheck the nine named seller records, REI and
+MyScenicDrives product links, Big Bear Visitor Center hours, and Recreation.gov
+San Bernardino digital-pass conditions at the first experiment read. See the
+[source record](adventure-pass-buying-sources-2026-09-19.md) and
+[experiment](../experiments/2026-09-19-adventure-pass-buying-guide.md).
+Listings are not live inventory; do not change the copy to promise stock at a
+branch or imply that the San Bernardino digital pass covers other forests.
+Update both visible answers and FAQs when a fact changes, date the recheck,
+and record any treatment change in the experiment. This is a manual task.
+
+
 ### [x] Cedar Creek Falls closure — RESOLVED 2026-08-01
 **Logged 2026-07-20.** Forest Order #02-26-14 (San Diego River Gorge / Cedar
 Creek Falls Closure Area, Palomar Ranger District) took effect **July 14, 2026**

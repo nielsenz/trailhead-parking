@@ -37,7 +37,7 @@ destination, so it can grow across ranges.
   Circle X Ranch, Temescal Gateway, Zuma Canyon, Rocky Oaks, Rancho Sierra
   Vista/Satwiwa, and Paramount Ranch.
 
-Plus the Adventure Pass explainer and About.
+Plus the Adventure Pass buying guide and About.
 
 ## Parking content ownership (network policy)
 
@@ -67,7 +67,7 @@ JSON data  →  build.py config  →  sitekit + Jinja2  →  dist/  →  Netlify
   `lot_size`, `fill_time`, `overflow`, `tow_risk`, …), `sections`, `faq`
   (renders on-page FAQ + `FAQPage` JSON-LD — the AI-referral play), `related`,
   and a `verified` date stamped when facts were last checked.
-- `data/pages.json` — standalone pages (Adventure Pass explainer, About).
+- `data/pages.json` — standalone pages (Adventure Pass buying guide, About).
 - `templates/` — site-specific base, home and 404 templates. Hub, detail,
   filter and macro templates are inherited from `../sitekit`.
 - `build.py` is site configuration only. `sitekit` writes directory-style
@@ -155,7 +155,7 @@ pass system, sources, and phone calls:
    sixteen additional trailheads across the San Bernardinos, San Gabriels,
    San Jacintos and San Diego County, finishing with Grays Peak, San Bernardino
    Peak and Devil's Punchbowl.
-8. **Batch 8 — Famous vs local:** Built locally 2026-08-02, not yet deployed —
+8. **Batch 8 — Famous vs local:** Built 2026-08-02, deployed 2026-08-03 —
    seven famous-park pages and eight Santa Monica Mountains pages tagged with
    `experiment_cohort` so GSC and Tinylytics can compare discovery demand with
    parking-specific local demand after deployment.
@@ -203,8 +203,35 @@ tracks bets that might be misjudged — region choice, cluster shape, page mix �
 written down before the traffic data exists, with the check-back dates that
 would settle them. Starts with batch 6.
 
+## Adventure Pass buying guide — shipped September 19, 2026
+
+The existing [Adventure Pass page](https://trailheadparking.com/adventure-pass/)
+now lists nine officially recorded sellers across five approach routes, with
+addresses, directions, listed pass types, REI product links, and guidance for
+closed or sold-out stores. It distinguishes mailed physical passes from the
+forest-specific San Bernardino digital day pass. Seller listings do not
+establish live stock or hours.
+
+Seven established trailhead pages link to their relevant seller section.
+The shared detail template supports optional section IDs, so these links land
+on headings without a site-specific template fork. Keep those IDs stable.
+
+- [Source checks and maintenance notes](docs/adventure-pass-buying-sources-2026-09-19.md)
+- [Experiment, baseline and deployment record](experiments/2026-09-19-adventure-pass-buying-guide.md)
+- **Next manual read: October 20**, comparing September 20–October 17 with
+  August 22–September 18. No automated follow-up is scheduled.
+
 ## Analytics
 
-Tinylytics (embed in `templates/base.html`). Register the domain in Google
-Search Console **and Bing Webmaster Tools** (AI assistants lean on Bing's
-index, and FAQ-schema pages are what they cite).
+Tinylytics is embedded in `templates/base.html`; Google Search Console is
+accessible through the service account in `../../analytics-queries/`.
+Use that toolkit for live pageviews and search-performance reads. Keep raw
+exports in its ignored `out/` directory and publish only the needed aggregates
+in experiment notes. Bing Webmaster Tools registration is not established by
+these checks.
+
+The Adventure Pass pre-deploy context (August 18–September 16) is 69 Google
+clicks and 3,909 impressions on the canonical page. The visible purchase-query
+subset has 5 clicks and 324 impressions. These 30-day figures are context;
+use the equal 28-day windows in the experiment for the first outcome read.
+Outbound purchase conversions are not currently measured.
