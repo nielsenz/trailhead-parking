@@ -5,92 +5,171 @@
       "type": "Feature",
       "geometry": null,
       "properties": {
-        "name": "Adventure Pass, Explained",
+        "name": "Adventure Pass: Where to Buy & How It Works",
         "slug": "adventure-pass",
         "path": "/adventure-pass/",
         "schema_type": "WebPage",
         "marker_emoji": "🎫",
-        "meta_title": "Adventure Pass: Cost, Where to Buy & Where You Need It (2026)",
-        "meta_description": "The Southern California Adventure Pass, explained: $5/day or $30/year, where to buy one (online, REI/Big 5, gas stations, ranger stations), which national forests require it (Angeles, Cleveland, Los Padres, San Bernardino — including Mt. Baldy and Idyllwild), and where it doesn't work. America the Beautiful covers it.",
-        "card_summary": "$5/day or $30/year to park at most developed Forest Service trailheads. The two-minute version.",
-        "quick_answer": "<strong>If you're parking at a developed Forest Service trailhead in Southern California, assume yes.</strong> The Adventure Pass costs <strong>$5 per day or $30 per year</strong> and hangs from your mirror or sits on the dash. An <strong>America the Beautiful interagency pass covers it</strong>. There's usually no booth — it's honor-system signage, and <strong>rangers do write tickets</strong>.",
+        "meta_title": "Adventure Pass: Where to Buy, Prices & Digital Options (2026)",
+        "meta_description": "Buy a Southern California Adventure Pass: $5 daily or $30 annual. Find sellers by route, REI and Big 5 options, plus the San Bernardino digital day pass.",
+        "card_summary": "Where to buy a $5 daily or $30 annual Adventure Pass, with route-based sellers and a San Bernardino digital option.",
+        "quick_answer": "<strong>Need an Adventure Pass for your hike?</strong> A physical pass costs <strong>$5 daily or $30 annual</strong> for designated fee sites in four Southern California national forests. Buy from a listed seller before heading up, or check the <a href=\"#digital-day-pass\">San Bernardino digital day pass</a> for that forest. A valid America the Beautiful interagency pass already covers Adventure Pass sites.\n\n<a href=\"#where-to-buy\">Find sellers by route</a> · <a href=\"#rei-big-5\">REI &amp; Big 5</a> · <a href=\"#buy-online\">Order a physical pass</a> · <a href=\"#sold-out\">If stores are closed or sold out</a>",
         "badges": [
-          { "label": "$5/day · $30/year", "tone": "info" },
-          { "label": "Interagency pass counts", "tone": "good" },
-          { "label": "Rangers do ticket", "tone": "warn" }
+          {
+            "label": "$5 daily · $30 annual",
+            "tone": "info"
+          },
+          {
+            "label": "Interagency passes accepted",
+            "tone": "good"
+          },
+          {
+            "label": "Seller listings checked Sep 19, 2026",
+            "tone": "info"
+          }
         ],
         "fact_rows": [
-          { "key": "price", "label": "Price" },
-          { "key": "where_buy", "label": "Where to buy" },
-          { "key": "covers", "label": "Also covered by" },
-          { "key": "where_needed", "label": "Where you need it" },
-          { "key": "where_not", "label": "Where you don't" },
-          { "key": "enforcement", "label": "Enforcement" }
+          {
+            "key": "price",
+            "label": "Price"
+          },
+          {
+            "key": "where_buy",
+            "label": "Where to buy"
+          },
+          {
+            "key": "covers",
+            "label": "Also covered by"
+          },
+          {
+            "key": "where_needed",
+            "label": "Where you need it"
+          },
+          {
+            "key": "where_not",
+            "label": "Where you don't"
+          },
+          {
+            "key": "enforcement",
+            "label": "Enforcement"
+          }
         ],
         "price": "$5/day, $30/year",
-        "where_buy": "Online (MyScenicDrives), REI/Big 5, gas stations & convenience stores, ranger stations",
-        "covers": "America the Beautiful (Interagency) annual pass",
-        "where_needed": "Developed fee sites in the Angeles, Cleveland, Los Padres and San Bernardino national forests — most maintained trailhead lots",
-        "where_not": "National parks (Zion, Bryce, Arches); state, county and city parks (Torrey Pines, Lake Poway); private land (Bowen Ranch's $10/person is separate); non-fee roadside areas; driving through without stopping",
-        "enforcement": "Honor-system signage; rangers ticket at popular lots",
+        "where_buy": "Listed local vendors and Forest Service offices; REI or MyScenicDrives for physical passes. San Bernardino also offers a separate digital day pass.",
+        "covers": "Valid America the Beautiful interagency passes",
+        "where_needed": "Designated standard-amenity fee sites in the Angeles, Cleveland, Los Padres and San Bernardino national forests; check the exact site and posted signs.",
+        "where_not": "National, state, county and city parks; private properties; non-fee sites. Camping, wilderness permits and special-use fees may be separate.",
+        "enforcement": "Display your valid pass as instructed; failing to pay a required recreation fee can lead to a citation.",
         "official_url": "https://www.fs.usda.gov/r05/passes/adventure-pass",
-        "verified": "July 31, 2026",
+        "verified": "September 19, 2026",
         "sections": [
           {
-            "heading": "The two-minute version",
-            "body": "The Adventure Pass is the parking fee system for four Southern California national forests — the <strong>Angeles, Cleveland, Los Padres and San Bernardino</strong>. Where it applies — developed fee sites, which in practice means most maintained trailhead lots in those forests — you display a pass in your parked car: <strong>$5 for a day pass, $30 for the annual</strong>, sold at ranger stations and local vendors (many mountain gas stations and general stores carry them).\n\nIf you already have an <strong>America the Beautiful interagency pass</strong> (the $80 national parks annual), you're covered — hang it and go. That's usually the better buy for anyone who visits both parks and forests."
+            "heading": "Where to buy an Adventure Pass near your route",
+            "body": "Choose a stop on your approach, rather than assuming the trailhead sells passes. These businesses are listed in the <a href=\"https://www.arcgis.com/apps/dashboards/2d1b34fe80e948c5be01b3366d14119a\" rel=\"noopener\">Forest Service vendor map</a>, checked September 19, 2026. A listing confirms participation, <strong>not today’s stock or opening hours</strong>. Check with the seller before making a detour; ask specifically for a daily or annual pass. Route labels below are planning suggestions, not road-opening reports.\n\nJump to <a href=\"#mt-baldy\">Mt. Baldy</a> · <a href=\"#azusa-east-fork\">Azusa / East Fork</a> · <a href=\"#big-bear\">Big Bear</a> · <a href=\"#arrowhead-crestline\">Crestline / Running Springs</a> · <a href=\"#idyllwild\">Idyllwild</a>.",
+            "id": "where-to-buy"
           },
           {
-            "heading": "Where people get burned",
-            "body": "Three recurring mistakes. First, assuming no booth means no fee — Adventure Pass sites are honor-system signage with real ranger enforcement, and the popular lots (<a href=\"/trailheads/heart-rock/\">Heart Rock</a>, <a href=\"/trailheads/heaps-peak-arboretum/\">Heaps Peak</a>) get checked. Second, assuming the pass covers everything — <strong>private land is separate</strong>: Bowen Ranch's $10/person fee at <a href=\"/trailheads/deep-creek-hot-springs/\">Deep Creek</a> has nothing to do with the Forest Service. Third, buying a day pass at the trailhead — most fee lots have no on-site sales, so buy before you drive up.\n\nEach trailhead guide on this site says whether the pass applies, so you don't have to guess.\n\nFourth, and increasingly common as people range further afield: <strong>assuming it works outside the national forests.</strong> It doesn't — and that includes national parks, which are a different agency entirely: at <a href=\"/trailheads/zion-visitor-center/\">Zion</a> or <a href=\"/trailheads/arches-timed-entry/\">Arches</a> you pay a park entrance fee, not an Adventure Pass. <a href=\"/trailheads/torrey-pines/\">Torrey Pines</a> is California State Parks, <a href=\"/trailheads/potato-chip-rock/\">Lake Poway</a> is a city park, and neither honors an Adventure Pass — they run their own fees. Nor does the pass have anything to do with a <em>permit</em>: the free Cucamonga Wilderness permit at <a href=\"/trailheads/icehouse-canyon/\">Icehouse Canyon</a> and the $6 Recreation.gov permit at <a href=\"/trailheads/cedar-creek-falls/\">Cedar Creek Falls</a> are separate from whatever goes on your dash."
+            "heading": "Mt. Baldy Road: Icehouse Canyon and Manker Flats",
+            "body": "<strong>Mount Baldy Lodge</strong> — 6777 Mt Baldy Rd, Mt Baldy, CA 91759-9000. Listed for daily and annual passes. <a href=\"https://www.google.com/maps/search/?api=1&query=Mount%20Baldy%20Lodge%206777%20Mt%20Baldy%20Rd%2C%20Mt%20Baldy%2C%20CA%2091759-9000\" rel=\"noopener\">Directions</a>.\n\nThe Lodge is a business, not the Forest Service visitor center. Confirm sales hours before an early start. Buy the day before if your hike begins before it opens; a pass does not replace a wilderness permit or override a closure.",
+            "id": "mt-baldy"
           },
           {
-            "heading": "Where to buy an Adventure Pass",
-            "body": "There's no ticket booth at the trailhead, so you buy the pass ahead of time. There are three practical routes:\n\n<strong>Online (buy before you go).</strong> The most reliable option is <a href=\"https://www.myscenicdrives.com/store/forest-passes/southern-california/daily\" rel=\"noopener\">MyScenicDrives.com</a>, which sells the physical <strong>$5 daily and $30 annual</strong> passes and ships them — order a few days ahead so the annual arrives in time. Recreation.gov also sells digital day-use passes for certain specific areas. Note the physical annual pass has been in and out of stock at some big online retailers, so don't leave it to the last minute.\n\n<strong>Sporting-goods and convenience stores.</strong> Major sporting-goods chains like <strong>REI and Big 5</strong> carry Adventure Passes, and Bass Pro stocks them too. Closer to the mountains, plenty of <strong>gas stations, 7-Elevens, liquor and convenience stores near the freeway off-ramps</strong> sell the $5 day pass — a genuinely common last-minute grab on the drive up. Stock varies, so call ahead if you specifically need the annual.\n\n<strong>Ranger stations and local mountain vendors.</strong> Any <a href=\"https://www.fs.usda.gov/r05/passes/adventure-pass\" rel=\"noopener\">San Bernardino, Angeles, Cleveland or Los Padres National Forest office</a> sells both passes, as do small mountain-town vendors. For <strong>Mt. Baldy</strong>, the Mount Baldy Lodge / Visitor Center on Mt Baldy Road sells them; for <strong>Idyllwild</strong>, try Nomad Ventures or Mountain Center Café along Highway 243 and the Mount San Jacinto ranger office. Many local libraries even loan an annual pass for free.\n\nOne money-saver worth repeating: if you already hold an <strong>America the Beautiful interagency pass ($80/year)</strong>, you don't need to buy an Adventure Pass at all — it's honored at every Adventure Pass site."
+            "heading": "Azusa and East Fork Road",
+            "body": "<strong>Shell</strong> — 1195 W Foothill Blvd, Azusa, CA 91702. Listed for daily and annual passes. <a href=\"https://www.google.com/maps/search/?api=1&query=Shell%201195%20W%20Foothill%20Blvd%2C%20Azusa%2C%20CA%2091702\" rel=\"noopener\">Directions</a>.\n\n<strong>Camp Williams Café</strong> — 24210 E Fork Road #A, Azusa, CA 91702. Listed for daily passes only. <a href=\"https://www.google.com/maps/search/?api=1&query=Camp%20Williams%20Caf%C3%A9%2024210%20E%20Fork%20Road%20%23A%2C%20Azusa%2C%20CA%2091702\" rel=\"noopener\">Directions</a>.\n\nCamp Williams is an East Fork Road stop; the Shell listing is in Azusa before the canyon approach. The vendor map lists only daily passes at Camp Williams, so check another listed seller if you want an annual.",
+            "id": "azusa-east-fork"
           },
           {
-            "heading": "Which forests and areas need it",
-            "body": "The Adventure Pass is a <strong>Southern California</strong> program covering four national forests, and this is where most \"do I need it here?\" confusion lives:\n\n<strong>San Bernardino National Forest</strong> — Lake Arrowhead, Big Bear, Forest Falls, and the San Jacintos around <strong>Idyllwild</strong>. Most developed trailhead lots here are fee sites.\n\n<strong>Angeles National Forest</strong> — the San Gabriels, including <strong>Mt. Baldy</strong>, Icehouse Canyon, East Fork, Switzer Falls and Chantry Flat.\n\n<strong>Cleveland National Forest</strong> — San Diego County backcountry (parts of the Cedar Creek Falls / San Diego River Gorge area).\n\n<strong>Los Padres National Forest</strong> — the Santa Barbara / Ventura backcountry.\n\nWhat it does <em>not</em> cover, no matter how \"outdoorsy\" the spot feels: national parks (Zion, Bryce, Arches — park entrance fee instead), California state and county and city parks (Torrey Pines, Lake Poway), and private land. When in doubt, check the specific <a href=\"/trailheads/\">trailhead's parking guide</a> — every page on this site states exactly which pass or fee that lot requires."
+            "heading": "Big Bear Lake: Village and town stops",
+            "body": "<strong>Big Bear Visitor Center</strong> — 40824 Big Bear Blvd, Big Bear Lake, CA 92315. Listed for daily and annual passes. <a href=\"https://www.google.com/maps/search/?api=1&query=Big%20Bear%20Visitor%20Center%2040824%20Big%20Bear%20Blvd%2C%20Big%20Bear%20Lake%2C%20CA%2092315\" rel=\"noopener\">Directions</a>.\n\nThe <a href=\"https://www.bigbear.com/travel-tools/visitor-center-big-bear-magazine/\" rel=\"noopener\">Visitor Center’s own page</a> confirms daily and annual pass sales, cash or card, and published hours of 9am–5pm daily. Call <a href=\"tel:+19098667000\">909-866-7000</a> to check availability or holiday changes.\n\n<strong>Big 5 Sporting Goods</strong> — 41385 Big Bear Blvd, Big Bear Lake, CA 92315. Listed for daily and annual passes. <a href=\"https://www.google.com/maps/search/?api=1&query=Big%205%20Sporting%20Goods%2041385%20Big%20Bear%20Blvd%2C%20Big%20Bear%20Lake%2C%20CA%2092315\" rel=\"noopener\">Directions</a>.",
+            "id": "big-bear"
+          },
+          {
+            "heading": "Crestline and Running Springs approaches",
+            "body": "<strong>Lake Drive Hardware</strong> — 23895 Lake Drive, Crestline, CA 92325. Listed for daily and annual passes. <a href=\"https://www.google.com/maps/search/?api=1&query=Lake%20Drive%20Hardware%2023895%20Lake%20Drive%2C%20Crestline%2C%20CA%2092325\" rel=\"noopener\">Directions</a>.\n\n<strong>Arrowbear Liquor and Deli</strong> — 32861 Hilltop Blvd, Running Springs, CA 92382. Listed for daily passes only. <a href=\"https://www.google.com/maps/search/?api=1&query=Arrowbear%20Liquor%20and%20Deli%2032861%20Hilltop%20Blvd%2C%20Running%20Springs%2C%20CA%2092382\" rel=\"noopener\">Directions</a>.\n\nChoose the stop that fits your drive: Crestline for the Heart Rock approach, or Running Springs / Arrowbear along Highway 18. The Arrowbear listing is daily-only; do not assume it carries the annual pass.",
+            "id": "arrowhead-crestline"
+          },
+          {
+            "heading": "Highway 243: Idyllwild and Humber Park",
+            "body": "<strong>Pine Cove Market</strong> — 23235 Hwy 243, Idyllwild, CA 92549. Listed for daily and annual passes. <a href=\"https://www.google.com/maps/search/?api=1&query=Pine%20Cove%20Market%2023235%20Hwy%20243%2C%20Idyllwild%2C%20CA%2092549\" rel=\"noopener\">Directions</a>.\n\n<strong>Shell</strong> — 26128 CA-243, Idyllwild-Pine Cove, CA 92549. Listed for daily passes only. <a href=\"https://www.google.com/maps/search/?api=1&query=Shell%2026128%20CA-243%2C%20Idyllwild-Pine%20Cove%2C%20CA%2092549\" rel=\"noopener\">Directions</a>.\n\nPine Cove is north of central Idyllwild on Highway 243. Choose a stop that fits your approach before continuing to Humber Park. A parking pass and any required wilderness permit are separate.",
+            "id": "idyllwild"
+          },
+          {
+            "heading": "Does REI or Big 5 sell Adventure Passes?",
+            "body": "<strong>REI lists both versions:</strong> <a href=\"https://www.rei.com/product/810590/southern-california-daily-forest-adventure-pass\" rel=\"noopener\">$5 daily Adventure Pass</a> and <a href=\"https://www.rei.com/product/810592/southern-california-annual-forest-adventure-pass\" rel=\"noopener\">$30 annual Adventure Pass</a>. Select your store to check pickup availability, or check delivery timing before ordering. A product listing does not establish stock at every store.\n\n<strong>Big 5 has participating locations.</strong> The Forest Service lists its Big Bear Lake store above for daily and annual passes. Use the <a href=\"https://www.arcgis.com/apps/dashboards/2d1b34fe80e948c5be01b3366d14119a\" rel=\"noopener\">official vendor map</a> to find other participating branches, then confirm with that branch. Do not assume every Big 5 has either pass in stock.",
+            "id": "rei-big-5"
+          },
+          {
+            "heading": "Need a pass today? San Bernardino’s digital day pass",
+            "body": "The <a href=\"https://www.recreation.gov/activitypass/AP21330\" rel=\"noopener\">official San Bernardino National Forest Day Use Pass</a> is a separate digital option for that forest’s standard-amenity fee sites. Check the location, date, vehicle and current price on Recreation.gov before paying. <strong>Do not treat this forest-specific product as a four-forest Adventure Pass.</strong>\n\nIt is tied to the selected date and vehicle and expires at 11:59pm that day. Recreation.gov recommends printing it when buying ahead; for an on-site purchase, compliance is checked by license plate. Buy before losing service and follow the display instructions.\n\nA valid interagency pass covers the same standard-amenity fees, so check what you already hold before buying. Neither pass guarantees a parking space or covers campground charges or separate permits.",
+            "id": "digital-day-pass"
+          },
+          {
+            "heading": "Buy online: physical daily and annual passes",
+            "body": "The Forest Service links to MyScenicDrives for <a href=\"https://www.myscenicdrives.com/store/forest-passes/southern-california/daily\" rel=\"noopener\">physical daily passes ($5)</a> and <a href=\"https://www.myscenicdrives.com/store/forest-passes/southern-california/annual\" rel=\"noopener\">physical annual passes ($30)</a>. REI also lists both. <strong>A shipped pass is not an instant download.</strong>\n\n<a href=\"https://www.myscenicdrives.com/store/frequently-asked-questions\" rel=\"noopener\">MyScenicDrives’ delivery FAQ</a> says its forest passes arrive by mail, cannot be printed, and cannot be replaced by an order receipt. Check shipping charges and the estimated arrival date at checkout. For a same-day trip, choose an in-person seller or an applicable official digital product instead.",
+            "id": "buy-online"
+          },
+          {
+            "heading": "If stores are closed or passes are sold out",
+            "body": "First, check whether you already have a valid America the Beautiful interagency pass. Otherwise, find a second seller in the <a href=\"https://www.arcgis.com/apps/dashboards/2d1b34fe80e948c5be01b3366d14119a\" rel=\"noopener\">Forest Service vendor map</a> and confirm the pass type and hours before driving there.\n\nFor San Bernardino fee sites, check the <a href=\"#digital-day-pass\">official digital day option</a>. For another forest, use that forest’s official fee instructions; do not buy the San Bernardino product and assume it transfers. If you cannot obtain the required pass, choose a confirmed non-fee destination or change your plans. An order receipt, a closed shop or a full lot does not authorize parking.",
+            "id": "sold-out"
+          },
+          {
+            "heading": "Price, coverage and which pass you need",
+            "body": "The <a href=\"https://www.fs.usda.gov/r05/passes/adventure-pass\" rel=\"noopener\">Forest Service’s Adventure Pass rules</a> list the physical daily pass at $5 and the annual at $30, valid for 12 months from the purchase month. At those prices, six daily passes cost the same as one annual; the annual costs less starting with a seventh fee-paying day within its validity period.\n\nThe pass covers designated standard-amenity fee sites in the <strong>Angeles, Cleveland, Los Padres and San Bernardino</strong> national forests. It is not required at every trailhead or roadside stop. Check the destination’s fee notice and posted signs. Valid America the Beautiful interagency passes are accepted wherever the Adventure Pass is required; follow the instructions for your pass.\n\nNational parks, California state parks, county and city parks, and private properties use their own fee systems. An Adventure Pass does not pay those charges or replace a separate wilderness permit. Check your <a href=\"/trailheads/\">trailhead parking guide</a> and the official destination page before leaving.",
+            "id": "pass-rules"
           }
         ],
         "faq": [
           {
             "q": "How much is an Adventure Pass?",
-            "a": "$5 for a day pass, $30 for an annual. An America the Beautiful interagency pass ($80/year) also covers Adventure Pass sites."
+            "a": "The physical Southern California Adventure Pass costs $5 daily or $30 annual. The annual is valid for 12 months from the purchase month. Online delivery charges may be extra. A valid America the Beautiful interagency pass also covers Adventure Pass sites."
           },
           {
-            "q": "Where do I buy an Adventure Pass?",
-            "a": "Ranger stations and local vendors — many mountain-town gas stations and general stores sell them. Most trailhead lots have no on-site sales, so buy one before driving to the trailhead."
+            "q": "Where can I buy an Adventure Pass near me?",
+            "a": "Use the Forest Service vendor map and the route-based seller list above. Named options include Mount Baldy Lodge, Big Bear Visitor Center, Lake Drive Hardware in Crestline and Pine Cove Market near Idyllwild. Confirm opening hours and daily or annual stock before making a special trip."
           },
           {
-            "q": "Can I buy an Adventure Pass online?",
-            "a": "Yes. MyScenicDrives.com sells the physical $5 daily and $30 annual passes and ships them — order a few days ahead so it arrives in time. Recreation.gov also offers digital day-use passes for certain specific areas. If you need it same-day, buy in person instead."
+            "q": "Does REI sell Adventure Passes?",
+            "a": "REI lists the $5 daily and $30 annual physical Adventure Pass. Check the selected store’s pickup availability or the delivery estimate; the listing does not guarantee stock at every location."
           },
           {
-            "q": "Where can I buy an Adventure Pass in person near me?",
-            "a": "Sporting-goods stores like REI and Big 5, plus Bass Pro, carry them, and many gas stations, 7-Elevens and convenience stores near the freeway off-ramps sell the $5 day pass. Forest Service ranger stations sell both the daily and annual. Stock varies by store, so call ahead if you specifically need the annual."
+            "q": "Does Big 5 sell Adventure Passes?",
+            "a": "Participating Big 5 branches appear in the Forest Service vendor map. The Big Bear Lake branch at 41385 Big Bear Blvd is listed for daily and annual passes. Confirm directly with your chosen branch before driving there."
+          },
+          {
+            "q": "Can I buy an Adventure Pass online and use it today?",
+            "a": "A physical pass ordered from MyScenicDrives must arrive by mail; its order receipt is not a pass. San Bernardino National Forest separately offers an official digital day pass through Recreation.gov for its own fee sites. Check the exact forest, date and vehicle before buying."
+          },
+          {
+            "q": "Does the San Bernardino digital day pass work in Angeles National Forest?",
+            "a": "Do not use the San Bernardino product for Angeles National Forest. It is forest-specific, unlike the physical four-forest Adventure Pass. Follow Angeles National Forest’s official fee instructions for your destination."
           },
           {
             "q": "Where do I buy an Adventure Pass for Mt. Baldy or Idyllwild?",
-            "a": "For Mt. Baldy, the Mount Baldy Lodge/Visitor Center on Mt Baldy Road sells passes. For Idyllwild, try Nomad Ventures or Mountain Center Café along Highway 243, or the Mount San Jacinto ranger office. Both areas are also covered by an America the Beautiful pass."
+            "a": "The Forest Service vendor map lists Mount Baldy Lodge at 6777 Mt Baldy Rd and Pine Cove Market at 23235 Hwy 243 near Idyllwild for daily and annual passes. Confirm sales hours and stock before leaving. These purchases do not replace a required wilderness permit."
           },
           {
-            "q": "Do rangers actually check for the pass?",
-            "a": "Yes, especially at popular lots like Heart Rock and Heaps Peak. The sites are honor-system signage backed by ranger citations."
-          },
-          {
-            "q": "Does the Adventure Pass cover Deep Creek Hot Springs?",
-            "a": "Not on the Bowen Ranch side — that's private property with its own $10/person cash fee. The free Bradford Ridge roadside off Hwy 173 isn't a designated fee site either."
-          },
-          {
-            "q": "Which national forests require an Adventure Pass?",
-            "a": "Four Southern California forests: the San Bernardino (Lake Arrowhead, Big Bear, Idyllwild), Angeles (San Gabriels, including Mt. Baldy), Cleveland (San Diego County backcountry), and Los Padres (Santa Barbara/Ventura backcountry). It does not apply in national, state, county or city parks."
+            "q": "Is an Adventure Pass required at every Southern California trailhead?",
+            "a": "No. It applies at designated standard-amenity fee sites in the Angeles, Cleveland, Los Padres and San Bernardino national forests. Check your exact destination and posted fee signs. Other parks and private properties have separate rules."
           }
         ],
         "related": [
-          { "label": "All trailhead parking guides", "href": "/trailheads/" },
-          { "label": "Buy online (MyScenicDrives)", "href": "https://www.myscenicdrives.com/store/forest-passes/southern-california/daily" },
-          { "label": "Official pass info (fs.usda.gov)", "href": "https://www.fs.usda.gov/r05/passes/adventure-pass" }
+          {
+            "label": "Official Adventure Pass prices and rules",
+            "href": "https://www.fs.usda.gov/r05/passes/adventure-pass"
+          },
+          {
+            "label": "Find a seller: Forest Service vendor map",
+            "href": "https://www.arcgis.com/apps/dashboards/2d1b34fe80e948c5be01b3366d14119a"
+          },
+          {
+            "label": "San Bernardino digital day pass: official purchase page",
+            "href": "https://www.recreation.gov/activitypass/AP21330"
+          },
+          {
+            "label": "All trailhead parking guides",
+            "href": "/trailheads/"
+          }
         ]
       }
     },

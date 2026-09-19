@@ -1,0 +1,78 @@
+{
+  "checked": "2026-09-19",
+  "source": "https://services1.arcgis.com/gGHDlz6USftL5Pau/arcgis/rest/services/VendorLocations_PublicVIEWLayer/FeatureServer/2",
+  "vendors": [
+    {
+      "ObjectID": 573,
+      "Business_Name": "Big 5 Sporting Goods",
+      "AddressCleaned": "41385 Big Bear Blvd, Big Bear Lake, CA 92315",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Second Vehicle Pass $5.00\nAdventure Daily Pass $5.00\nAdventure Annual Pass $30.00"
+    },
+    {
+      "ObjectID": 606,
+      "Business_Name": "Arrowbear Liquor and Deli",
+      "AddressCleaned": "32861 Hilltop Blvd, Running Springs, CA 92382",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Daily Pass $5.00"
+    },
+    {
+      "ObjectID": 608,
+      "Business_Name": "Big Bear Visitor Center",
+      "AddressCleaned": "40824 Big Bear Blvd, Big Bear Lake, CA 92315",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Second Vehicle Pass $5.00\nAdventure Daily Pass $5.00\nAdventure Annual Pass $30.00"
+    },
+    {
+      "ObjectID": 612,
+      "Business_Name": "Camp Williams Café",
+      "AddressCleaned": "24210 E Fork Road #A, Azusa, CA 91702",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Daily Pass $5.00"
+    },
+    {
+      "ObjectID": 613,
+      "Business_Name": "Shell",
+      "AddressCleaned": "1195 W Foothill Blvd, Azusa, CA 91702",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Second Vehicle Pass $5.00\nAdventure Daily Pass $5.00\nAdventure Annual Pass $30.00"
+    },
+    {
+      "ObjectID": 633,
+      "Business_Name": "Shell",
+      "AddressCleaned": "26128 CA-243, Idyllwild-Pine Cove, CA 92549",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Daily Pass $5.00"
+    },
+    {
+      "ObjectID": 640,
+      "Business_Name": "Lake Drive Hardware",
+      "AddressCleaned": "23895 Lake Drive, Crestline, CA 92325",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Second Vehicle Pass $5.00\nAdventure Daily Pass $5.00\nAdventure Annual Pass $30.00"
+    },
+    {
+      "ObjectID": 642,
+      "Business_Name": "Mount Baldy Lodge",
+      "AddressCleaned": "6777 Mt Baldy Rd, Mt Baldy, CA 91759-9000",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Second Vehicle Pass $5.00\nAdventure Daily Pass $5.00\nAdventure Annual Pass $30.00"
+    },
+    {
+      "ObjectID": 644,
+      "Business_Name": "Pine Cove Market",
+      "AddressCleaned": "23235 Hwy 243, Idyllwild, CA 92549",
+      "IsActive": "Yes",
+      "ForestName": "National Forest Adventure Pass",
+      "ForestProduct": "Adventure Second Vehicle Pass $5.00\nAdventure Daily Pass $5.00\nAdventure Annual Pass $30.00"
+    }
+  ]
+}
