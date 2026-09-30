@@ -55,3 +55,13 @@ Directions and official-source clicks each emit one expected Tinylytics request
 using the actual embed with collector calls intercepted locally. No claim of
 analytics dashboard ingestion or bookings. Clean committed sources used for
 release; unrelated working-tree notes excluded.
+
+### Published result
+
+- Site content: `5bc2947`; shared Sitekit: `d625203`.
+- Production deploy: `6abd86f045a0d5aab4245b4b`, September 30, 2026.
+- All three guides, Adventure Pass and the new tracking asset returned 200 and
+  matched the clean build byte-for-byte. Only the three detail pages and their
+  directory cards have changed main content; Adventure Pass remains unchanged.
+- Both site releases passed 14 responsive page checks and eight click-transport
+  checks in total. No runtime JavaScript errors in the tested pages.
