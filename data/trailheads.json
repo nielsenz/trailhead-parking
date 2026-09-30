@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.3060,
-          34.2570
+          -117.306,
+          34.257
         ]
       },
       "properties": {
@@ -380,7 +380,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1680,
+          -117.168,
           34.2667
         ]
       },
@@ -1013,6 +1013,10 @@
         "verified": "July 20, 2026",
         "sections": [
           {
+            "heading": "Before a wet-weather trip",
+            "body": "Read the <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/east-fork-day-use-parking-trailhead\">official trailhead notice</a> and <a href=\"https://www.fs.usda.gov/r05/angeles/alerts\">current Angeles alerts</a>. The first three miles follow a rocky stream bottom with several crossings. The Forest Service advises against crossing during rainy conditions because water can be swift. An open parking lot is not a clearance to cross.\n\nThe trailhead is open 24 hours, but that is an access schedule, not a recommendation to start or cross water in darkness. Plan around daylight and the conditions for the entire outing."
+          },
+          {
             "heading": "The pass is the trap",
             "body": "Almost everything about this trailhead is forgiving — <strong>open 24 hours</strong>, a vault toilet, a paved drive right to the end of Camp Bonita Road — except the one thing people leave to chance. An <a href=\"/adventure-pass/\">Adventure Pass</a> or Interagency pass has to be on the dash, and <strong>nothing at the trailhead sells one</strong>. The Forest Service's San Gabriel Canyon Gateway Info Site / fee station at 15200 N San Gabriel Canyon Road in Azusa sells them, but it's <strong>weekends only, roughly 8am–4pm, cash</strong>. Miss that window and you're driving back to a sporting-goods store in the valley.\n\nOn spaces, we'll say what the Forest Service says and nothing more: <strong>parking is limited, park only in designated spots, and don't block roadways, gates, or dumpsters</strong>. No agency publishes a capacity number for this lot, so we won't invent one. What hikers consistently report is the shape of the problem — the designated spaces go early on warm weekends, and 5:30am arrivals are not unusual for the Bridge to Nowhere crowd."
           },
@@ -1022,7 +1026,7 @@
           },
           {
             "heading": "Plan B",
-            "body": "There is no sanctioned overflow lot. When the designated spaces are gone, cars line the approach road — that still requires a displayed pass, and the Forest Service's own instruction is to keep roadways, gates, and the dumpster area clear. Blocking any of those is how a long river day ends with a citation.\n\nThe real plan B is temporal, not spatial: this is a hot, exposed, river-bottom hike that most people start at dawn anyway. <strong>Come on a weekday, or start before sunrise.</strong> If you arrive at 10am on a July Saturday to a full lot, the honest move is to drive twenty minutes to another canyon rather than circle. And skip it entirely after rain — the first three miles follow the streambed with repeated crossings, and swift water here has killed people."
+            "body": "The official instruction is to use designated or legal parking spots and keep roads, gates, trailheads, dumpsters and authorized-vehicle areas clear. A displayed pass does not make an obstructing space legal. If no legal space is available, leave and choose another destination after checking its conditions. Avoid this route in rainy conditions because it requires repeated stream crossings."
           }
         ],
         "faq": [
@@ -1041,6 +1045,10 @@
           {
             "q": "What time does the East Fork trailhead parking fill up?",
             "a": "The lot is open 24 hours, but hiker reports on warm-season weekends describe designated spaces filling before 8am, with some arriving around 5:30am. Weekdays are dramatically easier."
+          },
+          {
+            "q": "Is Bridge to Nowhere a good rainy-day hike?",
+            "a": "The Forest Service advises against crossing the stream in rainy conditions because of swift water. The route follows the stream bottom and crosses repeatedly; an open parking lot does not make those crossings safe."
           }
         ],
         "related": [
@@ -1056,7 +1064,14 @@
             "label": "Official East Fork trailhead page (fs.usda.gov)",
             "href": "https://www.fs.usda.gov/r05/angeles/recreation/east-fork-day-use-parking-trailhead"
           }
-        ]
+        ],
+        "alert": {
+          "tone": "warn",
+          "heading": "Autumn and winter access check — September 30, 2026",
+          "checked": "September 30, 2026",
+          "source": "https://www.fs.usda.gov/r05/angeles/recreation/east-fork-day-use-parking-trailhead",
+          "body": "The Forest Service lists the parking trailhead as open 24 hours, with limited parking and no potable water. The route involves repeated stream crossings; the agency advises against crossing during rainy conditions because of swift water. Check the forecast and current alerts before choosing this trip."
+        }
       }
     },
     {
@@ -1072,74 +1087,66 @@
         "name": "Chantry Flat (Big Santa Anita Canyon)",
         "slug": "chantry-flats",
         "region": "San Gabriel Mountains",
-        "meta_title": "Chantry Flat Parking 2026: Open Again, Gate 6am–8pm, Fills at Dawn",
-        "meta_description": "Chantry Flat is open in 2026 after the Bobcat and Eaton Fire closures — but the gate runs 6am–8pm, the lots fill before sunrise on weekends, road parking is ticketed if you're over the white line, and the Mt. Wilson side is still inside a Forest Service closure order.",
-        "card_summary": "Open again after two fire closures. Gate 6am–8pm, lots gone before sunrise on weekends, and the Mt. Wilson side is still closed through 2027.",
-        "quick_answer": "<strong>Yes, it's open — and that's the recent news, not the permanent state.</strong> Chantry Flat reopened in October 2024 after the Bobcat Fire, closed again within months for the January 2025 Eaton Fire, and reopened in <strong>April 2025</strong>. In July 2026 the road is open, the <strong>gate runs 6am–8pm</strong>, and an <a href=\"/adventure-pass/\"><strong>Adventure Pass</strong></a> ($5/day, $30/year) is required. The lots fill <strong>before sunrise</strong> on weekends. Two catches: the Forest Service warns the road <strong>may close for safety at any time</strong>, and the Mt. Wilson side of the canyon is still inside the <strong>Eaton Fire Area Closure through December 31, 2027</strong>.",
+        "meta_title": "Chantry Flat Parking 2026: Gate Hours, Passes & Road Access",
+        "meta_description": "Plan Chantry Flat parking: 6am–8pm day-use hours, required passes, road-status checks and nearby trail restrictions. Access reviewed September 30, 2026.",
+        "card_summary": "Picnic area listed open; road access can change independently. Day-use hours 6am–8pm, with an Adventure Pass or Interagency pass.",
+        "quick_answer": "<strong>Check the road before driving up.</strong> The Forest Service lists Chantry Flat Picnic Area as open on September 30, 2026, but says the road can close for safety even when the picnic area and nearby trails are open. Day-use hours are <strong>6am–8pm</strong>; allow time to reach the bottom of the canyon before 8pm. Bring an <a href=\"/adventure-pass/\">Adventure Pass</a> ($5/day or $30/year) or an accepted Interagency pass.",
         "badges": [
           {
-            "label": "Open — but road can close anytime",
+            "label": "Check road separately",
             "tone": "warn"
           },
           {
-            "label": "Lots full before sunrise weekends",
-            "tone": "bad"
+            "label": "Day use 6am–8pm",
+            "tone": "info"
           },
           {
-            "label": "Flush toilets + drinking water",
-            "tone": "good"
+            "label": "Pass required",
+            "tone": "info"
           }
         ],
         "trail_served": "Sturtevant Falls, Sturtevant Trail & Loop, First Water, Gabrielino National Recreation Trail, Upper and Lower Winter Creek — all reported open. Mt. Wilson Trail is a separate Sierra Madre trailhead, not this one",
         "fee": "Adventure Pass $5/day or $30/year; Interagency passes accepted",
         "lot_size": "Upper and lower paved lots plus road spaces; no official capacity published",
-        "fill_time": "Weekends: before the 6am gate opening — hikers queue at the gate",
-        "overflow": "Road spaces below the lots (entirely behind the white line), or Adams Pack Station's paid parking, reported around $25",
-        "tow_risk": "Forest Service tickets vehicles over the white line; anything blocking the road gets towed",
+        "fill_time": "No official fill time published; parking availability is not guaranteed.",
+        "overflow": "Use signed legal spaces only. Confirm any private parking option with its operator.",
+        "tow_risk": "Follow posted restrictions; keep the road, gates and emergency access clear.",
         "restrooms": true,
-        "road_access": "Paved Santa Anita Canyon Rd (Chantry Flat Rd) from Santa Anita Ave in Arcadia, ~4.6 mi; gate controlled by the City of Sierra Madre",
-        "best_season": "Winter and spring for the waterfall; year-round access, weather permitting",
+        "road_access": "Santa Anita Canyon Road from North Santa Anita Avenue in Arcadia; Forest Service directions describe a five-mile drive. Sierra Madre controls the gate; check current road access.",
+        "best_season": "Weather and road access vary; check conditions before an autumn or winter trip.",
         "address": "End of Santa Anita Canyon Road, Arcadia, CA 91006",
         "official_url": "https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area",
-        "verified": "July 20, 2026",
+        "verified": "September 30, 2026",
         "sections": [
           {
-            "heading": "Open — with an asterisk you should actually read",
-            "body": "Big Santa Anita Canyon spent four years mostly shut. The 2020 Bobcat Fire closed it; the road repairs finally let it reopen in <strong>October 2024</strong>; the <strong>Eaton Fire in January 2025</strong> slammed it shut again within three months; the Forest Service reopened Chantry Flat along with several other trails in <strong>April 2025</strong>. As of July 2026 it's open, and hikers report Sturtevant Falls running.\n\nThe asterisk is in the Forest Service's own language: the roadway into Chantry Flat <em>\"may be closed to vehicles for safety reasons at any time in this steep environment, even if the picnic area and adjacent hiking trails are open to the public to hike in.\"</em> That isn't boilerplate — the road is managed by <strong>three different entities</strong>: the City of Sierra Madre controls the gate, LA County maintains most of the pavement, and the Forest Service owns a short section. Repairs and storm damage can shut the drive with no notice and no coordination with the trail status. Check the <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area\" rel=\"noopener\">official Chantry Flat page</a> or call the LA Gateway District at (818) 899-1900 the morning you go."
+            "heading": "Check three things before departure",
+            "body": "<strong>Road:</strong> read the <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area\">official Chantry Flat notice</a>. Sierra Madre controls the gate, Los Angeles County maintains most of the road, and the Forest Service manages the upper section. A picnic-area “open” label does not guarantee you can drive there.\n\n<strong>Trail:</strong> check <a href=\"https://www.fs.usda.gov/r05/angeles/alerts\">Angeles National Forest alerts</a> and your intended route. The Chantry page lists First Water, Sturtevant, Gabrielino, and Upper and Lower Winter Creek as open, but asks visitors to stay off Zion Trail while work remains. It also lists a closure on the Sierra Madre section of Mt. Wilson Trail below Upper Winter Creek. Do not infer access to adjoining trails from the picnic-area status.\n\n<strong>Daylight and gate:</strong> published day-use hours are 6am–8pm. Shorter winter days require an earlier turnaround even if the gate remains open."
           },
           {
-            "heading": "Parking: the gate is the whole game",
-            "body": "Day-use hours are <strong>6am to 8pm</strong>, and on weekends the queue forms at the gate before it opens. There are upper and lower paved lots at the flat plus road spaces on the way up; no agency publishes a space count and we're not going to guess one. What's consistent across every source is that <strong>they're all gone early on weekend mornings</strong> — this is the closest real waterfall hike to a metro area of thirteen million people, reached by one two-lane road.\n\nIf you park on the road below the lots, the rule is specific and enforced: your car must be <strong>entirely behind the white line</strong> or the Forest Service will ticket it, and anything narrowing the road gets towed. An <a href=\"/adventure-pass/\">Adventure Pass</a> or Interagency pass goes on the dash wherever you end up. On the plus side, this is a genuinely developed site — <strong>flush toilets and drinking fountains at both lots</strong>, picnic tables and grills."
+            "heading": "Passes, parking and facilities",
+            "body": "An <a href=\"/adventure-pass/\">Adventure Pass</a> or accepted Interagency pass is required. The Forest Service lists Adams Pack Station as a seller; confirm opening hours and stock before relying on an on-site purchase.\n\nUse signed legal spaces and leave room for emergency access. The official page does not publish a lot capacity or guaranteed arrival time. It lists toilets and drinking fountains, but bring water in case a facility is unavailable."
           },
           {
-            "heading": "What's still closed up here",
-            "body": "Don't plan a Mt. Wilson summit from this canyon without checking first. The <strong>Eaton Fire Area Closure (Forest Order 05-01-26-04) runs through December 31, 2027</strong> and covers the Mount Wilson Toll Road, Idlehour, Castle Canyon, the Sam Merrill trails, Echo Mountain, and both Mount Lowe trails.\n\nSeparately — and this trips people up because of the name — the <strong>Mt. Wilson Trail is not a Chantry Flat trail at all</strong>. It starts in Sierra Madre off Mira Monte Avenue, miles away, with its own street parking. Volunteers rebuilt 24 damaged sections after the Eaton Fire and the <strong>lower ~3.5 miles reopened</strong> in time for the Mount Wilson Trail Race to return in May 2026, but the upper trail remains inside the closure. A hiker died on the reopened lower section in May 2026 after a fall near the fixed-rope stretch; it is not the casual walk the reopening headlines implied."
-          },
-          {
-            "heading": "Plan B",
-            "body": "Three real options when you arrive to a full flat. <strong>One:</strong> park on the road below, entirely behind the white line, and walk up. <strong>Two:</strong> <a href=\"https://adamspackstation.com/\" rel=\"noopener\">Adams Pack Station</a> at the flat sells paid parking — reported around <strong>$25</strong> — which also buys you a snack bar and the resident donkeys. <strong>Three:</strong> leave. There's no third lot, and circling a full canyon road with a gate at the bottom is how people burn an hour.\n\nIf the gate is shut when you get there, don't improvise on the residential streets of Arcadia and Sierra Madre below — head for <a href=\"/trailheads/switzer-falls/\">Switzer Falls</a> instead, which is about forty minutes west and serves the same waterfall itch from a different canyon."
+            "heading": "If the road is shut or parking is full",
+            "body": "Choose another destination only after checking its own road and trail notices. Do not block the gate or assume nearby residential streets provide authorized overflow. For advance questions, the Los Angeles Gateway District is <a href=\"tel:+18188991900\">(818) 899-1900</a>; published office hours are weekdays, with a midday break and holiday closures."
           }
         ],
         "faq": [
           {
             "q": "Is Chantry Flat open in 2026?",
-            "a": "Yes. It reopened in April 2025 after the Eaton Fire closure, and the road and picnic area are open as of July 2026 with day-use hours of 6am to 8pm. The Forest Service cautions the road may close for safety at any time, so confirm before driving up."
+            "a": "The Forest Service lists the picnic area as open when checked September 30, 2026. The road may close independently for safety, so check current road and trail notices before driving."
           },
           {
-            "q": "What time do you need to arrive at Chantry Flat to get parking?",
-            "a": "On weekends, before the 6am gate opening — hikers routinely queue at the gate. Weekdays are far easier. There's no published space count, but every lot at the flat fills early on busy mornings."
+            "q": "What time does the Chantry Flat gate close?",
+            "a": "Published day-use hours are 6am–8pm. The Forest Service says to leave enough time to drive to the bottom of the canyon and exit before 8pm."
           },
           {
-            "q": "Can you park on the road at Chantry Flat?",
-            "a": "Yes, below the lots, but your vehicle must be entirely behind the white line or the Forest Service will cite it, and anything blocking the road gets towed. An Adventure Pass is still required."
-          },
-          {
-            "q": "Is Sturtevant Falls open?",
-            "a": "Yes — Sturtevant Falls, the Sturtevant Trail and Loop, First Water, the Gabrielino Trail, and the Upper and Lower Winter Creek trails have been reported open in 2026. The Mount Wilson Toll Road and the Eaton Fire closure area to the west remain closed through December 31, 2027."
+            "q": "What time guarantees parking at Chantry Flat?",
+            "a": "No arrival time guarantees parking, and the official page does not publish a lot capacity or fill time. Use signed legal spaces and have another plan if the road is closed or the lot is full."
           },
           {
             "q": "Do you need an Adventure Pass at Chantry Flat?",
-            "a": "Yes — $5 per vehicle per day or $30 per year, with America the Beautiful Interagency passes also accepted. It applies in the lots and on the road spaces alike."
+            "a": "Yes: $5 per vehicle per day or $30 annually. Accepted Interagency passes are an alternative. The Forest Service lists Adams Pack Station as a seller; confirm its hours and stock before relying on it."
           }
         ],
         "related": [
@@ -1152,7 +1159,7 @@
             "href": "/trailheads/switzer-falls/"
           },
           {
-            "label": "Mt. Wilson Trail (Sierra Madre) — lower section reopened",
+            "label": "Mt. Wilson Trail — check its separate access notice",
             "href": "/trailheads/mount-wilson-trail/"
           },
           {
@@ -1163,7 +1170,14 @@
             "label": "Eaton Fire Area Closure order (fs.usda.gov)",
             "href": "https://www.fs.usda.gov/r05/angeles/alerts/eaton-fire-area-closure"
           }
-        ]
+        ],
+        "alert": {
+          "tone": "warn",
+          "heading": "Autumn and winter access check — September 30, 2026",
+          "checked": "September 30, 2026",
+          "source": "https://www.fs.usda.gov/r05/angeles/recreation/chantry-flat-picnic-area",
+          "body": "The Forest Service lists the picnic area as open, with day-use hours of 6am–8pm. The access road can close independently for safety. Check the road and your specific trail before departure; leave enough time to exit the canyon before 8pm."
+        }
       }
     },
     {
@@ -1319,15 +1333,15 @@
           },
           {
             "heading": "Which permit, though — and this is where it gets messy",
-            "body": "The Cucamonga Wilderness straddles two national forests, and each runs its own system.\n\n<strong>Staying in the Angeles National Forest</strong> — Icehouse Saddle, Ontario Peak, the Three T's — is the easy case: a <strong>self-issue permit from the brown box in the Icehouse Canyon parking lot</strong>, available whenever you show up. The Mt. Baldy Visitor Center a quarter-mile away also issues them, but it's <strong>weekends only</strong>.\n\n<strong>Continuing into the San Bernardino National Forest</strong> — Cucamonga Peak, Etiwanda Peak, the interior — requires a <strong>separate free permit</strong>, and the guidance is genuinely inconsistent. The San Bernardino NF's Cucamonga Wilderness page routes permits through the <a href=\"https://www.sgwa.org/permits\" rel=\"noopener\">San Gorgonio Wilderness Association</a>, requestable up to 90 days ahead and issued online rather than in person. Other current guidance points hikers to the <strong>Lytle Creek Ranger Station at (909) 382-2851</strong> or an online application. If Cucamonga Peak is your objective, <strong>sort this out days before, not at the trailhead box</strong> — the brown box does not cover you past the forest boundary."
+            "body": "The <a href=\"https://www.fs.usda.gov/r05/angeles/recreation/icehouse-canyon-saddle-icehouse-canyon\">Angeles trail page</a> says a free wilderness permit is required past the Cucamonga Wilderness boundary and is available from the brown box at the trailhead or the Mt. Baldy Visitor Center (weekends only).\n\nFor the San Bernardino National Forest portion, the <a href=\"https://www.fs.usda.gov/r05/sanbernardino/recreation/cucamonga-wilderness\">Cucamonga Wilderness page</a> directs hikers to <a href=\"https://www.sgwa.org/permits\">the San Gorgonio Wilderness Association permit system</a>, with requests up to 90 days ahead. These pages describe different forest jurisdictions; confirm coverage for your full route, especially if continuing beyond Icehouse Saddle. The trailhead box should not be assumed to cover every onward destination."
           },
           {
             "heading": "Parking and the seasonal closure nobody expects",
-            "body": "The Forest Service's line on the lot is short: <em>\"Parking is limited, especially on weekends. Carpooling is recommended.\"</em> No capacity is published, so we won't put a number on it. What's clear from hiker reports is that it goes early — people describe 6am arrivals on <em>weekdays</em> for a comfortable spot. Overflow spills along Ice House Canyon Road and Mt. Baldy Road, and it matters here more than most places that this is a <strong>cabin community</strong>: those driveways belong to people who live there.\n\nThe other surprise is closures. The 2024 Bridge Fire shut this whole area, and that closure order was terminated in June 2025 — but the Angeles has since issued <strong>late-winter safety closures of the Mt. Baldy-area trails, Icehouse Canyon Trail 7W07 included</strong>, most recently for a stretch in <strong>February–March 2026</strong>, with trails reported open again by April. The Forest Service is blunt about why: serious injuries and deaths have occurred on the Icehouse Canyon and Mt. Baldy trails, and hiking here in winter, spring, or even early summer <em>\"requires experienced mountaineering skills.\"</em> Check the <a href=\"https://www.fs.usda.gov/r05/angeles/alerts\" rel=\"noopener\">Angeles NF alerts page</a> before a cold-season attempt."
+            "body": "Use designated legal spaces and keep cabin driveways, the roadway and gates clear. An early arrival is a planning choice, not a guarantee of a space; published access notices can change after a storm.\n\nThe Forest Service explicitly warns that high-elevation hiking here in winter, spring and even early to mid-summer requires experienced mountaineering skills. Check <a href=\"https://www.fs.usda.gov/r05/angeles/alerts\">current Angeles closures</a>, the forecast and road conditions before departure. An open road and a parking space do not establish safe trail conditions."
           },
           {
             "heading": "Plan B",
-            "body": "If the lot is full, the honest options are roadside parking on Ice House Canyon Road or Mt. Baldy Road — legal where it doesn't block a driveway or narrow the road, still requiring a displayed pass — or driving on. There is no second Icehouse lot.\n\nThe better plan B is upstream of the drive: <strong>make it a weekday, or start at first light.</strong> And if your permit situation for Cucamonga Peak fell through, the Angeles-side objectives from the same trailhead — Icehouse Saddle, Ontario Peak, the Three T's — are covered by the self-issue box in the lot, so the day doesn't have to end at the parking area."
+            "body": "If legal parking is unavailable, choose another destination or return another day. If your wilderness permit or winter experience does not cover the intended route, change the plan before setting out; do not treat a different summit from the same lot as automatically covered."
           }
         ],
         "faq": [
@@ -1341,7 +1355,7 @@
           },
           {
             "q": "Where do you get a Cucamonga Wilderness permit?",
-            "a": "For destinations within the Angeles National Forest — Icehouse Saddle, Ontario Peak, the Three T's — self-issue at the brown box in the Icehouse Canyon parking lot, or at the Mt. Baldy Visitor Center a quarter-mile away (weekends only). For Cucamonga Peak, Etiwanda Peak, and the San Bernardino National Forest portion, you need a separate free permit obtained in advance, either through the San Gorgonio Wilderness Association's online system or via the Lytle Creek Ranger Station at (909) 382-2851."
+            "a": "The Angeles trail page lists the trailhead brown box or weekend visitor center for its wilderness permit. The San Bernardino Cucamonga Wilderness page directs visitors to SGWA for that forest’s portion. Confirm the permit for your entire route before travel."
           },
           {
             "q": "How early does Icehouse Canyon parking fill up?",
@@ -1377,7 +1391,14 @@
             "label": "Cucamonga Wilderness (fs.usda.gov)",
             "href": "https://www.fs.usda.gov/r05/sanbernardino/wilderness/cucamonga-wilderness"
           }
-        ]
+        ],
+        "alert": {
+          "tone": "warn",
+          "heading": "Autumn and winter access check — September 30, 2026",
+          "checked": "September 30, 2026",
+          "source": "https://www.fs.usda.gov/r05/angeles/recreation/icehouse-canyon-saddle-icehouse-canyon",
+          "body": "The Forest Service lists the trail as open, but warns that winter, spring and even early-summer conditions require experienced mountaineering skills. A warm trailhead does not establish conditions above. Check current closures and arrange the permit for your intended destination before leaving home."
+        }
       }
     },
     {
@@ -4079,7 +4100,7 @@
         "type": "Point",
         "coordinates": [
           -118.0503,
-          34.1650
+          34.165
         ]
       },
       "properties": {
@@ -4438,8 +4459,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.9530,
-          34.2470
+          -116.953,
+          34.247
         ]
       },
       "properties": {
@@ -4533,8 +4554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.9840,
-          34.1450
+          -116.984,
+          34.145
         ]
       },
       "properties": {
@@ -4719,7 +4740,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2920,
+          -118.292,
           36.5786
         ]
       },
@@ -4899,8 +4920,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.0830,
-          36.0560
+          -112.083,
+          36.056
         ]
       },
       "properties": {
@@ -4991,7 +5012,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.224610,
+          -68.22461,
           44.352643
         ]
       },
@@ -5166,7 +5187,7 @@
         "type": "Point",
         "coordinates": [
           -118.9374,
-          34.1100
+          34.11
         ]
       },
       "properties": {
@@ -5258,7 +5279,7 @@
         "type": "Point",
         "coordinates": [
           -118.7445,
-          34.0350
+          34.035
         ]
       },
       "properties": {
@@ -5350,7 +5371,7 @@
         "type": "Point",
         "coordinates": [
           -118.9374,
-          34.1100
+          34.11
         ]
       },
       "properties": {
@@ -5441,8 +5462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.5480,
-          34.0470
+          -118.548,
+          34.047
         ]
       },
       "properties": {
@@ -5533,8 +5554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.8160,
-          34.0410
+          -118.816,
+          34.041
         ]
       },
       "properties": {

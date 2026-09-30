@@ -22,7 +22,7 @@
     {% block extra_head %}{% endblock %}
 
     <!-- Analytics: Tinylytics -->
-    <script src="https://tinylytics.app/embed/rsFxh2KmQXtfLWcG2ThL.js" defer></script>
+    <script src="https://tinylytics.app/embed/rsFxh2KmQXtfLWcG2ThL.js?events&amp;beacon" defer></script>
 </head>
 <body>
     <header class="site-header">
@@ -45,6 +45,9 @@
         <p class="footer-note">Sister guides: <a href="https://lakearrowheadmap.com" rel="noopener">LakeArrowheadMap.com</a> · <a href="https://bigbearmap.com" rel="noopener">BigBearMap.com</a>. Lot rules and fees change seasonally — we date-stamp every page, but confirm with the official source before a long drive.</p>
     </footer>
 
+    {% if item is defined and item.slug in ['chantry-flats', 'icehouse-canyon', 'east-fork'] %}
+    <script src="/static/planning-events.js" defer></script>
+    {% endif %}
     {% block extra_js %}{% endblock %}
 </body>
 </html>
