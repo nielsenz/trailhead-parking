@@ -35,3 +35,15 @@ been created.
 Batches 1–5 shipped before this log existed. Their reasoning is compressed into
 the roadmap in [../README.md](../README.md); it isn't worth reconstructing them
 retroactively, since the point of the format is writing the bet down *first*.
+
+
+## September 30 autumn access release
+
+[Chantry, Icehouse and East Fork](2026-09-30-autumn-access-refresh.md) are deployed
+with dated access guidance and new official-source/directions events. The
+Adventure Pass main content is unchanged. Its **October 20** read must note
+that two supporting inbound pages changed September 30.
+
+**October 31 (manual):** compare the three guides over October 1–28 against
+September 2–29 using final GSC. Prior growth is baseline, not a release outcome.
+No automation was created; source checks remain in [maintenance tasks](../docs/todos.md).

@@ -471,3 +471,23 @@ official sources. Either accept the asymmetry or find a partner destination.
 **Logged 2026-07-20.** Reported as "Saturday May 25" with the reconstruction
 dated 2024; May 25 was a Saturday in 2024. The page says "opened with a
 ribbon-cutting in May" without a year rather than assert one.
+
+
+## September 30 access checks and follow-up
+
+- [x] Rechecked Chantry Flat official access guidance, Angeles alerts, Icehouse
+  and Cucamonga permit sources, and both East Fork pages. Released `5bc2947`;
+  production deployment `6abd86f045a0d5aab4245b4b` verified.
+- [ ] **Before winter weather / after agency changes:** recheck Chantry road
+  access independently of picnic-area status, Icehouse high-elevation access,
+  and East Fork stream-crossing guidance. These are manual source checks.
+- [ ] Icehouse/East Fork permit guidance: preserve agency/jurisdiction differences;
+  do not silently resolve contradictory official statements by choosing one.
+- [ ] **October 20:** Adventure Pass read and seller checks remain due. Annotate
+  September 30 updates to its Icehouse and East Fork supporting pages.
+- [ ] **October 31:** read the three-guide cohort and inspect real event ingestion.
+  Browser transport checks passed; clicks are not visits, bookings or revenue.
+
+See [release and source record](../experiments/2026-09-30-autumn-access-refresh.md).
+The older Chantry volatility item remains an ongoing maintenance concern; this
+recheck does not establish permanent road access.

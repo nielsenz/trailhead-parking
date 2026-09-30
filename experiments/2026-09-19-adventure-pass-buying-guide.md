@@ -55,3 +55,14 @@ state whether to retain, revise or extend the experiment.
 - Production verification at `2026-09-19T21:47:16.479776+00:00`: all eight affected URLs returned HTTP 200 and matched the clean release byte-for-byte.
 - Raw pre-deploy GSC context retained privately under `analytics-queries/out/adventure-pass-2026-09-19/`; do not publish those raw exports in the static site.
 
+
+
+## September 30 supporting-page annotation
+
+The [autumn access refresh](2026-09-30-autumn-access-refresh.md) changed factual
+access guidance on Icehouse Canyon and East Fork, which already link into this
+guide; Chantry Flat was also refreshed. Adventure Pass's main content, title,
+purchase-query filter and October 20 read remain unchanged. Account for the
+supporting-page intervention when interpreting discovery and inbound traffic.
+The new directions/source events exist only on those three trailhead pages;
+they do not measure Adventure Pass purchases or seller conversions.
