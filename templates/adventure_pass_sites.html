@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{# Standalone page (pages.json `template`), fed by fee_sites.py. Tables are the
+   content; the map and filters only enhance them, so the page reads the same
+   with JavaScript off and to crawlers. #}
+
+{% block title %}{{ item.meta_title }}{% endblock %}
+{% block description %}{{ item.meta_description }}{% endblock %}
+
+{% block extra_head %}
+{{ m.leaflet_head() }}
+<style>
+    /* The display rules below would otherwise override the hidden attribute
+       that the filters (and the no-JS state) rely on. */
+    .fee-tools[hidden], .fee-forest[hidden], .fee-table tr[hidden] { display: none !important; }
+    .fee-tools { display: flex; flex-wrap: wrap; gap: 0.6rem 1rem; align-items: center; margin: 1.25rem 0; }
+    .fee-tools input[type=search] { flex: 1 1 16rem; min-width: 0; padding: 0.55rem 0.75rem; font: inherit; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); }
+    .fee-tools label { display: inline-flex; gap: 0.35rem; align-items: center; font-size: 0.95rem; }
+    .fee-count { color: var(--muted); font-size: 0.95rem; }
+    .fee-forest { margin-top: 2rem; }
+    .fee-forest h2 { color: var(--lake-dark); font-size: 1.4rem; margin-bottom: 0.5rem; }
+    .fee-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+    .fee-table th { text-align: left; color: var(--muted); font-weight: 600; font-size: 0.85rem; border-bottom: 2px solid var(--line); padding: 0.5rem; }
+    .fee-table td { border-bottom: 1px solid var(--line); padding: 0.6rem 0.5rem; vertical-align: top; }
+    .fee-table .site-name { font-weight: 600; color: var(--ink); }
+    .fee-table .site-type, .fee-note { color: var(--muted); font-size: 0.85rem; }
+    .fee-table a { color: var(--lake); }
+    .fee-guide { font-size: 0.9rem; }
+    .fee-links a { display: inline-block; margin-right: 0.75rem; white-space: nowrap; }
+    .fee-dot { display: inline-block; width: 14px; height: 14px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,0.35); }
+    .fee-dot-adventure_pass { background: #d97a2b; }
+    .fee-dot-concession { background: #8f2519; }
+    .fee-dot-conflicting { background: #7c5308; }
+    .fee-dot-other_fee { background: #5b6b75; }
+    .fee-dot-fee_unspecified { background: #17516f; }
+    .fee-dot-no_fee { background: #2e6b3f; }
+    @media (max-width: 720px) {
+        .fee-table thead { display: none; }
+        .fee-table, .fee-table tbody, .fee-table tr, .fee-table td { display: block; width: 100%; }
+        .fee-table tr { border-bottom: 1px solid var(--line); padding: 0.6rem 0; }
+        .fee-table td { border: 0; padding: 0.2rem 0; }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<p class="breadcrumb"><a href="{{ item.parent.href }}">← {{ item.parent.label }}</a></p>
+
+<article class="detail">
+    <header class="page-hero">
+        <h1>{{ item.name }}</h1>
+        <div class="badge-row">
+            {% for key, c in fee_sites.categories.items() %}
+            {{ m.badge({"label": c.label ~ " · " ~ fee_sites.counts[key], "tone": c.tone}) }}
+            {% endfor %}
+        </div>
+    </header>
+
+    <div class="quick-answer">
+        <p>The Forest Service lists <strong>{{ fee_sites.total }} trailheads and day-use sites</strong> — picnic areas, OHV staging areas, vista points and similar — in the four Adventure Pass forests. Campgrounds, group sites and the Forest Service's target-range category aren't included; a few shooting areas filed as day-use areas, such as Munson Canyon, are. <strong>{{ fee_sites.counts.adventure_pass }}</strong> are listed as standard amenity fee sites, where a $5 daily or $30 annual Adventure Pass or a valid America the Beautiful pass covers the fee. <strong>{{ fee_sites.counts.no_fee }}</strong> list no fee.</p>
+        <p>The rest need a closer look: {{ fee_sites.counts.concession }} are run by concessionaires that may sell their own parking pass, {{ fee_sites.counts.conflicting }} have fee records that contradict each other, {{ fee_sites.counts.other_fee }} list a different fee type such as a special recreation permit, and {{ fee_sites.counts.fee_unspecified }} list a fee without saying what kind. Signs posted at the site are what count. Where we have checked a site ourselves, our verified answer appears next to the agency listing.</p>
+    </div>
+
+    <div id="map" class="map" role="img" aria-label="Map of Forest Service day-use sites, colored by fee listing"></div>
+
+    <div class="fee-tools" id="fee-tools" hidden>
+        <input type="search" id="fee-search" placeholder="Search a site, trail or forest" aria-label="Search sites">
+        {% for key, c in fee_sites.categories.items() %}
+        <label><input type="checkbox" class="fee-filter" value="{{ key }}" checked><span class="fee-dot fee-dot-{{ key }}" aria-hidden="true"></span>{{ c.label }}</label>
+        {% endfor %}
+        <span class="fee-count" id="fee-count" aria-live="polite"></span>
+    </div>
+
+    {% for forest, sites in fee_sites.forests %}
+    <section class="fee-forest" id="{{ forest | slugify }}">
+        <h2>{{ forest }} <span class="fee-note">({{ sites | length }} sites)</span></h2>
+        <table class="fee-table">
+            <thead><tr><th>Site</th><th>Forest Service fee listing</th><th>Our verified guide</th><th>Links</th></tr></thead>
+            <tbody>
+            {% for s in sites %}
+            <tr id="site-{{ s.id }}" data-category="{{ s.fee_category }}" data-search="{{ (s.name ~ ' ' ~ s.site_type ~ ' ' ~ forest ~ ' ' ~ (s.guide.name if s.guide else '')) | lower }}">
+                <td>
+                    <span class="site-name">{{ s.name }}</span><br>
+                    <span class="site-type">{{ s.site_type }}{% if s.restrooms %} · Restrooms: {{ s.restrooms | lower }}{% endif %}</span>
+                </td>
+                <td>
+                    {{ m.badge({"label": s.category.label, "tone": s.category.tone}) }}
+                    {% if s.fee_category == "other_fee" %}<div class="fee-note">{{ s.fee_type }}</div>{% endif %}
+                    {% if s.fee_description %}<div class="fee-note">{{ s.fee_description }}</div>{% endif %}
+                    {% if s.listed_closed %}<div class="fee-note"><strong>Listed as closed</strong> by the Forest Service</div>{% endif %}
+                    {% if item.site_alerts and item.site_alerts[s.id] %}<div class="alert alert-bad fee-note"><strong>Closed:</strong> {{ item.site_alerts[s.id] | safe }}</div>{% endif %}
+                </td>
+                <td class="fee-guide">
+                    {% if s.guide %}
+                    <a href="/trailheads/{{ s.guide.slug }}/">{{ s.guide.name }}</a>
+                    {% if s.guide.fee %}<div class="fee-note">{{ s.guide.fee }}{% if s.guide.verified %} (verified {{ s.guide.verified }}){% endif %}</div>{% endif %}
+                    {% elif s.nearby_guide %}
+                    <span class="fee-note">Nearby, not this site: <a href="/trailheads/{{ s.nearby_guide.slug }}/">{{ s.nearby_guide.name }}</a></span>
+                    {% else %}<span class="fee-note">—</span>{% endif %}
+                </td>
+                <td class="fee-links">
+                    {% if s.official_url %}<a href="{{ s.official_url }}" rel="noopener">Forest Service page ↗</a>{% endif %}
+                    <a href="https://www.google.com/maps/search/?api=1&amp;query={{ s.lat }},{{ s.lon }}" rel="noopener">Directions ↗</a>
+                </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </section>
+    {% endfor %}
+
+    {% for s in item.sections %}
+    <section class="prose"{% if s.id %} id="{{ s.id }}"{% endif %}>
+        <h2>{{ s.heading }}</h2>
+        {% for p in s.body | paragraphs %}
+        <p>{{ p | safe }}</p>
+        {% endfor %}
+    </section>
+    {% endfor %}
+
+    <section class="prose" id="source">
+        <h2>Source</h2>
+        <p>Site list, fee listings, operators and closed flags: <a href="{{ fee_sites.source_url }}" rel="noopener">{{ fee_sites.source }}</a>, retrieved {{ fee_sites.retrieved }}. This is the agency's data as published, not an on-site check by TrailheadParking.com. Duplicate records for the same place have been merged.</p>
+    </section>
+</article>
+
+{{ m.jsonld(jsonld) }}
+{% endblock %}
+
+{% block extra_js %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(() => {
+    const sites = {{ fee_sites.markers | tojson }};
+    const colors = { adventure_pass: '#d97a2b', concession: '#8f2519', conflicting: '#7c5308', other_fee: '#5b6b75', fee_unspecified: '#17516f', no_fee: '#2e6b3f' };
+    const map = L.map('map', { scrollWheelZoom: false });
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors', maxZoom: 18
+    }).addTo(map);
+    const markers = {};
+    sites.forEach(s => {
+        const link = document.createElement('a');
+        link.href = '#site-' + s.id;
+        link.textContent = s.name;
+        const popup = document.createElement('div');
+        popup.append(link, document.createElement('br'), s.label);
+        markers[s.id] = L.circleMarker([s.lat, s.lon], {
+            radius: 7, weight: 2, color: '#fff', fillColor: colors[s.category], fillOpacity: 0.95
+        }).bindPopup(popup).addTo(map);
+    });
+    map.fitBounds(L.featureGroup(Object.values(markers)).getBounds(), { padding: [20, 20] });
+
+    const rows = [...document.querySelectorAll('.fee-table tbody tr')];
+    const search = document.getElementById('fee-search');
+    const boxes = [...document.querySelectorAll('.fee-filter')];
+    const count = document.getElementById('fee-count');
+    function apply() {
+        const q = search.value.trim().toLowerCase();
+        const on = new Set(boxes.filter(b => b.checked).map(b => b.value));
+        let shown = 0;
+        rows.forEach(row => {
+            const visible = on.has(row.dataset.category) && (!q || row.dataset.search.includes(q));
+            row.hidden = !visible;
+            const marker = markers[row.id.slice(5)];
+            if (marker) visible ? marker.addTo(map) : marker.remove();
+            if (visible) shown++;
+        });
+        document.querySelectorAll('.fee-forest').forEach(section => {
+            section.hidden = !section.querySelector('tbody tr:not([hidden])');
+        });
+        count.textContent = shown + ' of ' + rows.length + ' sites';
+    }
+    search.addEventListener('input', apply);
+    boxes.forEach(b => b.addEventListener('change', apply));
+    document.getElementById('fee-tools').hidden = false;
+    apply();
+})();
+</script>
+{% endblock %}

@@ -205,6 +205,44 @@
           { "label": "BigBearMap.com", "href": "https://bigbearmap.com" }
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Where You Need an Adventure Pass: Forest Service Trailheads & Day-Use Sites",
+        "slug": "adventure-pass-where-needed",
+        "path": "/adventure-pass/where-needed/",
+        "template": "adventure_pass_sites.html",
+        "site_alerts": {
+          "5618.003561": "Inside Eaton Fire closure order 05-01-26-04, through December 31, 2027 as of our August 1, 2026 check. See our <a href=\"/trailheads/echo-mountain/\">Echo Mountain guide</a>.",
+          "5658.003561": "Inside Eaton Fire closure order 05-01-26-04 (Mount Lowe), through December 31, 2027 as of our August 1, 2026 check."
+        },
+        "parent": {
+          "label": "Adventure Pass",
+          "href": "/adventure-pass/"
+        },
+        "schema_type": "WebPage",
+        "meta_title": "Where Do You Need an Adventure Pass? Fee Sites Map (2026)",
+        "meta_description": "Map and list of Forest Service trailheads and day-use sites in the Angeles, San Bernardino, Cleveland and Los Padres forests: which list an Adventure Pass fee, which list none, and which need a closer look.",
+        "sections": [
+          {
+            "id": "how-to-read",
+            "heading": "How to read this list",
+            "body": "<strong>Adventure Pass site</strong> means the Forest Service lists a standard amenity fee there. In these four forests that fee is covered by a $5 daily or $30 annual <a href=\"/adventure-pass/\">Adventure Pass</a> or a valid America the Beautiful interagency pass, displayed as instructed.\n\n<strong>Concession fee — pass acceptance varies</strong> means a concessionaire runs the site. Concession lots can sell their own parking pass. At Vincent Gap, the agency listing says Adventure Passes are honored, but the Big Pines concession lot did not accept them when we checked. Check the posted signs or the operator before relying on any pass.\n\n<strong>Records conflict — check first</strong> means the Forest Service record contradicts itself: it says no fee is charged but lists a $5 daily or $30 annual fee, or the reverse. We don't pick a side.\n\n<strong>Other fee type</strong> means the record names a fee that isn't the standard amenity fee, such as a special recreation permit or an expanded amenity fee. Don't assume an Adventure Pass covers it.\n\n<strong>Fee listed — type not stated</strong> means the record says a fee is charged without saying whether it is the Adventure Pass amenity fee, a permit (Cedar Creek Falls uses a Recreation.gov permit) or something else.\n\n<strong>No fee listed</strong> means the agency record lists no fee. That does not cover wilderness permits, campground fees or a nearby lot run by someone else."
+          },
+          {
+            "id": "closures",
+            "heading": "Open and closed status",
+            "body": "A few sites carry a Forest Service \"closed\" flag, and we show it. We don't show \"open\", because these records can contradict a closure order. Echo Mountain Picnic Area and Inspiration Point on Mt. Lowe are listed as open, yet both are inside Angeles National Forest closure order 05-01-26-04 (Eaton Fire), which ran through December 31, 2027 when we checked on August 1, 2026. Those rows carry a warning. Each forest publishes its own closure orders, and roads can close separately, so check both before you drive."
+          },
+          {
+            "id": "verified-guides",
+            "heading": "Where we've checked a site ourselves",
+            "body": "When one of our <a href=\"/trailheads/\">trailhead guides</a> covers the same place as a listed site, it appears in the \"Our verified guide\" column with its own fee answer and verification date. When the two disagree, the guide reflects what we found on our last check, and the agency listing is shown so you can see the difference. A guide that is merely nearby is linked as \"Nearby, not this site\", without its fee answer, because a lot a few hundred meters away can have different rules."
+          }
+        ]
+      }
     }
   ]
 }

@@ -12,6 +12,8 @@ from pathlib import Path
 
 from sitekit import AffiliateProgram, Site, build
 
+from fee_sites import fee_sites
+
 CURRENT_YEAR = date.today().year
 
 # --- Affiliate programs ------------------------------------------------------
@@ -187,7 +189,11 @@ SITE = Site(
     group_label="region",
     default_marker_emoji="🅿️",
     affiliate_programs=AFFILIATES,
-    extra_globals={"contextual_affiliate_cta": contextual_affiliate_ctas},
+    extra_globals={
+        "contextual_affiliate_cta": contextual_affiliate_ctas,
+        # Rendered only by templates/adventure_pass_sites.html.
+        "fee_sites": fee_sites(),
+    },
 )
 
 
