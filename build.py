@@ -176,6 +176,7 @@ NAV = [
 SITE = Site(
     base_dir=Path(__file__).parent,
     base_url="https://trailheadparking.com",
+    indexnow_key="c770036aeb9ada2e096aeb9a6696014b",
     site_name="TrailheadParking.com",
     nav=NAV,
     sections=SECTIONS,

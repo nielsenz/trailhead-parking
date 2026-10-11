@@ -6,3 +6,4 @@ uv.lock
 
 # Local Netlify folder
 .netlify
+.indexnow-state.json
