@@ -66,3 +66,15 @@ purchase-query filter and October 20 read remain unchanged. Account for the
 supporting-page intervention when interpreting discovery and inbound traffic.
 The new directions/source events exist only on those three trailhead pages;
 they do not measure Adventure Pass purchases or seller conversions.
+
+## October 11 intervention: where-needed page launched before the read
+
+`/adventure-pass/where-needed/` (USFS trailheads and day-use sites by fee
+listing, site commit `36b99b8`) went live October 11 at the owner's request to
+accelerate Trailhead Parking, inside the September 20–October 17 window. It is
+in the sitemap and was submitted to IndexNow, but it is **not linked** from
+`/adventure-pass/`, and the guide's content, title and purchase-query filter are
+unchanged. On October 20, check whether the new URL earned impressions for
+`adventure pass` queries (possible cannibalization) and report the guardrail
+with and without October 11–17. Netlify production deploy:
+`6acc52726b31277464893101`; production matched the build byte-for-byte.
