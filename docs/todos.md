@@ -1,5 +1,12 @@
 # Open items
 
+Scope note (October 4, 2026): entries below preserve dated source questions and
+release follow-ups. They are not a fresh determination of access or operating
+status. Do not infer reopening from an expired or missing notice. The shared
+[operations queue](../../../analytics-queries/travel_ops/README.md) adds due-date
+tracking and selected source monitoring; it does not replace these research notes.
+New resolutions belong beside the original entry, with evidence and a date.
+
 Unresolved facts, contradictions between official sources, and things that will
 go stale. Each entry is dated when logged. **Resolve by fixing the page, not by
 defending it** — and re-stamp that page's `verified` date when you do.

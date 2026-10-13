@@ -82,3 +82,9 @@ batch should follow the query evidence rather than add more nearby pages.
   query buckets.
 - **2026-11-01 (90 days after deployment)** — clicks, CTR, page-view comparison,
   and cohort verdict.
+
+## Review decision — 2026-09-04
+
+**Overdue first checkpoint recorded; remains open.** The September 4 review contains the cohort totals and limitations. Keep the original October 26/November 1 endpoint. No content or cohort changes are authorized by these sparse early results.
+
+See [the September 4 review](2026-09-04-review.md) for windows, evidence and remaining constraints.

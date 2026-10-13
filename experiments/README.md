@@ -1,5 +1,18 @@
 # Experiments
 
+## How to use this record
+
+This index was reconciled October 4, 2026. Dated files preserve original
+hypotheses, measurements and later interventions; read the latest review before
+using an older checkpoint. A passed date does not establish completion.
+
+The [shared work queue](../../../analytics-queries/travel_ops/README.md) tracks
+selected current reviews and protected edits. Its registry is not an exhaustive
+copy of this history. Keep unresolved records here and reconcile dates/holds
+when a review is recorded. No local background schedule is installed; the site's
+GitHub freshness issue reminder is separate. Historical affiliate records remain
+for attribution context; earnings reviews are outside the current work queue.
+
 Why a batch was built the way it was, and what would prove it right or wrong.
 
 `docs/todos.md` tracks facts that might be *wrong*. This tracks bets that might
@@ -29,12 +42,15 @@ August 22–September 18. Use the fixed purchase-query filter in the
 [experiment](2026-09-19-adventure-pass-buying-guide.md), then check total-page
 performance and generic queries for losses. The deployed update has passed
 technical verification; traffic impact is still pending. Seller checks and
-source records are linked from the experiment. No reminder or automation has
-been created.
+source records are linked from the experiment. The shared queue now records this read; it is not an installed reminder.
 
 Batches 1–5 shipped before this log existed. Their reasoning is compressed into
-the roadmap in [../README.md](../README.md); it isn't worth reconstructing them
+the [archived July expansion notes](../docs/archive/2026-07-expansion-notes.md); it isn't worth reconstructing them
 retroactively, since the point of the format is writing the bet down *first*.
+
+## September 4 review
+
+See [the dated review](2026-09-04-review.md) for completed checkpoints, explicit closures, measurement gaps, and protected changes. This dated review supersedes stale next-check labels above without rewriting the original hypotheses.
 
 
 ## September 30 autumn access release
@@ -46,4 +62,5 @@ that two supporting inbound pages changed September 30.
 
 **October 31 (manual):** compare the three guides over October 1–28 against
 September 2–29 using final GSC. Prior growth is baseline, not a release outcome.
-No automation was created; source checks remain in [maintenance tasks](../docs/todos.md).
+The shared queue records the read; dated source research remains in
+[maintenance notes](../docs/todos.md).

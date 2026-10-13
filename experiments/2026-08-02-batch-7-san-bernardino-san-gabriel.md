@@ -62,3 +62,9 @@ treat parking constraints as supporting content.
   review.
 - Validation: 55 generated pages; 0 unresolved internal references.
 - Production: Netlify deploy at [trailheadparking.com](https://trailheadparking.com).
+
+## Review decision — 2026-09-04
+
+**Overdue first checkpoint recorded; remains open.** The September 4 review contains the cohort totals and limitations. Keep the original October 26/November 1 endpoint. No content or cohort changes are authorized by these sparse early results.
+
+See [the September 4 review](2026-09-04-review.md) for windows, evidence and remaining constraints.
