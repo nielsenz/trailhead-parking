@@ -81,3 +81,24 @@ entry was reworded to say its own status was not rechecked). Browser-checked at
 390 and 1280 px. Verified live: `/angeles-closures/` returns 200, the slashless
 form 301s to it, the homepage card links to it, and it is in the sitemap. To
 do: "Request indexing" in the GSC UI.
+
+## Correction, October 17, 2026 (same day)
+
+After this record was written, L.A. County Trails alert 4257
+(trails.lacounty.gov) was read. It changes two of the three contradictions
+above:
+
+- **Eaton Canyon:** the county's trails alert does list the Eaton Canyon Trail
+  and waterfall closed until December 31, 2027, so the date on the held page
+  was supported. The error was the attribution to the forest order.
+- **Mt. Wilson Trail:** the county lists it as reopened by Sierra Madre, so the
+  conflict is now county (open) against the Forest Service's Chantry Flat page
+  (closed below Upper Winter Creek). It is still unresolved.
+- **Millard:** the county says Millard Canyon's trails are open and the
+  campground is closed. That matches the Forest Service listing Millard Trail
+  Camp as affected, so there is no contradiction.
+
+All three held pages were corrected as an intervention, recorded in the
+[September 4 review](2026-09-04-review.md). This hub was updated to cite the
+county alert, report the Mt. Wilson conflict with the county's position, and
+drop Millard from the contradictions.

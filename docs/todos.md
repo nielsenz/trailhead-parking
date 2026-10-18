@@ -84,6 +84,16 @@ The Sierra Madre section of the Mt. Wilson Trail is a separate matter: the lower
 ~3.5 miles were rebuilt and reopened (the race returned May 2026), the upper
 section is still closed.
 
+**Update 2026-10-17:** Eaton Canyon Natural Area is L.A. County land. The county
+lists it closed until further notice, and its trails alert (trails.lacounty.gov
+alert 4257) lists the trail and waterfall closed until Dec 31 2027. The forest
+order covers only the forest land above. On Mt. Wilson Trail, sources conflict:
+the county lists it reopened, the USFS Chantry Flat page lists the Sierra Madre
+section closed below Upper Winter Creek, and the forest order doesn't list it.
+Call Sierra Madre before restating either. Millard Canyon trails are open and the
+campground is closed (county). Pages corrected; see the 2026-09-04 review's
+October 17 intervention.
+
 ---
 
 ## Zion (batch 4, logged 2026-07-21)
