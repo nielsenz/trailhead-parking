@@ -64,3 +64,11 @@ that two supporting inbound pages changed September 30.
 September 2–29 using final GSC. Prior growth is baseline, not a release outcome.
 The shared queue records the read; dated source research remains in
 [maintenance notes](../docs/todos.md).
+
+## October 17 Angeles closures hub
+
+[`/angeles-closures/`](2026-10-17-angeles-closures-hub.md) lists each San Gabriel
+trailhead's status under the Eaton Fire order and the other Angeles closures,
+checked October 17. It records three contradictions on held trailhead guides
+(Eaton Canyon, Mt. Wilson Trail, Millard) without editing them. Index check
+November 17; first read December 14.
