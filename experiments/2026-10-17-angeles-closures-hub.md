@@ -74,4 +74,10 @@ than marking anything open. The Eaton order runs to December 31, 2027.
 
 ## Release
 
-To be completed after deploy.
+Commit `d7b5fd1` (Sitekit `11f7004`), deployed October 17, 2026 from a clean
+tree (Netlify `6ad4535f9b39c447d66fb0b4`); audit 0 errors, 1 pre-existing
+warning. Reviewed by two headless Codex passes (no blockers; the Vincent Gap
+entry was reworded to say its own status was not rechecked). Browser-checked at
+390 and 1280 px. Verified live: `/angeles-closures/` returns 200, the slashless
+form 301s to it, the homepage card links to it, and it is in the sitemap. To
+do: "Request indexing" in the GSC UI.
