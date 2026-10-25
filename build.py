@@ -73,6 +73,7 @@ def contextual_affiliate_ctas(section, item):
             "body": "Compare nearby lodging after checking the access plan; mountain and park entrances can be much farther from a room than the map first suggests.",
             "label": "Compare nearby stays",
             "url": stay22.url(destination),
+            "program": "stay22",
         })
 
     # Tours are worth offering where an outfitter can solve the access problem
@@ -86,6 +87,7 @@ def contextual_affiliate_ctas(section, item):
             "body": "If the lot fills before you can reach it, a guided trip or tour shuttle starts somewhere else entirely — often the simplest way around a capacity gate.",
             "label": f"See {region} tours",
             "url": viator.url(f"{region} tours"),
+            "program": "viator",
         })
 
     return ctas
