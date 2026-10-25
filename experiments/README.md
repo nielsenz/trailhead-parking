@@ -72,3 +72,13 @@ trailhead's status under the Eaton Fire order and the other Angeles closures,
 checked October 17. It records three contradictions on held trailhead guides
 (Eaton Canyon, Mt. Wilson Trail, Millard) without editing them. Index check
 November 17; first read December 14.
+
+## October 25 click-attribution deploy
+
+Stay22 CTA links on all trailhead pages now carry Tinylytics click events
+(`affiliate.stay22`, value `cta:<slug>` or `contextual:<slug>:trailheads`),
+via Sitekit `538200d` and build.py `605e0fb`. No visible content changed on
+any page, including the held `/trailheads/*` cohorts, but the deploy
+(Netlify `6ade8560e23c9244b8fc54b4`) restamped `<lastmod>` on all 85 sitemap
+URLs to October 25 (Sitekit behavior). Click events start accruing from this
+date; earlier Stay22 clicks on this site are unattributed.
