@@ -65,3 +65,21 @@ release; unrelated working-tree notes excluded.
   directory cards have changed main content; Adventure Pass remains unchanged.
 - Both site releases passed 14 responsive page checks and eight click-transport
   checks in total. No runtime JavaScript errors in the tested pages.
+
+## October 31 read — performed November 13, 2026
+
+Final GSC web data, page rows, October 1–28 against September 2–29.
+
+| Page | Clicks / impressions / CTR / position, pre → post |
+|---|---|
+| Chantry Flats | 36 / 1,787 / 2.0% / 6.4 → 27 / 958 / 2.8% / 6.8 |
+| Icehouse Canyon | 32 / 755 / 4.2% / 6.1 → 33 / 708 / 4.7% / 6.9 |
+| East Fork | 18 / 426 / 4.2% / 5.9 → 19 / 584 / 3.3% / 6.7 |
+| Site total | 338 / 15,508 → 265 / 14,215 |
+
+**Outcome: no detectable effect; inconclusive.** Icehouse and East Fork held their
+clicks while the site lost 22%, and Chantry fell with its impressions. Position
+slipped by under a place on all three. Counts are small and the pre-release momentum
+noted above still applies. Tinylytics `directions.click` and `planning.official`
+events were not pulled for this read. **Decision:** keep the pages and close
+`trailhead-autumn-read`; they remain under the trailhead-wide hold.

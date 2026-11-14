@@ -35,7 +35,7 @@ This is an observational before/after comparison. Seasonality, query mix and con
 
 ## Results
 
-**Pending.** The release checks below establish that the change shipped;
+**Recorded November 13, 2026; see the read at the end of this record.** Original plan: the release checks below establish that the change shipped;
 they are not evidence of search lift. On October 20, record both windows’
 purchase-query clicks, impressions, CTR and weighted position; total-page
 clicks/impressions; generic-query guardrail; and Tinylytics pageviews. Record
@@ -78,3 +78,25 @@ unchanged. On October 20, check whether the new URL earned impressions for
 `adventure pass` queries (possible cannibalization) and report the guardrail
 with and without October 11–17. Netlify production deploy:
 `6acc52726b31277464893101`; production matched the build byte-for-byte.
+
+## Read — performed November 13, 2026 (scheduled October 20)
+
+Final GSC web data, canonical `/adventure-pass/`, September 20–October 17 against
+August 22–September 18, both re-pulled.
+
+| Metric | Clicks / impressions / CTR / position, pre → post |
+|---|---|
+| Purchase-query filter | 6 / 398 / 1.5% / 8.9 → 8 / 303 / 2.6% / 8.5 |
+| Generic guardrail | 15 / 514 / 2.9% / 10.8 → 17 / 571 / 3.0% / 9.2 |
+| Generic guardrail, post September 20–October 10 only | → 14 / 472 / 3.0% / 8.8 |
+| Page total | 84 / 4,421 / 1.9% / 7.5 → 93 / 4,160 / 2.2% / 7.3 |
+
+`/adventure-pass/where-needed/` had 41 impressions and 1 click in the post window and
+one impression on an "adventure pass" query, so there is no sign of cannibalization.
+
+**Outcome: inconclusive, leaning positive.** Purchase clicks rose from six to eight
+on fewer impressions at a slightly better position, and the generic guardrail did
+not decline with or without October 11–17. Two extra clicks is too few to call.
+Tinylytics pageviews were not collected for this read. **Decision:** retain the
+guide and close `adventure-pass-read`. Later context, outside this read: page clicks
+were 117 in September 16–October 13 and 81 in October 14–November 10.

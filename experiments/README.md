@@ -82,3 +82,16 @@ any page, including the held `/trailheads/*` cohorts, but the deploy
 (Netlify `6ade8560e23c9244b8fc54b4`) restamped `<lastmod>` on all 85 sitemap
 URLs to October 25 (Sitekit behavior). Click events start accruing from this
 date; earlier Stay22 clicks on this site are unattributed.
+
+## November 5 Stay22 checkpoint
+
+Stay22 has been live on this site since August 3, 2026 ([record](2026-08-03-stay22-affiliate-links.md)). Tinylytics `affiliate.stay22` click events since October 25; earlier clicks are unattributed. Links only, no map iframe.
+
+Baseline, from the owner's Stay22 dashboard for October 5 to November 5 (all six
+sites combined; the dashboard view does not split by site): 11 loads, 6 views,
+4 interactions, 29 clicks, 0 transactions. Lifetime earnings are one $3.34
+commission (October 1). Loads and views count only the map iframe; plain links
+register clicks without a load.
+
+Next read 2026-12-05 (30 days): Stay22 Hub by campaign for this site against the
+baseline above. Clicks are not bookings.
