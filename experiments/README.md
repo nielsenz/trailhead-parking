@@ -29,9 +29,9 @@ the next region choice gets better.
 
 | Built / deployed | Batch | Bet | Verdict |
 |---|---|---|---|
-| 2026-07-28 | [Batch 6 — Rocky Mountain, Glacier, Yosemite](2026-07-28-batch-6-national-parks.md) | Three marquee parks at once; absence-of-reservation as the hook | ⏳ open — September 4 checkpoint recorded; final read October 26 |
-| 2026-08-02 | [Batch 7 — San Bernardino + San Gabriel](2026-08-02-batch-7-san-bernardino-san-gabriel.md) | Practical constraints — closures, permits, and small lots — can carry local trailhead search demand | ⏳ open — September 4 checkpoint recorded; final read November 1 |
-| 2026-08-02 built / 2026-08-03 deployed | [Batch 8 — Famous vs local trailheads](2026-08-02-batch-8-famous-vs-local.md) | A recognizable trail name may earn discovery; a smaller local cluster may earn more parking-specific visits | ⏳ open — September 4 checkpoint recorded; final read November 1 |
+| 2026-07-28 | [Batch 6 — Rocky Mountain, Glacier, Yosemite](2026-07-28-batch-6-national-parks.md) | Three marquee parks at once; absence-of-reservation as the hook | Read recorded November 20, 2026 in the [September 4 review](2026-09-04-review.md); `trailhead-batches-final` completed |
+| 2026-08-02 | [Batch 7 — San Bernardino + San Gabriel](2026-08-02-batch-7-san-bernardino-san-gabriel.md) | Practical constraints — closures, permits, and small lots — can carry local trailhead search demand | Read recorded November 20, 2026 in the [September 4 review](2026-09-04-review.md); `trailhead-batches-final` completed |
+| 2026-08-02 built / 2026-08-03 deployed | [Batch 8 — Famous vs local trailheads](2026-08-02-batch-8-famous-vs-local.md) | A recognizable trail name may earn discovery; a smaller local cluster may earn more parking-specific visits | Read recorded November 20, 2026 in the [September 4 review](2026-09-04-review.md); `trailhead-batches-final` completed |
 | 2026-08-03 | [Stay22 lodging links](2026-08-03-stay22-affiliate-links.md) | A disclosed nearby-stays link can serve overnight trail users without changing parking recommendations | Unmeasured — awaiting campaign attribution data |
 | 2026-09-19 | [Adventure Pass buying guide](2026-09-19-adventure-pass-buying-guide.md) | Verified sellers by route and clear purchase options can grow purchase-query clicks on the existing guide | ⏳ open — first outcome read October 20 |
 

@@ -100,3 +100,28 @@ not decline with or without October 11–17. Two extra clicks is too few to call
 Tinylytics pageviews were not collected for this read. **Decision:** retain the
 guide and close `adventure-pass-read`. Later context, outside this read: page clicks
 were 117 in September 16–October 13 and 81 in October 14–November 10.
+
+## November 20, 2026 annotation: guide now links to the where-needed page (not deployed)
+
+Prepared at the owner's request after the November 20 search review. With the
+read above closed, the "Price, coverage and which pass you need" section gains one
+sentence linking to `/adventure-pass/where-needed/`, which the guide had not
+linked since that page launched October 11. Title, headings, seller sections and
+the purchase-query filter are unchanged. No other page changes.
+
+Final GSC web data, October 21–November 17: `/adventure-pass/` 88 clicks / 4,481
+impressions / 2.0% / position 7.1; `/adventure-pass/where-needed/` 0 / 84 / 0.0% /
+9.7. URL Inspection on November 20: where-needed is "Submitted and indexed", last
+crawled October 14.
+
+The review also looked at the purchase near-misses ("where to buy adventure
+pass" 121 impressions at 8.6, "rei adventure pass" 35 at 9.7, "near me" variants).
+The guide already answers each of them in a named section, so no retargeting was
+made. "cleveland national forest adventure pass" (25 impressions, 8.9) has no
+seller section; adding one needs the Forest Service vendor list checked first and
+was left undone.
+
+This is an internal link, not a test with a read. Expect nothing measurable on
+the guide; watch whether where-needed is recrawled and gains impressions. Local
+build and `sitekit-audit` passed (0 errors, the standing `/404` warning).
+Production deploy, deploy ID and date: pending owner approval.

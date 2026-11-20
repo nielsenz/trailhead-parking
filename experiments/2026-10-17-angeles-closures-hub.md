@@ -102,3 +102,28 @@ All three held pages were corrected as an intervention, recorded in the
 [September 4 review](2026-09-04-review.md). This hub was updated to cite the
 county alert, report the Mt. Wilson conflict with the county's position, and
 drop Millard from the contradictions.
+
+## Index check, November 20, 2026 (due November 17)
+
+URL Inspection (API) for `https://trailheadparking.com/angeles-closures/`, run
+November 20, 2026 about 12:20 PM Pacific:
+
+- Verdict PASS; coverage "Submitted and indexed"; indexing and robots allowed;
+  fetch successful.
+- Google canonical and declared canonical both
+  `https://trailheadparking.com/angeles-closures/`.
+- Last crawl 2026-11-17T22:01:02Z (mobile); found in `/sitemap.xml`.
+
+The index check passes. The "Request indexing" to-do under Release is no longer
+needed. The homepage was not inspected; the record does not ask for it.
+
+No traffic was read. The first read stays **December 14** on final GSC
+November 13–December 10 plus Bing, against the same query set on the trailhead
+guides for September 16–October 13, as written under "How we'll know".
+
+Still open before that read: recheck the page's sources (two orders end
+December 31, 2026). Confounders already known for December: the October 17
+corrections to the Eaton Canyon, Mt. Wilson Trail and Echo Mountain guides
+(the comparison pages), the October 25 click-attribution deploy that restamped
+every sitemap `lastmod`, and winter seasonality. Any edit to those San Gabriel
+guides before December 10 would add another.

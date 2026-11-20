@@ -68,3 +68,7 @@ treat parking constraints as supporting content.
 **Overdue first checkpoint recorded; remains open.** The September 4 review contains the cohort totals and limitations. Keep the original October 26/November 1 endpoint. No content or cohort changes are authorized by these sparse early results.
 
 See [the September 4 review](2026-09-04-review.md) for windows, evidence and remaining constraints.
+
+**November 20, 2026: final read recorded; closed.** The outcome is in the
+[September 4 review](2026-09-04-review.md), section "Remaining batch 6, 7 and 8
+reads". This supersedes "remains open" above.
