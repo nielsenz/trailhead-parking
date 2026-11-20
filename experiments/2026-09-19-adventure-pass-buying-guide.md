@@ -125,3 +125,13 @@ This is an internal link, not a test with a read. Expect nothing measurable on
 the guide; watch whether where-needed is recrawled and gains impressions. Local
 build and `sitekit-audit` passed (0 errors, the standing `/404` warning).
 Production deploy, deploy ID and date: pending owner approval.
+
+### Release — November 20, 2026
+
+The where-needed link was deployed to production on November 20, 2026 at about
+1:37 PM Pacific from commit `afef239` (Netlify deploy `6b00bd7f531a2e051b89e47e`).
+Before the deploy, all 85 built pages were compared with production: only
+`/adventure-pass/` differed, by the one added sentence. Build and `sitekit-audit`
+passed with 0 errors and the standing `/404` canonical warning. Verified live:
+`/adventure-pass/` carries the link and `/adventure-pass/where-needed/` returns 200.
+This supersedes "not deployed" in the annotation heading above.
